@@ -221,6 +221,7 @@ isSimilarTo •  isComplementaryTo •  isDependOn •  isAlternativeTo
 
 ## Citation
 
-If you use MCTD-KG in your research, please cite the corresponding paper
+If you use MCTD-KG in your research, please cite the corresponding paper.
+
 ---
 
