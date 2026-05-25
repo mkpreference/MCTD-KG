@@ -1,0 +1,1253 @@
+custom_id,model,request_id,status_code,error_code,error_message,created,content,usage
+08da5fa5,qwq-plus,b51718fd-10ea-96f2-be2a-420e2ee41c8e,200,,,1747769148,"[
+    {""head"": ""low alloy ultra-high strength steel"", ""relation"": ""isAKindOf"", ""tail"": ""medium carbon ultra-high strength steel""},
+    {""head"": ""low alloy ultra-high strength steel"", ""relation"": ""isMadeOf"", ""tail"": ""alloy elements""}
+]","{'completion_tokens': 2544, 'prompt_tokens': 1587, 'total_tokens': 4131}"
+435ea2f4,qwq-plus,6a938a64-8b5d-9f37-8b47-e53745788162,200,,,1747769141,"[
+  {""head"": ""high strength lowr alloy steel"", ""relation"": ""isAKindOf"", ""tail"": ""low alloy engineering structural steel""},
+  {""head"": ""high strength lowr alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""low-carbon steel""},
+  {""head"": ""high strength lowr alloy steel"", ""relation"": ""isSimilarTo"", ""tail"": ""ordinary non alloy low-carbon steel""},
+  {""head"": ""high strength lowr alloy steel"", ""relation"": ""isAlternativeTo"", ""tail"": ""ordinary non alloy low-carbon steel""}
+]","{'completion_tokens': 3236, 'prompt_tokens': 1603, 'total_tokens': 4839}"
+911593d6,qwq-plus,de5a5eb8-dc8d-9c4e-a664-214d733d5176,200,,,1747769141,"[
+{""head"":""low alloy high speed steel"",""relation"":""isAKindOf"",""tail"":""high-speed steel""},
+{""head"":""low alloy high speed steel"",""relation"":""isMadeOf"",""tail"":""tungsten""},
+{""head"":""low alloy high speed steel"",""relation"":""isMadeOf"",""tail"":""molybdenum""},
+{""head"":""low alloy high speed steel"",""relation"":""isSimilarTo"",""tail"":""ordinary high speed steel""}
+]","{'completion_tokens': 1462, 'prompt_tokens': 1524, 'total_tokens': 2986}"
+09e490b9,qwq-plus,10d49a5a-2fc2-9ff2-8a72-191cc1748d40,200,,,1747769149,"[
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isAKindOf"", ""tail"": ""high strength low alloy steel""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isDerivedFrom"", ""tail"": ""low alloy high strength steel""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""Mn""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""Mo""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""B""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""Cr""},
+    {""head"": ""wear-resisting low alloy steel"", ""relation"": ""isMadeOf"", ""tail"": ""Ni""}
+]","{'completion_tokens': 3088, 'prompt_tokens': 1569, 'total_tokens': 4657}"
+4f95fbdb,qwq-plus,27af12ed-f088-9769-9797-b1c4a9802cc3,200,,,1747769144,"[
+  {""head"":""low alloy cast steel"",""relation"":""isAKindOf"",""tail"":""cast steel""},
+  {""head"":""Si"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Mn"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Mo"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Cr"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Ni"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Cu"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""B"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Ti"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""V"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""Nb"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""},
+  {""head"":""RE"",""relation"":""isPartOf"",""tail"":""low alloy cast steel""}
+]","{'completion_tokens': 5221, 'prompt_tokens': 1556, 'total_tokens': 6777}"
+2135347f,qwq-plus,f9fb7587-a1ac-9a27-96f6-e82fa58fcfdf,200,,,1747769141,"[
+    {""head"": ""low activation materials"", ""relation"": ""isAKindOf"", ""tail"": ""materials with low radioactivity level after neutron irradiation""},
+    {""head"": ""low activation materials"", ""relation"": ""isUsedFor"", ""tail"": ""reduce the total radioactivity level""},
+    {""head"": ""low activation materials"", ""relation"": ""isUsedFor"", ""tail"": ""avoid the generation of radioisotopes with half life""}
+]","{'completion_tokens': 3073, 'prompt_tokens': 1549, 'total_tokens': 4622}"
+68e8403e,qwq-plus,c7acd53a-783b-9c04-8fc5-54141dce2e6e,200,,,1747769153,"[
+    {""head"": ""low dielectric constant paste"", ""relation"": ""isAKindOf"", ""tail"": ""low dielectric constant materials""},
+    {""head"": ""low dielectric constant paste"", ""relation"": ""isUsedFor"", ""tail"": ""small capacitance""},
+    {""head"": ""low dielectric constant paste"", ""relation"": ""isUsedFor"", ""tail"": ""multilayer wiring media""}
+]","{'completion_tokens': 4303, 'prompt_tokens': 1518, 'total_tokens': 5821}"
+393b5f41,qwq-plus,52dce6a7-25e1-9f47-a0bd-1048b5e99d62,200,,,1747769149,"[{""head"":""oligomer"",""relation"":""isAKindOf"",""tail"":""polymer""},{""head"":""dimer"",""relation"":""isAKindOf"",""tail"":""oligomer""},{""head"":""trimer"",""relation"":""isAKindOf"",""tail"":""oligomer""},{""head"":""tetramer"",""relation"":""isAKindOf"",""tail"":""oligomer""},{""head"":""oligomer"",""relation"":""isDerivedFrom"",""tail"":""stepwise polymerization""},{""head"":""oligomer"",""relation"":""isDerivedFrom"",""tail"":""free radical polymerization""}]","{'completion_tokens': 1309, 'prompt_tokens': 1584, 'total_tokens': 2893}"
+da4bbe8b,qwq-plus,1221007a-8c2d-9788-95e6-ce1b7d50e6e0,200,,,1747769150,"[
+{""head"":""low-energy electron diffraction"",""relation"":""isAKindOf"",""tail"":""analytical technique""},
+{""head"":""low-energy electron beam"",""relation"":""isPartOf"",""tail"":""low-energy electron diffraction""},
+{""head"":""vacuum analysis chamber"",""relation"":""isPartOf"",""tail"":""main equipment""},
+{""head"":""electron gun"",""relation"":""isPartOf"",""tail"":""main equipment""},
+{""head"":""electron diffraction recording device with post acceleration technology"",""relation"":""isPartOf"",""tail"":""main equipment""},
+{""head"":""main equipment"",""relation"":""isPartOf"",""tail"":""low-energy electron diffraction""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""study interface chemical reaction""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""vapor deposition surface formation""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""oxide film growth""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""surface diffusion""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""gas adsorption""},
+{""head"":""low-energy electron diffraction"",""relation"":""isUsedFor"",""tail"":""catalytic processes""}
+]","{'completion_tokens': 3419, 'prompt_tokens': 1756, 'total_tokens': 5175}"
+4dc8bb5a,qwq-plus,22a40b39-e49f-9913-bc96-82c0644ca8f9,200,,,1747769157,"[
+    {""head"": ""low thermal expansion superalloy"", ""relation"": ""isAKindOf"", ""tail"": ""high temperature alloy""},
+    {""head"": ""low thermal expansion superalloy"", ""relation"": ""isSimilarTo"", ""tail"": ""low expansion alloy""},
+    {""head"": ""Invar alloy"", ""relation"": ""isAKindOf"", ""tail"": ""low expansion alloy""}
+]","{'completion_tokens': 1907, 'prompt_tokens': 1552, 'total_tokens': 3459}"
+6463f4f0,qwq-plus,71c7d482-6f0e-9c4b-9043-d0ae3c277da6,200,,,1747769147,"[{""head"":""low expansion alloy"",""relation"":""isAKindOf"",""tail"":""alloy""},{""head"":""stainless invar"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""high-strength invar"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""free cutting invar"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""high-temperature invar"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""non iron Invar alloy"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""Fe Ni system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""Fe Ni Co system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""F-Co Cr system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""Fe Pt system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""Fe Pd system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""},{""head"":""amorphous Fe B system"",""relation"":""isAKindOf"",""tail"":""low expansion alloy""}]","{'completion_tokens': 2877, 'prompt_tokens': 1579, 'total_tokens': 4456}"
+99488ae0,qwq-plus,96a7ad8b-23d5-98a1-9a42-89a626a1a3a5,200,,,1747769144,"[{""head"": ""low expansion crystal ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""low thermal expansion ceramics""}, {""head"": ""polycrystal ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""low thermal expansion ceramics""}, {""head"": ""low expansion crystal ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""low expansion crystals""}, {""head"": ""polycrystal ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""medium expansion crystals""}, {""head"": ""polycrystal ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""high expansion crystals""}]","{'completion_tokens': 2020, 'prompt_tokens': 1589, 'total_tokens': 3609}"
+20cf0ff8,qwq-plus,5b7094ac-fbb9-951e-865c-5ddbac300e5b,200,,,1747769151,"[{""head"":""low segregation superalloy"",""relation"":""isAKindOf"",""tail"":""nickel-base cast superalloy""},{""head"":""advanced smelting process"",""relation"":""isUsedFor"",""tail"":""low segregation superalloy""},{""head"":""ultra pure smelting technology"",""relation"":""isUsedFor"",""tail"":""low segregation superalloy""},{""head"":""low segregation superalloy"",""relation"":""isMadeOf"",""tail"":""P""},{""head"":""low segregation superalloy"",""relation"":""isMadeOf"",""tail"":""Si""},{""head"":""low segregation superalloy"",""relation"":""isMadeOf"",""tail"":""B""},{""head"":""low segregation superalloy"",""relation"":""isAlternativeTo"",""tail"":""existing high temperature alloy""}]","{'completion_tokens': 2992, 'prompt_tokens': 1616, 'total_tokens': 4608}"
+5829878a,qwq-plus,8f5a9358-64e1-9646-b48c-20360ef072c5,200,,,1747769147,"[
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isAKindOf"", ""tail"": ""porcelain dielectric""},
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""filtering""},
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""bypass""},
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""flood control""},
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""rectification""},
+    {""head"": ""low-frequency high dielectric constant ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""AC circuit breakers""}
+]","{'completion_tokens': 2247, 'prompt_tokens': 1562, 'total_tokens': 3809}"
+d3498441,qwq-plus,f585f1aa-a07a-9667-85e8-b18ffc560d91,200,,,1747769140,"[
+{""head"": ""low strength titanium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""titanium alloy""},
+{""head"": ""low strength titanium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""commercial pure titanium""},
+{""head"": ""low strength titanium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""aluminum""},
+{""head"": ""low strength titanium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""tin""},
+{""head"": ""low strength titanium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""zirconium""},
+{""head"": ""low strength titanium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""α Titanium alloy""}
+]","{'completion_tokens': 5310, 'prompt_tokens': 1518, 'total_tokens': 6828}"
+e702e999,qwq-plus,3513c90f-f4ae-9400-9fe4-91d394c5ba84,200,,,1747769152,"[
+    {""head"": ""low yield point steel"", ""relation"": ""isAKindOf"", ""tail"": ""ultra-low-carbon steel""},
+    {""head"": ""low yield point steel"", ""relation"": ""isUsedFor"", ""tail"": ""deep drawing""},
+    {""head"": ""low yield point steel"", ""relation"": ""isUsedFor"", ""tail"": ""manufacturing products with complex shapes""}
+]","{'completion_tokens': 1297, 'prompt_tokens': 1520, 'total_tokens': 2817}"
+cc567471,qwq-plus,c90bc7db-2fd8-9628-aeaa-a57127e25d99,200,,,1747769151,"[
+    {""head"": ""low yield ratio steel"", ""relation"": ""isAKindOf"", ""tail"": ""steel""},
+    {""head"": ""yield ratio"", ""relation"": ""isDerivedFrom"", ""tail"": ""yield strength Rel""},
+    {""head"": ""yield ratio"", ""relation"": ""isDerivedFrom"", ""tail"": ""tensile strength Rm""},
+    {""head"": ""yield ratio"", ""relation"": ""isUsedFor"", ""tail"": ""stamping performance""},
+    {""head"": ""yield ratio"", ""relation"": ""isUsedFor"", ""tail"": ""plastic deformation resistance""}
+]","{'completion_tokens': 4396, 'prompt_tokens': 1579, 'total_tokens': 5975}"
+7825a3d8,qwq-plus,79a18b89-fa18-9573-8b14-8b4ccde2ded5,200,,,1747769140,"[{""head"":""fusible alloy"",""relation"":""isAKindOf"",""tail"":""alloy""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""tin""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""lead""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""bismuth""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""cadmium""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""indium""},{""head"":""fusible alloy"",""relation"":""isMadeOf"",""tail"":""mercury""}]","{'completion_tokens': 1646, 'prompt_tokens': 1558, 'total_tokens': 3204}"
+cb33bc15,qwq-plus,be6e6f14-77d4-9338-a750-dfddbdce7de7,200,,,1747769151,"[{""head"": ""low stretch yarn"", ""relation"": ""isAKindOf"", ""tail"": ""stretch textured yarn""}, {""head"": ""low stretch yarn"", ""relation"": ""isMadeOf"", ""tail"": ""double zone heating false twisting method""}] 
+
+Wait, but the second triple's relation ""isMadeOf"" might not fit. The manufacturing method is a process, not a material component. The example for ""isMadeOf"" was about composition (thick film resistors made of paste). Since the manufacturing method isn't a material component, ""isMadeOf"" is incorrect. So the second triple shouldn't be there. My mistake. Correct answer is only the first triple.
+
+Correcting:
+
+[{""head"": ""low stretch yarn"", ""relation"": ""isAKindOf"", ""tail"": ""stretch textured yarn""}]","{'completion_tokens': 868, 'prompt_tokens': 1510, 'total_tokens': 2378}"
+f538ebd7,qwq-plus,ec2f1f6f-56de-9297-b724-689114251b12,200,,,1747769139,"[{""head"": ""concrete with low elastic modulus"", ""relation"": ""isUsedFor"", ""tail"": ""hydraulic engineering structures""}, {""head"": ""anti-seepage wall"", ""relation"": ""isPartOf"", ""tail"": ""earth-rock cofferdams""}]","{'completion_tokens': 1112, 'prompt_tokens': 1542, 'total_tokens': 2654}"
+d1447734,qwq-plus,06b3debd-33c0-90f2-904e-203ed090162b,200,,,1747769139,"[
+    {""head"": ""low carbon bainite steel"", ""relation"": ""isAKindOf"", ""tail"": ""engineering structural steel""},
+    {""head"": ""ULCBsteel"", ""relation"": ""isAKindOf"", ""tail"": ""low carbon bainite steel""},
+    {""head"": ""carbon free bainite"", ""relation"": ""isPartOf"", ""tail"": ""low carbon bainite steel""},
+    {""head"": ""Ma Ao islands"", ""relation"": ""isPartOf"", ""tail"": ""low carbon bainite steel""},
+    {""head"": ""low carbon bainite steel"", ""relation"": ""isDependentOn"", ""tail"": ""microalloyed carbonitride""},
+    {""head"": ""low carbon bainite steel"", ""relation"": ""isDependentOn"", ""tail"": ""copper""}
+]","{'completion_tokens': 2643, 'prompt_tokens': 1608, 'total_tokens': 4251}"
+aa3528b8,qwq-plus,c2abd20b-bd03-9a33-8a54-cf2f47fda0a3,200,,,1747769151,"[{""head"":""low-carbon steel"",""relation"":""isAKindOf"",""tail"":""non-alloy steel""}]","{'completion_tokens': 1300, 'prompt_tokens': 1542, 'total_tokens': 2842}"
+bac9f912,qwq-plus,f208daca-acf2-99a5-9e13-6638e938291b,200,,,1747769153,"[{""head"":""low carbon magnesia carbon brick"",""relation"":""isAKindOf"",""tail"":""magnesium carbon brick""},{""head"":""low carbon magnesia carbon brick"",""relation"":""isMadeOf"",""tail"":""ultra-fine graphite""},{""head"":""low carbon magnesia carbon brick"",""relation"":""isMadeOf"",""tail"":""nano carbon black""},{""head"":""low carbon magnesia carbon brick"",""relation"":""isUsedFor"",""tail"":""furnace lining for smelting low-carbon steel""}]","{'completion_tokens': 1117, 'prompt_tokens': 1528, 'total_tokens': 2645}"
+acb559d2,qwq-plus,976250c6-801a-9a3f-885e-a687188afa08,200,,,1747769149,"[{""head"":""low-signature propellant"",""relation"":""isAKindOf"",""tail"":""propellant""},{""head"":""low-signature propellant"",""relation"":""isAKindOf"",""tail"":""homogeneous propellant""},{""head"":""low-signature propellant"",""relation"":""isPartOf"",""tail"":""tactical missile weapon systems""},{""head"":""low-signature propellant"",""relation"":""isUsedFor"",""tail"":""tactical missile weapon systems""}]","{'completion_tokens': 4159, 'prompt_tokens': 1561, 'total_tokens': 5720}"
+562d512e,qwq-plus,7bc5dbf5-a865-9f2f-ad8a-a8a6a443cae5,200,,,1747769152,"[
+    {""head"": ""zero dimensional materials"", ""relation"": ""isAKindOf"", ""tail"": ""low-dimensional materials""},
+    {""head"": ""one-dimensional materials"", ""relation"": ""isAKindOf"", ""tail"": ""low-dimensional materials""},
+    {""head"": ""two-dimensional materials"", ""relation"": ""isAKindOf"", ""tail"": ""low-dimensional materials""}
+]","{'completion_tokens': 1299, 'prompt_tokens': 1494, 'total_tokens': 2793}"
+509054e7,qwq-plus,ba510f8d-0336-9e9e-a1a8-b9d1dd4c91b8,200,,,1747769141,"[
+{""head"":""Fe Cr Ni series"",""relation"":""isAKindOf"",""tail"":""cryogenic austenitic stainless steel""},
+{""head"":""Fe Cr Ni Mn and Fe Cr Ni Mn nitrogen systems"",""relation"":""isAKindOf"",""tail"":""cryogenic austenitic stainless steel""},
+{""head"":""Iron manganese aluminum series"",""relation"":""isAKindOf"",""tail"":""cryogenic austenitic stainless steel""},
+{""head"":""Iron nickel base and nickel base superaalloy series"",""relation"":""isAKindOf"",""tail"":""cryogenic austenitic stainless steel""},
+{""head"":""18-8"",""relation"":""isAKindOf"",""tail"":""Fe Cr Ni series""},
+{""head"":""21-6-9 low temperature non-magnetic steel"",""relation"":""isAKindOf"",""tail"":""Fe Cr Ni Mn and Fe Cr Ni Mn nitrogen systems""},
+{""head"":""15Mn26A14"",""relation"":""isAKindOf"",""tail"":""Iron manganese aluminum series""},
+{""head"":""21-6-9 low temperature non-magnetic steel"",""relation"":""isUsedFor"",""tail"":""superconducting magnet frame""},
+{""head"":""21-6-9 low temperature non-magnetic steel"",""relation"":""isUsedFor"",""tail"":""superconducting motor rotor""},
+{""head"":""21-6-9 low temperature non-magnetic steel"",""relation"":""isUsedFor"",""tail"":""liquid nitrogen dewar components""},
+{""head"":""15Mn26A14"",""relation"":""isUsedFor"",""tail"":""pipes""},
+{""head"":""15Mn26A14"",""relation"":""isUsedFor"",""tail"":""plates""},
+{""head"":""15Mn26A14"",""relation"":""isUsedFor"",""tail"":""wires""},
+{""head"":""Iron nickel base and nickel base superaalloy series"",""relation"":""isUsedFor"",""tail"":""cryogenic components in spacecraft""},
+{""head"":""cryogenic austenitic stainless steel"",""relation"":""isMadeOf"",""tail"":""chromium""},
+{""head"":""cryogenic austenitic stainless steel"",""relation"":""isMadeOf"",""tail"":""nickel""},
+{""head"":""cryogenic austenitic stainless steel"",""relation"":""isMadeOf"",""tail"":""manganese""},
+{""head"":""Iron manganese aluminum series"",""relation"":""isAlternativeTo"",""tail"":""Fe Cr Ni series""},
+{""head"":""Iron nickel base and nickel base superaalloy series"",""relation"":""isAlternativeTo"",""tail"":""18-8""}
+]","{'completion_tokens': 4825, 'prompt_tokens': 1829, 'total_tokens': 6654}"
+c92ddef5,qwq-plus,e33afb64-2e9e-946b-bd12-2bb76f3ca91b,200,,,1747769149,"[
+{""head"": ""low-temperature bainitic steel"", ""relation"": ""isAKindOf"", ""tail"": ""steel""},
+{""head"": ""low-temperature bainite structure"", ""relation"": ""isPartOf"", ""tail"": ""low-temperature bainitic steel""},
+{""head"": ""bainite ferrite flat noodles"", ""relation"": ""isPartOf"", ""tail"": ""low-temperature bainite structure""},
+{""head"": ""carbon rich residual austenite film"", ""relation"": ""isPartOf"", ""tail"": ""low-temperature bainite structure""}
+]","{'completion_tokens': 3015, 'prompt_tokens': 1577, 'total_tokens': 4592}"
+178bfb4e,qwq-plus,62bfdb0e-513d-998a-bba1-0a9611062a29,200,,,1747769152,"[
+    {""head"": ""cryogenic maraging stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic stainless steel""},
+    {""head"": ""low temperature duplex stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic stainless steel""},
+    {""head"": ""cryogenic austenitic stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic stainless steel""},
+    {""head"": ""cryogenic stainless steel"", ""relation"": ""isMadeOf"", ""tail"": ""ultra-low carbon content""},
+    {""head"": ""austenitic structure"", ""relation"": ""isPartOf"", ""tail"": ""cryogenic austenitic stainless steel""},
+    {""head"": ""cryogenic austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""storage devices for liquid nitrogen""},
+    {""head"": ""cryogenic austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""storage devices for liquid hydrogen""},
+    {""head"": ""cryogenic austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""storage devices for liquid oxygen""},
+    {""head"": ""cryogenic austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting engineering structures""}
+]","{'completion_tokens': 3503, 'prompt_tokens': 1662, 'total_tokens': 5165}"
+b192566e,qwq-plus,e4d972b0-100e-9bc6-9248-17c861dd8bb3,200,,,1747769144,"[{""head"":""metal"",""relation"":""isAKindOf"",""tail"":""low temperature superconducting material""},{""head"":""alloy"",""relation"":""isAKindOf"",""tail"":""low temperature superconducting material""},{""head"":""compound"",""relation"":""isAKindOf"",""tail"":""low temperature superconducting material""}]","{'completion_tokens': 967, 'prompt_tokens': 1510, 'total_tokens': 2477}"
+15712bc5,qwq-plus,3ff831e6-68e0-935f-b3ba-ffce5255c3a0,200,,,1747769156,"[{""head"":""recovery of low temperature irradiation damage"",""relation"":""isAKindOf"",""tail"":""defect reaction""},{""head"":""defect reaction"",""relation"":""isPartOf"",""tail"":""annealing process""},{""head"":""crystal structure defects"",""relation"":""isDerivedFrom"",""tail"":""radiation""},{""head"":""annihilation"",""relation"":""isAKindOf"",""tail"":""defect reaction""},{""head"":""clustering"",""relation"":""isAKindOf"",""tail"":""defect reaction""}]","{'completion_tokens': 1386, 'prompt_tokens': 1526, 'total_tokens': 2912}"
+f3335737,qwq-plus,68b13576-ac7e-9434-9397-004fd0a20c65,200,,,1747769150,"[
+    {""head"": ""low temperature sensitivity propellant"", ""relation"": ""isAKindOf"", ""tail"": ""gun propellant""},
+    {""head"": ""combustion speed"", ""relation"": ""isDependentOn"", ""tail"": ""temperature""},
+    {""head"": ""gas generation rate"", ""relation"": ""isDependentOn"", ""tail"": ""combustion speed""}
+]","{'completion_tokens': 2805, 'prompt_tokens': 1535, 'total_tokens': 4340}"
+6d6da550,qwq-plus,b46ceb5d-a4b6-9131-8c94-3bcc5574f8e7,200,,,1747769139,"[
+{""head"":""Cryogenic steel"",""relation"":"" isAKindOf "",""tail"":""steel""},
+{""head"":""ultra cryogenic steel"",""relation"":"" isAKindOf "",""tail"":""cryogenic steel""},
+{""head"":""cryogenic ferritic steel"",""relation"":"" isAKindOf "",""tail"":""Cryogenic steel""},
+{""head"":""Cryogenic nickel steel"",""relation"":"" isAKindOf "",""tail"":""Cryogenic steel""},
+{""head"":""Cryogenic stainless steel"",""relation"":"" isAKindOf "",""tail"":""Cryogenic steel""}
+]","{'completion_tokens': 2621, 'prompt_tokens': 1559, 'total_tokens': 4180}"
+87362b5f,qwq-plus,1e3f6ed8-3d97-9602-9e21-3d9fcd73a5d8,200,,,1747769148,"[
+    {""head"": ""low-temperature isotropic carbon"", ""relation"": ""isAKindOf"", ""tail"": ""medical carbon materials""},
+    {""head"": ""low-temperature isotropic carbon"", ""relation"": ""isDerivedFrom"", ""tail"": ""hydrocarbon gas""},
+    {""head"": ""turbostratic structure"", ""relation"": ""isPartOf"", ""tail"": ""low-temperature isotropic carbon""},
+    {""head"": ""low-temperature isotropic carbon"", ""relation"": ""isSimilarTo"", ""tail"": ""natural bone""},
+    {""head"": ""low-temperature isotropic carbon"", ""relation"": ""isAKindOf"", ""tail"": ""inert biological ceramics materials""}
+]","{'completion_tokens': 2080, 'prompt_tokens': 1562, 'total_tokens': 3642}"
+e31c5708,qwq-plus,e3888b7d-a82d-9902-89a2-e240d84bd836,200,,,1747769146,"[
+{""head"": ""low temperature co-fired dielectric materials"", ""relation"": ""isMadeOf"", ""tail"": ""ceramics+glass composition system""},
+{""head"": ""low temperature co-fired dielectric materials"", ""relation"": ""isMadeOf"", ""tail"": ""high surface activity powders""},
+{""head"": ""low temperature co-fired dielectric materials"", ""relation"": ""isMadeOf"", ""tail"": ""materials with fine particle size and low synthesis temperature of main crystal phase""},
+{""head"": ""low temperature co-fired dielectric materials"", ""relation"": ""isMadeOf"", ""tail"": ""glass-ceramics or amorphous glass""}
+]","{'completion_tokens': 3855, 'prompt_tokens': 1580, 'total_tokens': 5435}"
+e45bd9fa,qwq-plus,aefdc5c1-dda9-9ece-8cb7-6c39600c63eb,200,,,1747769140,"[
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""nickel steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""low alloy iron steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""aluminum alloy"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""copper and copper alloy"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""titanium and titanium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""iron nickel base superalloy"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""dual-phase steel"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""low temperature alloy with bcc structure"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""low temperature alloy with fcc structure"", ""relation"": ""isAKindOf"", ""tail"": ""cryogenic metallic materials""},
+  {""head"": ""low nickel steel"", ""relation"": ""isUsedFor"", ""tail"": ""structures for energy transmission and storage""},
+  {""head"": ""ferritic steel"", ""relation"": ""isUsedFor"", ""tail"": ""structures for energy transmission and storage""},
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""liquefied natural gas devices""},
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""liquid nitrogen industries""},
+  {""head"": ""nickel steel with high nickel content"", ""relation"": ""isUsedFor"", ""tail"": ""liquefied natural gas devices""},
+  {""head"": ""nickel steel with high nickel content"", ""relation"": ""isUsedFor"", ""tail"": ""liquid nitrogen industries""},
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting magnets""},
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting machinery""},
+  {""head"": ""austenitic stainless steel"", ""relation"": ""isUsedFor"", ""tail"": ""ultra-low temperature energy storage rings""},
+  {""head"": ""austenitic alloy"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting magnets""},
+  {""head"": ""austenitic alloy"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting machinery""},
+  {""head"": ""austenitic alloy"", ""relation"": ""isUsedFor"", ""tail"": ""ultra-low temperature energy storage rings""},
+  {""head"": ""new alloy"", ""relation"": ""isUsedFor"", ""tail"": ""superconducting magnets""},
+  {""head"": ""aluminum alloy"", ""relation"": ""isUsedFor"", ""tail"": ""aerospace vehicles' cryogenic devices""},
+  {""head"": ""titanium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""aerospace vehicles' cryogenic devices""},
+  {""head"": ""special austenitic alloy"", ""relation"": ""isUsedFor"", ""tail"": ""aerospace vehicles' cryogenic devices""},
+  {""head"": ""low temperature alloy"", ""relation"": ""isUsedFor"", ""tail"": ""applications under magnetic fields""}
+]","{'completion_tokens': 8921, 'prompt_tokens': 1964, 'total_tokens': 10885}"
+8dbba80f,qwq-plus,c5c8f4ec-9129-9d6e-bb46-e6fe95a6e4af,200,,,1747769144,"[
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""solution strengthening aluminum alloys""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""precipitation hardening aluminum alloys""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""low temperature environment""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""manganese""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""chromium""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""copper""},
+  {""head"": ""cryogenic aluminium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""zinc""}
+]","{'completion_tokens': 4966, 'prompt_tokens': 1570, 'total_tokens': 6536}"
+7ccd1738,qwq-plus,17f102db-76f4-945e-9412-12ba2df8a3bd,200,,,1747769140,"[{""head"": ""cryogenic maraging stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""martensitic aging stainless steel""}, {""head"": ""cryogenic maraging stainless steel"", ""relation"": ""isMadeOf"", ""tail"": ""low carbon content""}, {""head"": ""cryogenic maraging stainless steel"", ""relation"": ""isMadeOf"", ""tail"": ""high nickel content""}]","{'completion_tokens': 1039, 'prompt_tokens': 1521, 'total_tokens': 2560}"
+5b68e86a,qwq-plus,504d6dfe-4032-9ea0-b024-35a6028c19b7,200,,,1747769143,"[
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isAKindOf"", ""tail"": ""alloy structural steel""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isAKindOf"", ""tail"": ""ferritic steel""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isMadeOf"", ""tail"": ""low carbon content""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isMadeOf"", ""tail"": ""manganese""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isMadeOf"", ""tail"": ""molybdenum""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isMadeOf"", ""tail"": ""chromium""},
+    {""head"": ""cryogenic nickel steel"", ""relation"": ""isMadeOf"", ""tail"": ""nickel""}
+]","{'completion_tokens': 3679, 'prompt_tokens': 1574, 'total_tokens': 5253}"
+953927be,qwq-plus,e785c2ac-ecb3-95a6-ac03-6f3f6ef04bae,200,,,1747769151,"[
+  {""head"": ""ferrite austenite dual-phase steel"", ""relation"": ""isAKindOf"", ""tail"": ""low temperature dual-phase steel""},
+  {""head"": ""ferrite"", ""relation"": ""isPartOf"", ""tail"": ""low temperature dual-phase steel""},
+  {""head"": ""austenite"", ""relation"": ""isPartOf"", ""tail"": ""low temperature dual-phase steel""},
+  {""head"": ""low temperature dual-phase steel"", ""relation"": ""isUsedFor"", ""tail"": ""chemical industry""},
+  {""head"": ""low temperature dual-phase steel"", ""relation"": ""isUsedFor"", ""tail"": ""petroleum industry""},
+  {""head"": ""low temperature dual-phase steel"", ""relation"": ""isUsedFor"", ""tail"": ""energy industry""},
+  {""head"": ""low temperature dual-phase steel"", ""relation"": ""isUsedFor"", ""tail"": ""marine industry""}
+]","{'completion_tokens': 3583, 'prompt_tokens': 1663, 'total_tokens': 5246}"
+d9facd21,qwq-plus,a17dfaba-3b3a-9ded-9633-2d09eeffd8b3,200,,,1747769145,"[
+{""head"": ""cryogenic titanium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""α Titanium alloy""},
+{""head"": ""cryogenic titanium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""α-β Titanium alloy""},
+{""head"": ""cryogenic titanium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""cryogenic structural parts""},
+{""head"": ""cryogenic titanium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""cryogenic containers""}
+]","{'completion_tokens': 1734, 'prompt_tokens': 1561, 'total_tokens': 3295}"
+336d092c,qwq-plus,dace4007-70ab-97ce-abb0-18cc1e9e2053,200,,,1747769141,"[
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isAKindOf "",""tail"":""precipitation strengthened iron nickel base austenitic superaalloy""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""chromium""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""diamond""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""Ti""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""Al""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""Nb""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isMadeOf "",""tail"":""molybdenum""},
+  {""head"":""γ' phase"",""relation"":"" isUsedFor "",""tail"":""strengthening austenite matrix""},
+  {""head"":""austenite matrix"",""relation"":"" isPartOf "",""tail"":""cryogenic iron-nickel base superalloy""},
+  {""head"":""cryogenic iron-nickel base superalloy"",""relation"":"" isUsedFor "",""tail"":""cryogenic conditions""}
+]","{'completion_tokens': 4367, 'prompt_tokens': 1559, 'total_tokens': 5926}"
+c832de47,qwq-plus,cbc66cd8-0c9e-967e-8825-c906e05c8c22,200,,,1747769141,"[
+  {""head"": ""cryogenic ferritic steel"", ""relation"": ""isAKindOf"", ""tail"": ""low alloy iron steel""},
+  {""head"": ""ferrite grains"", ""relation"": ""isPartOf"", ""tail"": ""cryogenic ferritic steel""},
+  {""head"": ""low-temperature toughness"", ""relation"": ""isDependentOn"", ""tail"": ""lower carbon content""},
+  {""head"": ""low-temperature toughness"", ""relation"": ""isDependentOn"", ""tail"": ""fine ferrite grains""},
+  {""head"": ""harmful impurities"", ""relation"": ""isPartOf"", ""tail"": ""cryogenic ferritic steel""},
+  {""head"": ""service temperature"", ""relation"": ""isDependentOn"", ""tail"": ""cold brittle transition temperature""}
+]","{'completion_tokens': 5805, 'prompt_tokens': 1568, 'total_tokens': 7373}"
+2c972d51,qwq-plus,ed52fdf9-ec02-97a9-bfa3-7971646e9641,200,,,1747769143,"[
+  {""head"":""cryogenic copper alloy"",""relation"":""isAKindOf"",""tail"":""copper alloy""},
+  {""head"":""cryogenic copper alloy"",""relation"":""isUsedFor"",""tail"":""low-temperature environments""},
+  {""head"":""precipitation strengthened copper alloys"",""relation"":""isAKindOf"",""tail"":""copper alloys""},
+  {""head"":""copper and copper alloys"",""relation"":""isDependentOn"",""tail"":""cold working""},
+  {""head"":""copper and copper alloys"",""relation"":""isDependentOn"",""tail"":""grain refinement""}
+]","{'completion_tokens': 3589, 'prompt_tokens': 1541, 'total_tokens': 5130}"
+a93c0cc1,qwq-plus,43b5635d-ca55-97e4-8f7c-f5cf1a8d204b,200,,,1747769149,"[
+    {""head"": ""high alloy ultra-high strength steel"", ""relation"": ""isAKindOf"", ""tail"": ""ultra-high strength steel""},
+    {""head"": ""precipitation hardening stainless steel"", ""relation"": ""isAKindOf"", ""tail"": ""high alloy ultra-high strength steel""},
+    {""head"": ""maraging steel"", ""relation"": ""isAKindOf"", ""tail"": ""high alloy ultra-high strength steel""},
+    {""head"": ""high alloy ultra-high strength steel"", ""relation"": ""isMadeOf"", ""tail"": ""ultra-low carbon content""},
+    {""head"": ""high alloy ultra-high strength steel"", ""relation"": ""isMadeOf"", ""tail"": ""alloy elements""},
+    {""head"": ""high alloy ultra-high strength steel"", ""relation"": ""isUsedFor"", ""tail"": ""key structural parts""}
+]","{'completion_tokens': 1755, 'prompt_tokens': 1622, 'total_tokens': 3377}"
+74840af9,qwq-plus,f6b743dd-c8ad-9f69-a63c-b2f191dbe6e5,200,,,1747769153,"[
+    {""head"": ""high alloy cast steel"", ""relation"": ""isAKindOf"", ""tail"": ""cast steel""},
+    {""head"": ""alloy elements"", ""relation"": ""isPartOf"", ""tail"": ""high alloy cast steel""}
+]","{'completion_tokens': 1950, 'prompt_tokens': 1540, 'total_tokens': 3490}"
+3af2e7b9,qwq-plus,f2f6edbe-8469-95fc-aa64-cea8f827b573,200,,,1747769143,"[{""head"":""high-order transformation"",""relation"":""isAKindOf"",""tail"":""phase transformation""},{""head"":""high-order transformation"",""relation"":""isAKindOf"",""tail"":""discontinuous phase transformation""}]","{'completion_tokens': 552, 'prompt_tokens': 1510, 'total_tokens': 2062}"
+fd124c3c,qwq-plus,9c8f431e-1cfd-9b71-b82d-2baa01832c56,200,,,1747769150,"[{""head"":""high primary formability magnesium alloy"",""relation"":""isAKindOf"",""tail"":""high formability magnesium alloy""},{""head"":""high secondary formability magnesium I alloy"",""relation"":""isAKindOf"",""tail"":""high formability magnesium alloy""}]","{'completion_tokens': 852, 'prompt_tokens': 1524, 'total_tokens': 2376}"
+c604c98e,qwq-plus,4f6bc9a5-0695-9f9f-a2ea-566d6425f0db,200,,,1747769141,"[{""head"":""high dielectric constant paste"",""relation"":""isMadeOf"",""tail"":""Barium titanate with high dielectric constant""},{""head"":""high dielectric constant paste"",""relation"":""isUsedFor"",""tail"":""high-capacity thick film capacitors""}]","{'completion_tokens': 1406, 'prompt_tokens': 1511, 'total_tokens': 2917}"
+8bc07b29,qwq-plus,8ab01203-c217-96b6-b420-527f25bc0f1e,200,,,1747769157,"[
+    {""head"": ""PBX"", ""relation"": ""isAKindOf"", ""tail"": ""composite explosive""},
+    {""head"": ""powder high-energy single explosive"", ""relation"": ""isPartOf"", ""tail"": ""PBX""},
+    {""head"": ""powder high-energy single explosive"", ""relation"": ""isMadeOf"", ""tail"": ""adhesive""},
+    {""head"": ""powder high-energy single explosive"", ""relation"": ""isMadeOf"", ""tail"": ""plasticizer""},
+    {""head"": ""powder high-energy single explosive"", ""relation"": ""isMadeOf"", ""tail"": ""deterrent""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""anti tank missiles""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""mines""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""torpedoes""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""aviation bombs""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""nuclear warhead detonating devices""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""oil perforating bombs""},
+    {""head"": ""PBX"", ""relation"": ""isUsedFor"", ""tail"": ""explosion molding""}
+]","{'completion_tokens': 4750, 'prompt_tokens': 1544, 'total_tokens': 6294}"
+a318b0f4,qwq-plus,e40beff8-9437-9845-8701-4e670c9c34b2,200,,,1747769146,"[
+    {""head"": ""high impact polystyrene"", ""relation"": ""isUsedFor"", ""tail"": ""home appliance product casings""},
+    {""head"": ""high impact polystyrene"", ""relation"": ""isUsedFor"", ""tail"": ""automotive components""},
+    {""head"": ""high impact polystyrene"", ""relation"": ""isUsedFor"", ""tail"": ""medical equipment components""},
+    {""head"": ""high impact polystyrene"", ""relation"": ""isUsedFor"", ""tail"": ""drainage pipes""},
+    {""head"": ""high impact polystyrene"", ""relation"": ""isUsedFor"", ""tail"": ""toys""}
+]","{'completion_tokens': 886, 'prompt_tokens': 1534, 'total_tokens': 2420}"
+94d85bfe,qwq-plus,796633c4-cde6-940b-b57f-ddd090c0f960,200,,,1747769146,"[
+  {""head"": ""high phosphorus cast iron"", ""relation"": ""isAKindOf"", ""tail"": ""gray wear resistance cast iron""},
+  {""head"": ""phosphorus eutectic"", ""relation"": ""isPartOf"", ""tail"": ""high phosphorus cast iron""},
+  {""head"": ""high phosphorus cast iron"", ""relation"": ""isMadeOf"", ""tail"": ""alloy elements""},
+  {""head"": ""high phosphorus cast iron"", ""relation"": ""isAKindOf"", ""tail"": ""alloy grey cast iron""},
+  {""head"": ""alloy grey cast iron"", ""relation"": ""isUsedFor"", ""tail"": ""machine tool bed""},
+  {""head"": ""alloy grey cast iron"", ""relation"": ""isUsedFor"", ""tail"": ""guide rail""},
+  {""head"": ""alloy grey cast iron"", ""relation"": ""isUsedFor"", ""tail"": ""cylinder sleeve""},
+  {""head"": ""alloy grey cast iron"", ""relation"": ""isUsedFor"", ""tail"": ""piston ring""}
+]","{'completion_tokens': 4397, 'prompt_tokens': 1600, 'total_tokens': 5997}"
+0e60a5bc,qwq-plus,16e27207-ab30-9355-a848-db0ac502e553,200,,,1747769142,"[{""head"":""kaolinite"",""relation"":""isAKindOf"",""tail"":""layered silicate mineral""},{""head"":""kaolinite"",""relation"":""isAKindOf"",""tail"":""high-quality ceramics materials""},{""head"":""kaolinite"",""relation"":""isDerivedFrom"",""tail"":""weathered granite crust""},{""head"":""kaolinite"",""relation"":""isUsedFor"",""tail"":""rubber industry""},{""head"":""kaolinite"",""relation"":""isUsedFor"",""tail"":""chemical industry""},{""head"":""kaolinite"",""relation"":""isUsedFor"",""tail"":""paper industries""},{""head"":""kaolinite"",""relation"":""isMadeOf"",""tail"":""Fe""},{""head"":""kaolinite"",""relation"":""isMadeOf"",""tail"":""Mg""},{""head"":""kaolinite"",""relation"":""isMadeOf"",""tail"":""Cr""},{""head"":""Fe"",""relation"":""isAlternativeTo"",""tail"":""Al""},{""head"":""Mg"",""relation"":""isAlternativeTo"",""tail"":""Al""},{""head"":""Cr"",""relation"":""isAlternativeTo"",""tail"":""Al""}]","{'completion_tokens': 4708, 'prompt_tokens': 1555, 'total_tokens': 6263}"
+632a846d,qwq-plus,adb63357-bc0a-9456-8cb4-5d933fbc2efd,200,,,1747769149,"[{""head"":""kaolin"",""relation"":""isAKindOf"",""tail"":""clay""},{""head"":""kaolinite clay"",""relation"":""isAlternativeTo"",""tail"":""kaolin""},{""head"":""china clay"",""relation"":""isAlternativeTo"",""tail"":""kaolin""},{""head"":""kaolin"",""relation"":""isUsedFor"",""tail"":""ceramics""},{""head"":""kaolin"",""relation"":""isUsedFor"",""tail"":""rubber""},{""head"":""kaolin"",""relation"":""isUsedFor"",""tail"":""chemistry""},{""head"":""kaolin"",""relation"":""isUsedFor"",""tail"":""paper industry""},{""head"":""kaolin"",""relation"":""isMadeOf"",""tail"":""kaolinite""},{""head"":""weathered kaolin deposit"",""relation"":""isAKindOf"",""tail"":""deposit""},{""head"":""Jingdezhen kaolin deposit"",""relation"":""isAKindOf"",""tail"":""weathering residual type deposit""},{""head"":""white stone fat"",""relation"":""isAlternativeTo"",""tail"":""kaolin""}]","{'completion_tokens': 3906, 'prompt_tokens': 1757, 'total_tokens': 5663}"
+ca651f24,qwq-plus,64f8c8b7-7e10-9008-9e96-cb6889ba99fe,200,,,1747769151,"[
+  {""head"":""blast furnace"",""relation"":""isAKindOf"",""tail"":""main equipment of modern ironmaking production""},
+  {""head"":""throat"",""relation"":""isPartOf"",""tail"":""blast furnace body""},
+  {""head"":""stack"",""relation"":""isPartOf"",""tail"":""blast furnace body""},
+  {""head"":""waist"",""relation"":""isPartOf"",""tail"":""blast furnace body""},
+  {""head"":""bosh"",""relation"":""isPartOf"",""tail"":""blast furnace body""},
+  {""head"":""hearth"",""relation"":""isPartOf"",""tail"":""blast furnace body""},
+  {""head"":""charging equipment"",""relation"":""isPartOf"",""tail"":""blast furnace""},
+  {""head"":""tuyere"",""relation"":""isPartOf"",""tail"":""blast furnace""},
+  {""head"":""slag outlets"",""relation"":""isPartOf"",""tail"":""blast furnace""},
+  {""head"":""tapping holes"",""relation"":""isPartOf"",""tail"":""blast furnace""},
+  {""head"":""blast furnace"",""relation"":""isUsedFor"",""tail"":""ironmaking production""},
+  {""head"":""blast furnace body"",""relation"":""isMadeOf"",""tail"":""steel plate""},
+  {""head"":""blast furnace body"",""relation"":""isMadeOf"",""tail"":""refractory brick""}
+]","{'completion_tokens': 3617, 'prompt_tokens': 1651, 'total_tokens': 5268}"
+891bcf41,qwq-plus,a74ac989-65df-94af-9573-38fd08666c46,200,,,1747769146,"[
+{""head"": ""blast furnace ironmaking"", ""relation"": ""isAKindOf"", ""tail"": ""modern ironmaking method""},
+{""head"": ""iron ore"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""coke"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""flux"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""slag"", ""relation"": ""isMadeOf"", ""tail"": ""gangue""},
+{""head"": ""slag"", ""relation"": ""isMadeOf"", ""tail"": ""flux""},
+{""head"": ""blast furnace gas"", ""relation"": ""isUsedFor"", ""tail"": ""gas fuel""},
+{""head"": ""pulverized coal injection"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""oxygen enriched blast"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""high furnace residual pressure recovery"", ""relation"": ""isUsedFor"", ""tail"": ""blast furnace ironmaking""},
+{""head"": ""pig iron"", ""relation"": ""isUsedFor"", ""tail"": ""steelmaking""},
+{""head"": ""pig iron"", ""relation"": ""isUsedFor"", ""tail"": ""direct casting castings""},
+{""head"": ""slag cement"", ""relation"": ""isMadeOf"", ""tail"": ""slag""},
+{""head"": ""natural rich ore block"", ""relation"": ""isAKindOf"", ""tail"": ""iron ore""},
+{""head"": ""sintering"", ""relation"": ""isAKindOf"", ""tail"": ""iron ore""},
+{""head"": ""pellet"", ""relation"": ""isAKindOf"", ""tail"": ""iron ore""},
+{""head"": ""gangue"", ""relation"": ""isPartOf"", ""tail"": ""iron ore""}
+]","{'completion_tokens': 4628, 'prompt_tokens': 1745, 'total_tokens': 6373}"
+4f35f980,qwq-plus,0360f27e-9d4d-9a61-b979-2e7d2a4b7a05,200,,,1747769152,"[{""head"":""high alumina bauxite"",""relation"":""isAKindOf"",""tail"":""bauxite""},{""head"":""high alumina bauxite"",""relation"":""isUsedFor"",""tail"":""high alumina refractory""}]","{'completion_tokens': 900, 'prompt_tokens': 1513, 'total_tokens': 2413}"
+d54c8320,qwq-plus,347093e2-768c-9d5f-9f34-edb454005ba6,200,,,1747769145,"[{""head"":""high-alumina cordierite brick"",""relation"":""isAKindOf"",""tail"":""high alumina refractory products""},{""head"":""cordierite"",""relation"":""isPartOf"",""tail"":""high-alumina cordierite brick""},{""head"":""high-alumina cordierite brick"",""relation"":""isMadeOf"",""tail"":""high alumina raw materials""},{""head"":""high-alumina cordierite brick"",""relation"":""isMadeOf"",""tail"":""synthetic cordierite""},{""head"":""high-alumina cordierite brick"",""relation"":""isMadeOf"",""tail"":""binder""},{""head"":""high-alumina cordierite brick"",""relation"":""isUsedFor"",""tail"":""ceramics kiln furniture""},{""head"":""high-alumina cordierite brick"",""relation"":""isUsedFor"",""tail"":""heat exchanger""},{""head"":""high-alumina cordierite brick"",""relation"":""isUsedFor"",""tail"":""catalyst support for purifying waste gas""}]","{'completion_tokens': 1108, 'prompt_tokens': 1537, 'total_tokens': 2645}"
+24da5f72,qwq-plus,90487217-2483-9fc5-ae03-50e2d1268dee,200,,,1747769153,"[
+  {""head"": ""high-alumina brick"", ""relation"": ""isAKindOf"", ""tail"": ""aluminum silicate refractory products""},
+  {""head"": ""high-alumina brick"", ""relation"": ""isMadeOf"", ""tail"": ""high alumina bauxite""},
+  {""head"": ""high-alumina brick"", ""relation"": ""isMadeOf"", ""tail"": ""synthetic mullite""},
+  {""head"": ""high-alumina brick"", ""relation"": ""isMadeOf"", ""tail"": ""clay""},
+  {""head"": ""high-alumina brick"", ""relation"": ""isMadeOf"", ""tail"": ""other binders""}
+]","{'completion_tokens': 1617, 'prompt_tokens': 1546, 'total_tokens': 3163}"
+1770a4d1,qwq-plus,06350284-aef1-96ef-b52f-ddcce3f986a4,200,,,1747769153,"[{""head"": ""high manganese steel"", ""relation"": ""isAKindOf"", ""tail"": ""wear-resistant steel""}, {""head"": ""high manganese steel"", ""relation"": ""isUsedFor"", ""tail"": ""castings""}]","{'completion_tokens': 1953, 'prompt_tokens': 1543, 'total_tokens': 3496}"
+6f08f6e0,qwq-plus,92485edd-1f8f-924d-bdf6-1db104901972,200,,,1747769139,"[
+  {""head"": ""high density optical recording materials"", ""relation"": ""isAKindOf"", ""tail"": ""inorganic and organic materials systems""},
+  {""head"": ""high density optical recording materials"", ""relation"": ""isMadeOf"", ""tail"": ""inorganic materials""},
+  {""head"": ""high density optical recording materials"", ""relation"": ""isMadeOf"", ""tail"": ""organic materials""},
+  {""head"": ""high density optical recording materials"", ""relation"": ""isUsedFor"", ""tail"": ""optical disks""}
+]","{'completion_tokens': 4613, 'prompt_tokens': 1513, 'total_tokens': 6126}"
+62f28ed4,qwq-plus,86e67df3-7aee-9c44-9e4b-8c3676dcc158,200,,,1747769146,"[
+{""head"": ""high density tungsten alloys"", ""relation"": ""isMadeOf"", ""tail"": ""tungsten""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isMadeOf"", ""tail"": ""nickel""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isMadeOf"", ""tail"": ""iron""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isMadeOf"", ""tail"": ""copper""},
+{""head"": ""tungsten nickel copper alloy"", ""relation"": ""isAKindOf"", ""tail"": ""high density tungsten alloys""},
+{""head"": ""tungsten nickel iron alloy"", ""relation"": ""isAKindOf"", ""tail"": ""high density tungsten alloys""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""gyroscope rotor""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""balance weight""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""armour piercing bullet core""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""tool and die fixture""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""shielding materials""},
+{""head"": ""high density tungsten alloys"", ""relation"": ""isUsedFor"", ""tail"": ""instruments and meters""}
+]","{'completion_tokens': 2831, 'prompt_tokens': 1682, 'total_tokens': 4513}"
+949306c2,qwq-plus,c552a2ec-06d3-95a0-9934-cff8bef54ca4,200,,,1747769140,"[{""head"":""high-density fiberboard"",""relation"":""isAKindOf"",""tail"":""fiberboard""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""indoor and outdoor decoration""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""office""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""high-end furniture""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""audio""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""interior decoration of luxury cars""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""anti-static floor""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""dado""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""anti-theft door""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""wallboard""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""partition""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""laminate flooring""},{""head"":""high-density fiberboard"",""relation"":""isUsedFor"",""tail"":""composition flooring""}]","{'completion_tokens': 3662, 'prompt_tokens': 1586, 'total_tokens': 5248}"
+bf084067,qwq-plus,e779e573-cb83-9de5-afb2-9face0fe0526,200,,,1747769150,"[
+  {""head"": ""active layer"", ""relation"": ""isPartOf"", ""tail"": ""thermobimetal with high sensitivity""},
+  {""head"": ""passive layer"", ""relation"": ""isPartOf"", ""tail"": ""thermobimetal with high sensitivity""},
+  {""head"": ""Mn75Ni15Cu10 alloy"", ""relation"": ""isPartOf"", ""tail"": ""active layer""},
+  {""head"": ""Mn72Ni10Cu18 alloy"", ""relation"": ""isPartOf"", ""tail"": ""active layer""},
+  {""head"": ""FeNi36 alloy"", ""relation"": ""isPartOf"", ""tail"": ""passive layer""}
+]","{'completion_tokens': 4664, 'prompt_tokens': 1525, 'total_tokens': 6189}"
+d74e25d3,qwq-plus,59a7bb24-f471-9d32-9d51-3cb322e29f9d,200,,,1747769139,"[{""head"": ""high energy low sensitivity propellant"", ""relation"": ""isAKindOf"", ""tail"": ""gun propellant""}, {""head"": ""high energy low sensitivity propellant"", ""relation"": ""isUsedFor"", ""tail"": ""weapons""}]","{'completion_tokens': 1085, 'prompt_tokens': 1566, 'total_tokens': 2651}"
+9dfdd46b,qwq-plus,f63574f3-48ac-9ec6-9287-04e6745b6a03,200,,,1747769141,"[{""head"":""high energy ignition composition"",""relation"":""isAKindOf"",""tail"":""ignition composition""},{""head"":""potassium perchlorate"",""relation"":""isPartOf"",""tail"":""high energy ignition composition""},{""head"":""barium nitrate"",""relation"":""isPartOf"",""tail"":""high energy ignition composition""},{""head"":""magnesium aluminum alloy"",""relation"":""isPartOf"",""tail"":""high energy ignition composition""},{""head"":""high energy ignition composition"",""relation"":""isUsedFor"",""tail"":""igniting composite gunpowder""},{""head"":""high energy ignition composition"",""relation"":""isDependentOn"",""tail"":""low ignition point ignition composition""}]","{'completion_tokens': 999, 'prompt_tokens': 1622, 'total_tokens': 2621}"
+61696edc,qwq-plus,d3223f82-af24-9cf7-9984-3d282ed691d0,200,,,1747769146,"[{""head"":""high energy cobalt complex primary explosive"",""relation"":""isAKindOf"",""tail"":""complex primary explosive""}]","{'completion_tokens': 394, 'prompt_tokens': 1488, 'total_tokens': 1882}"
+c5cd08d5,qwq-plus,08340f34-b2bd-98e2-a6a4-20a8049bbe8b,200,,,1747769140,"[
+  {""head"":""high energy density materials"",""relation"":""isAKindOf"",""tail"":""energetic materials""},
+  {""head"":""high energy density compound"",""relation"":""isPartOf"",""tail"":""high energy density materials""},
+  {""head"":""oxidizer"",""relation"":""isPartOf"",""tail"":""high energy density materials""},
+  {""head"":""combustible agents"",""relation"":""isPartOf"",""tail"":""high energy density materials""},
+  {""head"":""adhesive"",""relation"":""isPartOf"",""tail"":""high energy density materials""},
+  {""head"":""other additive"",""relation"":""isPartOf"",""tail"":""high energy density materials""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""propellants""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""gun propellant""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""warhead charges""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""initiating explosive devices""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""high-energy insensitive explosive""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""small propulsion system solid fuel""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""smokeless pyrotechnic agent""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""gas generating composition""},
+  {""head"":""high energy density materials"",""relation"":""isUsedFor"",""tail"":""flameless low temperature extinguishing agent""}
+]","{'completion_tokens': 3101, 'prompt_tokens': 1651, 'total_tokens': 4752}"
+90cb88f7,qwq-plus,e63abb64-ae62-9162-aac2-851834484c84,200,,,1747769144,"[
+{""head"": ""high energy density compound"", ""relation"": ""isAKindOf"", ""tail"": ""energetic compounds""},
+{""head"": ""high energy density compound"", ""relation"": ""isMadeOf"", ""tail"": ""oxidizer""},
+{""head"": ""high energy density compound"", ""relation"": ""isMadeOf"", ""tail"": ""combustible agent""},
+{""head"": ""high energy density compound"", ""relation"": ""isMadeOf"", ""tail"": ""adhesive""},
+{""head"": ""high energy density compound"", ""relation"": ""isMadeOf"", ""tail"": ""other additive""},
+{""head"": ""high energy density compound"", ""relation"": ""isUsedFor"", ""tail"": ""high performance explosives""},
+{""head"": ""high energy density compound"", ""relation"": ""isUsedFor"", ""tail"": ""airbags""},
+{""head"": ""high energy density compound"", ""relation"": ""isUsedFor"", ""tail"": ""pyrotechnics""},
+{""head"": ""high energy density compound"", ""relation"": ""isUsedFor"", ""tail"": ""gas generators""},
+{""head"": ""high energy density materials"", ""relation"": ""isMadeOf"", ""tail"": ""high energy density compound""}
+]","{'completion_tokens': 2458, 'prompt_tokens': 1617, 'total_tokens': 4075}"
+8ede1bad,qwq-plus,e13b5c6e-5cab-9dba-b79d-6c9f8ed274f4,200,,,1747769141,"[{""head"":""high-energy ball milling"",""relation"":""isAKindOf"",""tail"":""pulverization method""},{""head"":""planetary ball mill"",""relation"":""isUsedFor"",""tail"":""high-energy ball milling""},{""head"":""vibration ball mill"",""relation"":""isUsedFor"",""tail"":""high-energy ball milling""},{""head"":""stirring ball mill"",""relation"":""isUsedFor"",""tail"":""high-energy ball milling""},{""head"":""high-energy ball milling"",""relation"":""isDependentOn"",""tail"":""impact""},{""head"":""high-energy ball milling"",""relation"":""isDependentOn"",""tail"":""shear""},{""head"":""high-energy ball milling"",""relation"":""isDependentOn"",""tail"":""friction""},{""head"":""high-energy ball milling"",""relation"":""isDependentOn"",""tail"":""compression""},{""head"":""high-energy ball milling"",""relation"":""isUsedFor"",""tail"":""alloy""},{""head"":""high-energy ball milling"",""relation"":""isAlternativeTo"",""tail"":""conventional rolling ball milling""}]","{'completion_tokens': 3513, 'prompt_tokens': 1577, 'total_tokens': 5090}"
+bfde03b1,qwq-plus,17628dac-5225-9135-8189-8b72988e83eb,200,,,1747769139,"[{""head"":""monomer explosive"",""relation"":""isAKindOf"",""tail"":""high performance explosives""},{""head"":""composite explosive"",""relation"":""isAKindOf"",""tail"":""high performance explosives""},{""head"":""high-nitrogen compounds"",""relation"":""isAKindOf"",""tail"":""high performance explosives""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""nuclear weapon initiation devices""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""missile warheads""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""aviation bombs""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""underwater weapons""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""shaped charge armor piercing shells""},{""head"":""high performance explosives"",""relation"":""isUsedFor"",""tail"":""engineering blasting in special situations""}]","{'completion_tokens': 1212, 'prompt_tokens': 1557, 'total_tokens': 2769}"
+128b0083,qwq-plus,dda2b5db-84e7-9774-b96f-da12e8dc57ff,200,,,1747769153,"[
+    {""head"": ""high boron-low carbon superalloy"", ""relation"": ""isAKindOf"", ""tail"": ""high temperature alloy series""},
+    {""head"": ""high boron-low carbon superalloy"", ""relation"": ""isDerivedFrom"", ""tail"": ""nickel-base cast superalloy""},
+    {""head"": ""high boron-low carbon superalloy"", ""relation"": ""isUsedFor"", ""tail"": ""turbine blades""}
+]","{'completion_tokens': 1929, 'prompt_tokens': 1543, 'total_tokens': 3472}"
+d4fae7ba,qwq-plus,206e87bf-75db-96e6-94d5-b58bd23bb03e,200,,,1747769138,"[
+{""head"":""Mn72Ni18Cu"",""relation"":"" isAKindOf "",""tail"":""high expansion alloy""},
+{""head"":""FeNi22Cr3"",""relation"":"" isAKindOf "",""tail"":""high expansion alloy""},
+{""head"":""high expansion alloy"",""relation"":"" isAKindOf "",""tail"":""alloy""},
+{""head"":""high expansion alloy"",""relation"":"" isPartOf "",""tail"":""thermal bimetallic""},
+{""head"":""high expansion alloy"",""relation"":"" isComplementaryTo "",""tail"":""low expansion alloy""},
+{""head"":""high expansion alloy"",""relation"":"" isUsedFor "",""tail"":""thermal bimetallic""},
+{""head"":""high expansion alloy"",""relation"":"" isUsedFor "",""tail"":""temperature measurement and control devices""}
+]","{'completion_tokens': 5652, 'prompt_tokens': 1545, 'total_tokens': 7197}"
+e4a120f5,qwq-plus,db11f2ac-fc1b-9e81-aeb8-dac733f5df47,200,,,1747769153,"[
+{""head"":""high frequency butt seam welding"",""relation"":""isAKindOf"",""tail"":""high frequency resistance welding""},
+{""head"":""high frequency lap seam welding"",""relation"":""isAKindOf"",""tail"":""high frequency resistance welding""},
+{""head"":""high frequency butt seam welding"",""relation"":""isUsedFor"",""tail"":""metal welded pipes""},
+{""head"":""high frequency lap seam welding"",""relation"":""isUsedFor"",""tail"":""food cans""},
+{""head"":""high frequency lap seam welding"",""relation"":""isUsedFor"",""tail"":""internal pressure cans""},
+{""head"":""required power"",""relation"":""isDependentOn"",""tail"":""material""},
+{""head"":""required power"",""relation"":""isDependentOn"",""tail"":""pipe diameter""},
+{""head"":""required power"",""relation"":""isDependentOn"",""tail"":""wall thickness""},
+{""head"":""required power"",""relation"":""isDependentOn"",""tail"":""weld speed""}
+]","{'completion_tokens': 3288, 'prompt_tokens': 1576, 'total_tokens': 4864}"
+0395b1f8,qwq-plus,85787ee9-1532-9952-88af-e7ae68f8d357,200,,,1747769150,"[
+  {""head"": ""high-frequency temperature compensation dielectric ceramic"", ""relation"": ""isAKindOf"", ""tail"": ""dielectric ceramic""},
+  {""head"": ""capacitor medium"", ""relation"": ""isMadeOf"", ""tail"": ""high-frequency temperature compensation dielectric ceramic""},
+  {""head"": ""high-frequency temperature compensation dielectric ceramic"", ""relation"": ""isUsedFor"", ""tail"": ""resonant frequency stability""},
+  {""head"": ""high-frequency temperature compensation dielectric ceramic"", ""relation"": ""isComplementaryTo"", ""tail"": ""inductors""},
+  {""head"": ""high-frequency temperature compensation dielectric ceramic"", ""relation"": ""isComplementaryTo"", ""tail"": ""resistors""}
+]","{'completion_tokens': 5494, 'prompt_tokens': 1539, 'total_tokens': 7033}"
+509f8067,qwq-plus,ed5499f6-3921-9e19-9659-d5da1457d215,200,,,1747769143,"[
+    {""head"": ""high temperature-stable dielectric ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""capacitor dielectric materials""}
+]","{'completion_tokens': 1942, 'prompt_tokens': 1508, 'total_tokens': 3450}"
+c905a532,qwq-plus,05655d35-98b3-9c00-b4cd-e79e3ff4f967,200,,,1747769152,"[
+{""head"":""laser crystal with high average power"",""relation"":""isAKindOf"",""tail"":""crystal working material""},
+{""head"":""laser crystal with high average power"",""relation"":""isUsedFor"",""tail"":""lasers with continuous or average laser output power of hundreds to thousands of watts""}
+]","{'completion_tokens': 2213, 'prompt_tokens': 1537, 'total_tokens': 3750}"
+62f6a443,qwq-plus,f4599cff-5d8f-9dc3-93da-b355655ab5e0,200,,,1747769145,"[
+    {""head"": ""high mobility organic/polymer materials"", ""relation"": ""isAKindOf"", ""tail"": ""organic polymer materials""},
+    {""head"": ""high mobility organic/polymer materials"", ""relation"": ""isSimilarTo"", ""tail"": ""amorphous silicon""},
+    {""head"": ""mobility of organic polymer materials"", ""relation"": ""isDependentOn"", ""tail"": ""chemical structure""},
+    {""head"": ""mobility of organic polymer materials"", ""relation"": ""isDependentOn"", ""tail"": ""degree of order of molecular arrangement""},
+    {""head"": ""mobility of organic polymer materials"", ""relation"": ""isDependentOn"", ""tail"": ""coupling ability between molecules""},
+    {""head"": ""mobility of organic polymer materials"", ""relation"": ""isDependentOn"", ""tail"": ""arrangement direction""}
+]","{'completion_tokens': 2720, 'prompt_tokens': 1562, 'total_tokens': 4282}"
+293dd078,qwq-plus,92745518-b4f5-95cb-821e-d43f1340e32f,200,,,1747769140,"[
+    {""head"": ""low expansion alloy with high strength"", ""relation"": ""isAKindOf"", ""tail"": ""alloy""},
+    {""head"": ""low expansion alloy with high strength"", ""relation"": ""isMadeOf"", ""tail"": ""FeNi35Co5Ti3 alloy""}
+]","{'completion_tokens': 1095, 'prompt_tokens': 1502, 'total_tokens': 2597}"
+83949f59,qwq-plus,8d05d7b7-13eb-99bc-ac26-596fa4aa0901,200,,,1747769153,"[{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""high-performance tire cord""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""rubber reinforcing materials""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""resin based""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""ceramic based""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""carbon based""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""metal based""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""concrete reinforcing agent""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""cables""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""canvas""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""protective clothing""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""special motor insulation materials""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""bulletproof vests""},{""head"":""high strength and high modules fiber"",""relation"":""isUsedFor"",""tail"":""cutting and puncture resistant overalls""}]","{'completion_tokens': 1553, 'prompt_tokens': 1641, 'total_tokens': 3194}"
+db577910,qwq-plus,ebf95670-0f83-915d-a472-df6e243d3e88,200,,,1747769150,"[
+{""head"": ""high strength diamond"", ""relation"": ""isAKindOf"", ""tail"": ""synthetic diamond""},
+{""head"": ""high strength diamond"", ""relation"": ""isTestedBy"", ""tail"": ""diamond meter""},
+{""head"": ""high strength diamond"", ""relation"": ""isDependentOn"", ""tail"": ""strict process conditions""},
+{""head"": ""high strength diamond"", ""relation"": ""isUsedFor"", ""tail"": ""geological bricks""},
+{""head"": ""high strength diamond"", ""relation"": ""isUsedFor"", ""tail"": ""stone processing tools""},
+{""head"": ""high strength diamond"", ""relation"": ""isUsedFor"", ""tail"": ""metal adhesive grinding wheels""}
+]","{'completion_tokens': 1227, 'prompt_tokens': 1634, 'total_tokens': 2861}"
+caebdb1e,qwq-plus,2feb4405-15aa-98e5-bc60-563875218f20,200,,,1747769148,"[
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""Al-Zn-Mg-Cu series alloys""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""beams""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""purlins""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""partitions""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""skins""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""wing ribs""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""joints""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""landing gear system components""},
+    {""head"": ""super-hard aluminium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""hydraulic system actuators""}
+]","{'completion_tokens': 2990, 'prompt_tokens': 1740, 'total_tokens': 4730}"
+62c788a2,qwq-plus,6bdca077-c0c1-9fcc-8125-2e0cbbac47c4,200,,,1747769143,"[{""head"":""high strength cast magnesium alloy"",""relation"":""isAKindOf"",""tail"":""cast magnesium alloy""},{""head"":""Mg Zn Zr alloy"",""relation"":""isPartOf"",""tail"":""high strength cast magnesium alloy""},{""head"":""Mg Gd-Y-Zr alloy"",""relation"":""isPartOf"",""tail"":""high strength cast magnesium alloy""},{""head"":""high strength cast magnesium alloy"",""relation"":""isUsedFor"",""tail"":""parts with high stress""},{""head"":""high strength cast magnesium alloy"",""relation"":""isUsedFor"",""tail"":""parts with high air tightness""},{""head"":""high strength cast magnesium alloy"",""relation"":""isUsedFor"",""tail"":""thin-walled high-quality castings""}]","{'completion_tokens': 898, 'prompt_tokens': 1575, 'total_tokens': 2473}"
+e95986b6,qwq-plus,2396b2ed-b9da-9512-b8a8-b6d311e85299,200,,,1747769139,"[
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isAKindOf"", ""tail"": ""copper based alloy""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isAKindOf"", ""tail"": ""precipitation strengthened copper alloy""},
+    {""head"": ""Cu Cr Zr alloy"", ""relation"": ""isAKindOf"", ""tail"": ""high strength and high conduction copper alloy""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""integrated circuit leads frames""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""contact wires for high-speed rail transit""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""contact materials for vacuum switches""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""contact materials for high-voltage circuit breakers""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""multi row TSSOP""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""MSOP frame""},
+    {""head"": ""high strength and high conduction copper alloy"", ""relation"": ""isUsedFor"", ""tail"": ""etching frame""}
+]","{'completion_tokens': 3240, 'prompt_tokens': 1648, 'total_tokens': 4888}"
+062562b0,qwq-plus,d4c4baae-b6f1-9e37-931e-aa672230c00a,200,,,1747769149,"[
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isAKindOf"", ""tail"": ""high strength and high elasticity copper alloy""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isAKindOf"", ""tail"": ""high strength and high elasticity copper alloy""},
+    {""head"": ""Cu Ni Sn"", ""relation"": ""isPartOf"", ""tail"": ""high strength precipitation strengthened copper alloy without beryllium""},
+    {""head"": ""Cu Ni Mn"", ""relation"": ""isPartOf"", ""tail"": ""high strength precipitation strengthened copper alloy without beryllium""},
+    {""head"": ""Cu Ni Al"", ""relation"": ""isPartOf"", ""tail"": ""high strength precipitation strengthened copper alloy without beryllium""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isAlternativeTo"", ""tail"": ""aging strengthened Cu Be elasticity alloy""},
+    {""head"": ""Cu-2% Be alloy"", ""relation"": ""isAKindOf"", ""tail"": ""aging strengthened Cu Be elasticity alloy""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""current carrying elasticity elements""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""precision instrument elasticity elements""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""conductive springs for various relays""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""contact springs""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""various plug and pull pieces""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""diaphragms""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""bellows""},
+    {""head"": ""aging strengthened Cu Be elasticity alloy"", ""relation"": ""isUsedFor"", ""tail"": ""spring tubes""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""current carrying elasticity elements""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""precision instrument elasticity elements""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""conductive springs for various relays""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""contact springs""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""various plug and pull pieces""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""diaphragms""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""bellows""},
+    {""head"": ""high strength precipitation strengthened copper alloy without beryllium"", ""relation"": ""isUsedFor"", ""tail"": ""spring tubes""}
+]","{'completion_tokens': 5526, 'prompt_tokens': 1695, 'total_tokens': 7221}"
+73ec33db,qwq-plus,c1ddbb9b-fee5-9be9-b202-123b6b492314,200,,,1747769140,"[
+    {""head"": ""high strength concrete"", ""relation"": ""isAKindOf"", ""tail"": ""concrete""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""cement""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""sand""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""stone""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""superplasticizer""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""admixtures""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""mineral admixtures""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""fly ash""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""ultra-fine slag""},
+    {""head"": ""high strength concrete"", ""relation"": ""isMadeOf"", ""tail"": ""silica fume""},
+    {""head"": ""high strength concrete"", ""relation"": ""isUsedFor"", ""tail"": ""structures""},
+    {""head"": ""high strength concrete"", ""relation"": ""isUsedFor"", ""tail"": ""large-span bridge structures""},
+    {""head"": ""high strength concrete"", ""relation"": ""isUsedFor"", ""tail"": ""special structures""},
+    {""head"": ""high strength concrete"", ""relation"": ""isUsedFor"", ""tail"": ""high-rise buildings""}
+]","{'completion_tokens': 2588, 'prompt_tokens': 1590, 'total_tokens': 4178}"
+af429142,qwq-plus,2e23d464-7277-9381-84d4-a02f948b2632,200,,,1747769142,"[
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isAKindOf"",""tail"":""chemical energy""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isAKindOf"",""tail"":""energetic materials""},
+  {""head"":""energy converter"",""relation"":""isPartOf"",""tail"":""initiating explosive device""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""ignition""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""flame transmission""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""detonation""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""detonation transmission""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""delay""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""gas work""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isUsedFor"",""tail"":""pyrotechnic effect""},
+  {""head"":""Initiating explosives and relative compositions"",""relation"":""isDependentOn"",""tail"":""energy converter""}
+]","{'completion_tokens': 3402, 'prompt_tokens': 1574, 'total_tokens': 4976}"
+ac525ed9,qwq-plus,35aa45a3-f72d-9792-8656-c5079ffecb0b,200,,,1747769150,"[
+    {""head"": ""safety test of pyrotechnic compositions"", ""relation"": ""isUsedFor"", ""tail"": ""initiating explosives""},
+    {""head"": ""safety test of pyrotechnic compositions"", ""relation"": ""isUsedFor"", ""tail"": ""relative compositions""},
+    {""head"": ""mechanical action"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""heat"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""light"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""electricity"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""electromagnetic wave"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""static electricity"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""shock wave"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""},
+    {""head"": ""vibration"", ""relation"": ""isAKindOf"", ""tail"": ""external irritation""}
+]","{'completion_tokens': 5473, 'prompt_tokens': 1557, 'total_tokens': 7030}"
+da181ddb,qwq-plus,dd55838b-5726-94bb-9c6f-37c1d536661d,200,,,1747769150,"[
+  {""head"": ""internal compatibility"", ""relation"": ""isAKindOf"", ""tail"": ""compatibility""},
+  {""head"": ""external compatibility"", ""relation"": ""isAKindOf"", ""tail"": ""compatibility""},
+  {""head"": ""components of initiating explosives"", ""relation"": ""isPartOf"", ""tail"": ""initiating explosives""},
+  {""head"": ""pyrotechnic composition"", ""relation"": ""isTestedBy"", ""tail"": ""compatibility test of pyrotechnic composition""}
+]","{'completion_tokens': 2859, 'prompt_tokens': 1561, 'total_tokens': 4420}"
+aa3c66c0,qwq-plus,f3aecdca-439f-907c-8b7a-e9934980d835,200,,,1747769148,"[{""head"":""initiating explosives"",""relation"":""isTestedBy"",""tail"":""vacuum stability test of pyrotechnic composition""},{""head"":""relative compositions"",""relation"":""isTestedBy"",""tail"":""vacuum stability test of pyrotechnic composition""}]","{'completion_tokens': 682, 'prompt_tokens': 1498, 'total_tokens': 2180}"
+f47e2de8,qwq-plus,ad192d13-5a5c-9baf-9567-d975f2d6ddd1,200,,,1747769147,"[{""head"": ""spark source mass spectrometry"", ""relation"": ""isAKindOf"", ""tail"": ""mass spectrometry analysis method""}, {""head"": ""high-frequency spark discharge ion source"", ""relation"": ""isPartOf"", ""tail"": ""spark source mass spectrometry""}, {""head"": ""electrodes"", ""relation"": ""isPartOf"", ""tail"": ""spark source mass spectrometry""}, {""head"": ""spark source mass spectrometry"", ""relation"": ""isDependentOn"", ""tail"": ""strong electric field""}, {""head"": ""spark"", ""relation"": ""isPartOf"", ""tail"": ""spark source mass spectrometry""}]","{'completion_tokens': 3253, 'prompt_tokens': 1559, 'total_tokens': 4812}"
+399e7d55,qwq-plus,c927dfb7-386b-902c-824f-0dd400f6b3a4,200,,,1747769139,"[
+{""head"": ""chemical rocket propellant"", ""relation"": ""isAKindOf"", ""tail"": ""rocket propellant""},
+{""head"": ""chemical rocket propellant"", ""relation"": ""isMadeOf"", ""tail"": ""oxidizer""},
+{""head"": ""chemical rocket propellant"", ""relation"": ""isMadeOf"", ""tail"": ""incendiary composition""},
+{""head"": ""chemical rocket propellant"", ""relation"": ""isMadeOf"", ""tail"": ""functional additive""},
+{""head"": ""rocket propellant"", ""relation"": ""isUsedFor"", ""tail"": ""rocket engine thrust""}
+]","{'completion_tokens': 4057, 'prompt_tokens': 1568, 'total_tokens': 5625}"
+072706d1,qwq-plus,267b115c-40d9-9558-8c8e-033ba904bc22,200,,,1747769140,"[{""head"":""volcanic ash"",""relation"":""isMadeOf"",""tail"":""glass chips""},{""head"":""volcanic ash"",""relation"":""isMadeOf"",""tail"":""rock chips""},{""head"":""volcanic ash"",""relation"":""isMadeOf"",""tail"":""crystal chips""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""cement""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""concrete""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""thermal insulation materials""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""sound insulation materials""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""abrasive""},{""head"":""volcanic ash"",""relation"":""isUsedFor"",""tail"":""filler""}]","{'completion_tokens': 2521, 'prompt_tokens': 1617, 'total_tokens': 4138}"
+66132154,qwq-plus,276c1386-6c6d-9984-8973-3dc847fa47c4,200,,,1747769152,"[{""head"":""pozzolanic addition"",""relation"":""isAKindOf"",""tail"":""volcanic ash materials""},{""head"":""pozzolanic addition"",""relation"":""isMadeOf"",""tail"":""silica""},{""head"":""pozzolanic addition"",""relation"":""isMadeOf"",""tail"":""alumina""},{""head"":""pozzolanic addition"",""relation"":""isPartOf"",""tail"":""cement""},{""head"":""calcium silicate hydrate"",""relation"":""isDerivedFrom"",""tail"":""pozzolanic addition""},{""head"":""calcium silicate hydrate"",""relation"":""isDerivedFrom"",""tail"":""calcium hydroxide""},{""head"":""calcium hydroxide"",""relation"":""isDerivedFrom"",""tail"":""cement clinker""},{""head"":""pozzolanic addition"",""relation"":""isUsedFor"",""tail"":""calcium silicate hydrate""}]","{'completion_tokens': 5829, 'prompt_tokens': 1542, 'total_tokens': 7371}"
+dc3a8e83,qwq-plus,6919fdaa-7878-94bd-8b56-31cf9ecd94f8,200,,,1747769141,"[{""head"": ""volcanic agglomerate"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""}, {""head"": ""volcanic agglomerate"", ""relation"": ""isMadeOf"", ""tail"": ""volcanic rock blocks""}, {""head"": ""volcanic agglomerate"", ""relation"": ""isMadeOf"", ""tail"": ""volcanic ash""}]","{'completion_tokens': 1174, 'prompt_tokens': 1556, 'total_tokens': 2730}"
+79ac3e6a,qwq-plus,5642ef1f-a306-9579-81aa-7cf2c5b3f097,200,,,1747769141,"[
+{""head"": ""volcanic breccia"", ""relation"": ""isAKindOf"", ""tail"": ""pyroclastic rock""},
+{""head"": ""volcanic breccia"", ""relation"": ""isMadeOf"", ""tail"": ""volcanic lava breccia""}
+]","{'completion_tokens': 797, 'prompt_tokens': 1510, 'total_tokens': 2307}"
+d823d3a5,qwq-plus,9a71c84c-05cb-9d82-b951-076636de5ebd,200,,,1747769141,"[
+  {""head"": ""volcanic tuff"", ""relation"": ""isAKindOf"", ""tail"": ""pyroclastic rock""},
+  {""head"": ""volcanic tuff"", ""relation"": ""isMadeOf"", ""tail"": ""pyroclasts""},
+  {""head"": ""glassy tuff"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic tuff""},
+  {""head"": ""crystalline tuff"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic tuff""},
+  {""head"": ""lithic tuff"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic tuff""},
+  {""head"": ""bentonite"", ""relation"": ""isDerivedFrom"", ""tail"": ""volcanic tuff""},
+  {""head"": ""zeolite"", ""relation"": ""isDerivedFrom"", ""tail"": ""volcanic tuff""},
+  {""head"": ""volcanic tuff"", ""relation"": ""isUsedFor"", ""tail"": ""building materials""},
+  {""head"": ""volcanic tuff"", ""relation"": ""isUsedFor"", ""tail"": ""cement raw materials""}
+]","{'completion_tokens': 1765, 'prompt_tokens': 1616, 'total_tokens': 3381}"
+07ada923,qwq-plus,2c53e4d2-2849-9c26-a81c-3a842b8fde01,200,,,1747769152,"[
+    {""head"": ""pyroclastic rock"", ""relation"": ""isMadeOf"", ""tail"": ""volcanic debris""},
+    {""head"": ""volcanic debris"", ""relation"": ""isDerivedFrom"", ""tail"": ""volcanic eruption""}
+]","{'completion_tokens': 2065, 'prompt_tokens': 1502, 'total_tokens': 3567}"
+191d9488,qwq-plus,5969d17e-a383-9ce8-aff5-ee49580e29e7,200,,,1747769144,"[
+    {""head"": ""extrusive rock"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""pyroclastic rock"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""sub volcanic rock"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""marine volcanic rock"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""continental volcanic rock"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""basalt"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""andesite"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""rhyolite"", ""relation"": ""isAKindOf"", ""tail"": ""volcanic rock""},
+    {""head"": ""volcanic rock"", ""relation"": ""isMadeOf"", ""tail"": ""zeolite""},
+    {""head"": ""volcanic rock"", ""relation"": ""isMadeOf"", ""tail"": ""crystal""},
+    {""head"": ""volcanic rock"", ""relation"": ""isMadeOf"", ""tail"": ""pumice""},
+    {""head"": ""volcanic rock"", ""relation"": ""isMadeOf"", ""tail"": ""copper ore""},
+    {""head"": ""volcanic rock"", ""relation"": ""isMadeOf"", ""tail"": ""iron ore""}
+]","{'completion_tokens': 1779, 'prompt_tokens': 1598, 'total_tokens': 3377}"
+8ede71f0,qwq-plus,11547b4f-663f-9357-bb24-5548d5a824ed,200,,,1747769152,"[{""head"":""obsidian"",""relation"":""isAlternativeTo"",""tail"":""F glass""},{""head"":""F glass"",""relation"":""isAKindOf"",""tail"":""colorless optical glass""},{""head"":""light flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""heavy flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""barium flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""heavy barium flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""lanthanum flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""heavy lanthanum flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""titanium flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""special flim"",""relation"":""isAKindOf"",""tail"":""F glass""},{""head"":""F glass"",""relation"":""isMadeOf"",""tail"":""PbO""},{""head"":""F glass"",""relation"":""isUsedFor"",""tail"":""optical instruments""},{""head"":""F glass"",""relation"":""isAlternativeTo"",""tail"":""coronal glass""}]","{'completion_tokens': 5230, 'prompt_tokens': 1583, 'total_tokens': 6813}"
+7f040847,qwq-plus,f9e0631a-19dd-9759-a7b1-3c49f427a86b,200,,,1747769147,"[
+    {""head"": ""flame heat treatment"", ""relation"": ""isAKindOf"", ""tail"": ""heat treatment process""},
+    {""head"": ""flame heat treatment"", ""relation"": ""isUsedFor"", ""tail"": ""case hardening""},
+    {""head"": ""flame heat treatment"", ""relation"": ""isUsedFor"", ""tail"": ""quenching parts of large workpieces""},
+    {""head"": ""flame heat treatment"", ""relation"": ""isUsedFor"", ""tail"": ""heat treatment on the construction site""},
+    {""head"": ""oxygen acetylene"", ""relation"": ""isUsedFor"", ""tail"": ""flame heat treatment""},
+    {""head"": ""methane"", ""relation"": ""isUsedFor"", ""tail"": ""flame heat treatment""},
+    {""head"": ""propane"", ""relation"": ""isUsedFor"", ""tail"": ""flame heat treatment""},
+    {""head"": ""flame heating equipment"", ""relation"": ""isUsedFor"", ""tail"": ""flame heat treatment""}
+]","{'completion_tokens': 4441, 'prompt_tokens': 1613, 'total_tokens': 6054}"
+68d067bf,qwq-plus,1f54ee21-e8aa-9383-8d5d-0f9d7198d0c5,200,,,1747769146,"[
+    {""head"": ""flame sensitivity"", ""relation"": ""isAKindOf"", ""tail"": ""thermal sensitivity""},
+    {""head"": ""initiating explosives"", ""relation"": ""isTestedBy"", ""tail"": ""flame sensitivity test""},
+    {""head"": ""relative compositions"", ""relation"": ""isTestedBy"", ""tail"": ""flame sensitivity test""},
+    {""head"": ""reagent samples"", ""relation"": ""isTestedBy"", ""tail"": ""flame sensitivity test""},
+    {""head"": ""fuse"", ""relation"": ""isPartOf"", ""tail"": ""flame sensitivity test""},
+    {""head"": ""standard fuming powder column"", ""relation"": ""isPartOf"", ""tail"": ""flame sensitivity test""},
+    {""head"": ""lifting method"", ""relation"": ""isPartOf"", ""tail"": ""flame sensitivity test""}
+]","{'completion_tokens': 3473, 'prompt_tokens': 1611, 'total_tokens': 5084}"
+aea97dbf,qwq-plus,7333ebb8-37cd-9272-a6c5-823c9c7ac7d0,200,,,1747769146,"[
+    {""head"": ""flame jet reaction deposition"", ""relation"": ""isAKindOf"", ""tail"": ""thermo-chemical vapor deposition (TCVD)""},
+    {""head"": ""flame jet reaction deposition"", ""relation"": ""isAlternativeTo"", ""tail"": ""flame method""}
+]","{'completion_tokens': 1593, 'prompt_tokens': 1513, 'total_tokens': 3106}"
+7069b261,qwq-plus,6815bf62-411f-9de9-b718-9b58cb1e2f38,200,,,1747769139,"[{""head"":""additive in propellant"",""relation"":""isPartOf"",""tail"":""propellant""}]","{'completion_tokens': 1317, 'prompt_tokens': 1526, 'total_tokens': 2843}"
+12eb0f41,qwq-plus,b0fbf4a7-6e97-9701-b050-c34cbab3bcc1,200,,,1747769145,"[{""head"":""method"",""relation"":""isPartOf"",""tail"":""technology of propellant""},{""head"":""principle"",""relation"":""isPartOf"",""tail"":""technology of propellant""},{""head"":""process"",""relation"":""isPartOf"",""tail"":""technology of propellant""},{""head"":""equipment"",""relation"":""isPartOf"",""tail"":""technology of propellant""},{""head"":""process conditions"",""relation"":""isPartOf"",""tail"":""technology of propellant""},{""head"":""press drawing process"",""relation"":""isUsedFor"",""tail"":""propellant manufacturing""},{""head"":""calendering process"",""relation"":""isUsedFor"",""tail"":""propellant manufacturing""},{""head"":""casting process"",""relation"":""isUsedFor"",""tail"":""propellant manufacturing""},{""head"":""suspension process"",""relation"":""isUsedFor"",""tail"":""propellant manufacturing""}]","{'completion_tokens': 1601, 'prompt_tokens': 1521, 'total_tokens': 3122}"
+0af9a94d,qwq-plus,eac6f5ce-5841-9611-a42e-d43de5ea9835,200,,,1747769145,"[
+    {""head"": ""hygroscopicity of propellant and explosive"", ""relation"": ""isAKindOf"", ""tail"": ""physical process""},
+    {""head"": ""weight gain"", ""relation"": ""isPartOf"", ""tail"": ""hygroscopicity of propellant and explosive""},
+    {""head"": ""heat absorption"", ""relation"": ""isPartOf"", ""tail"": ""hygroscopicity of propellant and explosive""},
+    {""head"": ""mass increase"", ""relation"": ""isPartOf"", ""tail"": ""hygroscopicity of propellant and explosive""},
+    {""head"": ""special instrument"", ""relation"": ""isUsedFor"", ""tail"": ""moisture absorption""},
+    {""head"": ""heat absorption process"", ""relation"": ""isDependentOn"", ""tail"": ""time""},
+    {""head"": ""mass increase"", ""relation"": ""isDependentOn"", ""tail"": ""time""}
+]","{'completion_tokens': 6218, 'prompt_tokens': 1556, 'total_tokens': 7774}"
+768ac854,qwq-plus,913dd836-8afd-9b3e-8c39-eb4e9f8dea31,200,,,1747769139,"[
+{""head"": ""Hall potential difference"", ""relation"": ""isAKindOf"", ""tail"": ""potential difference""},
+{""head"": ""Hall potential difference"", ""relation"": ""isDependentOn"", ""tail"": ""magnetic field""},
+{""head"": ""Hall potential difference"", ""relation"": ""isDependentOn"", ""tail"": ""current""}
+]","{'completion_tokens': 3039, 'prompt_tokens': 1600, 'total_tokens': 4639}"
+6df490a5,qwq-plus,09968ab1-8075-910e-89b4-a21229d213d5,200,,,1747769148,"[
+    {""head"": ""Hall effect measurement"", ""relation"": ""isAKindOf"", ""tail"": ""test method""},
+    {""head"": ""semiconductor materials"", ""relation"": ""isTestedBy"", ""tail"": ""Hall effect measurement""},
+    {""head"": ""conductor materials"", ""relation"": ""isTestedBy"", ""tail"": ""Hall effect measurement""},
+    {""head"": ""Hall effect"", ""relation"": ""isAKindOf"", ""tail"": ""phenomenon""}
+]","{'completion_tokens': 4729, 'prompt_tokens': 1549, 'total_tokens': 6278}"
+535785bb,qwq-plus,a0fd82ab-f3bc-99c0-b6e8-f9ff97b32946,200,,,1747769140,"[
+  {""head"": ""electromechanical coupling coefficient"", ""relation"": ""isDerivedFrom"", ""tail"": ""elastic electric interaction energy density""},
+  {""head"": ""electromechanical coupling coefficient"", ""relation"": ""isDerivedFrom"", ""tail"": ""geometric mean value of the product of elasticity energy density and dielectric energy density""}
+]","{'completion_tokens': 4645, 'prompt_tokens': 1525, 'total_tokens': 6170}"
+1db53fdc,qwq-plus,3421934b-007d-97c4-b2af-cf3b5bdd2ab5,200,,,1747769139,"[{""head"": ""machined plate"", ""relation"": ""isAKindOf"", ""tail"": ""graphite plate""}, {""head"": ""groove"", ""relation"": ""isPartOf"", ""tail"": ""machined plate""}]","{'completion_tokens': 1387, 'prompt_tokens': 1534, 'total_tokens': 2921}"
+8e4c2d43,qwq-plus,7e4b31b9-1100-9ab4-991c-0a81cf612d43,200,,,1747769141,"[
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""immobilized enzyme""},
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""tubular macromolecule materials""},
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""urease""},
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""nylon resin tube""},
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""invertase""},
+{""head"":""enzyme tube"",""relation"":""isMadeOf"",""tail"":""glucose oxidase""},
+{""head"":""nylon tubes"",""relation"":""isAKindOf"",""tail"":""tubular macromolecule materials""},
+{""head"":""nylon resin tube"",""relation"":""isAKindOf"",""tail"":""tubular macromolecule materials""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""disaccharides""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""lactose""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""uric acid""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""creatinine""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""disaccharides content""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""maltose""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""lactose""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""urea content""},
+{""head"":""enzyme tube"",""relation"":""isUsedFor"",""tail"":""creatinine content""}
+]","{'completion_tokens': 7725, 'prompt_tokens': 1680, 'total_tokens': 9405}"
+266c2670,qwq-plus,d6d88e69-c99a-9881-8c72-ca025a94eb9a,200,,,1747769144,"[{""head"":""enzyme test paper"",""relation"":""isAKindOf"",""tail"":""isoenzyme""},{""head"":""enzyme test paper"",""relation"":""isMadeOf"",""tail"":""enzyme""},{""head"":""enzyme test paper"",""relation"":""isMadeOf"",""tail"":""test paper""},{""head"":""enzyme test paper"",""relation"":""isUsedFor"",""tail"":""clinical analysis""},{""head"":""semi quantitative glucose test strips"",""relation"":""isAKindOf"",""tail"":""enzyme test paper""},{""head"":""semi quantitative glucose test strips"",""relation"":""isAKindOf"",""tail"":""test strips""},{""head"":""semi quantitative glucose test strips"",""relation"":""isMadeOf"",""tail"":""glucose oxidase""},{""head"":""semi quantitative glucose test strips"",""relation"":""isMadeOf"",""tail"":""catalase""},{""head"":""semi quantitative glucose test strips"",""relation"":""isUsedFor"",""tail"":""measuring glucose content in body fluids""},{""head"":""semi quantitative glucose test strips"",""relation"":""isUsedFor"",""tail"":""measuring glucose content in urine""},{""head"":""enzyme test paper"",""relation"":""isUsedFor"",""tail"":""determination of galactose content""},{""head"":""enzyme test paper"",""relation"":""isMadeOf"",""tail"":""galactose oxidase""},{""head"":""enzyme test paper"",""relation"":""isMadeOf"",""tail"":""indicator""},{""head"":""enzyme test paper"",""relation"":""isMadeOf"",""tail"":""dye or dyestuffc""}]","{'completion_tokens': 7506, 'prompt_tokens': 1643, 'total_tokens': 9149}"
+1fb91c5c,qwq-plus,707ab1f3-c2b5-9dd1-985d-d12e44a1abbe,200,,,1747769148,"[
+    {""head"": ""art porcelain"", ""relation"": ""isAlternativeTo"", ""tail"": ""ornamental porcelain""},
+    {""head"": ""art porcelain"", ""relation"": ""isAKindOf"", ""tail"": ""ceramics handicraft""}
+]","{'completion_tokens': 761, 'prompt_tokens': 1492, 'total_tokens': 2253}"
+e5d8ef01,qwq-plus,d1ca089b-c7a5-90d3-b12a-39c03191ef3a,200,,,1747769143,"[
+{""head"":""magnesia dolomite brick"",""relation"":""isAKindOf"",""tail"":""Refractory bricks""},
+{""head"":""magnesia dolomite brick"",""relation"":""isAKindOf"",""tail"":""basic refractory""},
+{""head"":""magnesia dolomite brick"",""relation"":""isMadeOf"",""tail"":""magnesium dolomite""},
+{""head"":""magnesia dolomite brick"",""relation"":""isUsedFor"",""tail"":""cement kilns""}
+]","{'completion_tokens': 1654, 'prompt_tokens': 1508, 'total_tokens': 3162}"
+de4846b9,qwq-plus,82520294-b277-965c-b195-7b92d39ced28,200,,,1747769139,"[
+    {""head"": ""magnesium powder"", ""relation"": ""isAKindOf"", ""tail"": ""elemental magnesium""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""military industry""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""aerospace industry""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""steelmaking""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""non-ferrous metal foundry""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""rare metal production""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""spraying industries""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""anti-corrosion industries""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""monocrystalline silicon""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""polycrystalline silicon""},
+    {""head"": ""magnesium powder"", ""relation"": ""isUsedFor"", ""tail"": ""metallurgical powder die-casting""}
+]","{'completion_tokens': 2995, 'prompt_tokens': 1671, 'total_tokens': 4666}"
+9d343e39,qwq-plus,0f6ecc55-b361-9a1f-84cb-045e4cba3d8b,200,,,1747769141,"[
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""dolomite""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""high calcium synthetic sintered magnesia""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""carbon black""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""graphite""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""anhydrous organic binder""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""corrosion resistance to alkaline slag""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""thermal shock resistance""},
+{""head"": ""magnesia calcia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""purifying molten steel""}
+]","{'completion_tokens': 2266, 'prompt_tokens': 1550, 'total_tokens': 3816}"
+0423e5fc,qwq-plus,65d90a0f-db14-954d-bb8b-eef34222cb0d,200,,,1747769147,"[{""head"": ""magnesia calcia brick"", ""relation"": ""isAKindOf"", ""tail"": ""magnesia based refractory""}, {""head"": ""magnesia calcia brick"", ""relation"": ""isMadeOf"", ""tail"": ""periclase""}, {""head"": ""magnesia calcia brick"", ""relation"": ""isMadeOf"", ""tail"": ""dicalcium silicate""}, {""head"": ""magnesia calcia brick"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium calcium sand""}]","{'completion_tokens': 2107, 'prompt_tokens': 1552, 'total_tokens': 3659}"
+4545476d,qwq-plus,6f186d71-6b1e-919f-a50e-3f020fd60716,200,,,1747769149,"[
+{""head"": ""forsterite ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""magnesia porcelain""},
+{""head"": ""forsterite ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""electric vacuum parts""},
+{""head"": ""forsterite ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""high-power capacitors""},
+{""head"": ""forsterite ceramics"", ""relation"": ""isAlternativeTo"", ""tail"": ""steatite porcelain""}
+]","{'completion_tokens': 2296, 'prompt_tokens': 1608, 'total_tokens': 3904}"
+63ef50de,qwq-plus,2e1f6b24-4344-9c40-8d4e-cfa7c4490b3a,200,,,1747769143,"[{""head"":""magnesite chrome brick"",""relation"":""isAKindOf"",""tail"":""refractory products""},{""head"":""magnesite chrome brick"",""relation"":""isMadeOf"",""tail"":""periclase""},{""head"":""magnesite chrome brick"",""relation"":""isMadeOf"",""tail"":""spinel""},{""head"":""magnesite chrome brick"",""relation"":""isUsedFor"",""tail"":""external refining furnace""},{""head"":""magnesite chrome brick"",""relation"":""isUsedFor"",""tail"":""nonferrous metal smelting furnace""},{""head"":""magnesite chrome brick"",""relation"":""isUsedFor"",""tail"":""cement rotary kiln""},{""head"":""magnesite chrome brick"",""relation"":""isUsedFor"",""tail"":""glass kiln""}]","{'completion_tokens': 3590, 'prompt_tokens': 1543, 'total_tokens': 5133}"
+78743acf,qwq-plus,6cbc3292-1a37-9c76-b4da-f96cba4d974c,200,,,1747769140,"[
+{""head"": ""Mg Li"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""Mg Al Pb"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""Mg Hg Ga"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""Mg Mn"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""Magnesium alloy battery"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium alloy materials""},
+{""head"": ""Magnesium alloy battery"", ""relation"": ""isUsedFor"", ""tail"": ""civilian products""},
+{""head"": ""Magnesium alloy battery"", ""relation"": ""isUsedFor"", ""tail"": ""military products""},
+{""head"": ""extrusion plates"", ""relation"": ""isPartOf"", ""tail"": ""Magnesium alloy battery""},
+{""head"": ""extrusion bar"", ""relation"": ""isPartOf"", ""tail"": ""Magnesium alloy battery""}
+]","{'completion_tokens': 4776, 'prompt_tokens': 1584, 'total_tokens': 6360}"
+87985bd6,qwq-plus,71a9246d-b46d-915f-a031-a55e94f06331,200,,,1747769147,"[
+    {""head"": ""localized corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""corrosion failure mode""},
+    {""head"": ""pitting corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""filiform corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""galvanic corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""stress corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""corrosion fatigue"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""wear corrosion"", ""relation"": ""isAKindOf"", ""tail"": ""localized corrosion""},
+    {""head"": ""base phase"", ""relation"": ""isPartOf"", ""tail"": ""magnesium alloy""},
+    {""head"": ""precipitated phase"", ""relation"": ""isPartOf"", ""tail"": ""magnesium alloy""},
+    {""head"": ""micro galvanic corrosion"", ""relation"": ""isDependentOn"", ""tail"": ""potential difference between precipitated phase and base phase""},
+    {""head"": ""macro galvanic corrosion"", ""relation"": ""isDependentOn"", ""tail"": ""connection with other metals""},
+    {""head"": ""surface of magnesium alloy"", ""relation"": ""isPartOf"", ""tail"": ""magnesium alloy""}
+]","{'completion_tokens': 4077, 'prompt_tokens': 1718, 'total_tokens': 5795}"
+b5311f7d,qwq-plus,1975575a-2699-97d6-9b3a-255d50ae6a19,200,,,1747769141,"[
+    {
+        ""head"": ""difference effect"",
+        ""relation"": ""isMadeOf"",
+        ""tail"": ""difference between the hydrogen evolution rate I0 at corrosion potential and the hydrogen evolution rate IH measured at a certain external anode potential""
+    }
+]","{'completion_tokens': 3099, 'prompt_tokens': 1508, 'total_tokens': 4607}"
+0dfb4102,qwq-plus,6eb1c39e-0237-939b-8367-fd3b9fcfb607,200,,,1747769139,"[{""head"":""adhesive"",""relation"":""isUsedFor"",""tail"":""bonded joint""},{""head"":""bonded joint"",""relation"":""isAKindOf"",""tail"":""joint""},{""head"":""bonded structures"",""relation"":""isTestedBy"",""tail"":""accelerated hot-humid aging test""},{""head"":""micro arc oxidation film"",""relation"":""isPartOf"",""tail"":""magnesium alloy surface""},{""head"":""micro arc oxidation film"",""relation"":""isComplementaryTo"",""tail"":""J-47 medium temperature curing adhesive""},{""head"":""micro arc oxidation film"",""relation"":""isDerivedFrom"",""tail"":""micro arc oxidation""},{""head"":""weld"",""relation"":""isComplementaryTo"",""tail"":""bonding""},{""head"":""magnesium alloy bonding"",""relation"":""isUsedFor"",""tail"":""rail transit""},{""head"":""magnesium alloy bonding"",""relation"":""isUsedFor"",""tail"":""automobiles""},{""head"":""magnesium alloy bonding"",""relation"":""isUsedFor"",""tail"":""aerospace""},{""head"":""laser bonding"",""relation"":""isAKindOf"",""tail"":""advanced bonding method""},{""head"":""bonding sport welding"",""relation"":""isAKindOf"",""tail"":""advanced bonding method""},{""head"":""J-47 medium temperature curing adhesive"",""relation"":""isAKindOf"",""tail"":""adhesive""}]","{'completion_tokens': 4928, 'prompt_tokens': 1890, 'total_tokens': 6818}"
+d67ecba2,qwq-plus,b255699e-1475-9c45-9dec-36ab305dd971,200,,,1747769140,"[
+  {""head"": ""melting and pouring furnace of magnesium alloy"", ""relation"": "" isAKindOf "", ""tail"": "" magnesium alloy melt preparation and supply equipment ""},
+  {""head"": ""intermittent melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""continuous melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""flux protected melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""gas protected melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""gas melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""resistance melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""induction melting pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""electromagnetic pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""pneumatic pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""cold pump pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""rotary pouring furnace"", ""relation"": "" isAKindOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""furnace body"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""heating system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""crucible"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""furnace cover"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""protective gas system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""quantitative pouring system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""three-dimensional positioning system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""safety assurance system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""integrated control system"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""preheating and feeding mechanism"", ""relation"": "" isPartOf "", ""tail"": "" melting and pouring furnace of magnesium alloy ""},
+  {""head"": ""melting and pouring furnace of magnesium alloy"", ""relation"": "" isUsedFor "", ""tail"": "" melting of magnesium alloy furnace charge ""},
+  {""head"": ""melting and pouring furnace of magnesium alloy"", ""relation"": "" isUsedFor "", ""tail"": "" adjust temperature ""},
+  {""head"": ""melting and pouring furnace of magnesium alloy"", ""relation"": "" isUsedFor "", ""tail"": "" provide quantitative positioning to foundry molding equipment ""}
+]","{'completion_tokens': 4476, 'prompt_tokens': 1786, 'total_tokens': 6262}"
+89ab22d1,qwq-plus,cc68bbd7-a289-9c9d-afd2-bbfe4e31a28e,200,,,1747769142,"[{""head"":""flux"",""relation"":""isAKindOf"",""tail"":""molten salt mixture""},{""head"":""chloride flux"",""relation"":""isUsedFor"",""tail"":""flame retardant protection""},{""head"":""flux"",""relation"":""isMadeOf"",""tail"":""MgCl2""},{""head"":""flux"",""relation"":""isMadeOf"",""tail"":""KCl2""},{""head"":""flux"",""relation"":""isMadeOf"",""tail"":""lithium chloride""},{""head"":""flux"",""relation"":""isMadeOf"",""tail"":""active metal chlorides""},{""head"":""chloride flux"",""relation"":""isUsedFor"",""tail"":""AZ series magnesium alloy""},{""head"":""chloride flux"",""relation"":""isUsedFor"",""tail"":""AM series magnesium alloy""},{""head"":""flux protection"",""relation"":""isPartOf"",""tail"":""magnesium alloy smelting""},{""head"":""flux protection"",""relation"":""isDependentOn"",""tail"":""constant supplementation""},{""head"":""flux management"",""relation"":""isDependentOn"",""tail"":""human resources""},{""head"":""dense molten flux layer"",""relation"":""isPartOf"",""tail"":""magnesium alloy molten pool surface""}]","{'completion_tokens': 4950, 'prompt_tokens': 1747, 'total_tokens': 6697}"
+33df36fc,qwq-plus,d647aba6-44c6-924f-8e13-28630e82e740,200,,,1747769151,"[
+{""head"": ""mixed shielding gas"", ""relation"": ""isPartOf"", ""tail"": ""gas protection of magnesium alloy smelting""},
+{""head"": ""reaction film forming gas"", ""relation"": ""isPartOf"", ""tail"": ""mixed shielding gas""},
+{""head"": ""current carrying gas"", ""relation"": ""isPartOf"", ""tail"": ""mixed shielding gas""},
+{""head"": ""SF6"", ""relation"": ""isAKindOf"", ""tail"": ""reaction film forming gas""},
+{""head"": ""BF3"", ""relation"": ""isAKindOf"", ""tail"": ""reaction film forming gas""},
+{""head"": ""SO2"", ""relation"": ""isAKindOf"", ""tail"": ""reaction film forming gas""},
+{""head"": ""Freon"", ""relation"": ""isAKindOf"", ""tail"": ""reaction film forming gas""},
+{""head"": ""N2"", ""relation"": ""isAKindOf"", ""tail"": ""current carrying gas""},
+{""head"": ""CO2"", ""relation"": ""isAKindOf"", ""tail"": ""current carrying gas""},
+{""head"": ""dry air"", ""relation"": ""isAKindOf"", ""tail"": ""current carrying gas""},
+{""head"": ""Ar"", ""relation"": ""isAKindOf"", ""tail"": ""current carrying gas""},
+{""head"": ""oxide film"", ""relation"": ""isPartOf"", ""tail"": ""gas protection of magnesium alloy smelting""}
+]","{'completion_tokens': 6139, 'prompt_tokens': 1796, 'total_tokens': 7935}"
+7cd59f0c,qwq-plus,73aa97bf-a601-959c-94cd-916f09784928,200,,,1747769148,"[
+{""head"": ""micro arc composite treatment of magnesium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""environmentally friendly surface treatment technology""},
+{""head"": ""micro arc composite treatment of magnesium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""micro arc oxidation""},
+{""head"": ""micro arc composite treatment of magnesium alloy"", ""relation"": ""isMadeOf"", ""tail"": ""ceramics organic composite coating""},
+{""head"": ""ceramics organic composite coating"", ""relation"": ""isPartOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""ceramics organic composite coating"", ""relation"": ""isMadeOf"", ""tail"": ""ceramics""},
+{""head"": ""ceramics organic composite coating"", ""relation"": ""isMadeOf"", ""tail"": ""organic materials""},
+{""head"": ""porous structure"", ""relation"": ""isPartOf"", ""tail"": ""ceramics layer""}
+]","{'completion_tokens': 4806, 'prompt_tokens': 1622, 'total_tokens': 6428}"
+790ac7b8,qwq-plus,5378164f-d807-99c2-b542-ef8c0622c845,200,,,1747769141,"[
+{""head"": ""foamed plastics"", ""relation"": ""isUsedFor"", ""tail"": ""full mold pattern""},
+{""head"": ""dry sand molding"", ""relation"": ""isPartOf"", ""tail"": ""lost foam casting of magnesium alloy""},
+{""head"": ""precision casting method for magnesium alloy parts"", ""relation"": ""isAKindOf"", ""tail"": ""casting method""},
+{""head"": ""lost foam casting"", ""relation"": ""isUsedFor"", ""tail"": ""steel castings""},
+{""head"": ""lost foam casting of magnesium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""magnesium alloy parts""},
+{""head"": ""magnesium alloy vacuum low-pressure lost foam foundry"", ""relation"": ""isAKindOf"", ""tail"": ""lost foam casting of magnesium alloy""},
+{""head"": ""lost foam foundry process"", ""relation"": ""isDependentOn"", ""tail"": ""atmosphere protection""},
+{""head"": ""lost foam casting"", ""relation"": ""isUsedFor"", ""tail"": ""AZ91 magnesium alloy castings""},
+{""head"": ""lost foam casting of magnesium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""motor shells""},
+{""head"": ""lost foam casting of magnesium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""aircraft guide wheels""},
+{""head"": ""lost foam casting of magnesium alloy"", ""relation"": ""isUsedFor"", ""tail"": ""exhaust pipes""},
+{""head"": ""lost foam casting of magnesium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""lost foam casting""}
+]","{'completion_tokens': 5401, 'prompt_tokens': 1772, 'total_tokens': 7173}"
+cf0ca76f,qwq-plus,1b29b30a-b8f5-92df-b773-b4e91ffbcf12,200,,,1747769143,"[
+{""head"": ""conventional anodizing"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy anodizing""},
+{""head"": ""plasma micro arc oxidation"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium alloy anodizing""},
+{""head"": ""Dow17"", ""relation"": ""isAKindOf"", ""tail"": ""conventional anodizing""},
+{""head"": ""HAE"", ""relation"": ""isAKindOf"", ""tail"": ""conventional anodizing""},
+{""head"": ""magnesium alloy anodic oxide film"", ""relation"": ""isPartOf"", ""tail"": ""magnesium alloy""},
+{""head"": ""magnesium alloy anodic oxide film"", ""relation"": ""isUsedFor"", ""tail"": ""coating substrate""},
+{""head"": ""magnesium alloy anodic oxide coating"", ""relation"": ""isAlternativeTo"", ""tail"": ""chemical conversion coating""}
+]","{'completion_tokens': 3026, 'prompt_tokens': 1705, 'total_tokens': 4731}"
+5c5c7dee,qwq-plus,19830385-8601-9f9c-8874-b4352f418012,200,,,1747769151,"[{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isAKindOf"",""tail"":""magnesium alloy profile""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isMadeOf"",""tail"":""AZ31 magnesium alloy""},{""head"":""AZ31 magnesium alloy"",""relation"":""isAKindOf"",""tail"":""magnesium alloy""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""high-speed trains""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""subway trains""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""light rail trains""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""double deck passenger cars""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""luxury buses""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""freight cars""},{""head"":""magnesium alloy hollow thinwalled profile"",""relation"":""isUsedFor"",""tail"":""special vehicles""}]","{'completion_tokens': 2059, 'prompt_tokens': 1741, 'total_tokens': 3800}"
+e0d97942,qwq-plus,e340890e-744e-91a9-9ec1-fc6306e9b3be,200,,,1747769146,"[
+  {""head"": ""micro arc oxidation film"", ""relation"": ""isAKindOf"", ""tail"": ""porous ceramics structure""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isAKindOf"", ""tail"": ""micro arc oxidation film""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium oxide""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isMadeOf"", ""tail"": ""titanium oxide""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isMadeOf"", ""tail"": ""zirconium oxide""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isAlternativeTo"", ""tail"": ""organic coatings""},
+  {""head"": ""self sealing micro arc oxidation film"", ""relation"": ""isAlternativeTo"", ""tail"": ""ordinary micro arc oxidation film""}
+]","{'completion_tokens': 5535, 'prompt_tokens': 1635, 'total_tokens': 7170}"
+dd3fac75,qwq-plus,5f5e7658-4915-98d9-967e-fba7727eb3f8,200,,,1747769150,"[
+  {""head"": ""Mg based hydrogen storage materials"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+  {""head"": ""magnesium based hydrogen storage alloy"", ""relation"": ""isAKindOf"", ""tail"": ""Mg based hydrogen storage materials""},
+  {""head"": ""magnesium based coordination hydride hydrogen storage materials"", ""relation"": ""isAKindOf"", ""tail"": ""Mg based hydrogen storage materials""},
+  {""head"": ""magnesium based composite hydrogen storage materials"", ""relation"": ""isAKindOf"", ""tail"": ""Mg based hydrogen storage materials""},
+  {""head"": ""Mg based hydrogen storage materials"", ""relation"": ""isUsedFor"", ""tail"": ""hydrogen storage""}
+]","{'completion_tokens': 1534, 'prompt_tokens': 1545, 'total_tokens': 3079}"
+500de4d1,qwq-plus,8d1abd8f-304c-925a-99bb-09c251c0a72e,200,,,1747769147,"[
+    {""head"": ""magnesium matrix composite"", ""relation"": ""isAKindOf"", ""tail"": ""composite materials""},
+    {""head"": ""magnesium alloy"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""fibrous"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""granular"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""crystal whisker"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""carbide"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""boride"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""oxide"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""},
+    {""head"": ""graphite (carbon)"", ""relation"": ""isPartOf"", ""tail"": ""magnesium matrix composite""}
+]","{'completion_tokens': 4792, 'prompt_tokens': 1614, 'total_tokens': 6406}"
+5fa5005d,qwq-plus,b507ac3d-5524-95bd-ad20-db08d6821dba,200,,,1747769154,"[{""head"":""pure magnesium"",""relation"":""isAKindOf"",""tail"":""Mg based biomaterials""},{""head"":""biomedical magnesium alloy"",""relation"":""isAKindOf"",""tail"":""Mg based biomaterials""},{""head"":""biomedical magnesium matrix composite"",""relation"":""isAKindOf"",""tail"":""Mg based biomaterials""},{""head"":""Mg based biomaterials"",""relation"":""isUsedFor"",""tail"":""hard tissue replacement and repair""},{""head"":""Mg based biomaterials"",""relation"":""isUsedFor"",""tail"":""degradation intracavitary stem""},{""head"":""Mg based biomaterials"",""relation"":""isUsedFor"",""tail"":""tissue engineering scaffolds""},{""head"":""Mg based biomaterials"",""relation"":""isMadeOf"",""tail"":""magnesium""},{""head"":""Mg based biomaterials"",""relation"":""isMadeOf"",""tail"":""magnesium alloys""},{""head"":""Mg based biomaterials"",""relation"":""isSimilarTo"",""tail"":""human bone""}]","{'completion_tokens': 4109, 'prompt_tokens': 1665, 'total_tokens': 5774}"
+8b670335,qwq-plus,60aa123e-ce3f-9ded-988a-85e6b9fab2d7,200,,,1747769151,"[
+{""head"":""magnesite spinel brick"",""relation"":""isAKindOf"",""tail"":""refractory products""},
+{""head"":""magnesite spinel brick"",""relation"":""isMadeOf"",""tail"":""periclase""},
+{""head"":""magnesite spinel brick"",""relation"":""isMadeOf"",""tail"":""magnesia alumina spinel""},
+{""head"":""magnesite spinel brick"",""relation"":""isMadeOf"",""tail"":""magnesia""},
+{""head"":""magnesite spinel brick"",""relation"":""isMadeOf"",""tail"":""synthetic magnesium aluminum spinel""}
+]","{'completion_tokens': 3467, 'prompt_tokens': 1514, 'total_tokens': 4981}"
+c47d480a,qwq-plus,031b00dd-823c-9830-a63f-ceb80af74307,200,,,1747769141,"[{""head"":""spinel ceramics"",""relation"":""isAKindOf"",""tail"":""magnesia porcelain""},{""head"":""magnesium aluminum spinel porcelain"",""relation"":""isAKindOf"",""tail"":""spinel ceramics""},{""head"":""magnesium aluminum spinel porcelain"",""relation"":""isUsedFor"",""tail"":""low voltage and high frequency capacitors""},{""head"":""magnesium aluminum spinel porcelain"",""relation"":""isUsedFor"",""tail"":""induction coil frameworks""},{""head"":""magnesium aluminum spinel porcelain"",""relation"":""isUsedFor"",""tail"":""electronic tube sockets""}]","{'completion_tokens': 3396, 'prompt_tokens': 1585, 'total_tokens': 4981}"
+a7415634,qwq-plus,688af524-7b0b-9efd-a067-daf2a5fdc709,200,,,1747769148,"[{""head"":""magnesite alumina brick"",""relation"":""isAKindOf"",""tail"":""basic refractories""},{""head"":""magnesite alumina brick"",""relation"":""isMadeOf"",""tail"":""peridase""},{""head"":""magnesite alumina brick"",""relation"":""isMadeOf"",""tail"":""magnesium aluminum spinel""},{""head"":""magnesite alumina brick"",""relation"":""isMadeOf"",""tail"":""A1203""},{""head"":""magnesite alumina brick"",""relation"":""isAlternativeTo"",""tail"":""magnesite brick""}]","{'completion_tokens': 2700, 'prompt_tokens': 1553, 'total_tokens': 4253}"
+23571e48,qwq-plus,5b0df559-f276-9033-82ba-ad86050f5f2a,200,,,1747769145,"[
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isAKindOf"", ""tail"": ""spinel structure ferrite""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""moment magnetic material""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""memory core""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""automatic control""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""radar navigation""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""space navigation""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isUsedFor"", ""tail"": ""information display""},
+  {""head"": ""Mg Mn ferrite"", ""relation"": ""isAKindOf"", ""tail"": ""ferrite magnetic material""}
+]","{'completion_tokens': 4193, 'prompt_tokens': 1581, 'total_tokens': 5774}"
+dd9f5c58,qwq-plus,dd8743f9-644e-9dc2-a35d-9a713aaf2104,200,,,1747769141,"[
+    {""head"": ""Magnox alloy"", ""relation"": ""isAKindOf"", ""tail"": ""magnesium based alloy""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isAKindOf"", ""tail"": ""Magnox alloy""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isAKindOf"", ""tail"": ""Magnox alloy""},
+    {""head"": ""Magnox MN70"", ""relation"": ""isAKindOf"", ""tail"": ""Magnox alloy""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isMadeOf"", ""tail"": ""aluminum""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isMadeOf"", ""tail"": ""beryllium""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isMadeOf"", ""tail"": ""zirconium""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+    {""head"": ""Magnox MN70"", ""relation"": ""isMadeOf"", ""tail"": ""manganese""},
+    {""head"": ""Magnox MN70"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+    {""head"": ""Magnox alloy"", ""relation"": ""isMadeOf"", ""tail"": ""calcium""},
+    {""head"": ""Magnox alloy"", ""relation"": ""isMadeOf"", ""tail"": ""beryllium""},
+    {""head"": ""Magnox alloy"", ""relation"": ""isMadeOf"", ""tail"": ""magnesium""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""cladding materials""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isUsedFor"", ""tail"": ""natural uranium fuel""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isUsedFor"", ""tail"": ""graphite moderator""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isUsedFor"", ""tail"": ""carbon dioxide coolant""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isUsedFor"", ""tail"": ""fuel element cladding""},
+    {""head"": ""Magnox AL80"", ""relation"": ""isUsedFor"", ""tail"": ""end plug""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""natural uranium fuel""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""graphite moderator""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""carbon dioxide coolant""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""fuel element cladding""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isUsedFor"", ""tail"": ""end plug""},
+    {""head"": ""Magnox MN70"", ""relation"": ""isUsedFor"", ""tail"": ""structural materials of fuel element""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isDependentOn"", ""tail"": ""aluminum""},
+    {""head"": ""Magnox ZR55"", ""relation"": ""isDependentOn"", ""tail"": ""carbon""},
+    {""head"": ""fuel element cladding"", ""relation"": ""isPartOf"", ""tail"": ""dual purpose power reactor""},
+    {""head"": ""end plug"", ""relation"": ""isPartOf"", ""tail"": ""dual purpose power reactor""},
+    {""head"": ""Magnox alloy"", ""relation"": ""isAKindOf"", ""tail"": ""oxidation resistant alloy""}
+]","{'completion_tokens': 5555, 'prompt_tokens': 1795, 'total_tokens': 7350}"
+8311c24b,qwq-plus,78b8ae33-cad6-9736-ae6f-9fcbf429800e,200,,,1747769143,"[
+{""head"": ""magnesia carbon brick"", ""relation"": ""isAKindOf"", ""tail"": ""refractory products""},
+{""head"": ""magnesia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""magnesia""},
+{""head"": ""magnesia carbon brick"", ""relation"": ""isMadeOf"", ""tail"": ""graphite""},
+{""head"": ""magnesia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""steelmaking converter""},
+{""head"": ""magnesia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""electric arc furnace""},
+{""head"": ""magnesia carbon brick"", ""relation"": ""isUsedFor"", ""tail"": ""ladle""}
+]","{'completion_tokens': 2319, 'prompt_tokens': 1543, 'total_tokens': 3862}"
+de4ebc10,qwq-plus,ba7ac4dc-a6bc-9d45-8ca7-8a1cff0201ac,200,,,1747769148,"[
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isAKindOf"", ""tail"": ""sacrificial anode materials""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""cathodic protection""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""protection of buried oil/water tanks""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""protection of pipelines in high resistivity soil""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""protection of domestic water heater tank""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""suppressing scale formation on electric heating rod""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isUsedFor"", ""tail"": ""protection of metal components in soil and fresh water with high resistivity""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isMadeOf"", ""tail"": ""high purity magnesium""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isMadeOf"", ""tail"": ""Mg Mn""},
+  {""head"": ""magnesium alloy sacrificial anodes"", ""relation"": ""isMadeOf"", ""tail"": ""Mg Al Zn Mn""}
+]","{'completion_tokens': 4184, 'prompt_tokens': 1729, 'total_tokens': 5913}"
+393c2fdd,qwq-plus,ce94493f-1476-9495-9ae6-caf06f12bb89,200,,,1747769141,"[{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""illuminating composition""},{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""tracer""},{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""incendiary composition""},{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""bait""},{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""signal agent""},{""head"":""magnesium type ignition composition"",""relation"":""isUsedFor"",""tail"":""propellant with high ignition point""},{""head"":""magnesium powder"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""magnesium"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""polylctrafluorocthylone"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""potassium nitrate"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""phenolic resin"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""cerium magnesium alloy"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""lead dioxide"",""relation"":""isPartOf"",""tail"":""magnesium type ignition composition""},{""head"":""magnesium"",""relation"":""isAKindOf"",""tail"":""active metal""},{""head"":""magnesium type ignition composition"",""relation"":""isAKindOf"",""tail"":""ignition composition""}]","{'completion_tokens': 6448, 'prompt_tokens': 1720, 'total_tokens': 8168}"
+37f1d852,qwq-plus,3c40bc62-9538-9cf0-b671-cc683cc5959f,200,,,1747769140,"[
+{""head"":""chlorinated molten salt electrolysis smelting process technology"",""relation"":""isAKindOf"",""tail"":""magnesium smelting process""},
+{""head"":""silicothermic reduction process technology"",""relation"":""isAKindOf"",""tail"":""magnesium smelting process""},
+{""head"":""Pidgeon process"",""relation"":""isAKindOf"",""tail"":""silicothermic reduction process technology""},
+{""head"":""production of magnesium chloride"",""relation"":""isPartOf"",""tail"":""chlorinated molten salt electrolysis smelting process technology""},
+{""head"":""electrolysis of magnesium"",""relation"":""isPartOf"",""tail"":""chlorinated molten salt electrolysis smelting process technology""},
+{""head"":""calcined dolomite"",""relation"":""isUsedFor"",""tail"":""Pidgeon process""},
+{""head"":""ferrosilicon"",""relation"":""isUsedFor"",""tail"":""Pidgeon process""},
+{""head"":""chlorinated molten salt electrolysis smelting process technology"",""relation"":""isAlternativeTo"",""tail"":""silicothermic reduction process technology""},
+{""head"":""distiller"",""relation"":""isMadeOf"",""tail"":""heat resistant alloy""},
+{""head"":""distiller"",""relation"":""isPartOf"",""tail"":""Pidgeon process""}
+]","{'completion_tokens': 4201, 'prompt_tokens': 1683, 'total_tokens': 5884}"
+d9b6effd,qwq-plus,8c0f8629-3921-92b6-931b-2e631511f26e,200,,,1747769140,"[
+{""head"":""magnesia porcelain"",""relation"":""isAKindOf"",""tail"":""ceramics""},
+{""head"":""protoenstatite ceramics"",""relation"":""isAKindOf"",""tail"":""magnesia porcelain""},
+{""head"":""forsterite porcelain"",""relation"":""isAKindOf"",""tail"":""magnesia porcelain""},
+{""head"":""spinel porcelain"",""relation"":""isAKindOf"",""tail"":""magnesia porcelain""},
+{""head"":""cordierite porcelain"",""relation"":""isAKindOf"",""tail"":""magnesia porcelain""},
+{""head"":""magnesia porcelain"",""relation"":""isMadeOf"",""tail"":""MgO""},
+{""head"":""magnesia porcelain"",""relation"":""isMadeOf"",""tail"":""silicate""},
+{""head"":""magnesia porcelain"",""relation"":""isUsedFor"",""tail"":""high frequency insulating electric porcelain""},
+{""head"":""magnesia porcelain"",""relation"":""isUsedFor"",""tail"":""high-grade household porcelain""}
+]","{'completion_tokens': 2901, 'prompt_tokens': 1562, 'total_tokens': 4463}"
+9af996b7,qwq-plus,e6638e8d-efab-9d93-9974-f76290c1c65b,200,,,1747769139,"[
+{""head"": ""magnesite brick"", ""relation"": ""isAKindOf"", ""tail"": ""alkaline refractory product""},
+{""head"": ""magnesite brick"", ""relation"": ""isMadeOf"", ""tail"": ""MgO""},
+{""head"": ""magnesite brick"", ""relation"": ""isMadeOf"", ""tail"": ""peridase""},
+{""head"": ""fired magnesite brick"", ""relation"": ""isAKindOf"", ""tail"": ""magnesite brick""},
+{""head"": ""unfired magnesite brick"", ""relation"": ""isAKindOf"", ""tail"": ""magnesite brick""}
+]","{'completion_tokens': 863, 'prompt_tokens': 1521, 'total_tokens': 2384}"
+302699af,qwq-plus,de7b0e4c-0248-9c96-83c6-6afde84c3982,200,,,1747769148,"[
+  {""head"": ""Mooney scorch time"", ""relation"": ""isUsedFor"", ""tail"": ""evaluation of initial vulcanization characteristics""},
+  {""head"": ""Mooney scorch time"", ""relation"": ""isUsedFor"", ""tail"": ""processing safety""},
+  {""head"": ""Mooney scorch time"", ""relation"": ""isUsedFor"", ""tail"": ""resistance to scorching""},
+  {""head"": ""Mooney scorch time"", ""relation"": ""isDerivedFrom"", ""tail"": ""Mooney viscosity""}
+]","{'completion_tokens': 5114, 'prompt_tokens': 1638, 'total_tokens': 6752}"
+2ec393cc,qwq-plus,ab94afe0-8c6c-9101-9480-a0acaf3f003a,200,,,1747769148,"[
+{""head"":"" Mooney viscosity "",""relation"":"" isAKindOf "",""tail"":"" performance index ""},
+{""head"":"" Mooney viscosity "",""relation"":"" isTestedBy "",""tail"":"" Mooney viscosity meter ""},
+{""head"":"" Mooney viscosity "",""relation"":"" isUsedFor "",""tail"":"" plasticity ""},
+{""head"":"" Mooney viscosity "",""relation"":"" isUsedFor "",""tail"":"" processing properties ""},
+{""head"":"" Mooney viscosity "",""relation"":"" isUsedFor "",""tail"":"" physical and mechanical properties ""},
+{""head"":"" Mooney viscosity "",""relation"":"" isUsedFor "",""tail"":"" processing properties ""},
+{""head"":"" Mooney viscosity time curve "",""relation"":"" isUsedFor "",""tail"":"" vulcanization process performance ""}
+]","{'completion_tokens': 6550, 'prompt_tokens': 1812, 'total_tokens': 8362}"
+94405e7b,qwq-plus,bc0c2849-c849-99be-8505-fe84a2a5112b,200,,,1747769139,"[{""head"":""Motan wax"",""relation"":""isAKindOf"",""tail"":""mineral wax""},{""head"":""Motan wax"",""relation"":""isDerivedFrom"",""tail"":""waxy lignite""},{""head"":""Motan wax"",""relation"":""isMadeOf"",""tail"":""wax""},{""head"":""Motan wax"",""relation"":""isMadeOf"",""tail"":""resin""},{""head"":""Motan wax"",""relation"":""isMadeOf"",""tail"":""pitch""},{""head"":""Motan wax"",""relation"":""isAlternativeTo"",""tail"":""natural animal wax""},{""head"":""Motan wax"",""relation"":""isAlternativeTo"",""tail"":""vegetable wax""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""carbon paper""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""shoe polish""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""floor wax""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""polishing wax""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""metal polish""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""wire and cable""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""leather decoration""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""releasing agent""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""wax mold for precision casting""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""additive for rubber""},{""head"":""Motan wax"",""relation"":""isUsedFor"",""tail"":""road pitch additive""}]","{'completion_tokens': 3032, 'prompt_tokens': 1619, 'total_tokens': 4651}"
+1b42ed5f,qwq-plus,02d90f92-b065-974d-9cb5-f96a3c2bbbd8,200,,,1747769143,"```json
+[{""head"": ""Monte Carlo method"", ""relation"": ""isAKindOf"", ""tail"": ""computer simulation method""}, {""head"": ""Monte Carlo method"", ""relation"": ""isDependentOn"", ""tail"": ""random variables""}]
+```","{'completion_tokens': 1387, 'prompt_tokens': 1518, 'total_tokens': 2905}"
+692e28f4,qwq-plus,b1adedbc-8fcd-9a49-b3a7-8957afba49af,200,,,1747769146,"[{""head"":""montmorillonite"",""relation"":""isAKindOf"",""tail"":""layered silicate mineral""},{""head"":""montmorillonite"",""relation"":""isDerivedFrom"",""tail"":""weathering crust of basic volcanic rock""},{""head"":""montmorillonite"",""relation"":""isDerivedFrom"",""tail"":""decomposition of volcanic ash""},{""head"":""montmorillonite"",""relation"":""isUsedFor"",""tail"":""bleaching agent""},{""head"":""montmorillonite"",""relation"":""isUsedFor"",""tail"":""adsorbent""},{""head"":""montmorillonite"",""relation"":""isUsedFor"",""tail"":""filler""}]","{'completion_tokens': 1213, 'prompt_tokens': 1633, 'total_tokens': 2846}"
+dd049ed3,qwq-plus,120d1883-b0ca-9505-9367-8ac656d45620,200,,,1747769147,"[
+  {""head"": ""chrome"", ""relation"": ""isAKindOf"", ""tail"": ""mineral tanning agents""},
+  {""head"": ""acid radical containing substances"", ""relation"": ""isComplementaryTo"", ""tail"": ""mineral tanning agents""},
+  {""head"": ""mineral tanning agents"", ""relation"": ""isUsedFor"", ""tail"": ""leather""}
+]","{'completion_tokens': 6271, 'prompt_tokens': 1522, 'total_tokens': 7793}"
+648b7d57,qwq-plus,800244e6-fba5-9969-ad34-e165a3b4148f,200,,,1747769147,"[{""head"":""manganese white copper"",""relation"":""isMadeOf"",""tail"":""copper""},{""head"":""manganese white copper"",""relation"":""isMadeOf"",""tail"":""Nickel""},{""head"":""manganese white copper"",""relation"":""isMadeOf"",""tail"":""Manganese""},{""head"":""compound MnNi phase"",""relation"":""isPartOf"",""tail"":""manganese white copper""},{""head"":""manganese white copper"",""relation"":""isAKindOf"",""tail"":""heat treatment strengthened alloy""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""precision resistor""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""standard resistors""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""bridges""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""potential difference meters""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""resistance components""},{""head"":""manganese white copper"",""relation"":""isUsedFor"",""tail"":""instruments and meters""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isAKindOf"",""tail"":""constantan""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""AC precision resistance""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""sliding resistance""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""starting or regulating transformer""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""resistance strain gauge""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""thermocouple""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isUsedFor"",""tail"":""thermocouple compensation wire materials""},{""head"":""Cu-20Ni-1.5Mn alloy (constantan)"",""relation"":""isAlternativeTo"",""tail"":""Cu-12Mn-3Ni alloy""},{""head"":""Cu-40Ni-0.5Mn (copper)"",""relation"":""isUsedFor"",""tail"":""thermocouple""},{""head"":""Cu-40Ni-0.5Mn (copper)"",""relation"":""isUsedFor"",""tail"":""negative materials of thermocouple""}]","{'completion_tokens': 6083, 'prompt_tokens': 1801, 'total_tokens': 7884}"
+64081c8b,qwq-plus,14962ca1-139b-9cc6-abf5-1020df350b4f,200,,,1747769154,"[
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isAKindOf"", ""tail"": ""ferroalloy""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isMadeOf"", ""tail"": ""iron""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isMadeOf"", ""tail"": ""manganese""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isMadeOf"", ""tail"": ""silicon""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isMadeOf"", ""tail"": ""carbon""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isUsedFor"", ""tail"": ""deoxidizer""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isUsedFor"", ""tail"": ""alloy element additive""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isUsedFor"", ""tail"": ""production of medium and low carbon ferromanganese""},
+  {""head"": ""ferrosilicomanganese"", ""relation"": ""isUsedFor"", ""tail"": ""production of metallic manganese""}
+]","{'completion_tokens': 4803, 'prompt_tokens': 1683, 'total_tokens': 6486}"
+cd1f46ff,qwq-plus,60f975fe-0834-90f6-a74f-d6d21b98e5f2,200,,,1747769148,"[{""head"":""manganese brass"",""relation"":""isAKindOf"",""tail"":""brass""},{""head"":""manganese brass"",""relation"":""isMadeOf"",""tail"":""copper""},{""head"":""manganese brass"",""relation"":""isMadeOf"",""tail"":""zinc""},{""head"":""manganese brass"",""relation"":""isMadeOf"",""tail"":""manganese""},{""head"":""58Cu-40Zn-2Mn alloy"",""relation"":""isAKindOf"",""tail"":""manganese brass""},{""head"":""58Cu-40Zn-2Mn alloy"",""relation"":""isUsedFor"",""tail"":""wear-resistant piston heads""},{""head"":""58Cu-40Zn-2Mn alloy"",""relation"":""isUsedFor"",""tail"":""valve stems""},{""head"":""58Cu-40Zn-2Mn alloy"",""relation"":""isUsedFor"",""tail"":""guide rods""},{""head"":""58Cu-40Zn-2Mn alloy"",""relation"":""isUsedFor"",""tail"":""corrosion resistant structural parts""},{""head"":""57Cu-39Zn-3Mn-lAl alloy"",""relation"":""isAKindOf"",""tail"":""manganese brass""},{""head"":""57Cu-39Zn-3Mn-lAl alloy"",""relation"":""isMadeOf"",""tail"":""aluminum""},{""head"":""57Cu-39Zn-3Mn-lAl alloy"",""relation"":""isUsedFor"",""tail"":""shipbuilding industry""},{""head"":""57Cu-39Zn-3Mn-lAl alloy"",""relation"":""isUsedFor"",""tail"":""military industries""},{""head"":""55Cu-41Zn-3Mn-lFe alloy"",""relation"":""isAKindOf"",""tail"":""manganese brass""},{""head"":""55Cu-41Zn-3Mn-lFe alloy"",""relation"":""isMadeOf"",""tail"":""iron""},{""head"":""55Cu-41Zn-3Mn-lFe alloy"",""relation"":""isUsedFor"",""tail"":""shipbuilding industry""},{""head"":""55Cu-41Zn-3Mn-lFe alloy"",""relation"":""isUsedFor"",""tail"":""military industries""}]","{'completion_tokens': 4517, 'prompt_tokens': 1723, 'total_tokens': 6240}"
+a4821733,qwq-plus,4b993f9b-9520-9ccd-8adf-8351c6574354,200,,,1747769139,"[
+{""head"": ""manganese nodule"", ""relation"": ""isAKindOf"", ""tail"": ""nucleation body""},
+{""head"": ""manganese nodule"", ""relation"": ""isAKindOf"", ""tail"": ""seabed solid mineral""},
+{""head"": ""manganese nodule"", ""relation"": ""isAKindOf"", ""tail"": ""polymetallic nodules""},
+{""head"": ""manganese nodule"", ""relation"": ""isMadeOf"", ""tail"": ""hydroxymanganite""},
+{""head"": ""manganese nodule"", ""relation"": ""isMadeOf"", ""tail"": ""quartze""},
+{""head"": ""manganese nodule"", ""relation"": ""isMadeOf"", ""tail"": ""zeolite""},
+{""head"": ""manganese nodule"", ""relation"": ""isMadeOf"", ""tail"": ""plagioclase""},
+{""head"": ""manganese nodule"", ""relation"": ""isMadeOf"", ""tail"": ""caldte""}
+]","{'completion_tokens': 2582, 'prompt_tokens': 1654, 'total_tokens': 4236}"
+6e00d14c,qwq-plus,f3994cd9-fa22-946c-87bf-b5843e5a460a,200,,,1747769153,"[
+    {""head"": ""manganese bronze"", ""relation"": ""isAKindOf"", ""tail"": ""copper alloy""},
+    {""head"": ""Cu-1.5Mn"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-5Mn"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-35Mn-2Ni high-temperature solder"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-35Mn-14Zn elasticity alloy"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-20Ni-20Mn new elasticity materials"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-42Mn-2Al"", ""relation"": ""isAKindOf"", ""tail"": ""manganese bronze""},
+    {""head"": ""Cu-42Mn-2Al"", ""relation"": ""isAKindOf"", ""tail"": ""damping alloy""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""high-temperature working parts""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""electronic instrument parts""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""steam boiler pipe fittings""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""various joints""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""steam pipes""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""steam valves""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""spark plugs""},
+    {""head"": ""manganese bronze"", ""relation"": ""isUsedFor"", ""tail"": ""various welding parts of boilers""},
+    {""head"": ""Cu-42Mn-2Al"", ""relation"": ""isUsedFor"", ""tail"": ""damping parts""}
+]","{'completion_tokens': 4324, 'prompt_tokens': 1694, 'total_tokens': 6018}"
+a48ff1a3,qwq-plus,92f76545-09a9-9767-ada0-76afcdb96d2a,200,,,1747769150,"[{""head"": ""bioinert composite"", ""relation"": ""isAKindOf"", ""tail"": ""biomedical composite materials""}]","{'completion_tokens': 635, 'prompt_tokens': 1524, 'total_tokens': 2159}"
+b721183f,qwq-plus,d531065a-1202-91b3-89f6-dd85b01951e9,200,,,1747769145,"[{""head"": ""Bioinert ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics materials""}]","{'completion_tokens': 2198, 'prompt_tokens': 1522, 'total_tokens': 3720}"
+d3d725fa,qwq-plus,502271e9-2368-910f-bd23-83c4167f4643,200,,,1747769145,"[
+{""head"": ""bioreactor"", ""relation"": ""isAKindOf"", ""tail"": ""device""},
+{""head"": ""bioreactor"", ""relation"": ""isUsedFor"", ""tail"": ""bioactivity environment""}
+]","{'completion_tokens': 2228, 'prompt_tokens': 1487, 'total_tokens': 3715}"
+cc7bcc05,qwq-plus,d9213c6c-ac51-9907-a40e-fb5a8eaded6c,200,,,1747769151,"[
+{""head"":""Biomolecular probes"",""relation"":""isAKindOf"",""tail"":""tool""},
+{""head"":""Biomolecular probes"",""relation"":""isAKindOf"",""tail"":""technique""},
+{""head"":""Biomolecular probes"",""relation"":""isUsedFor"",""tail"":""DNA""},
+{""head"":""Biomolecular probes"",""relation"":""isUsedFor"",""tail"":""RNA""},
+{""head"":""Biomolecular probes"",""relation"":""isUsedFor"",""tail"":""proteins""},
+{""head"":""Biomolecular probes"",""relation"":""isUsedFor"",""tail"":""cells""}
+]","{'completion_tokens': 3377, 'prompt_tokens': 1519, 'total_tokens': 4896}"
+eeb91ac3,qwq-plus,ecb662c6-d129-959d-b8b5-5d21b83ed239,200,,,1747769150,"[
+{""head"":""mechanical bioerosion"",""relation"":""isAKindOf"",""tail"":""bioerosion""},
+{""head"":""chemical bioerosion"",""relation"":""isAKindOf"",""tail"":""bioerosion""},
+{""head"":""assimilation effect"",""relation"":""isAKindOf"",""tail"":""chemical bioerosion""},
+{""head"":""alienation effect"",""relation"":""isAKindOf"",""tail"":""chemical bioerosion""},
+{""head"":""insulation"",""relation"":""isPartOf"",""tail"":""cables""},
+{""head"":""lead pipes"",""relation"":""isPartOf"",""tail"":""cables""},
+{""head"":""non nutritive substances"",""relation"":""isPartOf"",""tail"":""non-living substances""},
+{""head"":""substrates"",""relation"":""isPartOf"",""tail"":""non-living substances""},
+{""head"":""acids"",""relation"":""isDerivedFrom"",""tail"":""alienation effect""},
+{""head"":""toxins"",""relation"":""isDerivedFrom"",""tail"":""alienation effect""},
+{""head"":""acids"",""relation"":""isUsedFor"",""tail"":""corrosion""},
+{""head"":""toxins"",""relation"":""isUsedFor"",""tail"":""corrosion""},
+{""head"":""acids"",""relation"":""isUsedFor"",""tail"":""mildew""},
+{""head"":""acids"",""relation"":""isUsedFor"",""tail"":""discoloration""},
+{""head"":""acids"",""relation"":""isUsedFor"",""tail"":""deterioration""},
+{""head"":""toxins"",""relation"":""isUsedFor"",""tail"":""mildew""}
+]","{'completion_tokens': 6481, 'prompt_tokens': 1657, 'total_tokens': 8138}"
+2c8db573,qwq-plus,afa6d481-6726-9768-a0a1-0099b2afb607,200,,,1747769141,"[
+{""head"": ""mechanical interaction"",""relation"":""isPartOf"",""tail"":""bioattachment""},
+{""head"": ""physical interaction"",""relation"":""isPartOf"",""tail"":""bioattachment""},
+{""head"": ""chemical interaction"",""relation"":""isPartOf"",""tail"":""bioattachment""},
+{""head"": ""biological interaction"",""relation"":""isPartOf"",""tail"":""bioattachment""},
+{""head"": ""bioattachment"",""relation"":""isPartOf"",""tail"":""bioadhesion""}
+]","{'completion_tokens': 2347, 'prompt_tokens': 1518, 'total_tokens': 3865}"
+46231ffc,qwq-plus,9192d700-8a8d-938c-b271-89bc2bbc2876,200,,,1747769147,"[
+  {""head"": ""biological engineering titanium alloy"", ""relation"": ""isAKindOf"", ""tail"": ""titanium alloy""},
+  {""head"": ""pure titanium"", ""relation"": ""isAKindOf"", ""tail"": ""bioengineering material""},
+  {""head"": ""pure titanium"", ""relation"": ""isUsedFor"", ""tail"": ""pacemakers""},
+  {""head"": ""pure titanium"", ""relation"": ""isUsedFor"", ""tail"": ""artificial joint""},
+  {""head"": ""pure titanium"", ""relation"": ""isUsedFor"", ""tail"": ""demure holders""}
+]","{'completion_tokens': 3245, 'prompt_tokens': 1588, 'total_tokens': 4833}"
+07215e47,qwq-plus,a4421fad-9bed-9a1d-9c00-1e809f9fc2eb,200,,,1747769142,"[{""head"":""bio-functional membrane"",""relation"":""isAKindOf"",""tail"":""artificial synthetic membranes""},{""head"":""hollow fiber dialysis membrane"",""relation"":""isAKindOf"",""tail"":""bio-functional membrane""},{""head"":""metabolic poison filtration membrane"",""relation"":""isAKindOf"",""tail"":""bio-functional membrane""},{""head"":""hollow fiber dialysis membrane"",""relation"":""isUsedFor"",""tail"":""artificial kidney""},{""head"":""metabolic poison filtration membrane"",""relation"":""isUsedFor"",""tail"":""artificial liver""}]","{'completion_tokens': 2924, 'prompt_tokens': 1519, 'total_tokens': 4443}"
+3732578a,qwq-plus,6b44a54b-b7ac-9f19-902b-dd715e992cd3,200,,,1747769140,"[{""head"": ""Biomedical materials"", ""relation"": ""isDependentOn"", ""tail"": ""physical chemistry requirements""}]","{'completion_tokens': 917, 'prompt_tokens': 1501, 'total_tokens': 2418}"
+44ee631c,qwq-plus,1300021e-288d-9e7c-8393-c7752da0defb,200,,,1747769151,"[
+{""head"": ""biochemical sedimentary rocks"", ""relation"": ""isAKindOf"", ""tail"": ""rock""},
+{""head"": ""biochemical sedimentary rocks"", ""relation"": ""isDerivedFrom"", ""tail"": ""biochemical action""},
+{""head"": ""biochemical sedimentary rocks"", ""relation"": ""isDerivedFrom"", ""tail"": ""biological physiological activities""},
+{""head"": ""biological structures"", ""relation"": ""isPartOf"", ""tail"": ""biochemical sedimentary rocks""},
+{""head"": ""bioclastic structures"", ""relation"": ""isPartOf"", ""tail"": ""biochemical sedimentary rocks""},
+{""head"": ""diatomite"", ""relation"": ""isAKindOf"", ""tail"": ""biochemical sedimentary rocks""},
+{""head"": ""shell limestone"", ""relation"": ""isAKindOf"", ""tail"": ""biochemical sedimentary rocks""},
+{""head"": ""reef limestone"", ""relation"": ""isAKindOf"", ""tail"": ""biochemical sedimentary rocks""},
+{""head"": ""phosphorite"", ""relation"": ""isAKindOf"", ""tail"": ""biochemical sedimentary rocks""}
+]","{'completion_tokens': 3221, 'prompt_tokens': 1541, 'total_tokens': 4762}"
+101f8fd3,qwq-plus,16ac93a7-96d4-9d05-8b2b-94c350648328,200,,,1747769147,"[
+    {""head"": ""diatomite"", ""relation"": ""isAKindOf"", ""tail"": ""biochemigenic rock""},
+    {""head"": ""shell limestone"", ""relation"": ""isAKindOf"", ""tail"": ""biochemigenic rock""},
+    {""head"": ""reef limestone"", ""relation"": ""isAKindOf"", ""tail"": ""biochemigenic rock""},
+    {""head"": ""phosphorite"", ""relation"": ""isAKindOf"", ""tail"": ""biochemigenic rock""},
+    {""head"": ""biological structures"", ""relation"": ""isPartOf"", ""tail"": ""biochemigenic rock""},
+    {""head"": ""bioclastic structures"", ""relation"": ""isPartOf"", ""tail"": ""biochemigenic rock""}
+]","{'completion_tokens': 1661, 'prompt_tokens': 1551, 'total_tokens': 3212}"
+8394dace,qwq-plus,596160f5-fac0-94eb-839a-c9f5e4614c34,200,,,1747769145,"[
+  {""head"": ""bioactive materials"", ""relation"": ""isAKindOf"", ""tail"": ""biological materials""},
+  {""head"": ""bioactive materials"", ""relation"": ""isUsedFor"", ""tail"": ""inducing cell activity""},
+  {""head"": ""bioactive materials"", ""relation"": ""isUsedFor"", ""tail"": ""regenerating new tissues""},
+  {""head"": ""bioactive materials"", ""relation"": ""isUsedFor"", ""tail"": ""promoting tissue-material connection""}
+]","{'completion_tokens': 2825, 'prompt_tokens': 1560, 'total_tokens': 4385}"
+9cc2659a,qwq-plus,ea5ceee1-f3fd-9531-a113-680592074d1e,200,,,1747769147,"[
+  {""head"": ""bioactive glass"", ""relation"": ""isAKindOf"", ""tail"": ""glass""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""medical applications""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""biomedical applications""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""orthopedic implantation""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""dental restorative materials""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""drug delivery systems""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""bone repair""},
+  {""head"": ""bioactive glass"", ""relation"": ""isUsedFor"", ""tail"": ""bone regeneration""}
+]","{'completion_tokens': 2502, 'prompt_tokens': 1554, 'total_tokens': 4056}"
+eb4a5a3b,qwq-plus,c932636e-f96e-9f21-8ae5-342801385103,200,,,1747769145,"[
+    {""head"": ""bioglass/polymer composites"", ""relation"": ""isMadeOf"", ""tail"": ""bioactive glass""},
+    {""head"": ""bioglass/polymer composites"", ""relation"": ""isMadeOf"", ""tail"": ""macromolecule""},
+    {""head"": ""organic phase"", ""relation"": ""isPartOf"", ""tail"": ""bioglass/polymer composites""}
+]","{'completion_tokens': 2577, 'prompt_tokens': 1516, 'total_tokens': 4093}"
+a60ed4d9,qwq-plus,00d4eab0-65fa-9b46-919e-e834799878f9,200,,,1747769147,"[
+{""head"": ""bioactive glass-ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""glass-ceramics""},
+{""head"": ""bioactive glass-ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""apatite microcrystals""},
+{""head"": ""bioactive glass-ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""crystalline phases""},
+{""head"": ""bioactive glass-ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""calcium metaphosphate glass-ceramics""}
+]","{'completion_tokens': 3078, 'prompt_tokens': 1551, 'total_tokens': 4629}"
+9a270804,qwq-plus,7995df9b-384e-9b49-8c19-7d559a6678c4,200,,,1747769140,"[
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""glass-ceramics""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""apatite""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isMadeOf"", ""tail"": ""wollastonite""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""repair bone defects""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""artificial joint""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""artificial tooth root""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""vertebra""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""skull""},
+{""head"": ""A-W bioactive glass-ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""jaw""}
+]","{'completion_tokens': 4016, 'prompt_tokens': 1590, 'total_tokens': 5606}"
+a3a8ee11,qwq-plus,56ec4c96-0757-93ec-91c1-4a1be8b29292,200,,,1747769146,"[
+    {""head"": ""bioactive glass microspheres"", ""relation"": "" isAKindOf "", ""tail"": ""spherical bioactive glass particles""},
+    {""head"": ""bioactive glass"", ""relation"": "" isUsedFor "", ""tail"": ""combining with surrounding bone tissue""},
+    {""head"": ""bioactive glass"", ""relation"": "" isUsedFor "", ""tail"": ""stimulating osteoblast activity""},
+    {""head"": ""bioactive glass microspheres"", ""relation"": "" isUsedFor "", ""tail"": ""improving adhesion of osteoblasts""},
+    {""head"": ""bioactive glass microspheres"", ""relation"": "" isUsedFor "", ""tail"": ""being absorbed in organisms""},
+    {""head"": ""bioactive glass microspheres"", ""relation"": "" isUsedFor "", ""tail"": ""dispersed in organisms""}
+]","{'completion_tokens': 4066, 'prompt_tokens': 1638, 'total_tokens': 5704}"
+d9ecc4f4,qwq-plus,9b79f11f-9922-9ab2-905e-866a6b2f888a,200,,,1747769151,"[
+{""head"": ""natural polymer"", ""relation"": "" isAKindOf "", ""tail"": ""bioactive materials""},
+{""head"": ""synthetic peptides"", ""relation"": "" isAKindOf "", ""tail"": ""bioactive materials""},
+{""head"": ""peptide nucleic acids"", ""relation"": "" isAKindOf "", ""tail"": ""bioactive materials""},
+{""head"": ""bioactive materials"", ""relation"": "" isUsedFor "", ""tail"": ""tissue regeneration""},
+{""head"": ""bioactive materials"", ""relation"": "" isUsedFor "", ""tail"": ""cell behavior""},
+{""head"": ""bioactive materials"", ""relation"": "" isUsedFor "", ""tail"": ""connection between tissue and materials""},
+{""head"": ""bioactive materials"", ""relation"": "" isUsedFor "", ""tail"": ""delivering bioactive substances""}
+]","{'completion_tokens': 5893, 'prompt_tokens': 1576, 'total_tokens': 7469}"
+59f37232,qwq-plus,3ba19622-c18c-9590-878c-decf7c5430e1,200,,,1747769152,"[
+{""head"": ""bioactivity composite"", ""relation"": ""isAKindOf"", ""tail"": ""biomedical composite materials""},
+{""head"": ""hydroxyapatite"", ""relation"": ""isAKindOf"", ""tail"": ""bioactivity composite""},
+{""head"": ""natural polymer materials"", ""relation"": ""isAKindOf"", ""tail"": ""bioactive materials""},
+{""head"": ""synthetic macromolecule materials"", ""relation"": ""isAKindOf"", ""tail"": ""bioactive materials""},
+{""head"": ""hydroxyapatite"", ""relation"": ""isPartOf"", ""tail"": ""human bone""},
+{""head"": ""hydroxyapatite"", ""relation"": ""isUsedFor"", ""tail"": ""bone formation""},
+{""head"": ""hydroxyapatite"", ""relation"": ""isUsedFor"", ""tail"": ""bone bonding""}
+]","{'completion_tokens': 4445, 'prompt_tokens': 1603, 'total_tokens': 6048}"
+144264d0,qwq-plus,4e14b73c-0d38-93ea-9a9e-6f026900f89c,200,,,1747769148,"[
+  {""head"": ""bioactivation"", ""relation"": "" isAKindOf "", ""tail"": ""technology""},
+  {""head"": ""hydroxyapatite"", ""relation"": "" isAKindOf "", ""tail"": ""bioactive ceramics""},
+  {""head"": ""hydroxyapatite coating"", ""relation"": "" isMadeOf "", ""tail"": ""hydroxyapatite""},
+  {""head"": ""hydroxyapatite coating"", ""relation"": "" isPartOf "", ""tail"": ""surface of metallic materials""},
+  {""head"": ""hydroxyapatite coating"", ""relation"": "" isUsedFor "", ""tail"": ""biocompatibility""},
+  {""head"": ""active oxide layer"", ""relation"": "" isAKindOf "", ""tail"": ""coating""},
+  {""head"": ""active oxide layer"", ""relation"": "" isPartOf "", ""tail"": ""surface of metallic materials""},
+  {""head"": ""active oxide layer"", ""relation"": "" isUsedFor "", ""tail"": ""biocompatibility""},
+  {""head"": ""bioactivation"", ""relation"": "" isUsedFor "", ""tail"": ""biomedical fields""},
+  {""head"": ""titanium alloy"", ""relation"": "" isAKindOf "", ""tail"": ""metallic material""}
+]","{'completion_tokens': 5658, 'prompt_tokens': 1574, 'total_tokens': 7232}"
+a540094a,qwq-plus,490caa36-5f4c-902b-b6be-8bd97fa9cb3a,200,,,1747769145,"[{""head"":""bioactive bone cement"",""relation"":""isSimilarTo"",""tail"":""human hard tissue""},{""head"":""solid phase"",""relation"":""isPartOf"",""tail"":""bioactive bone cement""},{""head"":""liquid phase"",""relation"":""isPartOf"",""tail"":""bioactive bone cement""},{""head"":""solid phase"",""relation"":""isMadeOf"",""tail"":""calcium phosphate salts""},{""head"":""liquid phase"",""relation"":""isMadeOf"",""tail"":""phosphoric acid""},{""head"":""liquid phase"",""relation"":""isMadeOf"",""tail"":""phosphate solution""},{""head"":""liquid phase"",""relation"":""isMadeOf"",""tail"":""plasma""},{""head"":""liquid phase"",""relation"":""isMadeOf"",""tail"":""citric acid solution""},{""head"":""bioactive bone cement"",""relation"":""isSimilarTo"",""tail"":""natural bone""},{""head"":""bioactive bone cement"",""relation"":""isUsedFor"",""tail"":""bone tissue growth""},{""head"":""bioactive bone cement"",""relation"":""isAlternativeTo"",""tail"":""powder and granular materials""},{""head"":""p-TCP system"",""relation"":""isAKindOf"",""tail"":""calcium phosphate bone cement""},{""head"":""crTCP system"",""relation"":""isAKindOf"",""tail"":""calcium phosphate bone cement""},{""head"":""TECP system"",""relation"":""isAKindOf"",""tail"":""calcium phosphate bone cement""}]","{'completion_tokens': 3947, 'prompt_tokens': 1752, 'total_tokens': 5699}"
+b0d0292d,qwq-plus,93c3e66e-d863-9916-a859-5e3049ef47e0,200,,,1747769149,"[{""head"":""bioactive glass"",""relation"":""isUsedFor"",""tail"":""bioactive bonding""},{""head"":""hydroxyapatite"",""relation"":""isUsedFor"",""tail"":""bioactive bonding""},{""head"":""tricalcium phosphate"",""relation"":""isUsedFor"",""tail"":""bioactive bonding""},{""head"":""interface bond"",""relation"":""isPartOf"",""tail"":""bioactive bonding""}]","{'completion_tokens': 1776, 'prompt_tokens': 1572, 'total_tokens': 3348}"
+2483f887,qwq-plus,21b30af6-dd59-9612-aa15-b74709f53ecb,200,,,1747769141,"[
+{""head"":""bioactive ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""hydroxyapatite"",""relation"":"" isAKindOf "",""tail"":""bioactive ceramics""},
+{""head"":""bioactive glass"",""relation"":"" isAKindOf "",""tail"":""bioactive ceramics""},
+{""head"":""bioactive glass-ceramics"",""relation"":"" isAKindOf "",""tail"":""bioactive ceramics""},
+{""head"":""absorbable bioceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""gypsum"",""relation"":"" isAKindOf "",""tail"":""absorbable bioceramics""},
+{""head"":""phosphoric acid-calcium ceramics"",""relation"":"" isAKindOf "",""tail"":""absorbable bioceramics""},
+{""head"":""single component biological ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""composition biological ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""biphasic biological ceramics"",""relation"":"" isAKindOf "",""tail"":""composition biological ceramics""},
+{""head"":""alumina ceramics"",""relation"":"" isAKindOf "",""tail"":""single component biological ceramics""},
+{""head"":""hydroxyapatite ceramics"",""relation"":"" isAKindOf "",""tail"":""single component biological ceramics""},
+{""head"":""alternative repair biological ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""therapeutic biological ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""multi-functional biological ceramics"",""relation"":"" isAKindOf "",""tail"":""biological ceramics""},
+{""head"":""alumina ceramics"",""relation"":"" isAKindOf "",""tail"":""alternative repair biological ceramics""},
+{""head"":""hydroxyapatite ceramics"",""relation"":"" isAKindOf "",""tail"":""alternative repair biological ceramics""},
+{""head"":""bioglass"",""relation"":"" isAKindOf "",""tail"":""alternative repair biological ceramics""},
+{""head"":""magnetic biological ceramics"",""relation"":"" isAKindOf "",""tail"":""therapeutic biological ceramics""},
+{""head"":""drug loaded biological ceramics"",""relation"":"" isAKindOf "",""tail"":""therapeutic biological ceramics""},
+{""head"":""hot compress biological ceramics"",""relation"":"" isAKindOf "",""tail"":""therapeutic biological ceramics""},
+{""head"":""piezoelectric bioceramics"",""relation"":"" isAKindOf "",""tail"":""multi-functional biological ceramics""},
+{""head"":""alumina ceramics"",""relation"":"" isUsedFor "",""tail"":""femoral joints""},
+{""head"":""hydroxyapatite ceramics"",""relation"":"" isUsedFor "",""tail"":""bone repair""},
+{""head"":""bioglass"",""relation"":"" isUsedFor "",""tail"":""ossicles""},
+{""head"":""piezoelectric bioceramics"",""relation"":"" isUsedFor "",""tail"":""bone defects repair""},
+{""head"":""piezoelectric bioceramics"",""relation"":"" isUsedFor "",""tail"":""bone tissue growth promotion""}
+]","{'completion_tokens': 6916, 'prompt_tokens': 1852, 'total_tokens': 8768}"
+4bee1715,qwq-plus,47894094-f5b6-9fcd-9524-2cff556bfafa,200,,,1747769150,"[{""head"":""biological cemmics"",""relation"":""isAKindOf"",""tail"":""ceramics materials""},{""head"":""hydroxyapatite"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""bioactive glass"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""bioactive glass-ceramics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""absorbable bioceramics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""gypsum"",""relation"":""isAKindOf"",""tail"":""absorbable bioceramics""},{""head"":""calcium phosphate ceramics"",""relation"":""isAKindOf"",""tail"":""absorbable bioceramics""},{""head"":""single component biological cemmics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""alumina ceramics"",""relation"":""isAKindOf"",""tail"":""single component biological cemmics""},{""head"":""hydroxyapatite ceramics"",""relation"":""isAKindOf"",""tail"":""single component biological cemmics""},{""head"":""composition biological cemmics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""dual phase biological cemmics"",""relation"":""isAKindOf"",""tail"":""composition biological cemmics""},{""head"":""substitute repair biological cemmics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""therapeutic biological cemmics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""multi-functional biological cemmics"",""relation"":""isAKindOf"",""tail"":""biological cemmics""},{""head"":""alumina ceramics"",""relation"":""isUsedFor"",""tail"":""hip joint replacement""},{""head"":""hydroxyapatite ceramics"",""relation"":""isUsedFor"",""tail"":""bone defect repair""},{""head"":""bioglass"",""relation"":""isUsedFor"",""tail"":""auditory ossicle replacement""},{""head"":""magnetic biological cemmics"",""relation"":""isAKindOf"",""tail"":""therapeutic biological cemmics""},{""head"":""drug loaded biological cemmics"",""relation"":""isAKindOf"",""tail"":""therapeutic biological cemmics""},{""head"":""hot compress biological cemmics"",""relation"":""isAKindOf"",""tail"":""therapeutic biological cemmics""},{""head"":""magnetic biological cemmics"",""relation"":""isUsedFor"",""tail"":""targeted treatment of human diseases""},{""head"":""drug loaded biological cemmics"",""relation"":""isUsedFor"",""tail"":""targeted treatment of human diseases""},{""head"":""hot compress biological cemmics"",""relation"":""isUsedFor"",""tail"":""targeted treatment of human diseases""},{""head"":""piezoelectric bioceramics"",""relation"":""isAKindOf"",""tail"":""multi-functional biological cemmics""},{""head"":""piezoelectric bioceramics"",""relation"":""isUsedFor"",""tail"":""repair defective bone tissue""},{""head"":""piezoelectric bioceramics"",""relation"":""isUsedFor"",""tail"":""promote growth of bone tissue""}]","{'completion_tokens': 4928, 'prompt_tokens': 1819, 'total_tokens': 6747}"
+0433567a,qwq-plus,4fd477c1-3319-9c3e-b738-5117dcc22ad9,200,,,1747769144,"[
+{""head"": ""biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""ceramics materials""},
+{""head"": ""hydroxyapatite"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""bioactive glass"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""bioactive glass-ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""absorbable bioceramics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""single component biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""composition biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""alumina ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""single component biological cemmics""},
+{""head"": ""hydroxyapatite ceramics"", ""relation"": ""isAKindOf"", ""tail"": ""single component biological cemmics""},
+{""head"": ""dual phase biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""composition biological cemmics""},
+{""head"": ""substitute repair biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""therapeutic biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""multi-functional biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""biological cemmics""},
+{""head"": ""alumina ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""hip joint replacement""},
+{""head"": ""hydroxyapatite ceramics"", ""relation"": ""isUsedFor"", ""tail"": ""bone defect repair""},
+{""head"": ""bioglass"", ""relation"": ""isUsedFor"", ""tail"": ""auditory ossicles replacement""},
+{""head"": ""magnetic biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""therapeutic biological cemmics""},
+{""head"": ""drug loaded biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""therapeutic biological cemmics""},
+{""head"": ""hot compress biological cemmics"", ""relation"": ""isAKindOf"", ""tail"": ""therapeutic biological cemmics""},
+{""head"": ""piezoelectric bioceramics"", ""relation"": ""isAKindOf"", ""tail"": ""multi-functional biological cemmics""}
+]","{'completion_tokens': 2779, 'prompt_tokens': 1818, 'total_tokens': 4597}"

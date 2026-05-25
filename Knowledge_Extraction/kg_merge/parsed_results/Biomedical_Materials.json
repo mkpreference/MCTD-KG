@@ -1,0 +1,7519 @@
+{
+  "1-s2.0-S0254058426002336-main_chunks": [
+    [
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isPartOf",
+        "tail": "3D-printed porous titanium alloy"
+      },
+      {
+        "head": "polydopamine",
+        "relation": "isUsedFor",
+        "tail": "deposition of strontium-doped hydroxyapatite"
+      },
+      {
+        "head": "3D-printed porous titanium alloy",
+        "relation": "isAKindOf",
+        "tail": "titanium alloy"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isMadeOf",
+        "tail": "hydroxyapatite"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isMadeOf",
+        "tail": "strontium"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscopy"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isTestedBy",
+        "tail": "Fourier transform infrared spectroscopy"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isTestedBy",
+        "tail": "atomic force microscopy"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isTestedBy",
+        "tail": "water contact angle measurements"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isUsedFor",
+        "tail": "enhancing osteogenic differentiation"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isUsedFor",
+        "tail": "promoting angiogenesis"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isUsedFor",
+        "tail": "avoiding ion burst release toxicity"
+      },
+      {
+        "head": "strontium-doped hydroxyapatite",
+        "relation": "isUsedFor",
+        "tail": "inhibiting titanium ion release"
+      },
+      {
+        "entity": "3D-printed porous titanium alloy",
+        "attribute": "shape",
+        "value": "porous"
+      }
+    ],
+    [
+      {
+        "head": "titanium alloys",
+        "relation": "isUsedFor",
+        "tail": "bone implants"
+      },
+      {
+        "head": "titanium alloys",
+        "relation": "isUsedFor",
+        "tail": "joint replacement"
+      },
+      {
+        "head": "titanium alloys",
+        "relation": "isUsedFor",
+        "tail": "large bone defect repair"
+      },
+      {
+        "entity": "titanium alloys",
+        "attribute": "corrosionResistance",
+        "value": "excellent"
+      },
+      {
+        "head": "Ti–6Al–4V",
+        "relation": "isAKindOf",
+        "tail": "titanium alloys"
+      },
+      {
+        "entity": "Ti–6Al–4V",
+        "attribute": "elasticModulus",
+        "value": "comparable to cortical bone"
+      },
+      {
+        "head": "hydroxyapatite coatings",
+        "relation": "isAKindOf",
+        "tail": "surface modification methods"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coating",
+        "relation": "isAKindOf",
+        "tail": "surface modification"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coating",
+        "relation": "isUsedFor",
+        "tail": "improving bioactivity"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coating",
+        "relation": "isPartOf",
+        "tail": "3D-printed porous titanium surface"
+      },
+      {
+        "head": "Sr2+ incorporation",
+        "relation": "isUsedFor",
+        "tail": "enhancing osteogenic capabilities"
+      },
+      {
+        "head": "Sr2+ incorporation",
+        "relation": "isUsedFor",
+        "tail": "enhancing angiogenic capabilities"
+      },
+      {
+        "head": "composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assays"
+      },
+      {
+        "head": "composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "cell live/dead staining"
+      },
+      {
+        "head": "composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "alizarin red staining"
+      },
+      {
+        "head": "composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "scratch tests"
+      },
+      {
+        "head": "composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "angiogenesis assays"
+      }
+    ],
+    [
+      {
+        "head": "Sr-HA coatings",
+        "relation": "isPartOf",
+        "tail": "Ti–6Al–4V substrates"
+      },
+      {
+        "head": "PDA solution",
+        "relation": "isUsedFor",
+        "tail": "preparing Sr-HA coatings"
+      },
+      {
+        "head": "Hydroxyapatite",
+        "relation": "isAKindOf",
+        "tail": "calcium phosphate"
+      },
+      {
+        "head": "Ti–6Al–4V",
+        "relation": "isAKindOf",
+        "tail": "metal matrix"
+      },
+      {
+        "head": "Ti–6Al–4V substrates",
+        "relation": "isMadeOf",
+        "tail": "Ti–6Al–4V"
+      },
+      {
+        "entity": "Ti–6Al–4V substrates",
+        "attribute": "shape",
+        "value": "porous thin sheet with diameter 10 mm and height 1.5 mm"
+      }
+    ],
+    [
+      {
+        "head": "HA coatings",
+        "relation": "isMadeOf",
+        "tail": "Strontium"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isMadeOf",
+        "tail": "Silicon"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isMadeOf",
+        "tail": "Magnesium"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isMadeOf",
+        "tail": "Zinc"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isPartOf",
+        "tail": "3D-printed porous Ti"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isDerivedFrom",
+        "tail": "Polydopamine film"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isDerivedFrom",
+        "tail": "electrochemical deposition"
+      },
+      {
+        "head": "HA coatings",
+        "relation": "isUsedFor",
+        "tail": "bone integration"
+      },
+      {
+        "entity": "3D-printed porous Ti",
+        "attribute": "shape",
+        "value": "porous"
+      }
+    ],
+    [
+      {
+        "head": "porous titanium composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscopy (SEM)"
+      },
+      {
+        "head": "coatings on the porous Ti surface",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction (XRD)"
+      },
+      {
+        "head": "coatings on the porous Ti surface",
+        "relation": "isTestedBy",
+        "tail": "Fourier-transform infrared spectroscopy (FT-IR)"
+      },
+      {
+        "head": "coatings on the porous Ti surface",
+        "relation": "isTestedBy",
+        "tail": "X-ray photoelectron spectroscopy (XPS)"
+      },
+      {
+        "head": "porous titanium composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "mouse calvaria pre-osteoblasts (MC3T3-E1)"
+      },
+      {
+        "head": "porous titanium composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "human umbilical vein endothelial cells (HUVECs)"
+      },
+      {
+        "head": "porous titanium composite scaffold",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "hydroxyapatite phase",
+        "relation": "isPartOf",
+        "tail": "coatings on the porous Ti surface"
+      },
+      {
+        "head": "Sr ions",
+        "relation": "isPartOf",
+        "tail": "hydroxyapatite phase"
+      },
+      {
+        "head": "coatings on the porous Ti surface",
+        "relation": "isPartOf",
+        "tail": "porous titanium composite scaffold"
+      }
+    ],
+    [
+      {
+        "head": "wettability",
+        "relation": "isTestedBy",
+        "tail": "contact angle meter (JC2000 D1, Powereach, Shanghai)"
+      },
+      {
+        "head": "surface roughness",
+        "relation": "isTestedBy",
+        "tail": "atomic force microscopy (AFM, Dimension Icon, Bruker, Germany)"
+      },
+      {
+        "head": "cytotoxicity",
+        "relation": "isTestedBy",
+        "tail": "Calcein-AM/PI staining kit"
+      },
+      {
+        "head": "cell viability",
+        "relation": "isTestedBy",
+        "tail": "inverted microscope (MF52-N, Mshot)"
+      },
+      {
+        "head": "ion release rates of Sr²⁺, Ca²⁺, and Ti⁴⁺ ions",
+        "relation": "isTestedBy",
+        "tail": "inductively coupled plasma optical emission spectroscopy (ICP-OES)"
+      }
+    ],
+    [
+      {
+        "head": "Sr-doped HA",
+        "relation": "isDerivedFrom",
+        "tail": "HA"
+      },
+      {
+        "head": "scaffolds",
+        "relation": "isMadeOf",
+        "tail": "Sr-doped HA"
+      },
+      {
+        "head": "Sr ions",
+        "relation": "isPartOf",
+        "tail": "Sr-doped HA"
+      },
+      {
+        "head": "HPO4^2−",
+        "relation": "isPartOf",
+        "tail": "Sr-doped HA"
+      },
+      {
+        "head": "CO3^2−",
+        "relation": "isPartOf",
+        "tail": "Sr-doped HA"
+      },
+      {
+        "head": "mineralization nodules",
+        "relation": "isTestedBy",
+        "tail": "Alizarin Red staining"
+      },
+      {
+        "head": "Image-Pro Plus 6.0 software",
+        "relation": "isUsedFor",
+        "tail": "IOD quantification"
+      },
+      {
+        "entity": "Alizarin Red",
+        "attribute": "color",
+        "value": "red"
+      }
+    ],
+    [
+      {
+        "head": "hydroxy apatite coating",
+        "relation": "isPartOf",
+        "tail": "Ti-6Al-4V"
+      },
+      {
+        "head": "PTD-SrHA coating",
+        "relation": "isSimilarTo",
+        "tail": "HA"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isSimilarTo",
+        "tail": "HA"
+      },
+      {
+        "head": "strontium",
+        "relation": "isSimilarTo",
+        "tail": "calcium"
+      },
+      {
+        "head": "strontium",
+        "relation": "isAlternativeTo",
+        "tail": "Ca²+"
+      },
+      {
+        "entity": "HA coating",
+        "attribute": "crystalsystem",
+        "value": "single-phase hydroxyapatite"
+      }
+    ],
+    [
+      {
+        "head": "Ti 2p peaks",
+        "relation": "isPartOf",
+        "tail": "PTD-HA coating"
+      },
+      {
+        "head": "C 1s peak",
+        "relation": "isMadeOf",
+        "tail": "C–C chemical bonds"
+      },
+      {
+        "head": "C 1s peak",
+        "relation": "isMadeOf",
+        "tail": "C–N/C–O chemical bonds"
+      },
+      {
+        "head": "C 1s peak",
+        "relation": "isMadeOf",
+        "tail": "C–O/C–N chemical bonds"
+      },
+      {
+        "head": "PDA coating",
+        "relation": "isMadeOf",
+        "tail": "catechol groups"
+      },
+      {
+        "head": "PDA coating",
+        "relation": "isMadeOf",
+        "tail": "quinone groups"
+      },
+      {
+        "head": "Ca 2p peaks",
+        "relation": "isPartOf",
+        "tail": "PTD-HA coating"
+      },
+      {
+        "head": "PTD-HA coating",
+        "relation": "isPartOf",
+        "tail": "Ti–6Al–4V surface"
+      },
+      {
+        "head": "PTD-5SrHA coating",
+        "relation": "isPartOf",
+        "tail": "Ti–6Al–4V surface"
+      },
+      {
+        "head": "PTD-HA coating",
+        "relation": "isMadeOf",
+        "tail": "PDA"
+      },
+      {
+        "head": "PTD-HA coating",
+        "relation": "isMadeOf",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-5SrHA coating",
+        "relation": "isMadeOf",
+        "tail": "PDA"
+      },
+      {
+        "head": "PTD-5SrHA coating",
+        "relation": "isMadeOf",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-HA coating",
+        "relation": "isTestedBy",
+        "tail": "XPS"
+      },
+      {
+        "head": "PTD-5SrHA coating",
+        "relation": "isTestedBy",
+        "tail": "XPS"
+      },
+      {
+        "head": "composite coatings",
+        "relation": "isTestedBy",
+        "tail": "SEM"
+      },
+      {
+        "head": "coatings",
+        "relation": "isTestedBy",
+        "tail": "EDS"
+      },
+      {
+        "head": "apatite layer",
+        "relation": "isPartOf",
+        "tail": "coating surface after immersion in SBF"
+      },
+      {
+        "head": "PO4^3-",
+        "relation": "isPartOf",
+        "tail": "PTD-HA coating"
+      },
+      {
+        "head": "secondary amine functional group",
+        "relation": "isPartOf",
+        "tail": "PDA coating"
+      },
+      {
+        "entity": "Ti–6Al–4V surface before PDA coating",
+        "attribute": "shape",
+        "value": "porous"
+      },
+      {
+        "entity": "Ti–6Al–4V surface after PDA coating",
+        "attribute": "shape",
+        "value": "dense"
+      },
+      {
+        "entity": "composite coating surface",
+        "attribute": "shape",
+        "value": "rough"
+      },
+      {
+        "entity": "apatite layer",
+        "attribute": "density",
+        "value": "denser"
+      }
+    ],
+    [
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isAKindOf",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isAKindOf",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isAKindOf",
+        "tail": "HA"
+      },
+      {
+        "head": "SrHA/PDA",
+        "relation": "isPartOf",
+        "tail": "Ti–6Al–4V substrate"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "XPS analysis"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "XPS analysis"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "XPS analysis"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "XPS analysis"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isUsedFor",
+        "tail": "cell adhesion"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isUsedFor",
+        "tail": "cell adhesion"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isAKindOf",
+        "tail": "HA"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isPartOf",
+        "tail": "Ti–6Al–4V substrate"
+      }
+    ],
+    [
+      {
+        "entity": "Ti–6Al–4V",
+        "attribute": "arithmetic mean roughness",
+        "value": "78.4 nm"
+      },
+      {
+        "entity": "PTD",
+        "attribute": "arithmetic mean roughness",
+        "value": "26.6 nm"
+      },
+      {
+        "entity": "PTD-HA",
+        "attribute": "arithmetic mean roughness",
+        "value": "187.6 nm"
+      },
+      {
+        "entity": "PTD-5SrHA",
+        "attribute": "arithmetic mean roughness",
+        "value": "64.9 nm"
+      },
+      {
+        "entity": "PTD-10SrHA",
+        "attribute": "arithmetic mean roughness",
+        "value": "46.7 nm"
+      },
+      {
+        "entity": "PTD-15SrHA",
+        "attribute": "arithmetic mean roughness",
+        "value": "28.3 nm"
+      },
+      {
+        "head": "PDA coating",
+        "relation": "isPartOf",
+        "tail": "PTD"
+      },
+      {
+        "head": "PTD",
+        "relation": "isMadeOf",
+        "tail": "Ti–6Al–4V"
+      },
+      {
+        "head": "PTD",
+        "relation": "isMadeOf",
+        "tail": "PDA coating"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isDerivedFrom",
+        "tail": "hydroxyapatite (HA)"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "Sr doping",
+        "relation": "isUsedFor",
+        "tail": "promoting uniform nucleation and growth of crystals"
+      },
+      {
+        "head": "Sr-doped hydroxyapatite",
+        "relation": "isMadeOf",
+        "tail": "hydroxyapatite"
+      },
+      {
+        "head": "Sr-doped hydroxyapatite",
+        "relation": "isUsedFor",
+        "tail": "reducing ion release"
+      }
+    ],
+    [
+      {
+        "head": "Sr",
+        "relation": "isPartOf",
+        "tail": "HA lattice"
+      },
+      {
+        "head": "PTD-SrHA",
+        "relation": "isTestedBy",
+        "tail": "ion release experiments"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isUsedFor",
+        "tail": "promoting cell proliferation"
+      },
+      {
+        "head": "HA-containing coatings",
+        "relation": "isUsedFor",
+        "tail": "long-term sustainable release of Ca2+ and Sr2+"
+      },
+      {
+        "head": "PTD-SrHA",
+        "relation": "isAKindOf",
+        "tail": "HA-containing coatings"
+      },
+      {
+        "head": "HA-containing coatings",
+        "relation": "isUsedFor",
+        "tail": "reducing Ti ion release"
+      }
+    ],
+    [
+      {
+        "head": "PTD-HA",
+        "relation": "isAKindOf",
+        "tail": "biomedical scaffold"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isAKindOf",
+        "tail": "biomedical scaffold"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isAKindOf",
+        "tail": "biomedical scaffold"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isAKindOf",
+        "tail": "biomedical scaffold"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isMadeOf",
+        "tail": "hydroxyapatite"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isMadeOf",
+        "tail": "Sr-doped hydroxyapatite"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isMadeOf",
+        "tail": "Sr-doped hydroxyapatite"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isMadeOf",
+        "tail": "Sr-doped hydroxyapatite"
+      },
+      {
+        "head": "Sr-doped hydroxyapatite",
+        "relation": "isDerivedFrom",
+        "tail": "hydroxyapatite"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "CCK8 method"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK8 method"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK8 method"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "CCK8 method"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "live/dead staining"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "live/dead staining"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "live/dead staining"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "live/dead staining"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isUsedFor",
+        "tail": "tissue regeneration"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isUsedFor",
+        "tail": "tissue regeneration"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isUsedFor",
+        "tail": "tissue regeneration"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isUsedFor",
+        "tail": "tissue regeneration"
+      }
+    ],
+    [
+      {
+        "head": "migration of HUVECs",
+        "relation": "isPartOf",
+        "tail": "angiogenesis"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isAKindOf",
+        "tail": "titanium alloy coating"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "wound-healing experiment"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isTestedBy",
+        "tail": "Image J analysis"
+      },
+      {
+        "head": "PTD-HA",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isAKindOf",
+        "tail": "titanium alloy coating"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "wound-healing experiment"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isTestedBy",
+        "tail": "Image J analysis"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-5SrHA",
+        "relation": "isAlternativeTo",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isAKindOf",
+        "tail": "titanium alloy coating"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "wound-healing experiment"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isTestedBy",
+        "tail": "Image J analysis"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isAlternativeTo",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isAKindOf",
+        "tail": "titanium alloy coating"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "wound-healing experiment"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isTestedBy",
+        "tail": "Image J analysis"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isDerivedFrom",
+        "tail": "PTD-HA"
+      },
+      {
+        "head": "PTD-15SrHA",
+        "relation": "isAlternativeTo",
+        "tail": "PTD-HA"
+      }
+    ],
+    [
+      {
+        "head": "Alizarin red staining",
+        "relation": "isUsedFor",
+        "tail": "determining calcium deposition"
+      },
+      {
+        "head": "Alizarin red",
+        "relation": "isAKindOf",
+        "tail": "dye"
+      },
+      {
+        "head": "Alizarin red",
+        "relation": "isUsedFor",
+        "tail": "binding to calcium ions"
+      },
+      {
+        "head": "PTD-10SrHA",
+        "relation": "isAKindOf",
+        "tail": "composite coating"
+      },
+      {
+        "head": "strontium",
+        "relation": "isPartOf",
+        "tail": "PTD-10SrHA"
+      },
+      {
+        "head": "composite coatings",
+        "relation": "isUsedFor",
+        "tail": "promoting cell mineralization"
+      },
+      {
+        "head": "blood vessels",
+        "relation": "isPartOf",
+        "tail": "bone tissue"
+      },
+      {
+        "head": "angiogenesis",
+        "relation": "isPartOf",
+        "tail": "bone regeneration"
+      },
+      {
+        "head": "bone regeneration",
+        "relation": "isDependentOn",
+        "tail": "angiogenesis"
+      },
+      {
+        "head": "composite scaffold materials",
+        "relation": "isUsedFor",
+        "tail": "promoting angiogenesis"
+      },
+      {
+        "head": "HUVEC migration",
+        "relation": "isAKindOf",
+        "tail": "cell migration ability"
+      },
+      {
+        "head": "calcium deposition ability",
+        "relation": "isUsedFor",
+        "tail": "measuring osteogenic differentiation"
+      },
+      {
+        "head": "calcium deposition ability",
+        "relation": "isAKindOf",
+        "tail": "indicator"
+      },
+      {
+        "entity": "calcium deposits",
+        "attribute": "color",
+        "value": "deeper red"
+      },
+      {
+        "entity": "Alizarin red",
+        "attribute": "color",
+        "value": "red"
+      }
+    ],
+    [
+      {
+        "head": "Sr2+",
+        "relation": "isUsedFor",
+        "tail": "osteogenesis"
+      },
+      {
+        "head": "Sr2+",
+        "relation": "isUsedFor",
+        "tail": "angiogenesis"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isMadeOf",
+        "tail": "PDA"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isMadeOf",
+        "tail": "SrHA"
+      },
+      {
+        "head": "PDA",
+        "relation": "isPartOf",
+        "tail": "PDA-SrHA coating"
+      },
+      {
+        "head": "SrHA",
+        "relation": "isPartOf",
+        "tail": "PDA-SrHA coating"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isUsedFor",
+        "tail": "reducing Ti ions release"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isUsedFor",
+        "tail": "enhancing osteogenesis"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isUsedFor",
+        "tail": "enhancing angiogenesis"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isAlternativeTo",
+        "tail": "PT coating"
+      },
+      {
+        "head": "PDA-SrHA coating",
+        "relation": "isAlternativeTo",
+        "tail": "PTD coating"
+      },
+      {
+        "entity": "PDA-SrHA coating",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isAKindOf",
+        "tail": "composite coating"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isAKindOf",
+        "tail": "bioactive coatings"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isAKindOf",
+        "tail": "PDA-assisted Sr-HA coatings"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isMadeOf",
+        "tail": "Sr-HA"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isMadeOf",
+        "tail": "PDA"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coatings",
+        "relation": "isMadeOf",
+        "tail": "Sr-HA"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coatings",
+        "relation": "isMadeOf",
+        "tail": "PDA"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isUsedFor",
+        "tail": "bone repair coatings"
+      },
+      {
+        "head": "PTD-15SrHA composite coating",
+        "relation": "isPartOf",
+        "tail": "titanium-based implant surfaces"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coatings",
+        "relation": "isAlternativeTo",
+        "tail": "Sr-doped HA systems"
+      },
+      {
+        "head": "PDA-assisted Sr-HA coatings",
+        "relation": "isAlternativeTo",
+        "tail": "PDA-modified titanium systems"
+      }
+    ]
+  ],
+  "1-s2.0-S0925963525013391-main_chunks": [
+    [
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isMadeOf",
+        "tail": "PEO"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isMadeOf",
+        "tail": "DLC"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isPartOf",
+        "tail": "biodegradable magnesium stents"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isUsedFor",
+        "tail": "cardiovascular stent applications"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isTestedBy",
+        "tail": "electrochemical tests"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isTestedBy",
+        "tail": "immersion tests in SBF"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isTestedBy",
+        "tail": "hemocompatibility testing"
+      },
+      {
+        "head": "dual-layer PEO/DLC coatings",
+        "relation": "isTestedBy",
+        "tail": "cell behavior testing"
+      },
+      {
+        "head": "AZ31 magnesium alloy",
+        "relation": "isAlternativeTo",
+        "tail": "stainless steel"
+      },
+      {
+        "head": "AZ31 magnesium alloy",
+        "relation": "isAlternativeTo",
+        "tail": "titanium alloys"
+      },
+      {
+        "head": "AZ31 magnesium alloy",
+        "relation": "isAKindOf",
+        "tail": "magnesium alloy"
+      },
+      {
+        "entity": "dual-layer PEO/DLC coatings",
+        "attribute": "corrosionResistance",
+        "value": "considerably improved"
+      },
+      {
+        "entity": "AZ31 magnesium alloy",
+        "attribute": "corrosionResistance",
+        "value": "elevated"
+      }
+    ],
+    [
+      {
+        "head": "DLC coating",
+        "relation": "isAKindOf",
+        "tail": "amorphous carbon thin-film material"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isMadeOf",
+        "tail": "diamond (sp3)"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isMadeOf",
+        "tail": "graphite (sp2)"
+      },
+      {
+        "head": "PEO",
+        "relation": "isAKindOf",
+        "tail": "intermediate conversion layer"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "duplex strategy"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "duplex strategy"
+      },
+      {
+        "head": "duplex strategy",
+        "relation": "isUsedFor",
+        "tail": "magnesium stents"
+      },
+      {
+        "head": "PEO",
+        "relation": "isUsedFor",
+        "tail": "surface treatment of magnesium alloys"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "industrial applications"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isComplementaryTo",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isAKindOf",
+        "tail": "ceramic-like oxide layer"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "hardness",
+        "value": "high"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "elasticModulus",
+        "value": "high"
+      },
+      {
+        "entity": "PEO coating",
+        "attribute": "corrosionResistance",
+        "value": "limited"
+      }
+    ],
+    [
+      {
+        "head": "duplex PEO/DLC coating",
+        "relation": "isMadeOf",
+        "tail": "PEO layer"
+      },
+      {
+        "head": "duplex PEO/DLC coating",
+        "relation": "isMadeOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "duplex PEO/DLC coating",
+        "relation": "isPartOf",
+        "tail": "AZ31 magnesium alloy"
+      },
+      {
+        "head": "duplex PEO/DLC coating",
+        "relation": "isUsedFor",
+        "tail": "cardiovascular stent applications"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isTestedBy",
+        "tail": "Field emission scanning electron microscopy (FE-SEM)"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isTestedBy",
+        "tail": "energy-dispersive X-ray spectrometry (EDX)"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectroscopy"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isTestedBy",
+        "tail": "Raman spectroscopy"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isTestedBy",
+        "tail": "stylus profilometry"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isDerivedFrom",
+        "tail": "propane gas (C₃H₈)"
+      },
+      {
+        "head": "duplex PEO/DLC coating",
+        "relation": "isAKindOf",
+        "tail": "coating"
+      },
+      {
+        "entity": "AZ31 magnesium alloy test pieces",
+        "attribute": "shape",
+        "value": "10 × 10 × 5 mm"
+      },
+      {
+        "entity": "AZ31 magnesium alloy",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      }
+    ],
+    [
+      {
+        "head": "adhesion test",
+        "relation": "isTestedBy",
+        "tail": "ISO 2409:2007"
+      },
+      {
+        "head": "adhesion test",
+        "relation": "isTestedBy",
+        "tail": "D 3359–97"
+      },
+      {
+        "head": "silicate-based solution",
+        "relation": "isMadeOf",
+        "tail": "sodium metasilicate (Na₂SiO₃·5H₂O)"
+      },
+      {
+        "head": "silicate-based solution",
+        "relation": "isMadeOf",
+        "tail": "potassium hydroxide (KOH)"
+      },
+      {
+        "head": "silicate-based solution",
+        "relation": "isMadeOf",
+        "tail": "potassium fluoride (KF)"
+      },
+      {
+        "head": "electrochemical cell",
+        "relation": "isPartOf",
+        "tail": "PEO process"
+      },
+      {
+        "head": "316 L stainless steel mesh",
+        "relation": "isPartOf",
+        "tail": "electrochemical cell"
+      },
+      {
+        "head": "power supply",
+        "relation": "isPartOf",
+        "tail": "PEO process"
+      },
+      {
+        "head": "IGBT-based pulse generator",
+        "relation": "isPartOf",
+        "tail": "PEO process"
+      },
+      {
+        "head": "pulsed current waveform",
+        "relation": "isPartOf",
+        "tail": "PEO process"
+      },
+      {
+        "head": "duplex PEO/DLC coatings",
+        "relation": "isPartOf",
+        "tail": "AZ31 magnesium alloy specimen"
+      },
+      {
+        "head": "Beijing Jitai Scientific Instrument roughness analyzer",
+        "relation": "isUsedFor",
+        "tail": "surface roughness measurement"
+      },
+      {
+        "head": "optical contact angle measuring instrument",
+        "relation": "isUsedFor",
+        "tail": "contact angle test"
+      },
+      {
+        "head": "calcium chloride (CaCl₂) solution",
+        "relation": "isUsedFor",
+        "tail": "BCI test"
+      }
+    ],
+    [
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectroscopy (EIS)"
+      },
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization"
+      },
+      {
+        "head": "Ag/AgCl reference electrode",
+        "relation": "isPartOf",
+        "tail": "three-electrode electrochemical setup"
+      },
+      {
+        "head": "platinum sheet counter electrode",
+        "relation": "isPartOf",
+        "tail": "three-electrode electrochemical setup"
+      },
+      {
+        "head": "specimens",
+        "relation": "isPartOf",
+        "tail": "three-electrode electrochemical setup"
+      },
+      {
+        "head": "AMETEK potentiostat/galvanostat (PARSTAT 2273)",
+        "relation": "isUsedFor",
+        "tail": "potentiodynamic polarization tests"
+      },
+      {
+        "head": "Zview software",
+        "relation": "isUsedFor",
+        "tail": "EIS characterizations"
+      },
+      {
+        "head": "PBS solution",
+        "relation": "isUsedFor",
+        "tail": "electrochemical tests"
+      },
+      {
+        "head": "batch contact technique",
+        "relation": "isUsedFor",
+        "tail": "BSA adsorption"
+      },
+      {
+        "head": "UV–vis spectrophotometer",
+        "relation": "isUsedFor",
+        "tail": "BSA adsorption"
+      },
+      {
+        "head": "culture dishes",
+        "relation": "isUsedFor",
+        "tail": "clotting time determination"
+      },
+      {
+        "head": "water bath",
+        "relation": "isUsedFor",
+        "tail": "clotting time determination"
+      },
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "clotting time determination"
+      }
+    ],
+    [
+      {
+        "head": "magnesium-based biomaterials",
+        "relation": "isTestedBy",
+        "tail": "immersion test in simulating body fluid (SBF)"
+      },
+      {
+        "head": "simulating body fluid (SBF)",
+        "relation": "isUsedFor",
+        "tail": "evaluation of magnesium-based biomaterials"
+      },
+      {
+        "head": "platelet-rich plasma (PRP)",
+        "relation": "isDerivedFrom",
+        "tail": "blood"
+      },
+      {
+        "head": "platelet-rich plasma (PRP)",
+        "relation": "isUsedFor",
+        "tail": "magnesium-based biomaterials"
+      },
+      {
+        "head": "magnesium-based biomaterials",
+        "relation": "isTestedBy",
+        "tail": "inductively coupled plasma mass spectrometry (ICP-MS)"
+      },
+      {
+        "head": "magnesium-based biomaterials",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscopy (SEM)"
+      },
+      {
+        "head": "magnesium-based biomaterials",
+        "relation": "isTestedBy",
+        "tail": "energy-dispersive X-ray spectroscopy (EDS)"
+      },
+      {
+        "head": "human umbilical vein cell line (EA. hy926)",
+        "relation": "isAKindOf",
+        "tail": "cell line"
+      },
+      {
+        "head": "magnesium-based biomaterials",
+        "relation": "isTestedBy",
+        "tail": "cell viability tests"
+      },
+      {
+        "head": "simulating body fluid (SBF)",
+        "relation": "isAKindOf",
+        "tail": "fluid"
+      },
+      {
+        "head": "simulating body fluid (SBF)",
+        "relation": "isSimilarTo",
+        "tail": "human blood plasma"
+      },
+      {
+        "head": "cell viability tests",
+        "relation": "isDerivedFrom",
+        "tail": "ISO 10993-5 and ISO 10993-12"
+      },
+      {
+        "head": "human umbilical vein cell line (EA. hy926)",
+        "relation": "isUsedFor",
+        "tail": "cell viability tests"
+      }
+    ],
+    [
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "mass loss measurements"
+      },
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "absorbance measurement"
+      },
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "SEM study"
+      },
+      {
+        "head": "specimens",
+        "relation": "isTestedBy",
+        "tail": "one-way ANOVA"
+      },
+      {
+        "head": "DLC coatings",
+        "relation": "isMadeOf",
+        "tail": "carbon clusters"
+      },
+      {
+        "head": "specimens",
+        "relation": "isUsedFor",
+        "tail": "cell culture"
+      },
+      {
+        "entity": "DLC coatings",
+        "attribute": "shape",
+        "value": "cauliflower formation"
+      }
+    ],
+    [
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "coated specimens"
+      },
+      {
+        "head": "AZ31 alloy",
+        "relation": "isPartOf",
+        "tail": "coated specimens"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isMadeOf",
+        "tail": "magnesium"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isMadeOf",
+        "tail": "oxygen"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isMadeOf",
+        "tail": "silicon"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isUsedFor",
+        "tail": "improving corrosion resistance"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "DLC coated specimens"
+      },
+      {
+        "entity": "PEO coating",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "hardness",
+        "value": "high"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "PEO layer",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "PEO/750 nm DLC specimen",
+        "relation": "isAKindOf",
+        "tail": "dual-layer coated specimens"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isAKindOf",
+        "tail": "diamond-like carbon coating"
+      },
+      {
+        "head": "PEO layer",
+        "relation": "isComplementaryTo",
+        "tail": "DLC coating"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "crystalsystem",
+        "value": "sp2 graphitic structure"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "crystalsystem",
+        "value": "diamond-like structure"
+      },
+      {
+        "entity": "PEO/750 nm DLC specimen",
+        "attribute": "corrosionResistance",
+        "value": "highest"
+      },
+      {
+        "entity": "dual-layer coated specimens",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      }
+    ],
+    [
+      {
+        "head": "dual-layer coating",
+        "relation": "isMadeOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "dual-layer coating",
+        "relation": "isMadeOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "dual-layer coated specimens",
+        "relation": "isAKindOf",
+        "tail": "duplex coatings"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "dual-layer coating"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "dual-layer coating"
+      },
+      {
+        "head": "dual-layer coated specimens",
+        "relation": "isAlternativeTo",
+        "tail": "PEO treated specimens"
+      },
+      {
+        "entity": "bare AZ31",
+        "attribute": "corrosionResistance",
+        "value": "low"
+      },
+      {
+        "entity": "PEO treated specimens",
+        "attribute": "corrosionResistance",
+        "value": "moderate"
+      },
+      {
+        "entity": "dual-layer coated specimens",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "barrier layer",
+        "relation": "isPartOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "porous layer",
+        "relation": "isPartOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "Nyquist",
+        "relation": "isPartOf",
+        "tail": "EIS curves"
+      },
+      {
+        "head": "Bode phase",
+        "relation": "isPartOf",
+        "tail": "EIS curves"
+      },
+      {
+        "head": "Bode |z|",
+        "relation": "isPartOf",
+        "tail": "EIS curves"
+      },
+      {
+        "head": "EIS parameters",
+        "relation": "isTestedBy",
+        "tail": "equivalent circuits"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "corrosion resistance"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isUsedFor",
+        "tail": "corrosion resistance"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      },
+      {
+        "entity": "PEO coating",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      }
+    ],
+    [
+      {
+        "head": "AZ31",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "AZ31",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "PEO",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "PEO",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "PEO/250nmDLC",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "PEO/250nmDLC",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "PEO/500nmDLC",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "PEO/500nmDLC",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "PEO/750nmDLC",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "PEO/750nmDLC",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "PEO/1μDLC",
+        "relation": "isTestedBy",
+        "tail": "electrochemical impedance spectrum (EIS)"
+      },
+      {
+        "head": "PEO/1μDLC",
+        "relation": "isTestedBy",
+        "tail": "potentiodynamic polarization (PDP)"
+      },
+      {
+        "head": "DLC layer",
+        "relation": "isPartOf",
+        "tail": "PEO/250nmDLC"
+      },
+      {
+        "head": "DLC layer",
+        "relation": "isPartOf",
+        "tail": "PEO/500nmDLC"
+      },
+      {
+        "head": "DLC layer",
+        "relation": "isPartOf",
+        "tail": "PEO/750nmDLC"
+      },
+      {
+        "head": "DLC layer",
+        "relation": "isPartOf",
+        "tail": "PEO/1μDLC"
+      },
+      {
+        "head": "PEO",
+        "relation": "isPartOf",
+        "tail": "PEO/250nmDLC"
+      },
+      {
+        "head": "PEO",
+        "relation": "isPartOf",
+        "tail": "PEO/500nmDLC"
+      },
+      {
+        "head": "PEO",
+        "relation": "isPartOf",
+        "tail": "PEO/750nmDLC"
+      },
+      {
+        "head": "PEO",
+        "relation": "isPartOf",
+        "tail": "PEO/1μDLC"
+      },
+      {
+        "entity": "AZ31",
+        "attribute": "corrosionResistance",
+        "value": "17.370 ± 2 kΩ cm2"
+      },
+      {
+        "entity": "PEO",
+        "attribute": "corrosionResistance",
+        "value": "180.100 ± 8 kΩ cm2"
+      },
+      {
+        "entity": "PEO/250nmDLC",
+        "attribute": "corrosionResistance",
+        "value": "7656.978 ± 140 kΩ cm2"
+      },
+      {
+        "entity": "PEO/500nmDLC",
+        "attribute": "corrosionResistance",
+        "value": "24,948.116 ± 985 kΩ cm2"
+      },
+      {
+        "entity": "PEO/750nmDLC",
+        "attribute": "corrosionResistance",
+        "value": "32,460.414 ± 850 kΩ cm2"
+      },
+      {
+        "entity": "PEO/1μDLC",
+        "attribute": "corrosionResistance",
+        "value": "14,561.636 ± 540 kΩ cm2"
+      }
+    ],
+    [
+      {
+        "head": "porous outer layer",
+        "relation": "isPartOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "dense inner layer",
+        "relation": "isPartOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isMadeOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isMadeOf",
+        "tail": "DLC layer"
+      },
+      {
+        "head": "time constant at high frequencies",
+        "relation": "isDerivedFrom",
+        "tail": "porous outer layer"
+      },
+      {
+        "head": "time constant at low frequencies",
+        "relation": "isDerivedFrom",
+        "tail": "dense inner layer"
+      },
+      {
+        "head": "third time constant",
+        "relation": "isDerivedFrom",
+        "tail": "DLC layer"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isUsedFor",
+        "tail": "improving corrosion performance"
+      },
+      {
+        "head": "residual stresses",
+        "relation": "isDerivedFrom",
+        "tail": "increasing thickness of DLC coating"
+      },
+      {
+        "entity": "AZ31 specimen",
+        "attribute": "corrosionResistance",
+        "value": "low"
+      },
+      {
+        "entity": "PEO coating",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      },
+      {
+        "entity": "PEO/DLC coating",
+        "attribute": "corrosionResistance",
+        "value": "optimal at 750 nm DLC thickness"
+      }
+    ],
+    [
+      {
+        "entity": "AZ31 alloy",
+        "attribute": "corrosionResistance",
+        "value": "low"
+      },
+      {
+        "entity": "PEO/DLC bilayer coatings",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coatings"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coatings"
+      },
+      {
+        "head": "PEO/DLC bilayer coatings",
+        "relation": "isAKindOf",
+        "tail": "coating"
+      },
+      {
+        "head": "PEO/DLC bilayer coatings",
+        "relation": "isUsedFor",
+        "tail": "minimizing Mg2+ ion release"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "enhancing hemocompatibility"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "reducing calcium content"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isUsedFor",
+        "tail": "forming a protective barrier"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isAlternativeTo",
+        "tail": "PEO coating"
+      }
+    ],
+    [
+      {
+        "entity": "AZ31",
+        "attribute": "corrosionResistance",
+        "value": "poor"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC coating"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC coating"
+      },
+      {
+        "head": "sp3 carbon phase",
+        "relation": "isPartOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "sp2 carbon phase",
+        "relation": "isPartOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isAlternativeTo",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isAKindOf",
+        "tail": "coating material"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isAKindOf",
+        "tail": "coating material"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isAKindOf",
+        "tail": "coating material"
+      },
+      {
+        "head": "AZ31",
+        "relation": "isAKindOf",
+        "tail": "alloy material"
+      }
+    ],
+    [
+      {
+        "head": "PEO/DLC coatings",
+        "relation": "isMadeOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "PEO/DLC coatings",
+        "relation": "isMadeOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isComplementaryTo",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "PEO/DLC coatings",
+        "relation": "isUsedFor",
+        "tail": "minimizing thrombogenesis"
+      },
+      {
+        "head": "PEO/DLC coatings",
+        "relation": "isUsedFor",
+        "tail": "improving blood compatibility"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "improving blood compatibility"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isUsedFor",
+        "tail": "reducing protein adsorption"
+      },
+      {
+        "head": "AZ31",
+        "relation": "isAKindOf",
+        "tail": "magnesium alloy"
+      },
+      {
+        "head": "250nmDLC",
+        "relation": "isAKindOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "500 nm DLC coating",
+        "relation": "isAKindOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "750 nm DLC coating",
+        "relation": "isAKindOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "1 μm DLC coating",
+        "relation": "isAKindOf",
+        "tail": "DLC coating"
+      },
+      {
+        "entity": "PEO/DLC coatings",
+        "attribute": "shape",
+        "value": "double-layer"
+      }
+    ],
+    [
+      {
+        "head": "DLC",
+        "relation": "isAKindOf",
+        "tail": "carbon-based material"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "stent"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "cardiovascular applications"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "PEO/DLC bilayer coating",
+        "relation": "isAKindOf",
+        "tail": "coating"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isUsedFor",
+        "tail": "covering PEO layer"
+      }
+    ],
+    [
+      {
+        "head": "AZ31",
+        "relation": "isAKindOf",
+        "tail": "biodegradable alloy"
+      },
+      {
+        "head": "AZ31",
+        "relation": "isAKindOf",
+        "tail": "magnesium alloy"
+      },
+      {
+        "head": "PEO layer",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "DLC layer",
+        "relation": "isPartOf",
+        "tail": "PEO/DLC bilayer coating"
+      },
+      {
+        "head": "PEO/DLC bilayer coating",
+        "relation": "isPartOf",
+        "tail": "cardiovascular stents"
+      },
+      {
+        "head": "PEO/DLC coating",
+        "relation": "isUsedFor",
+        "tail": "cardiovascular stents"
+      },
+      {
+        "entity": "AZ31",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      }
+    ],
+    [
+      {
+        "entity": "AZ31 alloy",
+        "attribute": "corrosionResistance",
+        "value": "enhanced by PEO/DLC coatings"
+      },
+      {
+        "entity": "DLC coating",
+        "attribute": "corrosionResistance",
+        "value": "highest at 750 nm"
+      },
+      {
+        "head": "PEO/DLC bilayer coating",
+        "relation": "isMadeOf",
+        "tail": "PEO coating"
+      },
+      {
+        "head": "PEO/DLC bilayer coating",
+        "relation": "isMadeOf",
+        "tail": "DLC coating"
+      },
+      {
+        "head": "PEO coating",
+        "relation": "isAKindOf",
+        "tail": "corrosion resistant coating"
+      },
+      {
+        "head": "DLC coating",
+        "relation": "isAKindOf",
+        "tail": "corrosion resistant coating"
+      },
+      {
+        "head": "AZ31 alloy",
+        "relation": "isAKindOf",
+        "tail": "magnesium alloy"
+      }
+    ]
+  ],
+  "double-network-hydrogel-for-rapid-repair-of-chronic-diabetic": [
+    [
+      {
+        "head": "double-network hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG network"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU network"
+      },
+      {
+        "head": "GAG network",
+        "relation": "isUsedFor",
+        "tail": "anti-inflammatory effect"
+      },
+      {
+        "head": "Zn/PCA/TAU network",
+        "relation": "isUsedFor",
+        "tail": "cell migration"
+      },
+      {
+        "head": "Zn/PCA/TAU network",
+        "relation": "isUsedFor",
+        "tail": "collagen deposition"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isUsedFor",
+        "tail": "accelerating wound repair"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound healing"
+      },
+      {
+        "head": "GA",
+        "relation": "isPartOf",
+        "tail": "double-network hydrogel"
+      },
+      {
+        "head": "imine bond",
+        "relation": "isPartOf",
+        "tail": "double-network hydrogel"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isDependentOn",
+        "tail": "imine bond"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isDependentOn",
+        "tail": "GA"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isTestedBy",
+        "tail": "in vivo testing"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "double-network hydrogel",
+        "relation": "isAKindOf",
+        "tail": "spatiotemporal drug release system"
+      }
+    ],
+    [
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "GAG",
+        "relation": "isPartOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isPartOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "GA",
+        "relation": "isPartOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "Zn²+",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "PCA",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "TAU",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isUsedFor",
+        "tail": "suppress inflammatory reactions and support wound closure in diabetic wounds"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isUsedFor",
+        "tail": "controlled release of GA and PCA"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isAKindOf",
+        "tail": "wound dressing"
+      },
+      {
+        "head": "GA",
+        "relation": "isAKindOf",
+        "tail": "bioactive compound"
+      },
+      {
+        "entity": "hydrogel",
+        "attribute": "shape",
+        "value": "porous three-dimensional framework"
+      }
+    ],
+    [
+      {
+        "head": "GA network",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU network",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "PCA",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU network"
+      },
+      {
+        "head": "TAU",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU network"
+      },
+      {
+        "head": "Schiff base linkages",
+        "relation": "isMadeOf",
+        "tail": "PCA and TAU"
+      },
+      {
+        "head": "Zn²+ ions",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU network"
+      },
+      {
+        "head": "PCA-TAU complex",
+        "relation": "isMadeOf",
+        "tail": "PCA and TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "ZnSO4 and PCA-TAU complex"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU hydrogel and GAG"
+      },
+      {
+        "head": "GA network",
+        "relation": "isUsedFor",
+        "tail": "facilitating an anti-inflammatory effect"
+      },
+      {
+        "head": "Zn/PCA/TAU network",
+        "relation": "isUsedFor",
+        "tail": "supporting cellular migration and collagen deposition"
+      },
+      {
+        "head": "PCA",
+        "relation": "isUsedFor",
+        "tail": "acting as a molecular bridge"
+      },
+      {
+        "entity": "DN hydrogel",
+        "attribute": "shape",
+        "value": "reduced nanoscale aggregate size"
+      }
+    ],
+    [
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscopy"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "transmission electron microscopy"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "Energy-dispersive X-ray spectroscopy"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "ultraviolet−visible spectroscopy"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "Fourier transform infrared spectroscopy"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "circular dichroism spectropolarimetry"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "1H nuclear magnetic resonance spectroscopy"
+      }
+    ],
+    [
+      {
+        "head": "X-ray photoelectron spectrometer",
+        "relation": "isUsedFor",
+        "tail": "measuring X-ray photoelectron spectra"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "centrifugal method"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "0.01 M ethylenediaminetetraacetic acid (EDTA)"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "2 M urea"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "0.4% sodium dodecyl sulfate (SDS)"
+      },
+      {
+        "head": "high-performance liquid chromatography",
+        "relation": "isUsedFor",
+        "tail": "determining the content of PCA"
+      },
+      {
+        "head": "high-performance liquid chromatography",
+        "relation": "isUsedFor",
+        "tail": "measuring the content of Tau"
+      },
+      {
+        "head": "minimum bactericidal concentration (MBC)",
+        "relation": "isTestedBy",
+        "tail": "broth microdilution method"
+      },
+      {
+        "head": "SYTO 9 and propidium iodide",
+        "relation": "isUsedFor",
+        "tail": "assessing bacterial membrane integrity"
+      },
+      {
+        "head": "scanning electron microscopy (SEM)",
+        "relation": "isUsedFor",
+        "tail": "observing bacterial morphology"
+      },
+      {
+        "head": "rheometer",
+        "relation": "isUsedFor",
+        "tail": "measuring rheological properties"
+      },
+      {
+        "head": "rheometer",
+        "relation": "isUsedFor",
+        "tail": "measuring thixotropic behavior"
+      },
+      {
+        "entity": "C 1s peak",
+        "attribute": "binding energy",
+        "value": "284.8 eV"
+      },
+      {
+        "entity": "hydrogel",
+        "attribute": "water holding capacity",
+        "value": "calculated as (weight after centrifugation/original weight) × 100%"
+      },
+      {
+        "entity": "C18 column",
+        "attribute": "dimensions",
+        "value": "4.6 × 150 mm, 5 µm diameter"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zinc"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "1H NMR Spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "FT-IR spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "Zn 2p high-resolution spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "N 1s high-resolution spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "UV−vis spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "CD spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "XRD pattern"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "hemolysis assessment"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "IL-6 secretion measurement"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "1H NMR Spectra with different concentrations"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "UV−vis spectra"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "hemolysis assessment"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "IL-6 secretion measurement"
+      }
+    ],
+    [
+      {
+        "head": "STZ",
+        "relation": "isUsedFor",
+        "tail": "inducing type 1 diabetes"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "DCFH-DA probe"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "CCK-8"
+      },
+      {
+        "head": "ELISA kits",
+        "relation": "isUsedFor",
+        "tail": "measuring IL-6 levels"
+      },
+      {
+        "head": "ELISA kits",
+        "relation": "isUsedFor",
+        "tail": "measuring IL-10 levels"
+      },
+      {
+        "head": "scratch assay",
+        "relation": "isUsedFor",
+        "tail": "assessing cell migration"
+      },
+      {
+        "head": "LPS",
+        "relation": "isUsedFor",
+        "tail": "stimulating Raw 264.7 cells"
+      },
+      {
+        "head": "immunohistochemical staining",
+        "relation": "isUsedFor",
+        "tail": "evaluating wound healing"
+      },
+      {
+        "head": "Masson staining",
+        "relation": "isUsedFor",
+        "tail": "evaluating wound healing"
+      },
+      {
+        "head": "H&E staining",
+        "relation": "isUsedFor",
+        "tail": "evaluating wound healing"
+      },
+      {
+        "head": "immunofluorescence staining",
+        "relation": "isUsedFor",
+        "tail": "evaluating wound healing"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isUsedFor",
+        "tail": "treating diabetic wounds"
+      },
+      {
+        "head": "GAG",
+        "relation": "isUsedFor",
+        "tail": "treating diabetic wounds"
+      },
+      {
+        "head": "DN",
+        "relation": "isUsedFor",
+        "tail": "treating diabetic wounds"
+      },
+      {
+        "head": "PBS",
+        "relation": "isUsedFor",
+        "tail": "control treatment"
+      }
+    ],
+    [
+      {
+        "head": "4% formaldehyde solution",
+        "relation": "isUsedFor",
+        "tail": "H&E staining"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn2+"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "dynamic imine bond"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "1H NMR spectra"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isTestedBy",
+        "tail": "XPS"
+      },
+      {
+        "head": "dynamic imine bond",
+        "relation": "isDependentOn",
+        "tail": "pH"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isDerivedFrom",
+        "tail": "ZnSO4"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "GAG hydrogel",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn"
+      },
+      {
+        "head": "GAG hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isAKindOf",
+        "tail": "dynamic covalent hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "WHC test"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "SEM"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "TEM"
+      },
+      {
+        "head": "imine bonds",
+        "relation": "isPartOf",
+        "tail": "Zn/PCA/TAU hydrogel"
+      },
+      {
+        "entity": "DN hydrogel",
+        "attribute": "shape",
+        "value": "cascaded and staggered sheet structure"
+      }
+    ],
+    [
+      {
+        "head": "P−T",
+        "relation": "isDerivedFrom",
+        "tail": "TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isMadeOf",
+        "tail": "Zn2+"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "TAU",
+        "relation": "isMadeOf",
+        "tail": "sulfonate groups"
+      },
+      {
+        "head": "PCA",
+        "relation": "isMadeOf",
+        "tail": "phenolic oxygen groups"
+      },
+      {
+        "head": "P−T",
+        "relation": "isMadeOf",
+        "tail": "imine bonds"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isMadeOf",
+        "tail": "ZnO"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isMadeOf",
+        "tail": "Zn−N bonds"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "GAG",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "spatiotemporal drug release"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "XRD patterns"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "FT-IR spectra"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "1H NMR spectra"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "UV-vis spectrum"
+      },
+      {
+        "head": "Zn/PCA/TAU",
+        "relation": "isComplementaryTo",
+        "tail": "GAG"
+      },
+      {
+        "entity": "GAG",
+        "attribute": "crystalsystem",
+        "value": "crystalline"
+      },
+      {
+        "entity": "DN hydrogel",
+        "attribute": "crystalsystem",
+        "value": "amorphous"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn2+"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "P−T"
+      },
+      {
+        "head": "P−T",
+        "relation": "isMadeOf",
+        "tail": "imine bond"
+      },
+      {
+        "head": "imine bond",
+        "relation": "isAKindOf",
+        "tail": "dynamic covalent bond"
+      },
+      {
+        "head": "Zn/PCA/TAU hydrogel",
+        "relation": "isMadeOf",
+        "tail": "noncovalent bond"
+      }
+    ],
+    [
+      {
+        "head": "hydrogen bonds",
+        "relation": "isUsedFor",
+        "tail": "Zn/PCA/TAU formation"
+      },
+      {
+        "head": "π−π stacking interactions",
+        "relation": "isUsedFor",
+        "tail": "Zn/PCA/TAU formation"
+      },
+      {
+        "head": "DN gel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN gel",
+        "relation": "isMadeOf",
+        "tail": "GAG hydrogel"
+      },
+      {
+        "head": "DN gel",
+        "relation": "isTestedBy",
+        "tail": "rheometer"
+      },
+      {
+        "head": "DN gel",
+        "relation": "isTestedBy",
+        "tail": "step-strain test"
+      },
+      {
+        "head": "shear stress",
+        "relation": "isDependentOn",
+        "tail": "shear rate"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "shear-thinning property",
+        "value": "excellent"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "thixotropic property",
+        "value": "excellent"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "self-healing property",
+        "value": "excellent"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "thermal stability",
+        "value": "below 80°C"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "retention time",
+        "value": "30 min"
+      },
+      {
+        "entity": "DN gel",
+        "attribute": "transition strain",
+        "value": "18%"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "wound dressing"
+      },
+      {
+        "head": "imine bond",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "ABTS scavenging capacity test"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "DPPH inhibition capacity test"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "scratch assay"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "quantitative analysis of IL-6"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "quantitative analysis of IL-10"
+      },
+      {
+        "entity": "DN hydrogel",
+        "attribute": "ductility",
+        "value": "good"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound healing"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "plate coating"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "live/dead bacteria staining"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "SEM"
+      },
+      {
+        "head": "GAG",
+        "relation": "isComplementaryTo",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "S. aureus",
+        "relation": "isPartOf",
+        "tail": "diabetic wounds"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activity against S. aureus"
+      },
+      {
+        "head": "GA aggregates",
+        "relation": "isPartOf",
+        "tail": "DN hydrogel"
+      },
+      {
+        "head": "GA aggregates",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "GA aggregates",
+        "relation": "isDependentOn",
+        "tail": "hydrodynamic size"
+      },
+      {
+        "head": "PCA release",
+        "relation": "isDependentOn",
+        "tail": "pH level"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "promoting re-epithelialization"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "collagen deposition"
+      },
+      {
+        "entity": "GA aggregates",
+        "attribute": "shape",
+        "value": "smaller aggregates"
+      },
+      {
+        "entity": "GA aggregates",
+        "attribute": "elasticModulus",
+        "value": "less stable"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU-containing hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogels"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogels"
+      },
+      {
+        "head": "GAG hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogels"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "wound dressings"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isTestedBy",
+        "tail": "hemolysis assay"
+      },
+      {
+        "head": "GAG hydrogel",
+        "relation": "isDependentOn",
+        "tail": "excess alkali added during fabrication"
+      },
+      {
+        "head": "CCK-8 assay",
+        "relation": "isUsedFor",
+        "tail": "testing cytocompatibility"
+      },
+      {
+        "head": "hemolysis assay",
+        "relation": "isUsedFor",
+        "tail": "testing hemocompatibility"
+      },
+      {
+        "entity": "Zn/PCA/TAU-containing hydrogel",
+        "attribute": "hemolysis ratio",
+        "value": "around 1%"
+      },
+      {
+        "entity": "DN hybrid hydrogel",
+        "attribute": "hemolysis ratio",
+        "value": "around 1%"
+      },
+      {
+        "entity": "GAG hydrogel",
+        "attribute": "hemolysis ratio",
+        "value": "high"
+      },
+      {
+        "entity": "hydrogels",
+        "attribute": "cytocompatibility",
+        "value": "good"
+      },
+      {
+        "entity": "DN hybrid hydrogel",
+        "attribute": "biocompatibility",
+        "value": "favorable"
+      },
+      {
+        "entity": "DN hybrid hydrogel",
+        "attribute": "hemocompatibility",
+        "value": "excellent"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isTestedBy",
+        "tail": "ABTS scavenging assay"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isTestedBy",
+        "tail": "DPPH scavenging assay"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isTestedBy",
+        "tail": "hydroxyl radical (·OH) scavenging assay"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isSimilarTo",
+        "tail": "Vitamin C"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isMadeOf",
+        "tail": "Zn"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "PCA-based hydrogel",
+        "relation": "isAKindOf",
+        "tail": "natural antioxidant"
+      },
+      {
+        "head": "Zn/PCA/TAU-containing hydrogels",
+        "relation": "isUsedFor",
+        "tail": "diabetic wounds"
+      }
+    ],
+    [
+      {
+        "head": "Zn/PCA/TAU-contained hydrogels",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Zn/PCA/TAU-contained hydrogels",
+        "relation": "isMadeOf",
+        "tail": "zinc"
+      },
+      {
+        "head": "Zn/PCA/TAU-contained hydrogels",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "Zn/PCA/TAU-contained hydrogels",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound treatment"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "eliminating ROS"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "promoting migration of L929 cells"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "mitigating cellular damage induced by H2O2"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "reducing IL-6"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isUsedFor",
+        "tail": "facilitating production of IL-10"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isTestedBy",
+        "tail": "dorsal skin defect model of diabetic C57BL/6 mice"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isTestedBy",
+        "tail": "L929 scratch assay"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isTestedBy",
+        "tail": "ELISA"
+      },
+      {
+        "head": "hydrogels",
+        "relation": "isDerivedFrom",
+        "tail": "polyphenols"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "reducing ROS levels"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "promoting collagen maturation"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "accelerating the shift from inflammatory to proliferative phase"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "promoting angiogenesis"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "DCFH-DA histological staining"
+      },
+      {
+        "head": "IL-6 expression",
+        "relation": "isDependentOn",
+        "tail": "GA-contained hydrogel"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "reducing IL-6 expression"
+      },
+      {
+        "head": "Zn/PCA/TAU-incorporated hydrogels",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "entity": "collagen fibers",
+        "attribute": "shape",
+        "value": "basket-weave pattern"
+      }
+    ],
+    [
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound healing"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isMadeOf",
+        "tail": "DN"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isTestedBy",
+        "tail": "CCK-8 assay"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isTestedBy",
+        "tail": "histology"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isTestedBy",
+        "tail": "blood routine analysis"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isTestedBy",
+        "tail": "minimum bactericidal concentration (MBC) test"
+      },
+      {
+        "head": "DN hybrid hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel dressing"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isPartOf",
+        "tail": "advanced wound management strategies"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "wound closure"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "alleviating oxidative stress"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn/PCA/TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GA"
+      },
+      {
+        "head": "GA-contained hydrogel",
+        "relation": "isAlternativeTo",
+        "tail": "Zn/PCA/TAU-contained hydrogels"
+      },
+      {
+        "head": "Release of PCA",
+        "relation": "isDependentOn",
+        "tail": "pH"
+      },
+      {
+        "head": "regenerated tissue",
+        "relation": "isSimilarTo",
+        "tail": "healthy skin"
+      },
+      {
+        "head": "PCA",
+        "relation": "isComplementaryTo",
+        "tail": "GA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "routine blood assays"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "histological analysis"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "mitigating inflammation"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "fostering vascularization"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "aiding collagen synthesis"
+      }
+    ],
+    [
+      {
+        "head": "DN hydrogel",
+        "relation": "isAKindOf",
+        "tail": "hydrogel system"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GAG"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "Zn"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "PCA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "TAU"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isMadeOf",
+        "tail": "GA"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound healing"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "in vitro ROS scavenging experiments"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "anti-inflammation experiments"
+      },
+      {
+        "head": "DN hydrogel",
+        "relation": "isTestedBy",
+        "tail": "full-thickness diabetic wound healing experiment"
+      }
+    ],
+    [
+      {
+        "head": "GAG",
+        "relation": "isMadeOf",
+        "tail": "18β-Glycyrrhetinic acid"
+      }
+    ],
+    [
+      {
+        "head": "Hydrogel Dressings",
+        "relation": "isUsedFor",
+        "tail": "accelerated infected diabetic wound healing"
+      },
+      {
+        "head": "dual network hydrogel",
+        "relation": "isMadeOf",
+        "tail": "tea polyphenol magnesium nanoparticles"
+      },
+      {
+        "head": "glycyrrhizic acid hydrogel microparticles",
+        "relation": "isMadeOf",
+        "tail": "glycyrrhizic acid"
+      },
+      {
+        "head": "glycyrrhizic acid hydrogel microparticles",
+        "relation": "isMadeOf",
+        "tail": "mesenchymal stem cell exosomes"
+      },
+      {
+        "head": "polymeric hydrogel adhesives",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "plant polysaccharide hydrogels",
+        "relation": "isDerivedFrom",
+        "tail": "plant polysaccharides"
+      },
+      {
+        "head": "degradable carrier-free spray hydrogel",
+        "relation": "isMadeOf",
+        "tail": "natural small molecules"
+      },
+      {
+        "head": "antioxidant and antibacterial hydrogel",
+        "relation": "isMadeOf",
+        "tail": "protocatechualdehyde−ferric iron complex"
+      },
+      {
+        "head": "antioxidant and antibacterial hydrogel",
+        "relation": "isMadeOf",
+        "tail": "aminopolysaccharide"
+      },
+      {
+        "head": "Silver-Coordinated Anthraquinone Natural Antibacterial Anti-Inflammatory Hydrogel",
+        "relation": "isUsedFor",
+        "tail": "treating bacterial infections"
+      },
+      {
+        "entity": "glycyrrhizic acid hydrogel microparticles",
+        "attribute": "shape",
+        "value": "microparticles"
+      },
+      {
+        "entity": "Silver-Coordinated Anthraquinone Natural Antibacterial Anti-Inflammatory Hydrogel",
+        "attribute": "tensileStrength",
+        "value": "enhanced mechanical strength"
+      }
+    ],
+    [
+      {
+        "head": "Matory Hydrogel",
+        "relation": "isUsedFor",
+        "tail": "infectious wound healing"
+      },
+      {
+        "head": "Zn(II)-Metallohydrogel",
+        "relation": "isUsedFor",
+        "tail": "non-volatile memory devices"
+      },
+      {
+        "head": "polymeric transition metal complexes",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial applications"
+      },
+      {
+        "head": "high-performance polyimide films",
+        "relation": "isMadeOf",
+        "tail": "coordination bonds"
+      },
+      {
+        "head": "Small Molecule Hydrogels",
+        "relation": "isUsedFor",
+        "tail": "traumatic brain injury treatment"
+      },
+      {
+        "head": "Carrier-Free Hydrogel",
+        "relation": "isUsedFor",
+        "tail": "promoting wound healing"
+      },
+      {
+        "head": "Folate/Zinc Supramolecular Hydrogels",
+        "relation": "isUsedFor",
+        "tail": "printable biomaterials"
+      },
+      {
+        "head": "organic photocatalytic materials",
+        "relation": "isDependentOn",
+        "tail": "π−π interactions"
+      },
+      {
+        "head": "Micro-Gel Ensembles",
+        "relation": "isUsedFor",
+        "tail": "accelerated healing of chronic wounds"
+      },
+      {
+        "head": "Photothermal/Photodynamic Synergistic Antibacterial Hydrogel Dressing",
+        "relation": "isUsedFor",
+        "tail": "diabetic foot ulcers"
+      },
+      {
+        "head": "On-demand detachable adhesive hydrogel",
+        "relation": "isUsedFor",
+        "tail": "diabetic wound healing"
+      },
+      {
+        "head": "Copper Ion-Inspired Hydrogels",
+        "relation": "isUsedFor",
+        "tail": "wound management"
+      },
+      {
+        "head": "Functional and Biomimetic Materials",
+        "relation": "isUsedFor",
+        "tail": "engineering three-dimensional cell microenvironment"
+      }
+    ]
+  ],
+  "micromachines-17-00272-v2_chunks": [
+    [
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "nanomaterials"
+      },
+      {
+        "head": "Fe3O4 nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "magnetic nanoparticles"
+      },
+      {
+        "head": "nanorobots",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4 nanoparticles"
+      },
+      {
+        "head": "nanorobots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica"
+      },
+      {
+        "head": "cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "nanorobots"
+      },
+      {
+        "head": "cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery systems"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "magnetic hyperthermia therapy"
+      },
+      {
+        "head": "cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "treating IBD"
+      }
+    ],
+    [
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isPartOf",
+        "tail": "magnetic micro/nanorobots"
+      },
+      {
+        "head": "mesoporous silica",
+        "relation": "isPartOf",
+        "tail": "magnetic micro/nanorobots"
+      },
+      {
+        "head": "iron oxide nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4"
+      },
+      {
+        "head": "magnetic micro/nanorobots",
+        "relation": "isMadeOf",
+        "tail": "magnetic nanoparticles"
+      },
+      {
+        "head": "magnetic micro/nanorobots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica"
+      },
+      {
+        "head": "hematite nanorobots",
+        "relation": "isAKindOf",
+        "tail": "magnetic micro/nanorobots"
+      },
+      {
+        "head": "helical magnetic nanorobots",
+        "relation": "isAKindOf",
+        "tail": "magnetic micro/nanorobots"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "external field manipulation"
+      },
+      {
+        "head": "magnetic micro/nanorobots",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "magnetic micro/nanorobots",
+        "relation": "isUsedFor",
+        "tail": "therapy for diseases"
+      },
+      {
+        "head": "mesoporous silica",
+        "relation": "isUsedFor",
+        "tail": "drug loading"
+      },
+      {
+        "head": "mesoporous silica",
+        "relation": "isUsedFor",
+        "tail": "retarding drug release"
+      },
+      {
+        "head": "capsaicin",
+        "relation": "isUsedFor",
+        "tail": "treating inflammatory bowel disease"
+      },
+      {
+        "entity": "hematite nanorobots",
+        "attribute": "shape",
+        "value": "dual-spherical structures"
+      },
+      {
+        "entity": "helical magnetic nanorobots",
+        "attribute": "shape",
+        "value": "helical shape"
+      },
+      {
+        "entity": "mesoporous silica",
+        "attribute": "shape",
+        "value": "shell shape"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4 cores"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica shell"
+      },
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "targeted treatment of Inflammatory Bowel Disease (IBD)"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "restoring the intestinal mucosal barrier"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "down-regulating the NF-κB signaling pathway"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isDependentOn",
+        "tail": "rotating gradient magnetic field"
+      }
+    ],
+    [
+      {
+        "head": "PSSMA",
+        "relation": "isUsedFor",
+        "tail": "MNPs"
+      },
+      {
+        "head": "MNPs",
+        "relation": "isDerivedFrom",
+        "tail": "FeCl3·6H2O"
+      },
+      {
+        "head": "MNPs",
+        "relation": "isDerivedFrom",
+        "tail": "NaAc"
+      },
+      {
+        "head": "PSSMA",
+        "relation": "isAKindOf",
+        "tail": "sodium salt"
+      },
+      {
+        "head": "PSSMA",
+        "relation": "isAKindOf",
+        "tail": "copolymer"
+      },
+      {
+        "head": "ethanol",
+        "relation": "isUsedFor",
+        "tail": "MNPs"
+      },
+      {
+        "head": "DI water",
+        "relation": "isUsedFor",
+        "tail": "MNPs"
+      },
+      {
+        "head": "ethylene glycol",
+        "relation": "isUsedFor",
+        "tail": "MNPs"
+      }
+    ],
+    [
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isPartOf",
+        "tail": "Fe3O4@mSiO2 nanoparticles"
+      },
+      {
+        "head": "Fe3O4 cores",
+        "relation": "isPartOf",
+        "tail": "Fe3O4@mSiO2 nanoparticles"
+      },
+      {
+        "head": "Fe3O4@mSiO2 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4 cores"
+      },
+      {
+        "head": "Fe3O4@mSiO2 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica shell"
+      },
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isDerivedFrom",
+        "tail": "TEOS"
+      },
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isDerivedFrom",
+        "tail": "FITC-APTES"
+      },
+      {
+        "head": "Fe3O4@mSiO2 nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "loading capsaicin"
+      },
+      {
+        "head": "anhydrous ethanol",
+        "relation": "isUsedFor",
+        "tail": "dissolving capsaicin"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4@mSiO2 nanoparticles"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      }
+    ],
+    [
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "field-emission transmission electron microscope (TEM)"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "High-Angle Annular Dark-Field Scanning Transmission Electron Microscopy (HAADF-STEM)"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "Energy-Dispersive X-ray Spectroscopy (EDS)"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "Zetasizer Nano ZS90 instrument"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "Vibrating Sample Magnetometer (VSM)"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isTestedBy",
+        "tail": "UV-Vis-NIR spectrophotometer"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Si"
+      },
+      {
+        "head": "synthesized nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "synthesized nanoparticles"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "entity": "synthesized nanoparticles",
+        "attribute": "shape",
+        "value": "core-shell configuration"
+      }
+    ],
+    [
+      {
+        "head": "electromagnetic coil system",
+        "relation": "isPartOf",
+        "tail": "magnetic actuation system"
+      },
+      {
+        "head": "programmable power supply",
+        "relation": "isPartOf",
+        "tail": "magnetic actuation system"
+      },
+      {
+        "head": "magnetic actuation system",
+        "relation": "isUsedFor",
+        "tail": "rotating gradient magnetic field"
+      },
+      {
+        "head": "inverted optical microscope",
+        "relation": "isPartOf",
+        "tail": "magnetic generation system"
+      },
+      {
+        "head": "CCD camera",
+        "relation": "isPartOf",
+        "tail": "inverted optical microscope"
+      },
+      {
+        "head": "CCD camera",
+        "relation": "isUsedFor",
+        "tail": "locomotion trajectories"
+      },
+      {
+        "head": "ImageJ software",
+        "relation": "isUsedFor",
+        "tail": "motion videos"
+      },
+      {
+        "head": "Manual Tracking plugin",
+        "relation": "isPartOf",
+        "tail": "ImageJ software"
+      },
+      {
+        "head": "agarose gel blocks",
+        "relation": "isMadeOf",
+        "tail": "agarose gel"
+      },
+      {
+        "head": "agarose gel blocks",
+        "relation": "isUsedFor",
+        "tail": "simulating intestinal folds"
+      },
+      {
+        "entity": "agarose gel blocks",
+        "attribute": "shape",
+        "value": "block shape"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "magnetic nanocarrier system"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isDependentOn",
+        "tail": "external gradient magnetic field"
+      },
+      {
+        "head": "external gradient magnetic field",
+        "relation": "isUsedFor",
+        "tail": "active targeting guidance"
+      },
+      {
+        "head": "DSS",
+        "relation": "isAKindOf",
+        "tail": "colitis inducer"
+      },
+      {
+        "head": "magnetic nanocarrier system",
+        "relation": "isUsedFor",
+        "tail": "prophylactic and therapeutic potential"
+      }
+    ],
+    [
+      {
+        "head": "paraformaldehyde phosphate buffer",
+        "relation": "isUsedFor",
+        "tail": "fixing intact colon tissues"
+      },
+      {
+        "head": "graded ethanol series",
+        "relation": "isUsedFor",
+        "tail": "dehydration of tissues"
+      },
+      {
+        "head": "xylene",
+        "relation": "isUsedFor",
+        "tail": "clearing tissues"
+      },
+      {
+        "head": "paraffin wax",
+        "relation": "isUsedFor",
+        "tail": "embedding tissues"
+      },
+      {
+        "head": "poly-L-lysine",
+        "relation": "isPartOf",
+        "tail": "glass slides"
+      },
+      {
+        "head": "Hematoxylin",
+        "relation": "isUsedFor",
+        "tail": "staining tissue sections"
+      },
+      {
+        "head": "Eosin",
+        "relation": "isUsedFor",
+        "tail": "counterstaining tissue sections"
+      },
+      {
+        "head": "neutral balsam",
+        "relation": "isUsedFor",
+        "tail": "mounting sections"
+      }
+    ],
+    [
+      {
+        "head": "RIPA lysis buffer",
+        "relation": "isMadeOf",
+        "tail": "protease inhibitors (e.g., PMSF)"
+      },
+      {
+        "head": "RIPA lysis buffer",
+        "relation": "isMadeOf",
+        "tail": "phosphatase inhibitors (e.g., NaF, Na3VO4)"
+      },
+      {
+        "head": "tissue homogenizer",
+        "relation": "isUsedFor",
+        "tail": "tissue homogenization"
+      },
+      {
+        "head": "BCA assay",
+        "relation": "isUsedFor",
+        "tail": "protein concentration determination"
+      },
+      {
+        "head": "SDS-PAGE gel",
+        "relation": "isPartOf",
+        "tail": "electrophoresis"
+      },
+      {
+        "head": "PVDF membrane",
+        "relation": "isPartOf",
+        "tail": "protein transfer"
+      },
+      {
+        "head": "rabbit anti-phospho-IκBα (Ser32/36) primary antibody",
+        "relation": "isUsedFor",
+        "tail": "detecting phospho-IκBα"
+      },
+      {
+        "head": "rabbit anti-phospho-p65 (Ser536) primary antibody",
+        "relation": "isUsedFor",
+        "tail": "detecting phospho-p65"
+      },
+      {
+        "head": "HRP-conjugated goat anti-rabbit secondary antibody",
+        "relation": "isUsedFor",
+        "tail": "detection of target proteins"
+      },
+      {
+        "head": "enhanced chemiluminescence (ECL) substrate",
+        "relation": "isUsedFor",
+        "tail": "membrane development"
+      },
+      {
+        "head": "ImageJ",
+        "relation": "isUsedFor",
+        "tail": "quantifying optical density"
+      },
+      {
+        "head": "GAPDH",
+        "relation": "isUsedFor",
+        "tail": "normalizing protein band intensity"
+      },
+      {
+        "head": "β-Actin",
+        "relation": "isUsedFor",
+        "tail": "normalizing protein band intensity"
+      },
+      {
+        "head": "TBST buffer",
+        "relation": "isUsedFor",
+        "tail": "blocking non-specific binding"
+      },
+      {
+        "head": "TBST buffer",
+        "relation": "isUsedFor",
+        "tail": "washing the membrane"
+      },
+      {
+        "head": "5× loading buffer",
+        "relation": "isUsedFor",
+        "tail": "denaturing proteins"
+      },
+      {
+        "head": "10–12% separating gel",
+        "relation": "isAKindOf",
+        "tail": "SDS-PAGE gel"
+      }
+    ],
+    [
+      {
+        "head": "enzyme-linked immunosorbent assay (ELISA) kit",
+        "relation": "isUsedFor",
+        "tail": "measuring tumor necrosis factor-α (TNF-α)"
+      },
+      {
+        "head": "96-well plate",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "capture antibody",
+        "relation": "isPartOf",
+        "tail": "96-well plate"
+      },
+      {
+        "head": "detection antibody",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "HRP-labeled streptavidin",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "tetramethylbenzidine (TMB) substrate",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "stop solution",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "standards",
+        "relation": "isPartOf",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      },
+      {
+        "head": "microplate reader",
+        "relation": "isUsedFor",
+        "tail": "measuring absorbance"
+      },
+      {
+        "head": "tumor necrosis factor-α (TNF-α)",
+        "relation": "isTestedBy",
+        "tail": "enzyme-linked immunosorbent assay (ELISA) kit"
+      }
+    ],
+    [
+      {
+        "head": "FITC-labeled dextran solution",
+        "relation": "isMadeOf",
+        "tail": "FITC-labeled dextran"
+      },
+      {
+        "head": "FITC-labeled dextran solution",
+        "relation": "isMadeOf",
+        "tail": "sterile PBS"
+      },
+      {
+        "head": "microplate reader",
+        "relation": "isUsedFor",
+        "tail": "measuring fluorescence intensity"
+      },
+      {
+        "head": "DMEM/F12 medium",
+        "relation": "isMadeOf",
+        "tail": "fetal bovine serum"
+      },
+      {
+        "head": "DMEM/F12 medium",
+        "relation": "isMadeOf",
+        "tail": "penicillin/streptomycin"
+      },
+      {
+        "head": "tumor necrosis factor-α",
+        "relation": "isUsedFor",
+        "tail": "inducing inflammation"
+      },
+      {
+        "head": "capsaicin",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "rotating gradient magnetic field",
+        "relation": "isUsedFor",
+        "tail": "magnetic control"
+      },
+      {
+        "head": "epithelial volt-ohm meter",
+        "relation": "isUsedFor",
+        "tail": "measuring transepithelial electrical resistance"
+      }
+    ],
+    [
+      {
+        "entity": "cells",
+        "attribute": "density",
+        "value": "5 × 10⁴ cells/cm²"
+      },
+      {
+        "head": "polycarbonate membranes",
+        "relation": "isPartOf",
+        "tail": "Transwell chambers"
+      },
+      {
+        "head": "Transwell chambers",
+        "relation": "isPartOf",
+        "tail": "Transwell plate"
+      },
+      {
+        "head": "Millicell ERS-2 volt-ohm meter electrodes",
+        "relation": "isPartOf",
+        "tail": "Millicell ERS-2 volt-ohm meter"
+      },
+      {
+        "head": "Millicell ERS-2 volt-ohm meter electrodes",
+        "relation": "isUsedFor",
+        "tail": "TEER measurement"
+      },
+      {
+        "head": "GraphPad Prism software",
+        "relation": "isUsedFor",
+        "tail": "statistical analysis"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "magnetite nanoparticles"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "silica shell"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "silica shell",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "magnetite nanoparticles",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isDerivedFrom",
+        "tail": "solvothermal method"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "vibrating sample magnetometer"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "UV-Vis-NIR spectrophotometer"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "EDS mapping"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "line scan analysis"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "Dynamic Light Scattering (DLS)"
+      },
+      {
+        "head": "magnetite nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "M@mSiO2 NPs"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isMadeOf",
+        "tail": "magnetic nanoparticles"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isMadeOf",
+        "tail": "silica"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isMadeOf",
+        "tail": "silica shell"
+      },
+      {
+        "entity": "Cap-M@mSbots",
+        "attribute": "shape",
+        "value": "core-shell structure"
+      }
+    ],
+    [
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isSimilarTo",
+        "tail": "Magnetic NPs"
+      },
+      {
+        "head": "Capsaicin",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "drug release test"
+      },
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isDerivedFrom",
+        "tail": "Magnetic NPs"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "Magnetic NPs"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica shell"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "preventing colonic inflammation"
+      },
+      {
+        "entity": "mesoporous silica shell",
+        "attribute": "shape",
+        "value": "narrow, elongated pores"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "micro-nanorobots"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isPartOf",
+        "tail": "linear swarms"
+      },
+      {
+        "head": "rotating gradient magnetic field",
+        "relation": "isUsedFor",
+        "tail": "linear swarms"
+      },
+      {
+        "head": "alternating magnetic fields",
+        "relation": "isUsedFor",
+        "tail": "micro-nanorobots"
+      },
+      {
+        "head": "magnetic fields exceeding 20 mT",
+        "relation": "isUsedFor",
+        "tail": "linear swarms"
+      },
+      {
+        "entity": "Cap-M@mSbot swarms",
+        "attribute": "shape",
+        "value": "linear aggregates"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "micro/nanorobots"
+      },
+      {
+        "head": "swarms",
+        "relation": "isMadeOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "motion speed",
+        "relation": "isDependentOn",
+        "tail": "magnetic field rotational frequency"
+      },
+      {
+        "head": "motion speed",
+        "relation": "isDependentOn",
+        "tail": "magnetic field strength"
+      },
+      {
+        "head": "rotating gradient magnetic field",
+        "relation": "isUsedFor",
+        "tail": "swarm motion"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "PBS"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "simulated intestinal fluid"
+      },
+      {
+        "head": "cut-off frequency",
+        "relation": "isAKindOf",
+        "tail": "operational parameter"
+      },
+      {
+        "head": "ribbon-like formations",
+        "relation": "isAKindOf",
+        "tail": "swarm formation"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "treating DSS-induced colitis"
+      },
+      {
+        "head": "magnetic field",
+        "relation": "isUsedFor",
+        "tail": "guiding Cap-M@mSbots' motion"
+      },
+      {
+        "head": "mesoporous silica",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "capsaicin",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "Cap-M@mSbots swarm",
+        "relation": "isTestedBy",
+        "tail": "agarose gel experiment"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "DSS-induced colitis model in mice"
+      },
+      {
+        "head": "Cap-M@mSbots' motion",
+        "relation": "isDependentOn",
+        "tail": "magnetic field"
+      },
+      {
+        "head": "Cap-M@mSbots + MF group",
+        "relation": "isAlternativeTo",
+        "tail": "Cap-M@mSbots group"
+      },
+      {
+        "entity": "Cap-M@mSbot swarm",
+        "attribute": "shape",
+        "value": "ribbon-shaped"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "nanorobot"
+      },
+      {
+        "head": "Cap-M@mSbot swarms",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isDependentOn",
+        "tail": "alternating magnetic field"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots delivery systems",
+        "relation": "isUsedFor",
+        "tail": "treating DSS-induced colitis"
+      },
+      {
+        "head": "DSS",
+        "relation": "isUsedFor",
+        "tail": "inducing colitis in mice"
+      },
+      {
+        "head": "Cap-M@mSbots delivery systems",
+        "relation": "isAKindOf",
+        "tail": "delivery systems"
+      },
+      {
+        "head": "DSS-induced colitis",
+        "relation": "isAKindOf",
+        "tail": "colitis model"
+      },
+      {
+        "head": "Cap-M@mSbots + MF delivery systems",
+        "relation": "isDerivedFrom",
+        "tail": "Cap-M@mSbots delivery systems"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "preventing DSS-induced colitis"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "treating DSS-induced colitis"
+      },
+      {
+        "head": "MF",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots + MF group"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "H&E staining"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isTestedBy",
+        "tail": "Western blot analysis"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "mesoporous silica"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "DSS-induced colitis",
+        "relation": "isAKindOf",
+        "tail": "colitis model"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAKindOf",
+        "tail": "nanorobot system"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "prevention of colitis"
+      },
+      {
+        "head": "swarms",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "entity": "swarms",
+        "attribute": "shape",
+        "value": "reconfigurable, large-scale linear"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "mitigating pathological damage"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "minimizing weight loss"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "reducing Disease Activity Index (DAI)"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "preserving colon length"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "inhibiting NF-κB signaling pathway"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "downregulating TNF-α expression"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isUsedFor",
+        "tail": "reversing defects in intestinal permeability"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAlternativeTo",
+        "tail": "conventional mesoporous silica nanoparticles"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAlternativeTo",
+        "tail": "chemically fueled micromotors"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAlternativeTo",
+        "tail": "systemic immunosuppressants"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isAlternativeTo",
+        "tail": "free oral capsaicin"
+      },
+      {
+        "head": "coreshell structure",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "head": "mesoporous silica shell",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbots"
+      },
+      {
+        "entity": "Cap-M@mSbots",
+        "attribute": "shape",
+        "value": "coreshell structure"
+      }
+    ],
+    [
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "magnetic NPs"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isMadeOf",
+        "tail": "M@mSiO2 NPs"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isMadeOf",
+        "tail": "magnetic NPs"
+      },
+      {
+        "head": "M@mSiO2 NPs",
+        "relation": "isMadeOf",
+        "tail": "SiO2"
+      },
+      {
+        "head": "Cap-M@mSbots",
+        "relation": "isPartOf",
+        "tail": "Cap-M@mSbot swarms"
+      }
+    ],
+    [
+      {
+        "head": "magnetosomes",
+        "relation": "isPartOf",
+        "tail": "magnetotactic bacteria"
+      },
+      {
+        "head": "nanostructured materials",
+        "relation": "isUsedFor",
+        "tail": "magnetic biosensing"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "magnetic materials",
+        "relation": "isUsedFor",
+        "tail": "medicine"
+      },
+      {
+        "head": "WS3/rGO nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "optimized electrochemical hydrogen evolution"
+      },
+      {
+        "head": "magnetic nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "deployable constructs"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "drug-delivery"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "molecular medicine"
+      },
+      {
+        "head": "MnFe2O3@Fe2O3 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "MnFe2O3"
+      },
+      {
+        "head": "MnFe2O3@Fe2O3 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe2O3"
+      },
+      {
+        "head": "WS3/rGO nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "WS3"
+      },
+      {
+        "head": "WS3/rGO nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "rGO"
+      },
+      {
+        "head": "Mn0.5Zn0.5Fe2O4 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Mn"
+      },
+      {
+        "head": "Mn0.5Zn0.5Fe2O4 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Zn"
+      },
+      {
+        "head": "Mn0.5Zn0.5Fe2O4 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Fe"
+      },
+      {
+        "head": "bacterial magnetite",
+        "relation": "isAKindOf",
+        "tail": "magnetite"
+      },
+      {
+        "head": "magnetosomes",
+        "relation": "isDerivedFrom",
+        "tail": "Acidithiobacillus ferrooxidans"
+      },
+      {
+        "head": "MnFe2O3@Fe2O3 nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "superparamagnetic nanoparticles"
+      },
+      {
+        "head": "Mn0.5Zn0.5Fe2O4 nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "magnetic nanoparticles"
+      }
+    ],
+    [
+      {
+        "head": "bilayer magnetically actuated L-shaped microrobot",
+        "relation": "isMadeOf",
+        "tail": "chitosan"
+      },
+      {
+        "entity": "bilayer magnetically actuated L-shaped microrobot",
+        "attribute": "shape",
+        "value": "L-shaped"
+      },
+      {
+        "head": "magnetically controlled pollen microrobots",
+        "relation": "isUsedFor",
+        "tail": "underwater bubble manipulation"
+      },
+      {
+        "head": "magnetically controlled pollen microrobots",
+        "relation": "isUsedFor",
+        "tail": "adhesion"
+      },
+      {
+        "head": "magnetically controlled pollen microrobots",
+        "relation": "isUsedFor",
+        "tail": "transport"
+      },
+      {
+        "head": "magnetically controlled pollen microrobots",
+        "relation": "isUsedFor",
+        "tail": "photocontrolled release"
+      },
+      {
+        "head": "biohybrid magnetite microrobots",
+        "relation": "isUsedFor",
+        "tail": "imaging-guided therapy"
+      },
+      {
+        "head": "biohybrid magnetite microrobots",
+        "relation": "isMadeOf",
+        "tail": "magnetite"
+      },
+      {
+        "head": "magnetic mesoporous silica nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "cancer chemotherapy"
+      },
+      {
+        "head": "magnetic mesoporous silica nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "polymeric scaffolds"
+      },
+      {
+        "head": "mesoporous silica nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "mesoporous silica nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "drug delivery systems"
+      },
+      {
+        "head": "mesoporous silica nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "oral drug delivery"
+      },
+      {
+        "head": "capsaicin cream",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "capsaicin cream",
+        "relation": "isUsedFor",
+        "tail": "reducing clinical signs of experimental colitis"
+      },
+      {
+        "head": "Al-doped Fe3O4 nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "Al"
+      },
+      {
+        "head": "Al3+ doped Fe3O4",
+        "relation": "isMadeOf",
+        "tail": "Al3+"
+      },
+      {
+        "head": "nano-drug delivery systems",
+        "relation": "isUsedFor",
+        "tail": "improving gastrointestinal retention"
+      },
+      {
+        "head": "nano-drug delivery systems",
+        "relation": "isUsedFor",
+        "tail": "improving pharmacokinetics"
+      },
+      {
+        "head": "immunosuppressants",
+        "relation": "isUsedFor",
+        "tail": "treating immune-related adverse events"
+      },
+      {
+        "head": "capsaicin emulsions",
+        "relation": "isMadeOf",
+        "tail": "capsaicin"
+      },
+      {
+        "head": "capsaicin emulsions",
+        "relation": "isUsedFor",
+        "tail": "improving stability"
+      },
+      {
+        "head": "capsaicin emulsions",
+        "relation": "isUsedFor",
+        "tail": "relieving irritation"
+      }
+    ]
+  ],
+  "sciadv.ady9180_chunks": [
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "tissue-adhesive patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "selective-permeable hydrogel membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detection of tumor necrosis factor-α"
+      },
+      {
+        "head": "tumor necrosis factor-α",
+        "relation": "isAKindOf",
+        "tail": "proinflammatory cytokine"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "POC diagnostic tool"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "tissue-adhesive hydrogel (TAH) patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "selective-permeable hydrogel (SPH) membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detection of tumor necrosis factor–α (TNF-α)"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "detectionLimit",
+        "value": "18.2 fg/ml"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "selectivity",
+        "value": "interference coefficient below 7%"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "strainInsensitivity",
+        "value": "resistance variation below 0.5%"
+      },
+      {
+        "entity": "graphene",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "MXene",
+        "attribute": "activeSites",
+        "value": "abundant"
+      }
+    ],
+    [
+      {
+        "head": "ELISA",
+        "relation": "isUsedFor",
+        "tail": "detecting proteins"
+      },
+      {
+        "head": "PCR",
+        "relation": "isUsedFor",
+        "tail": "gene expression analysis"
+      },
+      {
+        "head": "microbiota profiling",
+        "relation": "isUsedFor",
+        "tail": "profiling microbiota"
+      },
+      {
+        "head": "visual inspection",
+        "relation": "isPartOf",
+        "tail": "routine clinical assessments"
+      },
+      {
+        "head": "palpation",
+        "relation": "isPartOf",
+        "tail": "routine clinical assessments"
+      },
+      {
+        "head": "x-ray imaging",
+        "relation": "isPartOf",
+        "tail": "routine clinical assessments"
+      },
+      {
+        "head": "pulp vitality test",
+        "relation": "isPartOf",
+        "tail": "routine clinical assessments"
+      },
+      {
+        "head": "periodontal pocket probing",
+        "relation": "isPartOf",
+        "tail": "routine clinical assessments"
+      },
+      {
+        "head": "ELISA",
+        "relation": "isPartOf",
+        "tail": "laboratory-based analytical approaches"
+      },
+      {
+        "head": "PCR",
+        "relation": "isPartOf",
+        "tail": "laboratory-based analytical approaches"
+      },
+      {
+        "head": "microbiota profiling",
+        "relation": "isPartOf",
+        "tail": "laboratory-based analytical approaches"
+      },
+      {
+        "head": "laboratory-based analytical approaches",
+        "relation": "isUsedFor",
+        "tail": "quantitative assessment of biological samples"
+      }
+    ],
+    [
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "glass substrate",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "silver electrodes",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "graphene/MXene layer",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "TNF-α–specific aptamers (VR11)",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene layer"
+      },
+      {
+        "head": "MXene",
+        "relation": "isAKindOf",
+        "tail": "metal carbonitride material"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "poly(acrylic acid–co–acrylamide) copolymer"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isUsedFor",
+        "tail": "detecting TNF-α"
+      },
+      {
+        "head": "MXene",
+        "relation": "isComplementaryTo",
+        "tail": "graphene"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detecting TNF-α"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "allowing diffusion of TNF-α to the sensing surface"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhering to wet tissue"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "immobilizing TNF-α–specific aptamers (VR11)"
+      },
+      {
+        "entity": "graphene",
+        "attribute": "electricalConductivity",
+        "value": "high charge carrier mobility"
+      },
+      {
+        "entity": "TAH patch",
+        "attribute": "shape",
+        "value": "entangled"
+      }
+    ],
+    [
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "TAHM in situ biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM in situ biosensor"
+      },
+      {
+        "head": "mucoadhesive hydrogel patch",
+        "relation": "isPartOf",
+        "tail": "TAHM in situ biosensor"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isUsedFor",
+        "tail": "real-time monitoring of tissue-derived oral biomarkers"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isUsedFor",
+        "tail": "advancing POC diagnostics"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vitro characterizations"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isTestedBy",
+        "tail": "ex vivo characterizations"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vivo characterizations"
+      },
+      {
+        "head": "TAHM in situ biosensor",
+        "relation": "isUsedFor",
+        "tail": "routine dental checkups"
+      },
+      {
+        "entity": "mucoadhesive hydrogel patch",
+        "attribute": "elasticModulus",
+        "value": "low"
+      }
+    ],
+    [
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "(3-aminopropyl)triethoxysilane"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "glutaraldehyde"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "TNF-α aptamer (VR11)"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isUsedFor",
+        "tail": "detecting TNF-α"
+      },
+      {
+        "head": "MXene",
+        "relation": "isTestedBy",
+        "tail": "Fourier transform infrared spectroscopy"
+      },
+      {
+        "head": "MXene",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscope"
+      },
+      {
+        "head": "MXene",
+        "relation": "isTestedBy",
+        "tail": "x-ray diffraction"
+      },
+      {
+        "head": "graphene",
+        "relation": "isTestedBy",
+        "tail": "scanning electron microscope"
+      },
+      {
+        "head": "graphene",
+        "relation": "isTestedBy",
+        "tail": "x-ray diffraction"
+      },
+      {
+        "entity": "graphene",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "SPH membrane",
+        "relation": "isMadeOf",
+        "tail": "polyacrylamide (PAAm)"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "poly(acrylic acid–co–acrylamide)"
+      },
+      {
+        "head": "N-­hydroxysuccinimide (NHS) esters",
+        "relation": "isPartOf",
+        "tail": "acrylic acid (AAc) monomers"
+      },
+      {
+        "head": "acrylamide (AAm) monomers",
+        "relation": "isUsedFor",
+        "tail": "forming covalent linkages with the modified biosensor substrate"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "establishing mechanically stable sensing environment"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "selectively blocking large nontarget biomolecules"
+      },
+      {
+        "head": "N-­hydroxysuccinimide (NHS) esters",
+        "relation": "isUsedFor",
+        "tail": "forming covalent bonds with wet tissue surfaces"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "reducing stress concentration from external tissue deformation"
+      },
+      {
+        "head": "poly(acrylic acid–co–acrylamide)",
+        "relation": "isAKindOf",
+        "tail": "copolymer"
+      },
+      {
+        "head": "3-­(trimethoxysilyl)propyl methacrylate (TMSPMA)",
+        "relation": "isPartOf",
+        "tail": "glass substrate"
+      },
+      {
+        "head": "N-­hydroxysuccinimide (NHS) esters",
+        "relation": "isUsedFor",
+        "tail": "forming covalent linkages with amine-functionalized polyimide (PI) substrates"
+      },
+      {
+        "entity": "TAH patch",
+        "attribute": "shape",
+        "value": "highly entangled polymer networks"
+      },
+      {
+        "entity": "graphene/MXene FET biosensor",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "TNF-α biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectroscopy"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isTestedBy",
+        "tail": "FET measurements"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isTestedBy",
+        "tail": "cyclic voltammetry (CV)"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detecting TNF-α"
+      },
+      {
+        "head": "phosphate-buffered saline (PBS)",
+        "relation": "isAKindOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "saliva",
+        "relation": "isAKindOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "intestinal fluid",
+        "relation": "isAKindOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "gingival crevicular fluid (GCF)",
+        "relation": "isAKindOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isTestedBy",
+        "tail": "fluorescence recovery after photobleaching (FRAP)"
+      },
+      {
+        "head": "TNF-α",
+        "relation": "isPartOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "Streptococcus mutans (Sm)",
+        "relation": "isPartOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "interleukin-6 (IL-6)",
+        "relation": "isPartOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "head": "salivary α-amylase (sAA)",
+        "relation": "isPartOf",
+        "tail": "artificial biofluids"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "shape",
+        "value": "mesh size ~6.9 nm"
+      }
+    ],
+    [
+      {
+        "head": "strengthened surface interactions",
+        "relation": "isPartOf",
+        "tail": "sensing interface"
+      },
+      {
+        "head": "strengthened surface interactions",
+        "relation": "isUsedFor",
+        "tail": "TNF-α detection"
+      }
+    ],
+    [
+      {
+        "head": "SPH membrane",
+        "relation": "isAKindOf",
+        "tail": "hydrogel membrane"
+      },
+      {
+        "head": "hydrogel matrix",
+        "relation": "isPartOf",
+        "tail": "SPH membrane"
+      },
+      {
+        "head": "TAH layer",
+        "relation": "isPartOf",
+        "tail": "Sm sensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "Sm sensor"
+      },
+      {
+        "head": "hydrogel membrane",
+        "relation": "isUsedFor",
+        "tail": "suppressing response in Sm sensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "biomarker detection"
+      },
+      {
+        "head": "TAH layer",
+        "relation": "isUsedFor",
+        "tail": "encapsulating SPH membrane"
+      },
+      {
+        "head": "TNF-α",
+        "relation": "isSimilarTo",
+        "tail": "IL-6"
+      },
+      {
+        "head": "TAH layer",
+        "relation": "isComplementaryTo",
+        "tail": "SPH membrane"
+      },
+      {
+        "entity": "TAH layer",
+        "attribute": "shape",
+        "value": "layer"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "TNF-α"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isTestedBy",
+        "tail": "fluorescence recovery after photobleaching"
+      },
+      {
+        "head": "TNF-α",
+        "relation": "isAKindOf",
+        "tail": "cytokine"
+      },
+      {
+        "head": "Streptococcus mutans",
+        "relation": "isAKindOf",
+        "tail": "bacterium"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "VR11 aptamer",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isAKindOf",
+        "tail": "hydrogel patch"
+      },
+      {
+        "head": "hydrogel patch",
+        "relation": "isMadeOf",
+        "tail": "polymer chains"
+      },
+      {
+        "head": "hydrogel patch",
+        "relation": "isMadeOf",
+        "tail": "NHS esters"
+      },
+      {
+        "head": "polymer chains",
+        "relation": "isPartOf",
+        "tail": "hydrogel patch"
+      },
+      {
+        "head": "NHS esters",
+        "relation": "isPartOf",
+        "tail": "hydrogel patch"
+      },
+      {
+        "head": "hydrogel patch",
+        "relation": "isUsedFor",
+        "tail": "dry adhesion process"
+      },
+      {
+        "entity": "hydrogel patch",
+        "attribute": "elasticModulus",
+        "value": "around 850 to 250 kPa"
+      },
+      {
+        "entity": "hydrogel patch",
+        "attribute": "tensileStrength",
+        "value": "~550 kPa"
+      },
+      {
+        "entity": "hydrogel patch",
+        "attribute": "tensileStrength",
+        "value": "~300 kPa"
+      }
+    ],
+    [
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TNF-α sensor",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "enhancing biosensor selectivity"
+      },
+      {
+        "head": "hydrogel membrane",
+        "relation": "isUsedFor",
+        "tail": "enhancing biosensor selectivity"
+      },
+      {
+        "head": "hydrogel membrane",
+        "relation": "isUsedFor",
+        "tail": "restricting microbial interference"
+      },
+      {
+        "head": "hydrogel membrane",
+        "relation": "isUsedFor",
+        "tail": "facilitating selective biomarker diffusion"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isAKindOf",
+        "tail": "polymer network"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "hydrogel membrane"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isComplementaryTo",
+        "tail": "SPH membrane"
+      },
+      {
+        "head": "TNF-α sensor",
+        "relation": "isDependentOn",
+        "tail": "SPH membrane"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhering to wet tissue"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhering to glass substrate"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isDependentOn",
+        "tail": "hydration time (τh)"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isDependentOn",
+        "tail": "adhesion time (τₐ)"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isDependentOn",
+        "tail": "hydrogel dry thickness (Th)"
+      }
+    ],
+    [
+      {
+        "head": "TAHM sensor",
+        "relation": "isUsedFor",
+        "tail": "detecting biomarker concentration changes"
+      },
+      {
+        "head": "TAHM sensor",
+        "relation": "isTestedBy",
+        "tail": "loading-unloading cycle tests"
+      },
+      {
+        "head": "TAHM sensor",
+        "relation": "isTestedBy",
+        "tail": "pure shear tensile testing"
+      },
+      {
+        "head": "polymer chain mobility",
+        "relation": "isDependentOn",
+        "tail": "water content"
+      },
+      {
+        "head": "fracture toughness",
+        "relation": "isDependentOn",
+        "tail": "water content"
+      },
+      {
+        "head": "toughening mechanism",
+        "relation": "isDerivedFrom",
+        "tail": "chain entanglement"
+      },
+      {
+        "entity": "TAHM sensor",
+        "attribute": "elasticModulus",
+        "value": "almost constant"
+      }
+    ],
+    [
+      {
+        "head": "TAH/Glass interface",
+        "relation": "isMadeOf",
+        "tail": "covalent bonds"
+      },
+      {
+        "head": "TAH/Tissue interface",
+        "relation": "isMadeOf",
+        "tail": "covalent bonds"
+      },
+      {
+        "head": "Glass/SPH interface",
+        "relation": "isMadeOf",
+        "tail": "physical attachments"
+      },
+      {
+        "head": "SPH/Tissue interface",
+        "relation": "isMadeOf",
+        "tail": "physical attachments"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "accommodate external stress"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isDependentOn",
+        "tail": "tissue deformation"
+      },
+      {
+        "entity": "TAH/Glass interface",
+        "attribute": "tensileStrength",
+        "value": "~350 Jm⁻²"
+      },
+      {
+        "entity": "TAH/Tissue interface",
+        "attribute": "tensileStrength",
+        "value": "~350 Jm⁻²"
+      },
+      {
+        "entity": "Glass/SPH interface",
+        "attribute": "tensileStrength",
+        "value": "around 1 Jm⁻²"
+      },
+      {
+        "entity": "SPH/Tissue interface",
+        "attribute": "tensileStrength",
+        "value": "around 1 Jm⁻²"
+      }
+    ],
+    [
+      {
+        "head": "interfacial layers",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "Glass/SPH interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH/Tissue interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH/Glass interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH/Tissue interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "points 1,2,3",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "finite element analysis"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "Glass/SPH interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH/Tissue interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH/Glass interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH/Tissue interface",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "covalent cross-links",
+        "relation": "isPartOf",
+        "tail": "TAH patch"
+      },
+      {
+        "head": "sensor",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "sensor",
+        "relation": "isUsedFor",
+        "tail": "sensing TNF-α"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "stretching tests"
+      },
+      {
+        "entity": "SPH",
+        "attribute": "shape",
+        "value": "membrane"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensing platform"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "real-world applications"
+      }
+    ],
+    [
+      {
+        "head": "TAH",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "SPH",
+        "relation": "isAKindOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "TAH",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "ex vivo characterizations"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vivo characterizations"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isTestedBy",
+        "tail": "peeling test"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isTestedBy",
+        "tail": "adhesion test"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "in vivo characterization"
+      },
+      {
+        "entity": "gingiva",
+        "attribute": "elasticModulus",
+        "value": "~165 kPa"
+      },
+      {
+        "entity": "skin",
+        "attribute": "elasticModulus",
+        "value": "~40 kPa"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isPartOf",
+        "tail": "TAH patch"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhering to porcine gingival tissue"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detection of TNF-α"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "ex vivo model"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vivo model"
+      },
+      {
+        "head": "guinea pigs",
+        "relation": "isUsedFor",
+        "tail": "in vivo testing of TAHM biosensor"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "TAH"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "SPH membrane"
+      },
+      {
+        "head": "TAH",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "detecting TNF-α"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "promoting uniform spreading of surface fluid"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isComplementaryTo",
+        "tail": "TAH patch"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isComplementaryTo",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "adhesion strength",
+        "value": "sufficient under realistic conditions"
+      },
+      {
+        "entity": "TAH",
+        "attribute": "adhesion strength",
+        "value": "increases with prolonged adhesion time and reaches a plateau within 5 min"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "hydrophilic nature",
+        "value": "promotes uniform spreading of surface fluid"
+      },
+      {
+        "entity": "TAH",
+        "attribute": "anchoring time",
+        "value": "~5 seconds"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "thickness",
+        "value": "130 μm"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "response time",
+        "value": "reaches plateau around 27 minutes"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vivo studies using guinea pigs"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "quantitative detection of TNF-α"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "real-time monitoring"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "clinical applications"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "monitoring dynamic changes in TNF-α levels"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "PI substrate",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "hydrogel membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isDependentOn",
+        "tail": "SPH membrane"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isAKindOf",
+        "tail": "hydrogel membrane"
+      }
+    ],
+    [
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "biosensing platform"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "measurement area"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "inhibitory factors"
+      },
+      {
+        "head": "biosensing platform",
+        "relation": "isUsedFor",
+        "tail": "TNF-α"
+      },
+      {
+        "head": "biosensing platform",
+        "relation": "isAlternativeTo",
+        "tail": "existing platforms confined to in vitro settings"
+      },
+      {
+        "head": "biosensing platform",
+        "relation": "isUsedFor",
+        "tail": "in vivo settings"
+      },
+      {
+        "head": "target-specific antibodies",
+        "relation": "isPartOf",
+        "tail": "biosensing platform"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isPartOf",
+        "tail": "biosensing platform"
+      },
+      {
+        "head": "lipopolysaccharide",
+        "relation": "isUsedFor",
+        "tail": "oral inflammation"
+      },
+      {
+        "head": "oral inflammation model",
+        "relation": "isDerivedFrom",
+        "tail": "lipopolysaccharide"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "POC device"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isPartOf",
+        "tail": "compact portable device"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "filtering out nontarget biomolecules"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "forming covalent bonds with wet tissue and sensor substrate"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "real time in situ monitoring of inflammatory cytokines"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "POC diagnostics"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vitro characterizations"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "ex vivo characterizations"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "in vivo characterizations"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "AAc-NHS ester"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "AAc"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "AAm"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "N,N-methylenebisacrylamide (MBAA)"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "ammonium persulfate (APS)"
+      },
+      {
+        "head": "flexible PI-based electrode",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "flexible PI-based electrode",
+        "relation": "isMadeOf",
+        "tail": "PI film"
+      },
+      {
+        "head": "flexible PI-based electrode",
+        "relation": "isMadeOf",
+        "tail": "poly(pyromellitic dianhydride-co-4,4'-oxydianiline)"
+      },
+      {
+        "head": "flexible PI-based electrode",
+        "relation": "isMadeOf",
+        "tail": "amic acid solution"
+      },
+      {
+        "head": "flexible PI-based electrode",
+        "relation": "isMadeOf",
+        "tail": "photoresist gel"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "sensitivity",
+        "value": "high"
+      },
+      {
+        "entity": "TAHM biosensor",
+        "attribute": "interference-resistant performance",
+        "value": "yes"
+      }
+    ],
+    [
+      {
+        "head": "hexamethyldiamine",
+        "relation": "isUsedFor",
+        "tail": "silane bonding solution"
+      },
+      {
+        "head": "RPMI 1640 medium",
+        "relation": "isUsedFor",
+        "tail": "in vitro biocompatibility tests"
+      },
+      {
+        "head": "fetal bovine serum",
+        "relation": "isUsedFor",
+        "tail": "in vitro biocompatibility tests"
+      },
+      {
+        "head": "penicillin-streptomycin",
+        "relation": "isUsedFor",
+        "tail": "in vitro biocompatibility tests"
+      },
+      {
+        "head": "Ti3AlC2 MAX phase powder",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "lithium fluoride",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "PBS buffer",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "hydrochloric acid",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "GA",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "PMMA",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "copper etchant",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "PDMS",
+        "relation": "isUsedFor",
+        "tail": "MXene-based FETs"
+      },
+      {
+        "head": "recombinant human TNF-α protein",
+        "relation": "isUsedFor",
+        "tail": "surface functionalization of TAHM biosensor"
+      },
+      {
+        "head": "VR11 single-stranded DNA aptamer",
+        "relation": "isUsedFor",
+        "tail": "surface functionalization of TAHM biosensor"
+      },
+      {
+        "head": "BHI broth",
+        "relation": "isUsedFor",
+        "tail": "Sm culturing"
+      },
+      {
+        "head": "human sAA",
+        "relation": "isUsedFor",
+        "tail": "testing sensing specificity and diffusion in hydrogel membrane"
+      },
+      {
+        "head": "IL-6",
+        "relation": "isUsedFor",
+        "tail": "testing sensing specificity and diffusion in hydrogel membrane"
+      },
+      {
+        "head": "NHS-fluorescein",
+        "relation": "isUsedFor",
+        "tail": "FRAP experiments"
+      }
+    ],
+    [
+      {
+        "head": "Ti3C2-MXene",
+        "relation": "isDerivedFrom",
+        "tail": "Ti3AlC2 (MAX phase)"
+      },
+      {
+        "head": "LiF/HCl-based etchant",
+        "relation": "isUsedFor",
+        "tail": "Ti3C2-MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "graphene/MXene sensing probe"
+      },
+      {
+        "head": "PMMA",
+        "relation": "isPartOf",
+        "tail": "PMMA/graphene/copper composite"
+      },
+      {
+        "head": "N2 atmosphere",
+        "relation": "isUsedFor",
+        "tail": "MXene nanosheets"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "PMMA/graphene/copper composite"
+      },
+      {
+        "head": "copper",
+        "relation": "isPartOf",
+        "tail": "PMMA/graphene/copper composite"
+      },
+      {
+        "head": "Ti3AlC2",
+        "relation": "isAKindOf",
+        "tail": "MAX phase"
+      },
+      {
+        "head": "Ti3C2-MXene",
+        "relation": "isAKindOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "graphene/MXene sensing probe",
+        "relation": "isAKindOf",
+        "tail": "sensing probe"
+      },
+      {
+        "head": "PMMA/graphene/copper composite",
+        "relation": "isAKindOf",
+        "tail": "composite"
+      },
+      {
+        "entity": "Ti3C2-MXene",
+        "attribute": "shape",
+        "value": "multilayer powder"
+      },
+      {
+        "entity": "MXene nanosheets",
+        "attribute": "shape",
+        "value": "delaminated"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isDerivedFrom",
+        "tail": "hydrogel precursor"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "AAc"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "AAc-NHS ester"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "AAm"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "DI water"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "MBAA"
+      },
+      {
+        "head": "hydrogel precursor",
+        "relation": "isMadeOf",
+        "tail": "APS"
+      },
+      {
+        "head": "hydrogel detachment solution",
+        "relation": "isMadeOf",
+        "tail": "sodium bicarbonate"
+      },
+      {
+        "head": "hydrogel detachment solution",
+        "relation": "isMadeOf",
+        "tail": "glutathione"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isMadeOf",
+        "tail": "AAm"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isMadeOf",
+        "tail": "MBAA"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isMadeOf",
+        "tail": "APS"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isMadeOf",
+        "tail": "DI water"
+      },
+      {
+        "head": "hydrogel detachment solution",
+        "relation": "isUsedFor",
+        "tail": "detaching hydrogel"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "FRAP experiments"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isUsedFor",
+        "tail": "in vivo studies"
+      },
+      {
+        "entity": "hydrogel patch",
+        "attribute": "shape",
+        "value": "250 μm thick"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "shape",
+        "value": "1 mm thick"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "shape",
+        "value": "130 μm thick"
+      }
+    ],
+    [
+      {
+        "head": "gold electrode",
+        "relation": "isMadeOf",
+        "tail": "gold layer"
+      },
+      {
+        "head": "gold electrode",
+        "relation": "isMadeOf",
+        "tail": "PI film"
+      },
+      {
+        "head": "PI film",
+        "relation": "isPartOf",
+        "tail": "PI substrate"
+      },
+      {
+        "head": "photoresist",
+        "relation": "isUsedFor",
+        "tail": "gold electrode"
+      },
+      {
+        "head": "APTES",
+        "relation": "isUsedFor",
+        "tail": "grafting GA"
+      },
+      {
+        "head": "APTES",
+        "relation": "isUsedFor",
+        "tail": "grafting VR11"
+      },
+      {
+        "head": "VR11 aptamer",
+        "relation": "isPartOf",
+        "tail": "TNF-α sensor"
+      },
+      {
+        "head": "anti-Sm antibody",
+        "relation": "isPartOf",
+        "tail": "Sm sensor"
+      },
+      {
+        "head": "TNF-α sensor",
+        "relation": "isSimilarTo",
+        "tail": "Sm sensor"
+      },
+      {
+        "head": "anti-Sm antibody",
+        "relation": "isAlternativeTo",
+        "tail": "VR11 aptamer"
+      },
+      {
+        "head": "gold electrode",
+        "relation": "isPartOf",
+        "tail": "TNF-α sensor"
+      },
+      {
+        "head": "gold electrode",
+        "relation": "isPartOf",
+        "tail": "Sm sensor"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "electrodes"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "SPH membrane"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "TAH patch"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensor"
+      },
+      {
+        "head": "sensing region",
+        "relation": "isPartOf",
+        "tail": "electrodes"
+      },
+      {
+        "entity": "SPH membrane",
+        "attribute": "shape",
+        "value": "trimmed to approximately match the size of the functionalized area"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectrometer"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "Keithley 4200-SCS Parameter"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "Gamry electrochemical workstation"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "JEOL JSM-7500F"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "Bruker Dimension Icon system"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "Omicron XPS/UPS system"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "Bruker-AXS D8 Vario x-ray powder diffractometer"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "MXene/APTES/GA/VR11"
+      },
+      {
+        "entity": "pristine MXene",
+        "attribute": "shape",
+        "value": "freeze-dried powder"
+      },
+      {
+        "entity": "MXene/APTES",
+        "attribute": "shape",
+        "value": "freeze-dried powder"
+      },
+      {
+        "entity": "MXene/APTES/GA",
+        "attribute": "shape",
+        "value": "freeze-dried powder"
+      },
+      {
+        "entity": "MXene/APTES/GA/VR11",
+        "attribute": "shape",
+        "value": "freeze-dried powder"
+      }
+    ],
+    [
+      {
+        "head": "glass substrate",
+        "relation": "isPartOf",
+        "tail": "TAH patch"
+      },
+      {
+        "head": "TMSPMA-based silane solution",
+        "relation": "isUsedFor",
+        "tail": "functionalizing glass substrate"
+      },
+      {
+        "head": "methacrylate functional groups",
+        "relation": "isPartOf",
+        "tail": "functionalized glass surface"
+      },
+      {
+        "head": "PDMS chamber",
+        "relation": "isPartOf",
+        "tail": "G-MXene FET"
+      },
+      {
+        "head": "Ag/AgCl",
+        "relation": "isPartOf",
+        "tail": "gate electrode"
+      },
+      {
+        "head": "MXene nanosheets",
+        "relation": "isPartOf",
+        "tail": "sensing interface"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "sensing interface"
+      },
+      {
+        "head": "copper etchant",
+        "relation": "isUsedFor",
+        "tail": "dissolving copper substrate"
+      },
+      {
+        "head": "acetone",
+        "relation": "isUsedFor",
+        "tail": "dissolving PMMA layer"
+      },
+      {
+        "head": "PMMA/graphene film",
+        "relation": "isMadeOf",
+        "tail": "PMMA"
+      },
+      {
+        "head": "PMMA/graphene film",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "PDMS mixture",
+        "relation": "isMadeOf",
+        "tail": "PDMS prepolymer"
+      },
+      {
+        "head": "PDMS mixture",
+        "relation": "isMadeOf",
+        "tail": "curing agent"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "in vivo demonstration"
+      }
+    ],
+    [
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensor"
+      },
+      {
+        "head": "graphene/MXene channel",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "copper leads",
+        "relation": "isPartOf",
+        "tail": "drain and source electrodes"
+      },
+      {
+        "head": "drain and source electrodes",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "PDMS chamber",
+        "relation": "isUsedFor",
+        "tail": "confining the electrolyte"
+      },
+      {
+        "head": "Ag/AgCl electrode",
+        "relation": "isUsedFor",
+        "tail": "gate electrode"
+      },
+      {
+        "head": "Keithley 4200-SCS parameter analyzer",
+        "relation": "isUsedFor",
+        "tail": "sensing characterizations"
+      },
+      {
+        "head": "confocal laser scanning microscope",
+        "relation": "isUsedFor",
+        "tail": "FRAP measurements"
+      },
+      {
+        "head": "NHS-fluorescein–labeled TNF-α",
+        "relation": "isPartOf",
+        "tail": "hydrogel sample"
+      },
+      {
+        "head": "hydrogel sample",
+        "relation": "isPartOf",
+        "tail": "SPH sample"
+      },
+      {
+        "head": "PDMS chamber",
+        "relation": "isMadeOf",
+        "tail": "PDMS"
+      },
+      {
+        "head": "Ag/AgCl electrode",
+        "relation": "isMadeOf",
+        "tail": "Ag/AgCl"
+      },
+      {
+        "head": "silver-paste contacts",
+        "relation": "isPartOf",
+        "tail": "drain and source electrodes"
+      },
+      {
+        "entity": "hydrogel sample",
+        "attribute": "shape",
+        "value": "10 mm by 10 mm by 1 mm"
+      }
+    ],
+    [
+      {
+        "head": "BHI broth",
+        "relation": "isPartOf",
+        "tail": "primary culture"
+      },
+      {
+        "head": "Sm",
+        "relation": "isPartOf",
+        "tail": "primary culture"
+      },
+      {
+        "head": "BHI broth",
+        "relation": "isPartOf",
+        "tail": "secondary culture"
+      },
+      {
+        "head": "Sm",
+        "relation": "isPartOf",
+        "tail": "secondary culture"
+      },
+      {
+        "head": "NHS-fluorescein",
+        "relation": "isUsedFor",
+        "tail": "labeling TNF-α"
+      },
+      {
+        "head": "NHS-fluorescein",
+        "relation": "isUsedFor",
+        "tail": "labeling IL-6"
+      },
+      {
+        "head": "NHS-fluorescein",
+        "relation": "isUsedFor",
+        "tail": "labeling sAA"
+      },
+      {
+        "head": "NHS-fluorescein",
+        "relation": "isUsedFor",
+        "tail": "labeling Sm"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isMadeOf",
+        "tail": "hydrogel precursor"
+      },
+      {
+        "head": "fluorescently labeled TNF-α",
+        "relation": "isPartOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "centrifugal filter tubes",
+        "relation": "isUsedFor",
+        "tail": "removing unreacted fluorophore"
+      },
+      {
+        "head": "Sm",
+        "relation": "isTestedBy",
+        "tail": "optical density at 600 nm"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isTestedBy",
+        "tail": "UStretch testing device"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isTestedBy",
+        "tail": "90° peeling test"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isTestedBy",
+        "tail": "uniaxial stretching test"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "hydrogel"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isMadeOf",
+        "tail": "stiff plastic layer"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhesion between wet biological tissue and glass substrate"
+      },
+      {
+        "entity": "TAH patch",
+        "attribute": "shape",
+        "value": "rectangular (50 mm × 10 mm)"
+      },
+      {
+        "entity": "TAH film",
+        "attribute": "shape",
+        "value": "rectangular (3 cm × 2 cm)"
+      }
+    ],
+    [
+      {
+        "head": "plastic film",
+        "relation": "isPartOf",
+        "tail": "hydrogel patch"
+      },
+      {
+        "head": "SPH membrane",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "PI substrates"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isMadeOf",
+        "tail": "gold electrodes"
+      },
+      {
+        "head": "TNF-α solution",
+        "relation": "isMadeOf",
+        "tail": "TNF-α"
+      },
+      {
+        "head": "TNF-α solution",
+        "relation": "isMadeOf",
+        "tail": "saline"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isTestedBy",
+        "tail": "LCR meter"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isPartOf",
+        "tail": "portable sensing module"
+      },
+      {
+        "entity": "TNF-α solution",
+        "attribute": "density",
+        "value": "0.2 μg/ml"
+      },
+      {
+        "entity": "TNF-α solution",
+        "attribute": "density",
+        "value": "20 ng/ml"
+      },
+      {
+        "entity": "TNF-α solution",
+        "attribute": "density",
+        "value": "200 ng/ml"
+      },
+      {
+        "entity": "TNF-α solution",
+        "attribute": "density",
+        "value": "2000 ng/ml"
+      }
+    ],
+    [
+      {
+        "head": "hydrogel sample",
+        "relation": "isTestedBy",
+        "tail": "notched and unnotched sample testing"
+      },
+      {
+        "head": "hydrogel",
+        "relation": "isTestedBy",
+        "tail": "stress-stretch curve analysis"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isPartOf",
+        "tail": "hydrogel patch"
+      },
+      {
+        "head": "UStretch testing device",
+        "relation": "isUsedFor",
+        "tail": "stretching hydrogel samples"
+      },
+      {
+        "head": "DAQ6510 data acquisition system",
+        "relation": "isUsedFor",
+        "tail": "recording resistance changes"
+      },
+      {
+        "head": "TAH",
+        "relation": "isTestedBy",
+        "tail": "in vitro biocompatibility assays"
+      },
+      {
+        "head": "SPH",
+        "relation": "isTestedBy",
+        "tail": "in vitro biocompatibility assays"
+      },
+      {
+        "entity": "hydrogel",
+        "attribute": "elasticModulus",
+        "value": "determined from initial slope of stress-stretch curve"
+      }
+    ],
+    [
+      {
+        "head": "TAH patch",
+        "relation": "isPartOf",
+        "tail": "TAHM biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isAKindOf",
+        "tail": "biosensor"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "ex vivo sensing characterizations"
+      },
+      {
+        "head": "TAHM biosensor",
+        "relation": "isUsedFor",
+        "tail": "in vivo sensing characterizations"
+      },
+      {
+        "head": "TAH patch",
+        "relation": "isUsedFor",
+        "tail": "adhesion performance evaluation"
+      }
+    ],
+    [
+      {
+        "head": "printed MoS2 transistor biosensors",
+        "relation": "isUsedFor",
+        "tail": "rapid biomolecule quantification"
+      },
+      {
+        "head": "printed MoS2 transistor biosensors",
+        "relation": "isMadeOf",
+        "tail": "MoS2"
+      },
+      {
+        "head": "Biotunable nanoplasmonic filter",
+        "relation": "isUsedFor",
+        "tail": "cytokine optoelectronic immunosensing"
+      },
+      {
+        "head": "Biotunable nanoplasmonic filter",
+        "relation": "isMadeOf",
+        "tail": "few-layer MoS2"
+      },
+      {
+        "head": "Perovskite-graphene heterostructure biosensor",
+        "relation": "isUsedFor",
+        "tail": "ultrasensitive cytokine detection"
+      },
+      {
+        "head": "Perovskite-graphene heterostructure biosensor",
+        "relation": "isMadeOf",
+        "tail": "perovskite"
+      },
+      {
+        "head": "Perovskite-graphene heterostructure biosensor",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "MXene-assisted field effect transistor",
+        "relation": "isUsedFor",
+        "tail": "determination of IL-6"
+      },
+      {
+        "head": "MXene-assisted field effect transistor",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "nanoscale ISFET arrays",
+        "relation": "isUsedFor",
+        "tail": "sub-picomolar detection of cytokines"
+      },
+      {
+        "head": "interdigitated aptasensor",
+        "relation": "isUsedFor",
+        "tail": "detect interleukin-6"
+      },
+      {
+        "head": "Metal-oxide FET biosensor",
+        "relation": "isUsedFor",
+        "tail": "point-of-care testing"
+      },
+      {
+        "head": "autofluorescent microcapsules",
+        "relation": "isUsedFor",
+        "tail": "ultrasonic/fluorescent dual-modality contrast agents"
+      },
+      {
+        "head": "collagen-based biomaterials",
+        "relation": "isMadeOf",
+        "tail": "collagen"
+      }
+    ]
+  ]
+}

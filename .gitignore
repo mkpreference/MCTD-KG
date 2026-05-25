@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Claude local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Raw literature data (PDFs, intermediate files)
+Knowledge_Extraction/literature/literature_data/
+
+# Open-source model files (too large for GitHub)
+QA-dataset/eval_code/modevs/open_model/
+QA-dataset/eval_code/modevs/download_open_models.sh

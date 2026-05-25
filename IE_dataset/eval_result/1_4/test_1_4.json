@@ -1,0 +1,3972 @@
+{
+    "1001": [
+        {
+            "head": "low alloy ultra-high strength steel",
+            "relation": "isAKindOf",
+            "tail": "medium carbon ultra-high strength steel"
+        },
+        {
+            "head": "low alloy ultra-high strength steel",
+            "relation": "isMadeOf",
+            "tail": "alloy elements"
+        },
+        {
+            "entity": "low alloy ultra-high strength steel",
+            "attribute": "carbon content",
+            "value": "0.27% -0.5%"
+        },
+        {
+            "entity": "low alloy ultra-high strength steel",
+            "attribute": "alloy element content",
+            "value": "less than 5%"
+        },
+        {
+            "head": "low alloy ultra-high strength steel",
+            "relation": "isUsedFor",
+            "tail": "improving hardenability"
+        },
+        {
+            "head": "low alloy ultra-high strength steel",
+            "relation": "isUsedFor",
+            "tail": "enhancing tempering resistance"
+        }
+    ],
+    "1002": [
+        {
+            "head": "high strength lowr alloy steel",
+            "relation": "isAKindOf",
+            "tail": "low alloy engineering structural steel (GB/T 5216-2004)"
+        },
+        {
+            "head": "high strength lowr alloy steel",
+            "relation": "isMadeOf",
+            "tail": "low-carbon steel"
+        },
+        {
+            "head": "high strength lowr alloy steel",
+            "relation": "isMadeOf",
+            "tail": "alloy elements"
+        },
+        {
+            "head": "high strength lowr alloy steel",
+            "relation": "isAlternativeTo",
+            "tail": "rolling non alloy low-carbon structural steel steel"
+        },
+        {
+            "entity": "high strength lowr alloy steel",
+            "attribute": "tensileStrength",
+            "value": "exceed 345MPa"
+        },
+        {
+            "entity": "high strength lowr alloy steel",
+            "attribute": "corrosionResistance",
+            "value": "higher"
+        }
+    ],
+    "1003": [
+        {
+            "head": "low alloy high speed steel",
+            "relation": "isAKindOf",
+            "tail": "high-speed steel"
+        },
+        {
+            "head": "low alloy high speed steel",
+            "relation": "isMadeOf",
+            "tail": "tungsten"
+        },
+        {
+            "head": "low alloy high speed steel",
+            "relation": "isMadeOf",
+            "tail": "molybdenum"
+        },
+        {
+            "head": "low alloy high speed steel",
+            "relation": "isSimilarTo",
+            "tail": "ordinary high speed steel"
+        },
+        {
+            "entity": "low alloy high speed steel",
+            "attribute": "tungsten equivalent",
+            "value": "not more than 10%"
+        }
+    ],
+    "1004": [
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isAKindOf",
+            "tail": "high strength low alloy steel"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isDerivedFrom",
+            "tail": "low alloy high strength steel"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isMadeOf",
+            "tail": "Mn"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isMadeOf",
+            "tail": "Mo"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isMadeOf",
+            "tail": "B"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isMadeOf",
+            "tail": "Cr"
+        },
+        {
+            "head": "wear-resisting low alloy steel",
+            "relation": "isMadeOf",
+            "tail": "Ni"
+        },
+        {
+            "entity": "wear-resisting low alloy steel",
+            "attribute": "hardness",
+            "value": "high"
+        },
+        {
+            "entity": "wear-resisting low alloy steel",
+            "attribute": "wear resistance",
+            "value": "high"
+        },
+        {
+            "entity": "wear-resisting low alloy steel",
+            "attribute": "strength",
+            "value": "high"
+        },
+        {
+            "entity": "wear-resisting low alloy steel",
+            "attribute": "toughness",
+            "value": "high"
+        },
+        {
+            "entity": "wear-resisting low alloy steel",
+            "attribute": "weldability",
+            "value": "appropriate"
+        }
+    ],
+    "1005": [
+        {
+            "head": "low alloy cast steel",
+            "relation": "isAKindOf",
+            "tail": "cast steel"
+        },
+        {
+            "head": "Si",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Mn",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Mo",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Cr",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Ni",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Cu",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "B",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Ti",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "V",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "Nb",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "head": "RE",
+            "relation": "isPartOf",
+            "tail": "low alloy cast steel"
+        },
+        {
+            "entity": "low alloy cast steel",
+            "attribute": "alloy content",
+            "value": "less than 5%"
+        },
+        {
+            "entity": "low alloy cast steel",
+            "attribute": "mechanical properties",
+            "value": "significantly improved"
+        }
+    ],
+    "1006": [
+        {
+            "head": "low activation materials",
+            "relation": "isAKindOf",
+            "tail": "materials with low induced radioactivity"
+        },
+        {
+            "head": "low activation materials",
+            "relation": "isUsedFor",
+            "tail": "reducing total radioactivity level"
+        },
+        {
+            "entity": "low activation materials",
+            "attribute": "element composition",
+            "value": "limited Ni, Mo, Nb"
+        },
+        {
+            "entity": "low activation materials",
+            "attribute": "mechanical properties",
+            "value": "appropriate"
+        },
+        {
+            "entity": "low activation materials",
+            "attribute": "physical properties",
+            "value": "appropriate"
+        },
+        {
+            "entity": "low activation materials",
+            "attribute": "chemical properties",
+            "value": "appropriate"
+        },
+        {
+            "entity": "low activation materials",
+            "attribute": "irradiation properties",
+            "value": "appropriate"
+        }
+    ],
+    "1008": [
+        {
+            "head": "low dielectric constant dielectric paste",
+            "relation": "isMadeOf",
+            "tail": "low dielectric constant materials"
+        },
+        {
+            "head": "low dielectric constant dielectric paste",
+            "relation": "isUsedFor",
+            "tail": "small capacitance"
+        },
+        {
+            "head": "low dielectric constant dielectric paste",
+            "relation": "isUsedFor",
+            "tail": "multilayer wiring media"
+        }
+    ],
+    "1009": [
+        {
+            "head": "oligomer",
+            "relation": "isAKindOf",
+            "tail": "polymer"
+        },
+        {
+            "head": "dimer",
+            "relation": "isAKindOf",
+            "tail": "oligomer"
+        },
+        {
+            "head": "trimer",
+            "relation": "isAKindOf",
+            "tail": "oligomer"
+        },
+        {
+            "head": "tetramer",
+            "relation": "isAKindOf",
+            "tail": "oligomer"
+        }
+    ],
+    "1011": [
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isAKindOf",
+            "tail": "analytical technique"
+        },
+        {
+            "head": "vacuum analysis chamber",
+            "relation": "isPartOf",
+            "tail": "low-energy electron diffraction"
+        },
+        {
+            "head": "electron gun",
+            "relation": "isPartOf",
+            "tail": "low-energy electron diffraction"
+        },
+        {
+            "head": "electron diffraction recording device with post acceleration technology",
+            "relation": "isPartOf",
+            "tail": "low-energy electron diffraction"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "studying surface crystal structure"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "studying interface chemical reaction"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "vapor deposition surface formation"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "oxide film growth"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "surface diffusion"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "gas adsorption"
+        },
+        {
+            "head": "low-energy electron diffraction",
+            "relation": "isUsedFor",
+            "tail": "catalytic processes"
+        }
+    ],
+    "1012": [
+        {
+            "head": "low thermal expansion superalloy",
+            "relation": "isAKindOf",
+            "tail": "high temperature alloy"
+        },
+        {
+            "head": "low thermal expansion superalloy",
+            "relation": "isSimilarTo",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "Fe Ni alloy containing 36% Ni",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "low thermal expansion superalloy",
+            "relation": "isAKindOf",
+            "tail": "high temperature alloy"
+        },
+        {
+            "head": "Invar alloy",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "entity": "low thermal expansion superalloy",
+            "attribute": "elasticModulus",
+            "value": "almost constant"
+        }
+    ],
+    "1013": [
+        {
+            "head": "low expansion alloy",
+            "relation": "isAlternativeTo",
+            "tail": "Invar alloy"
+        },
+        {
+            "head": "low expansion alloy",
+            "relation": "isAKindOf",
+            "tail": "alloy"
+        },
+        {
+            "head": "stainless invar",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "high-strength invar",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "free cutting invar",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "high-temperature invar",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "non iron Invar alloy",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "Fe Ni system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "Fe Ni Co system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "F-Co Cr system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "Fe Pt system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "Fe Pd system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "amorphous Fe B system",
+            "relation": "isAKindOf",
+            "tail": "low expansion alloy"
+        }
+    ],
+    "1015": [
+        {
+            "head": "low thermal expansion ceramics",
+            "relation": "isAKindOf",
+            "tail": "ceramics"
+        },
+        {
+            "head": "low expansion crystal ceramics",
+            "relation": "isAKindOf",
+            "tail": "low thermal expansion ceramics"
+        },
+        {
+            "head": "polycrystal ceramics",
+            "relation": "isAKindOf",
+            "tail": "low thermal expansion ceramics"
+        },
+        {
+            "entity": "low thermal expansion ceramics",
+            "attribute": "thermalShockResistance",
+            "value": "good and excellent"
+        }
+    ],
+    "1016": [
+        {
+            "head": "low segregation superalloy",
+            "relation": "isAKindOf",
+            "tail": "nickel-base cast superalloy"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "PContent",
+            "value": "<0.001%"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "SiContent",
+            "value": "<0.05%"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "ZrContent",
+            "value": "0%"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "BContent",
+            "value": "downward controlled"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "solidificationTemperatureRange",
+            "value": "reduced by 100-150 ℃"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "segregationDegree",
+            "value": "greatly reduced"
+        },
+        {
+            "entity": "low segregation superalloy",
+            "attribute": "structuralStability",
+            "value": "increased"
+        }
+    ],
+    "1017": [
+        {
+            "head": "low-frequency high dielectric constant ceramic",
+            "relation": "isUsedFor",
+            "tail": "filtering"
+        },
+        {
+            "head": "low-frequency high dielectric constant ceramic",
+            "relation": "isUsedFor",
+            "tail": "bypass"
+        },
+        {
+            "head": "low-frequency high dielectric constant ceramic",
+            "relation": "isUsedFor",
+            "tail": "flood control"
+        },
+        {
+            "head": "low-frequency high dielectric constant ceramic",
+            "relation": "isUsedFor",
+            "tail": "rectification"
+        },
+        {
+            "head": "low-frequency high dielectric constant ceramic",
+            "relation": "isUsedFor",
+            "tail": "AC circuit breakers"
+        }
+    ],
+    "1018": [
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "titanium alloys"
+        },
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isMadeOf",
+            "tail": "commercial pure titanium"
+        },
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isMadeOf",
+            "tail": "aluminum"
+        },
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isMadeOf",
+            "tail": "tin"
+        },
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isMadeOf",
+            "tail": "zirconium"
+        },
+        {
+            "head": "low strength titanium alloy",
+            "relation": "isMadeOf",
+            "tail": "α Titanium alloy"
+        },
+        {
+            "entity": "low strength titanium alloy",
+            "attribute": "tensileStrength",
+            "value": "lower than 800MPa"
+        }
+    ],
+    "1020": [
+        {
+            "head": "low yield point steel",
+            "relation": "isAKindOf",
+            "tail": "ultra-low-carbon steel"
+        },
+        {
+            "head": "low yield point steel",
+            "relation": "isUsedFor",
+            "tail": "products with complex shapes"
+        },
+        {
+            "entity": "low yield point steel",
+            "attribute": "ductility",
+            "value": "excellent"
+        }
+    ],
+    "1021": [
+        {
+            "head": "low yield ratio steel",
+            "relation": "isAKindOf",
+            "tail": "steel"
+        },
+        {
+            "entity": "low yield ratio steel",
+            "attribute": "yield ratio",
+            "value": "not more than 0.8"
+        }
+    ],
+    "1022": [
+        {
+            "head": "fusible alloy",
+            "relation": "isAKindOf",
+            "tail": "alloy"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "tin"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "lead"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "bismuth"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "cadmium"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "indium"
+        },
+        {
+            "head": "fusible alloy",
+            "relation": "isMadeOf",
+            "tail": "mercury"
+        },
+        {
+            "entity": "fusible alloy",
+            "attribute": "meltingPoint",
+            "value": "does not exceed 231.9 ℃"
+        }
+    ],
+    "1024": [
+        {
+            "head": "low stretch yarn",
+            "relation": "isAKindOf",
+            "tail": "stretch textured yarn"
+        }
+    ],
+    "1025": [
+        {
+            "entity": "concrete with low elastic modulus",
+            "attribute": "elasticModulus",
+            "value": "0.3 × 10^4-10 × 10^4MPa"
+        },
+        {
+            "head": "concrete with low elastic modulus",
+            "relation": "isAKindOf",
+            "tail": "concrete"
+        },
+        {
+            "head": "concrete with low elastic modulus",
+            "relation": "isUsedFor",
+            "tail": "hydraulic engineering structures"
+        },
+        {
+            "head": "concrete with low elastic modulus",
+            "relation": "isUsedFor",
+            "tail": "anti-seepage wall in earth-rock cofferdams"
+        }
+    ],
+    "1026": [
+        {
+            "head": "low carbon bainite steel",
+            "relation": "isAKindOf",
+            "tail": "engineering structural steel"
+        },
+        {
+            "head": "ULCBsteel",
+            "relation": "isAKindOf",
+            "tail": "low carbon bainite steel"
+        },
+        {
+            "head": "low carbon bainite steel",
+            "relation": "isMadeOf",
+            "tail": "carbon-free bainite"
+        },
+        {
+            "head": "low carbon bainite steel",
+            "relation": "isMadeOf",
+            "tail": "microalloyed carbonitride"
+        },
+        {
+            "head": "low carbon bainite steel",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "Ma Ao islands",
+            "relation": "isPartOf",
+            "tail": "low carbon bainite steel"
+        },
+        {
+            "entity": "low carbon bainite steel",
+            "attribute": "carbon content",
+            "value": "less than 0.05%"
+        },
+        {
+            "entity": "low carbon bainite steel",
+            "attribute": "strength",
+            "value": "significantly higher than ferrite-pearlite steel"
+        },
+        {
+            "entity": "low carbon bainite steel",
+            "attribute": "toughness",
+            "value": "good"
+        },
+        {
+            "entity": "low carbon bainite steel",
+            "attribute": "weldability",
+            "value": "good"
+        }
+    ],
+    "1027": [
+        {
+            "head": "low-carbon steel",
+            "relation": "isAKindOf",
+            "tail": "steel"
+        },
+        {
+            "head": "low-carbon steel",
+            "relation": "isAKindOf",
+            "tail": "non-alloy steel"
+        },
+        {
+            "entity": "low-carbon steel",
+            "attribute": "carbon content",
+            "value": "less than 0.25%"
+        },
+        {
+            "entity": "low-carbon steel",
+            "attribute": "ductility",
+            "value": "high"
+        },
+        {
+            "entity": "low-carbon steel",
+            "attribute": "tensileStrength",
+            "value": "relatively low"
+        }
+    ],
+    "1029": [
+        {
+            "head": "low carbon magnesia carbon brick",
+            "relation": "isAKindOf",
+            "tail": "magnesium carbon brick"
+        },
+        {
+            "head": "low carbon magnesia carbon brick",
+            "relation": "isMadeOf",
+            "tail": "ultra-fine graphite"
+        },
+        {
+            "head": "low carbon magnesia carbon brick",
+            "relation": "isMadeOf",
+            "tail": "nano carbon black"
+        },
+        {
+            "head": "low carbon magnesia carbon brick",
+            "relation": "isUsedFor",
+            "tail": "smelting low-cardon steel"
+        },
+        {
+            "entity": "low carbon magnesia carbon brick",
+            "attribute": "carbon content",
+            "value": "not exceeding 8%"
+        }
+    ],
+    "1030": [
+        {
+            "head": "low-signature propellant",
+            "relation": "isAKindOf",
+            "tail": "propellant"
+        },
+        {
+            "head": "low-signature propellant",
+            "relation": "isUsedFor",
+            "tail": "reliable guidance and precise strike"
+        },
+        {
+            "head": "low-signature propellant",
+            "relation": "isPartOf",
+            "tail": "research and development directions for homogeneous propellants"
+        }
+    ],
+    "1032": [
+        {
+            "head": "zero dimensional materials",
+            "relation": "isAKindOf",
+            "tail": "low-dimensional materials"
+        },
+        {
+            "head": "one-dimensional materials",
+            "relation": "isAKindOf",
+            "tail": "low-dimensional materials"
+        },
+        {
+            "head": "two-dimensional materials",
+            "relation": "isAKindOf",
+            "tail": "low-dimensional materials"
+        }
+    ],
+    "1033": [
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isMadeOf",
+            "tail": "chromium"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isMadeOf",
+            "tail": "manganese"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "low-temperature field"
+        },
+        {
+            "head": "Fe Cr Ni series",
+            "relation": "isAKindOf",
+            "tail": "cryogenic austenitic stainless steel"
+        },
+        {
+            "head": "Fe Cr Ni Mn and Fe Cr Ni Mn nitrogen systems",
+            "relation": "isAKindOf",
+            "tail": "cryogenic austenitic stainless steel"
+        },
+        {
+            "head": "Iron manganese aluminum series",
+            "relation": "isAKindOf",
+            "tail": "cryogenic austenitic stainless steel"
+        },
+        {
+            "head": "Iron nickel base and nickel base superaalloy series",
+            "relation": "isAKindOf",
+            "tail": "cryogenic austenitic stainless steel"
+        },
+        {
+            "head": "18-8",
+            "relation": "isAKindOf",
+            "tail": "Fe Cr Ni series"
+        },
+        {
+            "head": "21-6-9",
+            "relation": "isAKindOf",
+            "tail": "Fe Cr Ni Mn and Fe Cr Ni Mn nitrogen systems"
+        },
+        {
+            "head": "15Mn26A14",
+            "relation": "isAKindOf",
+            "tail": "Iron manganese aluminum series"
+        },
+        {
+            "head": "21-6-9",
+            "relation": "isUsedFor",
+            "tail": "superconducting magnet frame"
+        },
+        {
+            "head": "21-6-9",
+            "relation": "isUsedFor",
+            "tail": "superconducting motor rotor"
+        },
+        {
+            "head": "21-6-9",
+            "relation": "isUsedFor",
+            "tail": "liquid nitrogen dewar components"
+        },
+        {
+            "head": "15Mn26A14",
+            "relation": "isUsedFor",
+            "tail": "pipes"
+        },
+        {
+            "head": "15Mn26A14",
+            "relation": "isUsedFor",
+            "tail": "plates"
+        },
+        {
+            "head": "15Mn26A14",
+            "relation": "isUsedFor",
+            "tail": "wires"
+        },
+        {
+            "head": "Iron nickel base and nickel base superaalloy series",
+            "relation": "isUsedFor",
+            "tail": "cryogenic components in spacecraft"
+        },
+        {
+            "entity": "cryogenic austenitic stainless steel",
+            "attribute": "crystalsystem",
+            "value": "face-centered cubic"
+        },
+        {
+            "entity": "21-6-9",
+            "attribute": "tensileStrength",
+            "value": "σ0.2>1300MPa"
+        },
+        {
+            "entity": "21-6-9",
+            "attribute": "ductility",
+            "value": "good"
+        },
+        {
+            "entity": "15Mn26A14",
+            "attribute": "ductility",
+            "value": "high"
+        },
+        {
+            "entity": "Iron nickel base and nickel base superaalloy series",
+            "attribute": "tensileStrength",
+            "value": "2.5-5 times higher than 18-8 stainless steel"
+        }
+    ],
+    "1034": [
+        {
+            "head": "low-temperature bainitic steel",
+            "relation": "isAKindOf",
+            "tail": "ultra high carbon and high silicon steel"
+        },
+        {
+            "head": "low-temperature bainitic steel",
+            "relation": "isMadeOf",
+            "tail": "bainite ferrite Flat noodles"
+        },
+        {
+            "head": "low-temperature bainitic steel",
+            "relation": "isMadeOf",
+            "tail": "carbon rich residual austenite film"
+        },
+        {
+            "head": "low-temperature bainitic steel",
+            "relation": "isAKindOf",
+            "tail": "low temperature bainite structure"
+        },
+        {
+            "entity": "bainite ferrite Flat noodles",
+            "attribute": "shape",
+            "value": "flat noodles with thickness 20-40nm"
+        }
+    ],
+    "1035": [
+        {
+            "head": "cryogenic stainless steel",
+            "relation": "isAKindOf",
+            "tail": "stainless steel"
+        },
+        {
+            "head": "cryogenic maraging stainless steel",
+            "relation": "isAKindOf",
+            "tail": "cryogenic stainless steel"
+        },
+        {
+            "head": "low temperature duplex stainless steel",
+            "relation": "isAKindOf",
+            "tail": "cryogenic stainless steel"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isAKindOf",
+            "tail": "cryogenic stainless steel"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "storage devices for liquid nitrogen"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "storage devices for liquid hydrogen"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "storage devices for liquid oxygen"
+        },
+        {
+            "head": "cryogenic austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "superconducting engineering structures"
+        },
+        {
+            "entity": "cryogenic maraging stainless steel",
+            "attribute": "tensileStrength",
+            "value": "high"
+        },
+        {
+            "entity": "low temperature duplex stainless steel",
+            "attribute": "corrosionResistance",
+            "value": "excellent resistance to pressure corrosion, pitting corrosion and crevice corrosion"
+        },
+        {
+            "entity": "cryogenic austenitic stainless steel",
+            "attribute": "crystalsystem",
+            "value": "austenitic structure"
+        }
+    ],
+    "1036": [
+        {
+            "head": "low temperature superconducting material",
+            "relation": "isAKindOf",
+            "tail": "superconducting material"
+        },
+        {
+            "head": "metal",
+            "relation": "isAKindOf",
+            "tail": "low temperature superconducting material"
+        },
+        {
+            "head": "alloy",
+            "relation": "isAKindOf",
+            "tail": "low temperature superconducting material"
+        },
+        {
+            "head": "compound",
+            "relation": "isAKindOf",
+            "tail": "low temperature superconducting material"
+        }
+    ],
+    "1037": [
+        {
+            "head": "recovery of low temperature irradiation damage",
+            "relation": "isAKindOf",
+            "tail": "defect reaction"
+        },
+        {
+            "head": "crystal structure defects",
+            "relation": "isDerivedFrom",
+            "tail": "radiation"
+        },
+        {
+            "head": "recovery of low temperature irradiation damage",
+            "relation": "isPartOf",
+            "tail": "annealing process"
+        },
+        {
+            "head": "annihilation",
+            "relation": "isAKindOf",
+            "tail": "defect reaction"
+        },
+        {
+            "head": "clustering",
+            "relation": "isAKindOf",
+            "tail": "defect reaction"
+        },
+        {
+            "entity": "annealing process",
+            "attribute": "temperature",
+            "value": "liquid helium (4.2K)"
+        }
+    ],
+    "1038": [
+        {
+            "head": "low temperature sensitivity propellant",
+            "relation": "isAKindOf",
+            "tail": "gun propellant"
+        },
+        {
+            "entity": "low temperature sensitivity propellant",
+            "attribute": "gasGenerationRate",
+            "value": "changes little with ambient temperature"
+        }
+    ],
+    "1039": [
+        {
+            "head": "Cryogenic steel",
+            "relation": "isAKindOf",
+            "tail": "steel"
+        },
+        {
+            "head": "ultra cryogenic steel",
+            "relation": "isAKindOf",
+            "tail": "Cryogenic steel"
+        },
+        {
+            "head": "cryogenic ferritic steel",
+            "relation": "isAKindOf",
+            "tail": "Cryogenic steel"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isAKindOf",
+            "tail": "Cryogenic steel"
+        },
+        {
+            "head": "cryogenic stainless steel",
+            "relation": "isAKindOf",
+            "tail": "Cryogenic steel"
+        },
+        {
+            "head": "Cryogenic steel",
+            "relation": "isUsedFor",
+            "tail": "use below 0 ℃"
+        },
+        {
+            "entity": "Cryogenic steel",
+            "attribute": "ductility",
+            "value": "good"
+        }
+    ],
+    "1040": [
+        {
+            "head": "low-temperature isotropic carbon",
+            "relation": "isDerivedFrom",
+            "tail": "hydrocarbon gas"
+        },
+        {
+            "head": "low-temperature isotropic carbon",
+            "relation": "isAKindOf",
+            "tail": "biological ceramics materials"
+        },
+        {
+            "head": "low-temperature isotropic carbon",
+            "relation": "isSimilarTo",
+            "tail": "natural bone"
+        },
+        {
+            "entity": "low-temperature isotropic carbon",
+            "attribute": "crystalsystem",
+            "value": "turbostratic"
+        },
+        {
+            "entity": "low-temperature isotropic carbon",
+            "attribute": "elasticModulus",
+            "value": "close to that of natural bone"
+        },
+        {
+            "entity": "low-temperature isotropic carbon",
+            "attribute": "tensileStrength",
+            "value": "very good"
+        },
+        {
+            "entity": "low-temperature isotropic carbon",
+            "attribute": "corrosionResistance",
+            "value": "good"
+        }
+    ],
+    "1041": [
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "sintering additive"
+        },
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "ceramics and glass composition system"
+        },
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "high surface activity powders"
+        },
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "materials with fine particle size"
+        },
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "glass-ceramics"
+        },
+        {
+            "head": "low temperature co-fired dielectric materials",
+            "relation": "isMadeOf",
+            "tail": "amorphous glass"
+        }
+    ],
+    "1042": [
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isAKindOf",
+            "tail": "metal and alloy materials"
+        },
+        {
+            "head": "austenitic stainless steel",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "nickel steel",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "low alloy iron steel",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "aluminum alloy",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "copper and copper alloy",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "titanium and titanium alloy",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "iron nickel base superalloy",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "dual-phase steel",
+            "relation": "isPartOf",
+            "tail": "cryogenic metallic materials"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "petrochemical industry"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "refrigeration industry"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "oil and natural gas cryogenic separation equipment"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "storage and processing of liquefied gas"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "low-temperature cooling devices"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "air separation equipment"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "refrigeration equipment"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "mechanical equipment for cold regions"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "superconducting magnets"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "superconducting machinery"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "liquid fuel storage tanks for spacecraft"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "maglev trains"
+        },
+        {
+            "head": "cryogenic metallic materials",
+            "relation": "isUsedFor",
+            "tail": "ultra-low temperature energy storage rings"
+        },
+        {
+            "head": "low nickel steel",
+            "relation": "isUsedFor",
+            "tail": "energy transmission and storage structures in 273-173K"
+        },
+        {
+            "head": "austenitic stainless steel",
+            "relation": "isUsedFor",
+            "tail": "liquefied natural gas devices in 173-77K"
+        },
+        {
+            "head": "nickel steel",
+            "relation": "isUsedFor",
+            "tail": "liquid nitrogen industries in 173-77K"
+        },
+        {
+            "head": "aluminum alloy",
+            "relation": "isUsedFor",
+            "tail": "aerospace vehicles' cryogenic devices"
+        },
+        {
+            "head": "titanium alloy",
+            "relation": "isUsedFor",
+            "tail": "aerospace vehicles' cryogenic devices"
+        },
+        {
+            "head": "special austenitic alloy",
+            "relation": "isUsedFor",
+            "tail": "aerospace vehicles' cryogenic devices"
+        },
+        {
+            "head": "superconducting magnet",
+            "relation": "isDependentOn",
+            "tail": "liquid helium"
+        },
+        {
+            "head": "low temperature alloy with bcc structure",
+            "attribute": "strength",
+            "value": "higher at low temperature"
+        },
+        {
+            "head": "low temperature alloy with bcc structure",
+            "attribute": "ductility",
+            "value": "lower"
+        },
+        {
+            "head": "low temperature alloy with fcc structure",
+            "attribute": "ductility",
+            "value": "high"
+        },
+        {
+            "head": "low temperature alloy with fcc structure",
+            "attribute": "strength",
+            "value": "increases at low temperature"
+        },
+        {
+            "head": "austenitic alloy",
+            "attribute": "Ms point",
+            "value": "lower is better"
+        },
+        {
+            "head": "low temperature alloy used for deep drawing",
+            "attribute": "Md point",
+            "value": "as low as possible"
+        },
+        {
+            "head": "low temperature alloy",
+            "attribute": "magnetic",
+            "value": "non-magnetic"
+        }
+    ],
+    "1043": [
+        {
+            "head": "cryogenic aluminium alloy",
+            "relation": "isAKindOf",
+            "tail": "solution strengthening aluminum alloys"
+        },
+        {
+            "head": "cryogenic aluminium alloy",
+            "relation": "isAKindOf",
+            "tail": "precipitation hardening aluminum alloys"
+        },
+        {
+            "head": "cryogenic aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "low temperature environment use"
+        },
+        {
+            "entity": "cryogenic aluminium alloy",
+            "attribute": "density",
+            "value": "low"
+        },
+        {
+            "entity": "cryogenic aluminium alloy",
+            "attribute": "crystalsystem",
+            "value": "fcc crystal structure"
+        }
+    ],
+    "1044": [
+        {
+            "head": "cryogenic maraging stainless steel",
+            "relation": "isAKindOf",
+            "tail": "martensitic aging stainless steel"
+        },
+        {
+            "head": "cryogenic maraging stainless steel",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "cryogenic maraging stainless steel",
+            "relation": "isMadeOf",
+            "tail": "carbon"
+        },
+        {
+            "entity": "cryogenic maraging stainless steel",
+            "attribute": "carbon content",
+            "value": "low (<0.03%)"
+        },
+        {
+            "entity": "cryogenic maraging stainless steel",
+            "attribute": "nickel content",
+            "value": "high"
+        },
+        {
+            "entity": "cryogenic maraging stainless steel",
+            "attribute": "impact resistance",
+            "value": "high at 20-70K"
+        }
+    ],
+    "1045": [
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isAKindOf",
+            "tail": "alloy structural steel"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isAKindOf",
+            "tail": "ferritic steel"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isMadeOf",
+            "tail": "carbon"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isMadeOf",
+            "tail": "manganese"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isMadeOf",
+            "tail": "molybdenum"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isMadeOf",
+            "tail": "chromium"
+        },
+        {
+            "head": "cryogenic nickel steel",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "carbonContent",
+            "value": "<0.13%"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "manganeseContent",
+            "value": "<1.5%"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "molybdenumContent",
+            "value": "small amount"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "chromiumContent",
+            "value": "small amount"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "nickelContent",
+            "value": ">2.5%"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "coldBrittleTransition",
+            "value": "present"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "lowTemperatureToughness",
+            "value": "improved when reducing C and S, P impurities"
+        },
+        {
+            "entity": "cryogenic nickel steel",
+            "attribute": "ductility",
+            "value": "improved with reduced impurities"
+        }
+    ],
+    "1046": [
+        {
+            "head": "microstructure",
+            "relation": "isPartOf",
+            "tail": "low temperature dual-phase steel"
+        },
+        {
+            "head": "ferrite",
+            "relation": "isPartOf",
+            "tail": "microstructure"
+        },
+        {
+            "head": "austenite",
+            "relation": "isPartOf",
+            "tail": "microstructure"
+        },
+        {
+            "head": "ferrite austenite dual-phase steel",
+            "relation": "isAKindOf",
+            "tail": "low temperature dual-phase steel"
+        },
+        {
+            "head": "low temperature dual-phase steel",
+            "relation": "isUsedFor",
+            "tail": "chemical industry"
+        },
+        {
+            "head": "low temperature dual-phase steel",
+            "relation": "isUsedFor",
+            "tail": "petroleum industry"
+        },
+        {
+            "head": "low temperature dual-phase steel",
+            "relation": "isUsedFor",
+            "tail": "energy industry"
+        },
+        {
+            "head": "low temperature dual-phase steel",
+            "relation": "isUsedFor",
+            "tail": "marine industry"
+        },
+        {
+            "head": "microstructure",
+            "relation": "isMadeOf",
+            "tail": "ferrite"
+        },
+        {
+            "head": "microstructure",
+            "relation": "isMadeOf",
+            "tail": "austenite"
+        },
+        {
+            "entity": "low temperature dual-phase steel",
+            "attribute": "corrosionResistance",
+            "value": "high"
+        },
+        {
+            "entity": "low temperature dual-phase steel",
+            "attribute": "yield strength",
+            "value": "high"
+        },
+        {
+            "entity": "low temperature dual-phase steel",
+            "attribute": "toughness",
+            "value": "good"
+        },
+        {
+            "entity": "low temperature dual-phase steel",
+            "attribute": "weldability",
+            "value": "good"
+        }
+    ],
+    "1047": [
+        {
+            "head": "α Titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "cryogenic titanium alloy"
+        },
+        {
+            "head": "α-β Titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "cryogenic titanium alloy"
+        },
+        {
+            "head": "α Titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "titanium alloy"
+        },
+        {
+            "head": "β Titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "titanium alloy"
+        },
+        {
+            "head": "α-β Titanium alloy",
+            "relation": "isAKindOf",
+            "tail": "titanium alloy"
+        },
+        {
+            "head": "cryogenic titanium alloy",
+            "relation": "isUsedFor",
+            "tail": "cryogenic structural parts"
+        },
+        {
+            "head": "cryogenic titanium alloy",
+            "relation": "isUsedFor",
+            "tail": "cryogenic containers in aerospace vehicles"
+        },
+        {
+            "entity": "cryogenic titanium alloy",
+            "attribute": "corrosionResistance",
+            "value": "good"
+        },
+        {
+            "entity": "cryogenic titanium alloy",
+            "attribute": "thermalConductivity",
+            "value": "low"
+        },
+        {
+            "entity": "α Titanium alloy",
+            "attribute": "crystalsystem",
+            "value": "hcp structure"
+        },
+        {
+            "entity": "β Titanium alloy",
+            "attribute": "crystalsystem",
+            "value": "BCC structure"
+        }
+    ],
+    "1048": [
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isAKindOf",
+            "tail": "superalloy"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isMadeOf",
+            "tail": "chromium"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isMadeOf",
+            "tail": "titanium"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isMadeOf",
+            "tail": "aluminum"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isMadeOf",
+            "tail": "niobium"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isMadeOf",
+            "tail": "molybdenum"
+        },
+        {
+            "head": "cryogenic iron-nickel base superalloy",
+            "relation": "isUsedFor",
+            "tail": "cryogenic conditions"
+        },
+        {
+            "head": "austenitic matrix",
+            "relation": "isPartOf",
+            "tail": "cryogenic iron-nickel base superalloy"
+        },
+        {
+            "head": "γ' phase",
+            "relation": "isPartOf",
+            "tail": "austenitic matrix"
+        },
+        {
+            "head": "γ' phase",
+            "relation": "isUsedFor",
+            "tail": "strengthening austenitic matrix"
+        },
+        {
+            "entity": "cryogenic iron-nickel base superalloy",
+            "attribute": "crystalsystem",
+            "value": "austenitic"
+        },
+        {
+            "entity": "cryogenic iron-nickel base superalloy",
+            "attribute": "tensileStrength",
+            "value": "high"
+        },
+        {
+            "entity": "cryogenic iron-nickel base superalloy",
+            "attribute": "ductility",
+            "value": "good"
+        }
+    ],
+    "1049": [
+        {
+            "head": "cryogenic ferritic steel",
+            "relation": "isAKindOf",
+            "tail": "low alloy iron steel"
+        },
+        {
+            "head": "cryogenic ferritic steel",
+            "relation": "isUsedFor",
+            "tail": "low temperature applications"
+        },
+        {
+            "entity": "cryogenic ferritic steel",
+            "attribute": "ductility",
+            "value": "high"
+        },
+        {
+            "entity": "cryogenic ferritic steel",
+            "attribute": "carbon content",
+            "value": "generally <0.12%"
+        },
+        {
+            "head": "cryogenic ferritic steel",
+            "relation": "isMadeOf",
+            "tail": "ferrite grains"
+        }
+    ],
+    "1050": [
+        {
+            "head": "cryogenic copper alloy",
+            "relation": "isAKindOf",
+            "tail": "copper alloy"
+        },
+        {
+            "head": "cryogenic copper alloy",
+            "relation": "isUsedFor",
+            "tail": "low-temperature environments"
+        },
+        {
+            "head": "precipitation strengthened copper alloy",
+            "relation": "isAKindOf",
+            "tail": "copper alloy"
+        },
+        {
+            "entity": "copper",
+            "attribute": "crystalsystem",
+            "value": "fcc"
+        },
+        {
+            "entity": "copper alloy",
+            "attribute": "crystalsystem",
+            "value": "fcc"
+        },
+        {
+            "entity": "copper",
+            "attribute": "ductility",
+            "value": "good"
+        },
+        {
+            "entity": "copper alloy",
+            "attribute": "ductility",
+            "value": "good"
+        }
+    ],
+    "2001": [
+        {
+            "head": "high alloy ultra-high strength steel",
+            "relation": "isAKindOf",
+            "tail": "ultra-high strength steel"
+        },
+        {
+            "head": "precipitation hardening stainless steel",
+            "relation": "isAKindOf",
+            "tail": "high alloy ultra-high strength steel"
+        },
+        {
+            "head": "maraging steel",
+            "relation": "isAKindOf",
+            "tail": "high alloy ultra-high strength steel"
+        },
+        {
+            "head": "precipitation hardening stainless steel",
+            "relation": "isMadeOf",
+            "tail": "alloy carbide"
+        },
+        {
+            "head": "precipitation hardening stainless steel",
+            "relation": "isMadeOf",
+            "tail": "intermetallic compound"
+        },
+        {
+            "head": "maraging steel",
+            "relation": "isMadeOf",
+            "tail": "intermetallic compound"
+        },
+        {
+            "head": "high alloy ultra-high strength steel",
+            "relation": "isUsedFor",
+            "tail": "aerospace structural parts"
+        },
+        {
+            "head": "high alloy ultra-high strength steel",
+            "relation": "isUsedFor",
+            "tail": "marine engineering structural parts"
+        },
+        {
+            "head": "high alloy ultra-high strength steel",
+            "relation": "isUsedFor",
+            "tail": "national defense structural parts"
+        },
+        {
+            "entity": "18NU high alloy ultra-high strength steel",
+            "attribute": "tensileStrength",
+            "value": "very high"
+        }
+    ],
+    "2002": [
+        {
+            "head": "high alloy cast steel",
+            "relation": "isAKindOf",
+            "tail": "cast steel"
+        },
+        {
+            "head": "high alloy cast steel",
+            "relation": "isMadeOf",
+            "tail": "alloy elements"
+        },
+        {
+            "entity": "high alloy cast steel",
+            "attribute": "corrosionResistance",
+            "value": "high"
+        }
+    ],
+    "2004": [
+        {
+            "head": "high-order transformation",
+            "relation": "isAKindOf",
+            "tail": "phase transformation"
+        }
+    ],
+    "2007": [
+        {
+            "head": "high primary formability magnesium alloy",
+            "relation": "isAKindOf",
+            "tail": "high formability magnesium alloy"
+        },
+        {
+            "head": "high secondary formability magnesium I alloy",
+            "relation": "isAKindOf",
+            "tail": "high formability magnesium alloy"
+        },
+        {
+            "entity": "high formability magnesium alloy",
+            "attribute": "grain size",
+            "value": "about 10 μm"
+        },
+        {
+            "entity": "high formability magnesium alloy",
+            "attribute": "texture",
+            "value": "weak/non base"
+        }
+    ],
+    "2008": [
+        {
+            "head": "high dielectric constant paste",
+            "relation": "isMadeOf",
+            "tail": "Barium titanate"
+        },
+        {
+            "head": "high dielectric constant paste",
+            "relation": "isUsedFor",
+            "tail": "high-capacity thick film capacitors"
+        }
+    ],
+    "2009": [
+        {
+            "head": "PBX",
+            "relation": "isAKindOf",
+            "tail": "plastic bonded explosives"
+        },
+        {
+            "head": "powder high-energy single explosive",
+            "relation": "isMadeOf",
+            "tail": "adhesive"
+        },
+        {
+            "head": "powder high-energy single explosive",
+            "relation": "isMadeOf",
+            "tail": "plasticizer"
+        },
+        {
+            "head": "powder high-energy single explosive",
+            "relation": "isMadeOf",
+            "tail": "deterrent"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "anti tank missiles"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "mines"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "torpedoes"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "aviation bombs"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "nuclear warhead detonating devices"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "oil perforating bombs"
+        },
+        {
+            "head": "PBX",
+            "relation": "isUsedFor",
+            "tail": "explosion molding"
+        }
+    ],
+    "2010": [
+        {
+            "head": "high impact polystyrene",
+            "relation": "isAKindOf",
+            "tail": "polystyrene"
+        },
+        {
+            "head": "high impact polystyrene",
+            "relation": "isUsedFor",
+            "tail": "home appliance product casings"
+        },
+        {
+            "head": "high impact polystyrene",
+            "relation": "isUsedFor",
+            "tail": "automotive components"
+        },
+        {
+            "head": "high impact polystyrene",
+            "relation": "isUsedFor",
+            "tail": "medical equipment components"
+        },
+        {
+            "head": "high impact polystyrene",
+            "relation": "isUsedFor",
+            "tail": "drainage pipes"
+        },
+        {
+            "head": "high impact polystyrene",
+            "relation": "isUsedFor",
+            "tail": "toys"
+        }
+    ],
+    "2011": [
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isAKindOf",
+            "tail": "gray wear resistance cast iron"
+        },
+        {
+            "head": "phosphorus eutectic",
+            "relation": "isPartOf",
+            "tail": "high phosphorus cast iron"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isMadeOf",
+            "tail": "phosphorus"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isMadeOf",
+            "tail": "alloy elements"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isUsedFor",
+            "tail": "machine tool bed"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isUsedFor",
+            "tail": "guide rail"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isUsedFor",
+            "tail": "cylinder sleeve"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isUsedFor",
+            "tail": "piston ring"
+        },
+        {
+            "head": "high phosphorus cast iron",
+            "relation": "isAKindOf",
+            "tail": "alloy grey cast iron"
+        },
+        {
+            "entity": "high phosphorus cast iron",
+            "attribute": "hardness",
+            "value": "high"
+        },
+        {
+            "entity": "high phosphorus cast iron",
+            "attribute": "wear resistance",
+            "value": "good"
+        },
+        {
+            "entity": "high phosphorus cast iron",
+            "attribute": "corrosionResistance",
+            "value": "good"
+        },
+        {
+            "entity": "high phosphorus cast iron",
+            "attribute": "phosphorus content",
+            "value": "0.30-0.80%"
+        }
+    ],
+    "2012": [
+        {
+            "head": "kaolinite",
+            "relation": "isAKindOf",
+            "tail": "layered silicate mineral"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isDerivedFrom",
+            "tail": "weathered granite crust"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isAKindOf",
+            "tail": "high-quality ceramics materials"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isUsedFor",
+            "tail": "rubber industry"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isUsedFor",
+            "tail": "chemical industry"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isUsedFor",
+            "tail": "paper industry"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isMadeOf",
+            "tail": "Fe"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isMadeOf",
+            "tail": "Mg"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isMadeOf",
+            "tail": "Cr"
+        },
+        {
+            "head": "kaolinite",
+            "relation": "isMadeOf",
+            "tail": "Al"
+        }
+    ],
+    "2014": [
+        {
+            "head": "kaolin",
+            "relation": "isAKindOf",
+            "tail": "clay"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isMadeOf",
+            "tail": "kadinite"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "ceramics"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "rubber"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "chemistry"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "paper industry"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "curing jaundice"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "treating diarrhea"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "treating evil qi"
+        },
+        {
+            "head": "kaolin",
+            "relation": "isUsedFor",
+            "tail": "alleviating swelling and pain"
+        },
+        {
+            "head": "Jingdezhen kaolin deposit",
+            "relation": "isAKindOf",
+            "tail": "weathering residual type deposit"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "alternative_names",
+            "value": "kaolinite clay, china clay, white stone fat"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "color",
+            "value": "white, light yellow, light brown, or light green when containing impurities"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "shape",
+            "value": "earthy or dense blocks"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "meltingPoint",
+            "value": "high"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "corrosionResistance",
+            "value": "good"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "electricalConductivity",
+            "value": "low"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "ductility",
+            "value": "moderate"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "water_absorption",
+            "value": "strong"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "expansion",
+            "value": "does not expand"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "plasticity",
+            "value": "has plasticity when mixed with water"
+        },
+        {
+            "entity": "kaolin",
+            "attribute": "distribution",
+            "value": "southeast coast, southern Sichuan, northern Guizhou, western Kunming, central Hubei"
+        },
+        {
+            "entity": "kaolin deposits",
+            "attribute": "main_type",
+            "value": "weathered"
+        },
+        {
+            "entity": "kaolin deposits",
+            "attribute": "secondary_type",
+            "value": "sedimentary"
+        },
+        {
+            "entity": "kaolin deposits",
+            "attribute": "minor_type",
+            "value": "hydrothermal"
+        }
+    ],
+    "2015": [
+        {
+            "head": "throat",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "stack",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "waist",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "bosh",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "hearth",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "charging equipment",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "tuyere",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "slag outlets",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "tapping holes",
+            "relation": "isPartOf",
+            "tail": "blast furnace"
+        },
+        {
+            "head": "blast furnace",
+            "relation": "isAKindOf",
+            "tail": "round shaft furnace"
+        },
+        {
+            "entity": "blast furnace",
+            "attribute": "effective volume",
+            "value": "more than 5000m³"
+        },
+        {
+            "entity": "blast furnace",
+            "attribute": "firstGenerationFurnaceAge",
+            "value": "more than 10 years"
+        }
+    ],
+    "2016": [
+        {
+            "head": "blast furnace ironmaking",
+            "relation": "isAKindOf",
+            "tail": "ironmaking method"
+        },
+        {
+            "head": "blast furnace",
+            "relation": "isPartOf",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "iron ore",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "natural rich ore block",
+            "relation": "isAKindOf",
+            "tail": "iron ore"
+        },
+        {
+            "head": "sinter",
+            "relation": "isAKindOf",
+            "tail": "iron ore"
+        },
+        {
+            "head": "pellet",
+            "relation": "isAKindOf",
+            "tail": "iron ore"
+        },
+        {
+            "head": "coke",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "flux",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "hot air",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "blast furnace gas",
+            "relation": "isUsedFor",
+            "tail": "gas fuel"
+        },
+        {
+            "head": "pig iron",
+            "relation": "isDerivedFrom",
+            "tail": "iron ore"
+        },
+        {
+            "head": "pig iron",
+            "relation": "isUsedFor",
+            "tail": "steelmaking"
+        },
+        {
+            "head": "pig iron",
+            "relation": "isUsedFor",
+            "tail": "casting"
+        },
+        {
+            "head": "slag",
+            "relation": "isDerivedFrom",
+            "tail": "flux"
+        },
+        {
+            "head": "slag",
+            "relation": "isDerivedFrom",
+            "tail": "gangue"
+        },
+        {
+            "head": "slag",
+            "relation": "isUsedFor",
+            "tail": "slag cement"
+        },
+        {
+            "head": "pulverized coal injection",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "oxygen enriched blast",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "high furnace residual pressure recovery",
+            "relation": "isUsedFor",
+            "tail": "blast furnace ironmaking"
+        },
+        {
+            "head": "gangue",
+            "relation": "isPartOf",
+            "tail": "iron ore"
+        },
+        {
+            "head": "pig iron",
+            "relation": "isAKindOf",
+            "tail": "iron"
+        }
+    ],
+    "2017": [
+        {
+            "head": "high alumina bauxite",
+            "relation": "isAKindOf",
+            "tail": "natural bauxite"
+        },
+        {
+            "head": "high alumina bauxite",
+            "relation": "isUsedFor",
+            "tail": "high alumina refractory"
+        },
+        {
+            "entity": "high alumina bauxite",
+            "attribute": "Al2O3 content",
+            "value": ">48%"
+        },
+        {
+            "entity": "high alumina bauxite",
+            "attribute": "iron oxide content",
+            "value": "low after calcination"
+        }
+    ],
+    "2018": [
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isAKindOf",
+            "tail": "high alumina refractory products"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isMadeOf",
+            "tail": "high alumina raw materials"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isMadeOf",
+            "tail": "synthetic cordierite"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isMadeOf",
+            "tail": "binder"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isUsedFor",
+            "tail": "ceramics kiln furniture"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isUsedFor",
+            "tail": "heat exchanger"
+        },
+        {
+            "head": "high-alumina cordierite brick",
+            "relation": "isUsedFor",
+            "tail": "catalyst support for purifying waste gas"
+        }
+    ],
+    "2019": [
+        {
+            "head": "high-alumina brick",
+            "relation": "isAKindOf",
+            "tail": "aluminum silicate refractory products"
+        },
+        {
+            "head": "high-alumina brick",
+            "relation": "isMadeOf",
+            "tail": "high alumina bauxite"
+        },
+        {
+            "head": "high-alumina brick",
+            "relation": "isMadeOf",
+            "tail": "synthetic mullite"
+        },
+        {
+            "head": "high-alumina brick",
+            "relation": "isMadeOf",
+            "tail": "clay"
+        },
+        {
+            "head": "high-alumina brick",
+            "relation": "isMadeOf",
+            "tail": "other binders"
+        },
+        {
+            "entity": "high-alumina brick",
+            "attribute": "AL2O3 content",
+            "value": "greater than 48%"
+        }
+    ],
+    "2020": [
+        {
+            "head": "high manganese steel",
+            "relation": "isAKindOf",
+            "tail": "wear-resistant steel"
+        },
+        {
+            "entity": "high manganese steel",
+            "attribute": "carbon content",
+            "value": "0.8% -1.4%"
+        },
+        {
+            "entity": "high manganese steel",
+            "attribute": "manganese content",
+            "value": "11% -14%"
+        },
+        {
+            "entity": "high manganese steel",
+            "attribute": "manganese carbon ratio",
+            "value": "10-12"
+        },
+        {
+            "entity": "high manganese steel",
+            "attribute": "shape",
+            "value": "castings"
+        }
+    ],
+    "2022": [
+        {
+            "entity": "high density optical recording materials",
+            "attribute": "density",
+            "value": "10^6 bit/cm² or more"
+        },
+        {
+            "head": "high density optical recording materials",
+            "relation": "isAKindOf",
+            "tail": "materials systems"
+        },
+        {
+            "head": "high density optical recording materials",
+            "relation": "isMadeOf",
+            "tail": "inorganic materials"
+        },
+        {
+            "head": "high density optical recording materials",
+            "relation": "isMadeOf",
+            "tail": "organic materials"
+        },
+        {
+            "head": "high density optical recording materials",
+            "relation": "isUsedFor",
+            "tail": "optical disks"
+        }
+    ],
+    "2024": [
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "density",
+            "value": "high"
+        },
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "tensileStrength",
+            "value": "high"
+        },
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "ductility",
+            "value": "good"
+        },
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "electricalConductivity",
+            "value": "good"
+        },
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "thermalConductivity",
+            "value": "good"
+        },
+        {
+            "entity": "high density tungsten alloys",
+            "attribute": "corrosionResistance",
+            "value": "good"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isMadeOf",
+            "tail": "tungsten"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isMadeOf",
+            "tail": "iron"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "tungsten nickel copper alloy",
+            "relation": "isAKindOf",
+            "tail": "high density tungsten alloys"
+        },
+        {
+            "head": "tungsten nickel iron alloy",
+            "relation": "isAKindOf",
+            "tail": "high density tungsten alloys"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "gyroscope rotor"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "balance weight"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "armour piercing bullet core"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "tool and die fixture"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "shielding materials"
+        },
+        {
+            "head": "high density tungsten alloys",
+            "relation": "isUsedFor",
+            "tail": "instruments and meters"
+        }
+    ],
+    "2025": [
+        {
+            "head": "high-density fiberboard",
+            "relation": "isAKindOf",
+            "tail": "fiberboard"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isAlternativeTo",
+            "tail": "medium density fiberboard"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "indoor and outdoor decoration"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "office"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "high-end furniture"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "audio"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "interior decoration of luxury cars"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "anti-static floor"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "dado"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "anti-theft door"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "wallboard"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "partition"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "laminate flooring"
+        },
+        {
+            "head": "high-density fiberboard",
+            "relation": "isUsedFor",
+            "tail": "composition flooring"
+        },
+        {
+            "entity": "high-density fiberboard",
+            "attribute": "density",
+            "value": ">850kg/m3"
+        }
+    ],
+    "2026": [
+        {
+            "head": "thermal bimetal with high sensitivity",
+            "relation": "isMadeOf",
+            "tail": "Mn75Ni15Cu10 alloy"
+        },
+        {
+            "head": "thermal bimetal with high sensitivity",
+            "relation": "isMadeOf",
+            "tail": "Mn72Ni10Cu18 alloy"
+        },
+        {
+            "head": "thermal bimetal with high sensitivity",
+            "relation": "isMadeOf",
+            "tail": "FeNi36 alloy"
+        },
+        {
+            "entity": "thermal bimetal with high sensitivity",
+            "attribute": "thermalConductivity",
+            "value": "extremely high"
+        }
+    ],
+    "2028": [
+        {
+            "head": "high energy low sensitivity propellant",
+            "relation": "isAKindOf",
+            "tail": "gun propellant"
+        },
+        {
+            "head": "high energy low sensitivity propellant",
+            "relation": "isUsedFor",
+            "tail": "weapons"
+        },
+        {
+            "entity": "high energy low sensitivity propellant",
+            "attribute": "energyDensity",
+            "value": "1190J/g"
+        },
+        {
+            "entity": "high energy low sensitivity propellant",
+            "attribute": "safety",
+            "value": "good"
+        }
+    ],
+    "2029": [
+        {
+            "head": "high energy ignition composition",
+            "relation": "isAKindOf",
+            "tail": "ignition composition"
+        },
+        {
+            "head": "high energy ignition composition",
+            "relation": "isMadeOf",
+            "tail": "potassium perchlorate"
+        },
+        {
+            "head": "high energy ignition composition",
+            "relation": "isMadeOf",
+            "tail": "barium nitrate"
+        },
+        {
+            "head": "high energy ignition composition",
+            "relation": "isMadeOf",
+            "tail": "magnesium aluminum alloy"
+        },
+        {
+            "head": "high energy ignition composition",
+            "relation": "isUsedFor",
+            "tail": "composite gunpowder"
+        },
+        {
+            "head": "high energy ignition composition",
+            "relation": "isDependentOn",
+            "tail": "ignition composition with a low ignition point"
+        }
+    ],
+    "2030": [
+        {
+            "head": "high energy cobalt complex primary explosive",
+            "relation": "isAKindOf",
+            "tail": "complex primary explosive"
+        }
+    ],
+    "2031": [
+        {
+            "head": "High energy density materials",
+            "relation": "isAKindOf",
+            "tail": "energetic materials"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isPartOf",
+            "tail": "High energy density materials"
+        },
+        {
+            "head": "oxidizer",
+            "relation": "isPartOf",
+            "tail": "High energy density materials"
+        },
+        {
+            "head": "combustible agents",
+            "relation": "isPartOf",
+            "tail": "High energy density materials"
+        },
+        {
+            "head": "adhesive",
+            "relation": "isPartOf",
+            "tail": "High energy density materials"
+        },
+        {
+            "head": "other additive",
+            "relation": "isPartOf",
+            "tail": "High energy density materials"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "propellants"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "gun propellant"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "warhead charges"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "initiating explosive devices"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "high-energy insensitive explosive"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "small propulsion system solid fuel"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "smokeless pyrotechnic agent"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "gas generating composition"
+        },
+        {
+            "head": "High energy density materials",
+            "relation": "isUsedFor",
+            "tail": "flameless low temperature extinguishing agent"
+        },
+        {
+            "entity": "High energy density materials",
+            "attribute": "density",
+            "value": "large energy density"
+        }
+    ],
+    "2032": [
+        {
+            "head": "high energy density compound",
+            "relation": "isAKindOf",
+            "tail": "energetic compounds"
+        },
+        {
+            "head": "energy density",
+            "relation": "isDependentOn",
+            "tail": "crystal density"
+        },
+        {
+            "head": "energy density",
+            "relation": "isDependentOn",
+            "tail": "standard enthalpy of formation"
+        },
+        {
+            "head": "energy density",
+            "relation": "isDependentOn",
+            "tail": "oxygen balance"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isMadeOf",
+            "tail": "oxidizer"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isMadeOf",
+            "tail": "combustible agent"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isMadeOf",
+            "tail": "adhesive"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isMadeOf",
+            "tail": "additive"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isUsedFor",
+            "tail": "high performance explosives"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isUsedFor",
+            "tail": "airbags"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isUsedFor",
+            "tail": "pyrotechnics"
+        },
+        {
+            "head": "high energy density compound",
+            "relation": "isUsedFor",
+            "tail": "gas generators"
+        },
+        {
+            "entity": "high energy density compound",
+            "attribute": "density",
+            "value": "greater than 1.9g/cm3"
+        }
+    ],
+    "2033": [
+        {
+            "head": "high-energy ball milling",
+            "relation": "isAKindOf",
+            "tail": "pulverization method"
+        },
+        {
+            "head": "planetary ball mill",
+            "relation": "isAKindOf",
+            "tail": "high-energy ball milling equipment"
+        },
+        {
+            "head": "vibration ball mill",
+            "relation": "isAKindOf",
+            "tail": "high-energy ball milling equipment"
+        },
+        {
+            "head": "stirring ball mill",
+            "relation": "isAKindOf",
+            "tail": "high-energy ball milling equipment"
+        },
+        {
+            "head": "ball milling medium",
+            "relation": "isPartOf",
+            "tail": "high-energy ball milling"
+        },
+        {
+            "head": "high-energy ball milling",
+            "relation": "isUsedFor",
+            "tail": "alloy"
+        },
+        {
+            "head": "high-energy ball milling",
+            "relation": "isAlternativeTo",
+            "tail": "rolling ball milling"
+        },
+        {
+            "entity": "high-energy ball milling",
+            "attribute": "crushingEfficiency",
+            "value": "significantly higher than conventional rolling ball milling"
+        },
+        {
+            "entity": "high-energy ball milling",
+            "attribute": "energyLevel",
+            "value": "significantly higher than conventional rolling ball milling"
+        },
+        {
+            "entity": "high-energy ball milling",
+            "attribute": "mixingLevel",
+            "value": "atomic level"
+        }
+    ],
+    "2034": [
+        {
+            "head": "monomer explosive",
+            "relation": "isAKindOf",
+            "tail": "high performance explosives"
+        },
+        {
+            "head": "composite explosive",
+            "relation": "isAKindOf",
+            "tail": "high performance explosives"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isMadeOf",
+            "tail": "high-nitrogen compounds"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "nuclear weapon initiation devices"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "missile warheads"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "aviation bombs"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "underwater weapons"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "shaped charge armor piercing shells"
+        },
+        {
+            "head": "high performance explosives",
+            "relation": "isUsedFor",
+            "tail": "engineering blasting in special situations"
+        },
+        {
+            "entity": "high performance explosives",
+            "attribute": "energy density",
+            "value": "extremely high"
+        }
+    ],
+    "2035": [
+        {
+            "head": "BC alloy",
+            "relation": "isAKindOf",
+            "tail": "high temperature alloy series"
+        },
+        {
+            "head": "high boron-low carbon superalloy",
+            "relation": "isAlternativeTo",
+            "tail": "BC alloy"
+        },
+        {
+            "head": "high boron-low carbon superalloy",
+            "relation": "isAlternativeTo",
+            "tail": "low carbon high boron high-temperature alloy"
+        },
+        {
+            "head": "BC alloy",
+            "relation": "isDerivedFrom",
+            "tail": "nickel-base cast superalloy"
+        },
+        {
+            "head": "BC alloy",
+            "relation": "isUsedFor",
+            "tail": "turbine blades"
+        },
+        {
+            "entity": "BC alloy",
+            "attribute": "boronContent",
+            "value": "increased by about one amount"
+        },
+        {
+            "entity": "BC alloy",
+            "attribute": "carbonContent",
+            "value": "reduced by about one order of magnitude"
+        }
+    ],
+    "2036": [
+        {
+            "head": "high expansion alloy",
+            "relation": "isAKindOf",
+            "tail": "alloy"
+        },
+        {
+            "head": "Mn72Ni18Cu",
+            "relation": "isAKindOf",
+            "tail": "high expansion alloy"
+        },
+        {
+            "head": "FeNi22Cr3",
+            "relation": "isAKindOf",
+            "tail": "high expansion alloy"
+        },
+        {
+            "head": "high expansion alloy",
+            "relation": "isPartOf",
+            "tail": "thermal bimetallic"
+        },
+        {
+            "head": "low expansion alloy",
+            "relation": "isPartOf",
+            "tail": "thermal bimetallic"
+        },
+        {
+            "head": "high expansion alloy",
+            "relation": "isComplementaryTo",
+            "tail": "low expansion alloy"
+        },
+        {
+            "head": "high expansion alloy",
+            "relation": "isUsedFor",
+            "tail": "temperature measurement and control devices"
+        },
+        {
+            "entity": "high expansion alloy",
+            "attribute": "thermal expansion coefficient",
+            "value": "higher than 15×10^-6 °C"
+        }
+    ],
+    "2037": [
+        {
+            "head": "high frequency butt seam welding",
+            "relation": "isAKindOf",
+            "tail": "high frequency resistance welding"
+        },
+        {
+            "head": "high frequency lap seam welding",
+            "relation": "isAKindOf",
+            "tail": "high frequency resistance welding"
+        },
+        {
+            "head": "high frequency butt seam welding",
+            "relation": "isUsedFor",
+            "tail": "metal welded pipes"
+        },
+        {
+            "head": "high frequency lap seam welding",
+            "relation": "isUsedFor",
+            "tail": "food cans"
+        },
+        {
+            "head": "high frequency lap seam welding",
+            "relation": "isUsedFor",
+            "tail": "various internal pressure cans"
+        },
+        {
+            "head": "required power",
+            "relation": "isDependentOn",
+            "tail": "material"
+        },
+        {
+            "head": "required power",
+            "relation": "isDependentOn",
+            "tail": "pipe diameter"
+        },
+        {
+            "head": "required power",
+            "relation": "isDependentOn",
+            "tail": "wall thickness"
+        },
+        {
+            "head": "required power",
+            "relation": "isDependentOn",
+            "tail": "weld speed"
+        },
+        {
+            "entity": "high frequency resistance welding",
+            "attribute": "frequency",
+            "value": "200-500kHz"
+        }
+    ],
+    "2038": [
+        {
+            "head": "high-frequency temperature compensation dielectric ceramic",
+            "relation": "isAKindOf",
+            "tail": "dielectric ceramic"
+        },
+        {
+            "head": "high-frequency temperature compensation dielectric ceramic",
+            "relation": "isUsedFor",
+            "tail": "maintaining the stability of the resonant frequency of high-frequency oscillation circuits"
+        },
+        {
+            "head": "high-frequency temperature compensation dielectric ceramic",
+            "relation": "isPartOf",
+            "tail": "capacitor"
+        }
+    ],
+    "2039": [
+        {
+            "head": "high temperature-stable dielectric ceramics",
+            "relation": "isAKindOf",
+            "tail": "capacitor dielectric materials"
+        },
+        {
+            "head": "high temperature-stable dielectric ceramics",
+            "relation": "isUsedFor",
+            "tail": "obtain accurate resonance points"
+        }
+    ],
+    "2040": [
+        {
+            "head": "laser crystal with high average power",
+            "relation": "isAKindOf",
+            "tail": "crystal working material"
+        },
+        {
+            "head": "laser crystal with high average power",
+            "relation": "isUsedFor",
+            "tail": "lasers with continuous or average laser output power of hundreds to thousands of watts"
+        },
+        {
+            "entity": "laser crystal with high average power",
+            "attribute": "transition cross sections",
+            "value": "large"
+        },
+        {
+            "entity": "laser crystal with high average power",
+            "attribute": "fluorescence lifetime",
+            "value": "long"
+        },
+        {
+            "entity": "laser crystal with high average power",
+            "attribute": "size",
+            "value": "large enough"
+        },
+        {
+            "entity": "laser crystal with high average power",
+            "attribute": "uniformity",
+            "value": "good enough"
+        }
+    ],
+    "2041": [
+        {
+            "head": "high mobility organic/polymer materials",
+            "relation": "isAKindOf",
+            "tail": "organic polymer materials"
+        },
+        {
+            "head": "high mobility organic/polymer materials",
+            "relation": "isDependentOn",
+            "tail": "chemical structure"
+        },
+        {
+            "head": "high mobility organic/polymer materials",
+            "relation": "isDependentOn",
+            "tail": "degree of order of molecular arrangement"
+        },
+        {
+            "head": "high mobility organic/polymer materials",
+            "relation": "isDependentOn",
+            "tail": "coupling ability between molecules"
+        },
+        {
+            "head": "high mobility organic/polymer materials",
+            "relation": "isDependentOn",
+            "tail": "arrangement direction"
+        },
+        {
+            "entity": "high mobility organic/polymer materials",
+            "attribute": "mobility",
+            "value": "reaches or exceeds 0.1-1cm²/(V·s)"
+        }
+    ],
+    "2042": [
+        {
+            "entity": "low expansion alloy with high strength",
+            "attribute": "tensileStrength",
+            "value": "greater than 110 MPa"
+        },
+        {
+            "head": "low expansion alloy with high strength",
+            "relation": "isMadeOf",
+            "tail": "FeNi35Co5Ti3 alloy"
+        }
+    ],
+    "2043": [
+        {
+            "entity": "high strength and high modules fiber",
+            "attribute": "tensileStrength",
+            "value": "greater than 15cN/dtex or 2GPa"
+        },
+        {
+            "entity": "high strength and high modules fiber",
+            "attribute": "elasticModulus",
+            "value": "greater than 350cN/dtex or 40GPa"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "high-performance tire cord"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "rubber reinforcing materials"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "resin based reinforcing agent"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "ceramic based reinforcing agent"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "carbon based reinforcing agent"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "metal based reinforcing agent"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "concrete reinforcing agent"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "cables"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "canvas"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "protective clothing"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "special motor insulation materials"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "bulletproof vests"
+        },
+        {
+            "head": "high strength and high modules fiber",
+            "relation": "isUsedFor",
+            "tail": "cutting and puncture resistant overalls"
+        }
+    ],
+    "2044": [
+        {
+            "head": "high strength diamond",
+            "relation": "isAKindOf",
+            "tail": "abrasive grade synthetic diamond"
+        },
+        {
+            "head": "high strength diamond",
+            "relation": "isTestedBy",
+            "tail": "diamond meter"
+        },
+        {
+            "head": "high strength diamond",
+            "relation": "isUsedFor",
+            "tail": "geological bricks"
+        },
+        {
+            "head": "high strength diamond",
+            "relation": "isUsedFor",
+            "tail": "stone processing tools"
+        },
+        {
+            "head": "high strength diamond",
+            "relation": "isUsedFor",
+            "tail": "metal adhesive grinding wheels"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "compressiveStrength",
+            "value": "more than 1.7 * 10^4 kgf/cm2"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "codeName",
+            "value": "JR-3"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "isometricRequirements",
+            "value": "not less than 80% (particle percentage)"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "connectedCrystalRequirements",
+            "value": "not more than 3% (particle percentage)"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "multiCrystalRequirements",
+            "value": "not more than 3% (particle percentage)"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "particleSizeComposition",
+            "value": "meets standard requirements"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "impurityContent",
+            "value": "meets standard requirements"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "synthesisConditions",
+            "value": "strict process conditions"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "shape",
+            "value": "relatively complete"
+        },
+        {
+            "entity": "high strength diamond",
+            "attribute": "color",
+            "value": "transparent"
+        }
+    ],
+    "2045": [
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isAKindOf",
+            "tail": "Al-Zn-Mg-Cu series alloys"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isMadeOf",
+            "tail": "Al"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isMadeOf",
+            "tail": "Zn"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isMadeOf",
+            "tail": "Mg"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isMadeOf",
+            "tail": "Cu"
+        },
+        {
+            "entity": "super-hard aluminium alloy",
+            "attribute": "tensileStrength",
+            "value": "highest when total Zn, Mg, Cu content exceeds 9% (mass fraction)"
+        },
+        {
+            "entity": "super-hard aluminium alloy",
+            "attribute": "ductility",
+            "value": "low"
+        },
+        {
+            "entity": "super-hard aluminium alloy",
+            "attribute": "corrosionResistance",
+            "value": "improved by over-aging treatment"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "beams"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "purlins"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "partitions"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "skins"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "wing ribs"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "joints"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "landing gear system components"
+        },
+        {
+            "head": "super-hard aluminium alloy",
+            "relation": "isUsedFor",
+            "tail": "hydraulic system actuators"
+        }
+    ],
+    "2047": [
+        {
+            "head": "high strength cast magnesium alloy",
+            "relation": "isUsedFor",
+            "tail": "mechanical structural parts bearing heavy loads"
+        },
+        {
+            "head": "Mg Zn Zr alloy",
+            "relation": "isAKindOf",
+            "tail": "high strength cast magnesium alloy"
+        },
+        {
+            "head": "Mg Gd-Y-Zr alloy",
+            "relation": "isAKindOf",
+            "tail": "high strength cast magnesium alloy"
+        },
+        {
+            "head": "high strength cast magnesium alloy",
+            "relation": "isUsedFor",
+            "tail": "parts with high stress and high air tightness"
+        },
+        {
+            "head": "high strength cast magnesium alloy",
+            "relation": "isUsedFor",
+            "tail": "thin-walled high-quality castings"
+        },
+        {
+            "entity": "high strength cast magnesium alloy",
+            "attribute": "tensileStrength",
+            "value": "high"
+        },
+        {
+            "entity": "Mg Zn Zr alloy",
+            "attribute": "tensileStrength",
+            "value": "increases with Zn content in aging state"
+        }
+    ],
+    "2048": [
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isAKindOf",
+            "tail": "copper based alloy"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isAKindOf",
+            "tail": "precipitation strengthened copper alloy"
+        },
+        {
+            "head": "Cu Cr Zr alloy",
+            "relation": "isAKindOf",
+            "tail": "high strength and high conduction copper alloy"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "integrated circuit leads frames"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "contact wires for high-speed rail transit"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "contact materials for vacuum switches"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "high-voltage circuit breakers"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "multi row TSSOP"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "MSOP frame"
+        },
+        {
+            "head": "high strength and high conduction copper alloy",
+            "relation": "isUsedFor",
+            "tail": "etching frame"
+        },
+        {
+            "entity": "Cu Cr Zr alloy",
+            "attribute": "tensileStrength",
+            "value": "700MPa"
+        },
+        {
+            "entity": "Cu Cr Zr alloy",
+            "attribute": "electricalConductivity",
+            "value": "above 80% IACS"
+        },
+        {
+            "entity": "Cu Cr Zr alloy",
+            "attribute": "electricalConductivity",
+            "value": "above 90% IACS"
+        },
+        {
+            "entity": "Cu Cr Zr alloy",
+            "attribute": "tensileStrength",
+            "value": "above 450MPa"
+        }
+    ],
+    "2049": [
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isAKindOf",
+            "tail": "high strength and high elasticity copper alloy"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isAKindOf",
+            "tail": "high strength and high elasticity copper alloy"
+        },
+        {
+            "head": "CuNiSn",
+            "relation": "isAKindOf",
+            "tail": "high strength precipitation strengthened copper alloy without beryllium"
+        },
+        {
+            "head": "CuNiMn",
+            "relation": "isAKindOf",
+            "tail": "high strength precipitation strengthened copper alloy without beryllium"
+        },
+        {
+            "head": "CuNiAl",
+            "relation": "isAKindOf",
+            "tail": "high strength precipitation strengthened copper alloy without beryllium"
+        },
+        {
+            "head": "Cu-2% Be alloy",
+            "relation": "isAKindOf",
+            "tail": "aging strengthened Cu Be elasticity alloy"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isAlternativeTo",
+            "tail": "aging strengthened Cu Be elasticity alloy"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isMadeOf",
+            "tail": "beryllium"
+        },
+        {
+            "head": "CuNiSn",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "CuNiSn",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "CuNiSn",
+            "relation": "isMadeOf",
+            "tail": "tin"
+        },
+        {
+            "head": "CuNiMn",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "CuNiMn",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "CuNiMn",
+            "relation": "isMadeOf",
+            "tail": "manganese"
+        },
+        {
+            "head": "CuNiAl",
+            "relation": "isMadeOf",
+            "tail": "copper"
+        },
+        {
+            "head": "CuNiAl",
+            "relation": "isMadeOf",
+            "tail": "nickel"
+        },
+        {
+            "head": "CuNiAl",
+            "relation": "isMadeOf",
+            "tail": "aluminum"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "current carrying elasticity elements"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "precision instrument elasticity elements"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "conductive springs for various relays"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "contact springs"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "various plug and pull pieces"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "diaphragms"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "bellows"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "spring tubes"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "machinery"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "aviation"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "aerospace"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "nuclear"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "instrumentation industries"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "electronic computers"
+        },
+        {
+            "head": "aging strengthened Cu Be elasticity alloy",
+            "relation": "isUsedFor",
+            "tail": "microelectronics"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "current carrying elasticity elements"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "precision instrument elasticity elements"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "conductive springs for various relays"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "contact springs"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "various plug and pull pieces"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "diaphragms"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "bellows"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "spring tubes"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "machinery"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "aviation"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "aerospace"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "nuclear"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "instrumentation industries"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "electronic computers"
+        },
+        {
+            "head": "high strength precipitation strengthened copper alloy without beryllium",
+            "relation": "isUsedFor",
+            "tail": "microelectronics"
+        },
+        {
+            "entity": "Cu-2% Be alloy",
+            "attribute": "elasticModulus",
+            "value": "130GPa"
+        },
+        {
+            "entity": "Cu-2% Be alloy",
+            "attribute": "tensileStrength",
+            "value": "1200MPa"
+        },
+        {
+            "entity": "aging strengthened Cu Be elasticity alloy",
+            "attribute": "electricalConductivity",
+            "value": "high"
+        }
+    ],
+    "2050": [
+        {
+            "head": "C50-C80 grade concrete",
+            "relation": "isAKindOf",
+            "tail": "high strength concrete"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "cement"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "sand"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "stone"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "superplasticizer"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "fly ash"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "ultra-fine slag"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "silica fume"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isMadeOf",
+            "tail": "other admixtures"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isUsedFor",
+            "tail": "structures"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isUsedFor",
+            "tail": "large-span bridge structures"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isUsedFor",
+            "tail": "certain special structures"
+        },
+        {
+            "head": "high strength concrete",
+            "relation": "isUsedFor",
+            "tail": "high-rise buildings"
+        },
+        {
+            "entity": "high strength concrete",
+            "attribute": "compressiveStrength",
+            "value": "high"
+        },
+        {
+            "entity": "high strength concrete",
+            "attribute": "compressiveStrength",
+            "value": "4-6 times of that of ordinary concrete"
+        },
+        {
+            "entity": "high strength concrete",
+            "attribute": "elasticModulus",
+            "value": "high"
+        },
+        {
+            "entity": "high strength concrete",
+            "attribute": "density",
+            "value": "large"
+        },
+        {
+            "entity": "high strength concrete",
+            "attribute": "porosity",
+            "value": "low"
+        }
+    ]
+}

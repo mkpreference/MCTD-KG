@@ -1,0 +1,4032 @@
+{
+  "1-s2.0-S0927775726003961-main_chunks": [
+    [
+      {
+        "head": "Ru-MoSe2",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "platinum-based materials",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAlternativeTo",
+        "tail": "platinum-based materials"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "anchoring Ru-MoSe2"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "Ru-based HER composite electrocatalysts"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "mitigating catalyst agglomeration"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "increasing the number of active sites"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "enhancing utilization rate of Ru"
+      }
+    ],
+    [
+      {
+        "head": "MXene",
+        "relation": "isAKindOf",
+        "tail": "2D material"
+      },
+      {
+        "head": "MXene",
+        "relation": "isMadeOf",
+        "tail": "transition metal"
+      },
+      {
+        "head": "MXene",
+        "relation": "isMadeOf",
+        "tail": "carbon"
+      },
+      {
+        "head": "MXene",
+        "relation": "isMadeOf",
+        "tail": "nitrogen"
+      },
+      {
+        "head": "MXene",
+        "relation": "isMadeOf",
+        "tail": "surface functional groups"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "water electrocatalysis"
+      },
+      {
+        "head": "2D layer-by-layer structure",
+        "relation": "isPartOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "forming heterojunctions with other materials"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "promoting charge transfer"
+      },
+      {
+        "head": "MXene",
+        "relation": "isComplementaryTo",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "Ru NPs",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru/MXene interface",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru/MoSe2 interface",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru NPs",
+        "relation": "isUsedFor",
+        "tail": "optimizing electronic structure of Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "increasing active sites"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isUsedFor",
+        "tail": "increasing active sites"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "increasing charge transfer rate"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isUsedFor",
+        "tail": "increasing charge transfer rate"
+      },
+      {
+        "entity": "MXene",
+        "attribute": "electricalConductivity",
+        "value": "excellent"
+      }
+    ],
+    [
+      {
+        "head": "MoSe2",
+        "relation": "isAKindOf",
+        "tail": "transition metal dichalcogenides"
+      },
+      {
+        "head": "heterostructure catalysts",
+        "relation": "isMadeOf",
+        "tail": "electrochemical active materials"
+      },
+      {
+        "head": "heterostructure catalysts",
+        "relation": "isMadeOf",
+        "tail": "functional additives"
+      },
+      {
+        "head": "Ruthenium",
+        "relation": "isAlternativeTo",
+        "tail": "Platinum"
+      },
+      {
+        "head": "MXene",
+        "relation": "isDerivedFrom",
+        "tail": "Ti3AlC2"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene composite electrocatalyst",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene composite electrocatalyst"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene composite electrocatalyst"
+      },
+      {
+        "head": "Ru",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene composite electrocatalyst"
+      },
+      {
+        "head": "Ru-MoSe2/MXene composite electrocatalyst",
+        "relation": "isTestedBy",
+        "tail": "CHI760E electrochemical workstation"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isSimilarTo",
+        "tail": "pure MoSe2"
+      }
+    ],
+    [
+      {
+        "head": "MXene",
+        "relation": "isDerivedFrom",
+        "tail": "Ti3AlC2"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "2D substrate for MoSe2"
+      },
+      {
+        "head": "Na2MoO4·2H2O",
+        "relation": "isPartOf",
+        "tail": "source of molybdenum"
+      },
+      {
+        "head": "Se powder",
+        "relation": "isPartOf",
+        "tail": "source of selenium"
+      },
+      {
+        "head": "N2H4·H2O",
+        "relation": "isUsedFor",
+        "tail": "reducing Se powder and Mo6+"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "Ru NPs"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "entity": "MXene",
+        "attribute": "shape",
+        "value": "accordion-like"
+      },
+      {
+        "entity": "MoSe2 nanosheets",
+        "attribute": "shape",
+        "value": "ultrathin 2H with edge exposed"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "color",
+        "value": "black"
+      }
+    ],
+    [
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru NPs",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "HER process"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "avoiding agglomeration of MoSe2 nanosheets"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isSimilarTo",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "heterogeneous interfaces",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "entity": "MoSe2 nanosheets",
+        "attribute": "shape",
+        "value": "warped and exposed edge"
+      },
+      {
+        "entity": "MoSe2 nanosheets",
+        "attribute": "shape",
+        "value": "flower-like structure with warped edges"
+      },
+      {
+        "entity": "MXene",
+        "attribute": "shape",
+        "value": "layered structure with accordion shape and orderly arrangement"
+      }
+    ],
+    [
+      {
+        "head": "MXene",
+        "relation": "isDerivedFrom",
+        "tail": "Ti3AlC2"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "entity": "MoSe2",
+        "attribute": "crystalsystem",
+        "value": "hexagonal 2H phase"
+      }
+    ],
+    [
+      {
+        "head": "Ru NPs",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "hetero-interfaces",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "XPS spectra"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "XPS spectra"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "element mapping"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene nanosheets"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene nanosheets"
+      },
+      {
+        "entity": "MoSe2/MXene nanosheets",
+        "attribute": "shape",
+        "value": "2D"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "Ru NPs",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "enhancing charge-transfer kinetics"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "improving HER performance"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isMadeOf",
+        "tail": "Mo-Se bonds"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "Ru-Se bonds"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "Ru-O-Ti bonds"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "valence_state",
+        "value": "positive"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Ru",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "chronoamperometry"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isComplementaryTo",
+        "tail": "MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isSimilarTo",
+        "tail": "MoSe2/MXene"
+      }
+    ],
+    [
+      {
+        "entity": "MXene",
+        "attribute": "electricalConductivity",
+        "value": "good"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "electricalConductivity",
+        "value": "improved"
+      },
+      {
+        "entity": "MoSe2",
+        "attribute": "shape",
+        "value": "edge exposed"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isSimilarTo",
+        "tail": "Pt/C"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru NPs",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Volmer step",
+        "relation": "isPartOf",
+        "tail": "HER process"
+      },
+      {
+        "head": "Heyrovsky step",
+        "relation": "isPartOf",
+        "tail": "HER process"
+      },
+      {
+        "head": "Tafel step",
+        "relation": "isPartOf",
+        "tail": "HER process"
+      }
+    ],
+    [
+      {
+        "head": "Pt/C",
+        "relation": "isTestedBy",
+        "tail": "linear sweep voltammetry (LSV) tests"
+      },
+      {
+        "head": "Pt/C",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Pt/C",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "Pt/C",
+        "relation": "isMadeOf",
+        "tail": "platinum"
+      },
+      {
+        "head": "Pt/C",
+        "relation": "isMadeOf",
+        "tail": "carbon"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "linear sweep voltammetry (LSV) tests"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "ruthenium"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isDerivedFrom",
+        "tail": "MoSe2/MXene"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "linear sweep voltammetry (LSV) tests"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isTestedBy",
+        "tail": "linear sweep voltammetry (LSV) tests"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "MoSe2",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "head": "MXene",
+        "relation": "isTestedBy",
+        "tail": "linear sweep voltammetry (LSV) tests"
+      },
+      {
+        "head": "MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "MXene",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "entity": "MoSe2/MXene",
+        "attribute": "shape",
+        "value": "2D"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "chronoamperometry (CA) test"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "XRD pattern"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "SEM image"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "HRTEM"
+      },
+      {
+        "head": "elements mapping images",
+        "relation": "isPartOf",
+        "tail": "SEM images"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "cyclic voltammetry (CV) curves"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "electricalConductivity",
+        "value": "4 mF cm⁻²"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "LSV test"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "SEM analysis"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "HRTEM analysis"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isTestedBy",
+        "tail": "EDS measurements"
+      },
+      {
+        "head": "MoSe2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "MXene",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Mo",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Se",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ti",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "C",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Ru-MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "HER"
+      },
+      {
+        "entity": "MoSe2 nanosheets",
+        "attribute": "shape",
+        "value": "nanosheets with exposed edges"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "element_distribution",
+        "value": "uniform"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "overpotential",
+        "value": "24 mV attenuation at 10 mA cm⁻²"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "overpotential",
+        "value": "lower than initial samples at 50 mA cm⁻²"
+      },
+      {
+        "entity": "Ru-MoSe2/MXene",
+        "attribute": "stability",
+        "value": "robust"
+      }
+    ],
+    [
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isMadeOf",
+        "tail": "Ru"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isMadeOf",
+        "tail": "MoSe2"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isMadeOf",
+        "tail": "MXene"
+      },
+      {
+        "head": "MoSe2/MXene nanosheets",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene catalyst"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "enhancing conductivity"
+      },
+      {
+        "head": "MoSe2/MXene",
+        "relation": "isUsedFor",
+        "tail": "improving dispersion of Ru"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isTestedBy",
+        "tail": "electrochemical test"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isTestedBy",
+        "tail": "characterizations"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isUsedFor",
+        "tail": "HER process"
+      },
+      {
+        "head": "Ru-MoSe2/MXene catalyst",
+        "relation": "isAKindOf",
+        "tail": "electrocatalyst"
+      },
+      {
+        "head": "Ru/MXene heterojunction",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene catalyst"
+      },
+      {
+        "head": "Ru/MoSe2 heterojunction",
+        "relation": "isPartOf",
+        "tail": "Ru-MoSe2/MXene catalyst"
+      },
+      {
+        "entity": "MoSe2/MXene nanosheets",
+        "attribute": "shape",
+        "value": "2D structure"
+      },
+      {
+        "entity": "MoSe2/MXene",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ]
+  ],
+  "1-s2.0-S1226086X25005672-main_chunks": [
+    [
+      {
+        "entity": "CdS quantum dots",
+        "attribute": "shape",
+        "value": "spherical"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isMadeOf",
+        "tail": "Cadmium sulfide"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isDerivedFrom",
+        "tail": "aqueous chemical method"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isTestedBy",
+        "tail": "FTIR"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isTestedBy",
+        "tail": "UV-Vis"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isTestedBy",
+        "tail": "TEM"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "CdS quantum dots"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS quantum dots"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isUsedFor",
+        "tail": "bioimaging"
+      },
+      {
+        "head": "CdS quantum dots",
+        "relation": "isUsedFor",
+        "tail": "drug delivery applications"
+      }
+    ],
+    [
+      {
+        "head": "CdS",
+        "relation": "isAKindOf",
+        "tail": "semiconductor"
+      },
+      {
+        "head": "CdS nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial agents"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "light emitting diodes (LED)"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "solar cells"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "environmental sensors"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "lasers"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "photodetectors"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "photocatalysis"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "field effect transistors"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "photoconductor"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "molecular pathology"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "bio-imaging"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "nanomedicines"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "bio-sensing"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial and anticancer activities"
+      },
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "advanced disease diagnostics"
+      },
+      {
+        "head": "CdS nanocrystals",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS nanocrystals",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS nanoparticles",
+        "relation": "isSimilarTo",
+        "tail": "quantum dots"
+      }
+    ],
+    [
+      {
+        "head": "CdS",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activities"
+      },
+      {
+        "head": "thiourea",
+        "relation": "isUsedFor",
+        "tail": "providing sulfur in CdS synthesis"
+      },
+      {
+        "head": "2-ME",
+        "relation": "isUsedFor",
+        "tail": "forming CdSQDs"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "surface passivation"
+      },
+      {
+        "head": "PEG-400",
+        "relation": "isUsedFor",
+        "tail": "surface passivation"
+      },
+      {
+        "head": "CdSQDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS bulk",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity"
+      },
+      {
+        "head": "CdS",
+        "relation": "isTestedBy",
+        "tail": "antifungal activity"
+      },
+      {
+        "entity": "CdSQDs",
+        "attribute": "shape",
+        "value": "quantum dots"
+      },
+      {
+        "entity": "CdS bulk",
+        "attribute": "shape",
+        "value": "bulk form"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "Transmission Electron Microscopy"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "Fourier transform infrared spectroscopy"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "UV-Vis-NIR spectrophotometry"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "photoluminescence spectroscopy"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "energy-dispersive X-ray spectroscopy"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isAKindOf",
+        "tail": "surface modifier"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "surface modification"
+      },
+      {
+        "head": "PEG-400",
+        "relation": "isAKindOf",
+        "tail": "surface modifier"
+      },
+      {
+        "head": "PEG-400",
+        "relation": "isUsedFor",
+        "tail": "surface modification"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "nanomaterial"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "CdS bulk",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "bioimaging"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial therapies"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "well diffusion method"
+      },
+      {
+        "head": "LB broth",
+        "relation": "isUsedFor",
+        "tail": "growing bacterial cultures"
+      },
+      {
+        "head": "MHA plates",
+        "relation": "isUsedFor",
+        "tail": "antibacterial study"
+      },
+      {
+        "head": "PDA medium",
+        "relation": "isUsedFor",
+        "tail": "antifungal activities"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      }
+    ],
+    [
+      {
+        "head": "cubic CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "hexagonal CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "C(111) plane",
+        "relation": "isPartOf",
+        "tail": "cubic CdS"
+      },
+      {
+        "head": "C(200) plane",
+        "relation": "isPartOf",
+        "tail": "cubic CdS"
+      },
+      {
+        "head": "C(220) plane",
+        "relation": "isPartOf",
+        "tail": "cubic CdS"
+      },
+      {
+        "head": "C(311) plane",
+        "relation": "isPartOf",
+        "tail": "cubic CdS"
+      },
+      {
+        "head": "H(100) plane",
+        "relation": "isPartOf",
+        "tail": "hexagonal CdS"
+      },
+      {
+        "head": "H(101) plane",
+        "relation": "isPartOf",
+        "tail": "hexagonal CdS"
+      },
+      {
+        "head": "H(103) plane",
+        "relation": "isPartOf",
+        "tail": "hexagonal CdS"
+      },
+      {
+        "head": "H(200) plane",
+        "relation": "isPartOf",
+        "tail": "hexagonal CdS"
+      },
+      {
+        "head": "H(201) plane",
+        "relation": "isPartOf",
+        "tail": "hexagonal CdS"
+      },
+      {
+        "head": "CdS",
+        "relation": "isDerivedFrom",
+        "tail": "cadmium chloride and thiourea"
+      },
+      {
+        "head": "2-ME",
+        "relation": "isUsedFor",
+        "tail": "capping CdS QDs"
+      },
+      {
+        "head": "CdS QDs equal 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdO (111) plane",
+        "relation": "isPartOf",
+        "tail": "CdO"
+      },
+      {
+        "entity": "cubic CdS",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "hexagonal CdS",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      }
+    ],
+    [
+      {
+        "head": "CdS Bulk equal 70/50",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS Bulk equal 70/50",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS Bulk equal 70/50",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs equal 70/50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs equal 70/50",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs equal 70/50",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs equal 70/50",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "entity": "CdS QDs half 70/50",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "CdS QDs half 70/50",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG-400"
+      },
+      {
+        "entity": "CdS QDs half 70/50 PEG",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "CdS QDs half 70/50 PEG",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG-400"
+      },
+      {
+        "head": "CdS QDs half 70/50 PVP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs half 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs half 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs half 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "entity": "CdS QDs half 70/50 PVP",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "CdS QDs half 70/50 PVP",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "head": "CdS QDs double 70/50 PVP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS QDs double 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs double 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "2-ME"
+      },
+      {
+        "head": "CdS QDs double 70/50 PVP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs double 70/50"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs half 70/50 PEG"
+      },
+      {
+        "head": "CdS QDs half 70/50",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs half 70/50 PVP"
+      },
+      {
+        "head": "CdS QDs half 70/50 PEG",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs half 70/50 PVP"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs double 70/50 PEG"
+      },
+      {
+        "head": "CdS QDs double 70/50",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs double 70/50 PVP"
+      },
+      {
+        "head": "CdS QDs double 70/50 PEG",
+        "relation": "isAlternativeTo",
+        "tail": "CdS QDs double 70/50 PVP"
+      }
+    ],
+    [
+      {
+        "entity": "CdS",
+        "attribute": "crystalsystem",
+        "value": "cubic and hexagonal"
+      },
+      {
+        "entity": "cubic phase",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "hexagonal phase",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "head": "cubic phase",
+        "relation": "isPartOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "hexagonal phase",
+        "relation": "isPartOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS Bulk",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isTestedBy",
+        "tail": "XRD technique"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "cubic phase",
+        "relation": "isDependentOn",
+        "tail": "Cd:S ratio"
+      },
+      {
+        "head": "hexagonal phase",
+        "relation": "isDependentOn",
+        "tail": "Cd:S ratio"
+      }
+    ],
+    [
+      {
+        "entity": "CdS",
+        "attribute": "crystalsystem",
+        "value": "cubic and hexagonal"
+      },
+      {
+        "head": "CdO",
+        "relation": "isDerivedFrom",
+        "tail": "Cd(OH)₂"
+      },
+      {
+        "head": "cubic phase",
+        "relation": "isAKindOf",
+        "tail": "crystal system"
+      },
+      {
+        "head": "hexagonal phase",
+        "relation": "isAKindOf",
+        "tail": "crystal system"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "Cd:S atomic ratio"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "temperature"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "70°C"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "50°C"
+      }
+    ],
+    [
+      {
+        "entity": "CdS QDs",
+        "attribute": "shape",
+        "value": "spherical"
+      },
+      {
+        "entity": "CdS QDs half 70",
+        "attribute": "shape",
+        "value": "agglomerated spherical"
+      },
+      {
+        "entity": "CdS QDs double 70",
+        "attribute": "shape",
+        "value": "agglomerated spherical"
+      },
+      {
+        "entity": "CdS QDs half 50",
+        "attribute": "shape",
+        "value": "mono-dispersed spherical"
+      },
+      {
+        "entity": "CdS QDs double 50",
+        "attribute": "shape",
+        "value": "agglomerated spherical"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "EDS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "TEM"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isTestedBy",
+        "tail": "EDS spectra"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isTestedBy",
+        "tail": "EDS spectra"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isTestedBy",
+        "tail": "EDS spectra"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isTestedBy",
+        "tail": "EDS spectra"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      }
+    ],
+    [
+      {
+        "head": "O–H alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "O–H alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "O–H alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "O–H alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "–C–C– alkynes group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "–C–C– alkynes group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "–C–C– alkynes group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "–C–C– alkynes group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "C–C–C allene group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "C–C–C allene group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "C–C–C allene group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "C–C–C allene group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "–C–N– or N–H amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "–C–N– or N–H amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "–C–N– or N–H amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "–C–N– or N–H amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "C–O",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "C–O",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "C–O",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "C–O",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "C–N amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "C–N amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "C–N amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "C–N amine group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "C–OH secondary alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "C–OH secondary alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "C–OH secondary alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "C–OH secondary alcohol group",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "disulfide(S–S) bonds",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "disulfide(S–S) bonds",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "disulfide(S–S) bonds",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "disulfide(S–S) bonds",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "Cd–S bond",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 70"
+      },
+      {
+        "head": "Cd–S bond",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 70"
+      },
+      {
+        "head": "Cd–S bond",
+        "relation": "isPartOf",
+        "tail": "CdS QDs half 50"
+      },
+      {
+        "head": "Cd–S bond",
+        "relation": "isPartOf",
+        "tail": "CdS QDs double 50"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectra"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isTestedBy",
+        "tail": "absorption spectra"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectra"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isTestedBy",
+        "tail": "absorption spectra"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectra"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isTestedBy",
+        "tail": "absorption spectra"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isTestedBy",
+        "tail": "FTIR spectra"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isTestedBy",
+        "tail": "absorption spectra"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      },
+      {
+        "head": "Brus equation",
+        "relation": "isUsedFor",
+        "tail": "calculating particle size"
+      },
+      {
+        "head": "Einstein’s energy equation",
+        "relation": "isUsedFor",
+        "tail": "calculating band gap"
+      },
+      {
+        "head": "2-ME",
+        "relation": "isAKindOf",
+        "tail": "capping agent"
+      },
+      {
+        "head": "2-ME",
+        "relation": "isUsedFor",
+        "tail": "modifying band gap"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.99 eV"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.96 eV"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.93 eV"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.74 eV"
+      },
+      {
+        "entity": "uncapped CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.36 eV"
+      },
+      {
+        "entity": "uncapped CdS QDs",
+        "attribute": "bandGap",
+        "value": "2.38 eV"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "Cd:S ratio",
+        "value": "1:0.5"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "Cd:S ratio",
+        "value": "1:2"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "preparation temperature",
+        "value": "70°C"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "preparation temperature",
+        "value": "50°C"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "capping agent",
+        "value": "2-ME"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS Bulk",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS Bulk equal 70",
+        "relation": "isAKindOf",
+        "tail": "CdS Bulk"
+      },
+      {
+        "head": "CdS Bulk equal 50",
+        "relation": "isAKindOf",
+        "tail": "CdS Bulk"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS Bulk",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isPartOf",
+        "tail": "samples prepared at 70°C"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isPartOf",
+        "tail": "samples prepared at 70°C"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isPartOf",
+        "tail": "samples prepared at 50°C"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isPartOf",
+        "tail": "samples prepared at 50°C"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isDerivedFrom",
+        "tail": "CdS Bulk equal 70"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isDerivedFrom",
+        "tail": "CdS Bulk equal 70"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isDerivedFrom",
+        "tail": "CdS Bulk equal 50"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isDerivedFrom",
+        "tail": "CdS Bulk equal 50"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "bio-imaging"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "absorbance study"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "TEM"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial experiments"
+      },
+      {
+        "head": "CdS QDs half 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 50",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs double 70",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      }
+    ],
+    [
+      {
+        "head": "peak at 490 nm",
+        "relation": "isAKindOf",
+        "tail": "defect peak"
+      },
+      {
+        "head": "peak at 536 nm",
+        "relation": "isAKindOf",
+        "tail": "defect peak"
+      },
+      {
+        "head": "peak at 536 nm",
+        "relation": "isAKindOf",
+        "tail": "BEL peak"
+      },
+      {
+        "head": "peak at 490 nm",
+        "relation": "isPartOf",
+        "tail": "PL spectra of all synthesized samples"
+      },
+      {
+        "head": "peak at 536 nm",
+        "relation": "isPartOf",
+        "tail": "PL spectra of all synthesized samples"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "Bulk CdS",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      }
+    ],
+    [
+      {
+        "head": "Bulk CdS prepared at equal Cd:S (1:1) atomic ratio at 70 ◦C",
+        "relation": "isAKindOf",
+        "tail": "Bulk CdS"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "Bulk CdS prepared at equal Cd:S (1:1) atomic ratio at 50 ◦C",
+        "relation": "isAKindOf",
+        "tail": "Bulk CdS"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 50 ◦C",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 50 ◦C",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 50 ◦C and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 50 ◦C and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PEG"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PEG"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 50 ◦C and PEG"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 50 ◦C and PEG"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PVPP"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PVPP"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at half Cd:S (1:0.5) atomic ratio at 70 ◦C and PVPP"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS QDs prepared at double Cd:S (1:2) atomic ratio at 70 ◦C and PVPP"
+      }
+    ],
+    [
+      {
+        "head": "sample",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "sample",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "sample",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "sample",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "sample",
+        "relation": "isTestedBy",
+        "tail": "PL spectra"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS Bulk",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "PL spectra"
+      },
+      {
+        "head": "CdS Bulk",
+        "relation": "isTestedBy",
+        "tail": "PL spectra"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "surfactants"
+      },
+      {
+        "entity": "CdS Bulk",
+        "attribute": "shape",
+        "value": "larger particles"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "shape",
+        "value": "smaller particles"
+      },
+      {
+        "entity": "PVPP surfactant samples",
+        "attribute": "color",
+        "value": "blue"
+      }
+    ],
+    [
+      {
+        "head": "CdS samples",
+        "relation": "isMadeOf",
+        "tail": "cadmium chloride"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isMadeOf",
+        "tail": "thiourea"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activities"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial studies"
+      },
+      {
+        "head": "PEG-400",
+        "relation": "isUsedFor",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "bulk CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS samples"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "bio-imaging"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "drug-delivery"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial applications"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antifungal applications"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PEG surfactant",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PEG surfactant",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PVPP surfactant",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PVPP surfactant",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PEG surfactant",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PEG surfactant",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PVPP surfactant",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PVPP surfactant",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PEG surfactant",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial test"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PEG surfactant",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial test"
+      },
+      {
+        "head": "CdS QDs with half Cd:S ratio and PVPP surfactant",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial test"
+      },
+      {
+        "head": "CdS QDs with double Cd:S ratio and PVPP surfactant",
+        "relation": "isTestedBy",
+        "tail": "antimicrobial test"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs half",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs double",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "bulk CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isTestedBy",
+        "tail": "well-diffusion method"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "preparing CdS QDs half"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "preparing CdS QDs half"
+      },
+      {
+        "head": "CdS QDs half with PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS QDs half"
+      },
+      {
+        "head": "CdS QDs half with PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs half with PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS QDs half"
+      },
+      {
+        "head": "CdS QDs half with PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS samples prepared at 50°C",
+        "relation": "isAKindOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS samples prepared at 70°C",
+        "relation": "isAKindOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isUsedFor",
+        "tail": "inhibiting E. coli"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isUsedFor",
+        "tail": "inhibiting S. aureus"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "bulk CdS",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isPartOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS samples at 5 mg/mL",
+        "relation": "isPartOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS samples at 10 mg/mL",
+        "relation": "isPartOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isPartOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isPartOf",
+        "tail": "CdS samples"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "surfactant in CdS QDs"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "surfactant in CdS QDs"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "bulk CdS with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS sample"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "bulk CdS with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "bulk CdS with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against E. Coli"
+      },
+      {
+        "head": "bulk CdS with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isTestedBy",
+        "tail": "antibacterial activity test against S. Aureus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "bulk CdS with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs half",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs doubled",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs half",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS QDs doubled",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "bulk CdS",
+        "relation": "isPartOf",
+        "tail": "7 CdS samples"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isTestedBy",
+        "tail": "well-diffusion method"
+      },
+      {
+        "head": "CdS samples",
+        "relation": "isUsedFor",
+        "tail": "antifungal application against A. flavus"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "preparing CdS QDs"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "preparing CdS QDs"
+      }
+    ],
+    [
+      {
+        "head": "CdS bulk with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS bulk with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS bulk with equal Cd:S (1:0.5) atomic ratio",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PEG",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PEG",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs with half Cd:S (1:0.5) atomic ratio and PVPP",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isAKindOf",
+        "tail": "CdS material"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS QDs with double Cd:S (1:2) atomic ratio and PVPP",
+        "relation": "isUsedFor",
+        "tail": "antifungal activity against A. flavus"
+      }
+    ],
+    [
+      {
+        "entity": "CdS QDs",
+        "attribute": "Cd:S ratio",
+        "value": "1:0.5"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "Cd:S ratio",
+        "value": "1:2"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "preparation temperature",
+        "value": "50°C"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "preparation temperature",
+        "value": "70°C"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "concentration",
+        "value": "1 mg/mL"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "concentration",
+        "value": "5 mg/mL"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "concentration",
+        "value": "10 mg/mL"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "surfactant",
+        "value": "PEG and PVPP"
+      },
+      {
+        "entity": "CdS@CTN QDs",
+        "attribute": "surface modifier",
+        "value": "Chitin (CTN)"
+      },
+      {
+        "entity": "CdS@CTN QDs",
+        "attribute": "concentration",
+        "value": "2 mg/mL"
+      },
+      {
+        "entity": "CdS NPs",
+        "attribute": "concentration",
+        "value": "25 mg/mL"
+      },
+      {
+        "entity": "Green CdS QDs",
+        "attribute": "concentration",
+        "value": "40 mg/mL"
+      },
+      {
+        "entity": "Green CdS QDs",
+        "attribute": "surface modifier",
+        "value": "Nostoc carneum"
+      },
+      {
+        "head": "CdS@CTN QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS NPs",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "Green CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "Escherichia coli"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "Staphylococcus aureus"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "A. flavus"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "PEG"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "PVPP"
+      },
+      {
+        "head": "CdS@CTN QDs",
+        "relation": "isMadeOf",
+        "tail": "Chitin (CTN)"
+      },
+      {
+        "head": "Green CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "Nostoc carneum"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activity"
+      },
+      {
+        "head": "Cd2+ ions",
+        "relation": "isPartOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      },
+      {
+        "head": "E. coli",
+        "relation": "isAKindOf",
+        "tail": "gram-negative bacterium"
+      },
+      {
+        "head": "S. aureus",
+        "relation": "isAKindOf",
+        "tail": "gram-positive bacterium"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "surface functionalization"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "surface functionalization"
+      },
+      {
+        "head": "surface functionalization",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activity"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "Cd:S ratio"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "temperature"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDependentOn",
+        "tail": "concentration"
+      }
+    ],
+    [
+      {
+        "entity": "CdS QDs",
+        "attribute": "crystalsystem",
+        "value": "mixed phase of zinc cubic and wurtzite"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "synthesizing CdS QDs"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "synthesizing CdS QDs"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "Cd"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "wurtzite",
+        "relation": "isAKindOf",
+        "tail": "crystal system"
+      },
+      {
+        "head": "cubic",
+        "relation": "isAKindOf",
+        "tail": "crystal system"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "PL analysis"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "FTIR analysis"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "combating E. coli"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "combating S. aureus"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "combating A. flavus"
+      },
+      {
+        "head": "PEG",
+        "relation": "isAKindOf",
+        "tail": "surfactant"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isAKindOf",
+        "tail": "surfactant"
+      },
+      {
+        "head": "Cd",
+        "relation": "isAKindOf",
+        "tail": "chemical element"
+      },
+      {
+        "head": "S",
+        "relation": "isAKindOf",
+        "tail": "chemical element"
+      },
+      {
+        "head": "CdS",
+        "relation": "isAKindOf",
+        "tail": "chemical compound"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      }
+    ],
+    [
+      {
+        "head": "Cd^2+",
+        "relation": "isAKindOf",
+        "tail": "soft acid"
+      },
+      {
+        "head": "S^2-",
+        "relation": "isAKindOf",
+        "tail": "soft base"
+      },
+      {
+        "head": "CdS",
+        "relation": "isAKindOf",
+        "tail": "stoichiometric phase"
+      },
+      {
+        "head": "amine groups",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial effects"
+      },
+      {
+        "head": "Nitrogen",
+        "relation": "isPartOf",
+        "tail": "amine groups"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "CdO"
+      },
+      {
+        "head": "Imines",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial effects"
+      },
+      {
+        "head": "Amino",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial effects"
+      },
+      {
+        "head": "Nitrogen",
+        "relation": "isPartOf",
+        "tail": "Imines"
+      },
+      {
+        "head": "Nitrogen",
+        "relation": "isPartOf",
+        "tail": "Amino"
+      }
+    ],
+    [
+      {
+        "head": "Carbonyl groups",
+        "relation": "isPartOf",
+        "tail": "aldehydes"
+      },
+      {
+        "head": "Carbonyl groups",
+        "relation": "isPartOf",
+        "tail": "ketones"
+      },
+      {
+        "head": "Carbonyl groups",
+        "relation": "isUsedFor",
+        "tail": "disrupting microbial cell walls"
+      },
+      {
+        "head": "Carbonyl groups",
+        "relation": "isUsedFor",
+        "tail": "damaging microbial cell membranes"
+      },
+      {
+        "head": "CdS particle size",
+        "relation": "isDependentOn",
+        "tail": "temperature"
+      },
+      {
+        "head": "CdS particle size",
+        "relation": "isUsedFor",
+        "tail": "interacting with cell membranes"
+      },
+      {
+        "head": "CdS particle size",
+        "relation": "isUsedFor",
+        "tail": "interacting with RNA"
+      },
+      {
+        "head": "CdS particles",
+        "relation": "isTestedBy",
+        "tail": "high temperature (50-70°C)"
+      },
+      {
+        "head": "Cd content in CdS",
+        "relation": "isDependentOn",
+        "tail": "Cd:S atomic ratio"
+      },
+      {
+        "head": "antimicrobial activity",
+        "relation": "isDependentOn",
+        "tail": "Cd content in CdS"
+      },
+      {
+        "head": "Disulphide bonds",
+        "relation": "isUsedFor",
+        "tail": "disrupting microbial cell membranes"
+      },
+      {
+        "head": "Cd-S bonds",
+        "relation": "isUsedFor",
+        "tail": "disrupting microbial cell membranes"
+      },
+      {
+        "head": "Cd-S bonds",
+        "relation": "isUsedFor",
+        "tail": "producing reactive oxygen species (ROS)"
+      },
+      {
+        "head": "Cd ions",
+        "relation": "isPartOf",
+        "tail": "Cd-S bonds"
+      },
+      {
+        "head": "Cd-S bonds",
+        "relation": "isUsedFor",
+        "tail": "interacting with negatively charged cell membranes"
+      },
+      {
+        "head": "Disulphide bonds",
+        "relation": "isUsedFor",
+        "tail": "enhancing antimicrobial peptide stability"
+      }
+    ],
+    [
+      {
+        "head": "O–H",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial effects"
+      },
+      {
+        "head": "C–OH",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial effects"
+      },
+      {
+        "head": "functional groups",
+        "relation": "isPartOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activity"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isDerivedFrom",
+        "tail": "bulk CdS"
+      },
+      {
+        "head": "O–H",
+        "relation": "isSimilarTo",
+        "tail": "C–OH"
+      },
+      {
+        "head": "hydrophobic core",
+        "relation": "isPartOf",
+        "tail": "microbial cell components"
+      },
+      {
+        "head": "functional groups",
+        "relation": "isUsedFor",
+        "tail": "cell membrane disruption"
+      }
+    ],
+    [
+      {
+        "head": "sulfur vacancies",
+        "relation": "isPartOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antibacterial activity"
+      },
+      {
+        "head": "CdS bulk",
+        "relation": "isUsedFor",
+        "tail": "antibacterial activity"
+      },
+      {
+        "head": "oxygen vacancies",
+        "relation": "isUsedFor",
+        "tail": "enhancing antibacterial performance"
+      },
+      {
+        "head": "sulfur vacancies",
+        "relation": "isUsedFor",
+        "tail": "enhancing antibacterial performance"
+      },
+      {
+        "head": "surface defects",
+        "relation": "isPartOf",
+        "tail": "CdS QDs"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "shape",
+        "value": "quantum dots"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antibacterial applications"
+      },
+      {
+        "head": "small QDs",
+        "relation": "isUsedFor",
+        "tail": "penetrating microbial membranes"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "surface passivation of QDs"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "surface passivation of QDs"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "reducing Cd2+ release"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "reducing Cd2+ release"
+      }
+    ],
+    [
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "reducing Cd2+ ions release"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial activity"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "Cd2+",
+        "relation": "isPartOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "PEG",
+        "relation": "isUsedFor",
+        "tail": "controlled interaction with microbial cells"
+      },
+      {
+        "head": "PVPP",
+        "relation": "isUsedFor",
+        "tail": "controlled interaction with microbial cells"
+      },
+      {
+        "head": "PEGylated QDs",
+        "relation": "isUsedFor",
+        "tail": "evading opsonisation"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "reducing cytotoxic risks"
+      },
+      {
+        "entity": "PEG",
+        "attribute": "biocompatibility",
+        "value": "biocompatible"
+      },
+      {
+        "entity": "PVPP",
+        "attribute": "biocompatibility",
+        "value": "biocompatible"
+      },
+      {
+        "entity": "PEG",
+        "attribute": "toxicity",
+        "value": "non-toxic"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "antimicrobial activity",
+        "value": "at low concentrations (5–10 mg/mL)"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "size",
+        "value": "small"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "ROS generation",
+        "value": "more"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "colloidal stability",
+        "value": "improved by PEG and PVPP"
+      },
+      {
+        "entity": "PEG",
+        "attribute": "cost",
+        "value": "cost-effective compared to other surfactants"
+      },
+      {
+        "entity": "PVPP",
+        "attribute": "cost",
+        "value": "cost-effective compared to other surfactants"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isDerivedFrom",
+        "tail": "one-step aqueous-based chemical method"
+      },
+      {
+        "head": "CdS",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      },
+      {
+        "head": "CdS",
+        "relation": "isTestedBy",
+        "tail": "FTIR"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "TEM"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antimicrobial applications"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "antifungal applications"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "reducing CdS toxicity"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "bio-imaging"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isUsedFor",
+        "tail": "drug delivery"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "CdS"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur"
+      },
+      {
+        "entity": "CdS QDs",
+        "attribute": "shape",
+        "value": "spherical"
+      }
+    ],
+    [
+      {
+        "head": "CdS QDs",
+        "relation": "isAKindOf",
+        "tail": "quantum dots"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "cadmium ions"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isMadeOf",
+        "tail": "sulfur ions"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "EDS spectra"
+      },
+      {
+        "head": "CdS QDs",
+        "relation": "isTestedBy",
+        "tail": "XRD patterns"
+      }
+    ]
+  ]
+}

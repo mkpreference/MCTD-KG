@@ -1,0 +1,1347 @@
+custom_id,model,request_id,status_code,error_code,error_message,created,content,usage
+f5a6f8bb,qwq-plus,5b1e5449-7737-97c7-a0ae-b64b52b4a1c1,200,,,1747769070,"[
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""alloy element content"", ""value"": ""less than 5%""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""structure"", ""value"": ""tempering martensite or bainite""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""strength"", ""value"": ""increases with the increase of carbon content""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""fracture toughness"", ""value"": ""decreases with the increase of carbon content""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""carbon content"", ""value"": ""0.27% -0.5%""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""hardenability"", ""value"": ""improved by adding alloy elements""},
+    {""entity"": ""low alloy ultra-high strength steel"", ""attribute"": ""tempering resistance"", ""value"": ""improved by adding alloy elements""}
+]","{'completion_tokens': 1761, 'prompt_tokens': 478, 'total_tokens': 2239}"
+7888ead9,qwq-plus,edc5e684-b247-91ad-9779-061ee23882d8,200,,,1747769079,"[
+  {
+    ""entity"": ""high strength low alloy steel"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""higher corrosion resistance""
+  }
+]","{'completion_tokens': 3812, 'prompt_tokens': 494, 'total_tokens': 4306}"
+33a24915,qwq-plus,bf29dc09-52b4-90dd-84fc-79036f22a4ad,200,,,1747769080,"[
+  {""entity"": ""low alloy high speed steel"", ""attribute"": ""tungsten equivalent"", ""value"": ""not more than 10%""},
+  {""entity"": ""low alloy high speed steel"", ""attribute"": ""composition"", ""value"": ""low tungsten and molybdenum content""}
+]","{'completion_tokens': 2676, 'prompt_tokens': 415, 'total_tokens': 3091}"
+c0b9a567,qwq-plus,180663cb-9d43-9363-bff6-242cc19ade0b,200,,,1747769075,"[{""entity"":""wear-resisting low alloy steel"",""attribute"":""hardness"",""value"":""high""},{""entity"":""wear-resisting low alloy steel"",""attribute"":""wear resistance"",""value"":""high""},{""entity"":""wear-resisting low alloy steel"",""attribute"":""toughness"",""value"":""high""},{""entity"":""wear-resisting low alloy steel"",""attribute"":""weldability"",""value"":""appropriate""},{""entity"":""wear-resisting low alloy steel"",""attribute"":""strength"",""value"":""high""}]","{'completion_tokens': 751, 'prompt_tokens': 460, 'total_tokens': 1211}"
+d38f7d5d,qwq-plus,3d1b6dfe-6db9-9f82-9e0d-16fcc7541202,200,,,1747769073,"[
+  {""entity"": ""low alloy cast steel"", ""attribute"": ""alloy elements content"", ""value"": ""less than 5%""},
+  {""entity"": ""low alloy cast steel"", ""attribute"": ""common alloy elements"", ""value"": ""Si, Mn, Mo, Cr, Ni, Cu""},
+  {""entity"": ""low alloy cast steel"", ""attribute"": ""trace elements"", ""value"": ""B, Ti, V, Nb, RE""},
+  {""entity"": ""alloy elements"", ""attribute"": ""function"", ""value"": ""refine the grain, strengthen the solution, improve hardenability""}
+]","{'completion_tokens': 1914, 'prompt_tokens': 447, 'total_tokens': 2361}"
+0ab97f77,qwq-plus,45d95388-4833-9ab4-9c33-5ad98682e39d,200,,,1747769078,"[
+    {""entity"": ""low activation materials"", ""attribute"": ""tensileStrength"", ""value"": ""appropriate""},
+    {""entity"": ""low activation materials"", ""attribute"": ""ductility"", ""value"": ""appropriate""},
+    {""entity"": ""low activation materials"", ""attribute"": ""elasticModulus"", ""value"": ""appropriate""},
+    {""entity"": ""low activation materials"", ""attribute"": ""thermalConductivity"", ""value"": ""appropriate""},
+    {""entity"": ""low activation materials"", ""attribute"": ""electricalConductivity"", ""value"": ""appropriate""},
+    {""entity"": ""low activation materials"", ""attribute"": ""corrosionResistance"", ""value"": ""appropriate""}
+]","{'completion_tokens': 1658, 'prompt_tokens': 440, 'total_tokens': 2098}"
+605d6659,qwq-plus,68987148-83c9-911f-9119-ddf415666b0c,200,,,1747769081,"[
+  {
+    ""entity"": ""low dielectric constant dielectric paste"",
+    ""attribute"": ""dielectricConstant"",
+    ""value"": ""low""
+  }
+]","{'completion_tokens': 2837, 'prompt_tokens': 409, 'total_tokens': 3246}"
+b02272f5,qwq-plus,e2a6d120-082c-90d5-ac89-5d26018d54d7,200,,,1747769076,"[
+    {
+        ""entity"": ""oligomer"",
+        ""attribute"": ""molecularWeight"",
+        ""value"": ""less than 10^4""
+    }
+]","{'completion_tokens': 979, 'prompt_tokens': 475, 'total_tokens': 1454}"
+e92f20b2,qwq-plus,80e02624-1aa3-94ed-9592-75bc0a665004,200,,,1747769068,"[
+  {
+    ""entity"": ""surface layer"",
+    ""attribute"": ""shape"",
+    ""value"": ""two-dimensional""
+  },
+  {
+    ""entity"": ""diffraction patterns"",
+    ""attribute"": ""shape"",
+    ""value"": ""two-dimensional and three-dimensional""
+  }
+]","{'completion_tokens': 2544, 'prompt_tokens': 647, 'total_tokens': 3191}"
+bcb47a2b,qwq-plus,58c13f78-1333-9a8f-a828-5ba0f34c53a0,200,,,1747769079,"[
+  {""entity"": ""low thermal expansion superalloy"", ""attribute"": ""thermalExpansionCoefficient"", ""value"": ""very low""},
+  {""entity"": ""low thermal expansion superalloy"", ""attribute"": ""thermalFatiguePerformance"", ""value"": ""good""},
+  {""entity"": ""low thermal expansion superalloy"", ""attribute"": ""hotWorkingPlasticity"", ""value"": ""high""},
+  {""entity"": ""low thermal expansion superalloy"", ""attribute"": ""elasticModulus"", ""value"": ""almost constant""},
+  {""entity"": ""Invar alloy"", ""attribute"": ""composition"", ""value"": ""Fe-Ni alloy containing 36% Ni""}
+]","{'completion_tokens': 1836, 'prompt_tokens': 443, 'total_tokens': 2279}"
+32f9623b,qwq-plus,1d2419fa-ec87-9ebb-8836-a51cc8c12988,200,,,1747769082,"[{""entity"":""stainless invar"",""attribute"":""corrosionResistance"",""value"":""high""},{""entity"":""high-strength invar"",""attribute"":""tensileStrength"",""value"":""high""}]","{'completion_tokens': 1662, 'prompt_tokens': 470, 'total_tokens': 2132}"
+389a2823,qwq-plus,a98e9e05-78d9-9967-b041-6af47f36c265,200,,,1747769071,"[
+  {
+    ""entity"": ""low thermal expansion ceramics"",
+    ""attribute"": ""thermalExpansion"",
+    ""value"": ""low expansion rate""
+  },
+  {
+    ""entity"": ""low thermal expansion ceramics"",
+    ""attribute"": ""thermalShockResistance"",
+    ""value"": ""excellent""
+  }
+]","{'completion_tokens': 4022, 'prompt_tokens': 480, 'total_tokens': 4502}"
+cf223bf7,qwq-plus,88242529-9f16-9ae7-8452-65df5214d5de,200,,,1747769075,"[
+  {""entity"":""low segregation superalloy"",""attribute"":""content"",""value"":""P <0.001%, preferably <0.0005%""},
+  {""entity"":""low segregation superalloy"",""attribute"":""content"",""value"":""Si <0.05%""},
+  {""entity"":""low segregation superalloy"",""attribute"":""content"",""value"":""Zr 0%""},
+  {""entity"":""low segregation superalloy"",""attribute"":""content"",""value"":""B content properly downward controlled""}
+]","{'completion_tokens': 2051, 'prompt_tokens': 507, 'total_tokens': 2558}"
+3ef5c38f,qwq-plus,2e9a69ca-5767-957c-8091-e58ecbff3cbb,200,,,1747769068,"[{""entity"": ""porcelain dielectric"", ""attribute"": ""dielectric constant"", ""value"": ""4000-8000""}, {""entity"": ""porcelain dielectric"", ""attribute"": ""temperature stability"", ""value"": ""good""}, {""entity"": ""porcelain dielectric"", ""attribute"": ""Curie point"", ""value"": ""within the working temperature range and can be easily adjusted""}]","{'completion_tokens': 881, 'prompt_tokens': 453, 'total_tokens': 1334}"
+960807e2,qwq-plus,20446c38-1082-9800-b6fa-d68da92716b0,200,,,1747769068,"[{""entity"": ""low strength titanium alloy"", ""attribute"": ""tensileStrength"", ""value"": ""lower than 800MPa""}]","{'completion_tokens': 370, 'prompt_tokens': 409, 'total_tokens': 779}"
+ffc8d129,qwq-plus,affa053f-3a5c-9ba9-8388-94be093fc534,200,,,1747769075,"[
+  {
+    ""entity"": ""low yield point steel"",
+    ""attribute"": ""ductility"",
+    ""value"": ""high""
+  }
+]","{'completion_tokens': 2023, 'prompt_tokens': 411, 'total_tokens': 2434}"
+5509f544,qwq-plus,b071d946-fe7d-9c40-ab73-2c71fb6f085e,200,,,1747769074,"[
+    {
+        ""entity"": ""low yield ratio steel"",
+        ""attribute"": ""yield ratio"",
+        ""value"": ""ratio of yield strength Rel to tensile strength Rm""
+    },
+    {
+        ""entity"": ""non-alloy steel"",
+        ""attribute"": ""yield ratio"",
+        ""value"": ""not more than 0.7""
+    },
+    {
+        ""entity"": ""low alloy steel"",
+        ""attribute"": ""yield ratio"",
+        ""value"": ""not more than 0.8""
+    }
+]","{'completion_tokens': 1570, 'prompt_tokens': 470, 'total_tokens': 2040}"
+48645f5d,qwq-plus,448efcb0-cfcf-91d8-937e-07c1315519cd,200,,,1747769082,"[{""entity"": ""fusible alloy"", ""attribute"": ""meltingPoint"", ""value"": ""231.9 ℃""}]","{'completion_tokens': 779, 'prompt_tokens': 449, 'total_tokens': 1228}"
+589c394f,qwq-plus,b8e77d1e-d908-9a19-82b5-75415ea73d53,200,,,1747769070,"[{""entity"":""low stretch yarn"",""attribute"":""ductility"",""value"":""low""},{""entity"":""low stretch yarn"",""attribute"":""alternateName"",""value"":""false twist stabilized textured yam""}]","{'completion_tokens': 2181, 'prompt_tokens': 401, 'total_tokens': 2582}"
+eef9a3f1,qwq-plus,51a9826e-65b4-9f2e-8fa6-4804ea1c3040,200,,,1747769070,"[{""entity"":""concrete with low elastic modulus"",""attribute"":""elasticModulus"",""value"":""0.3 × 10^4-10 × 10^4MPa""}]","{'completion_tokens': 683, 'prompt_tokens': 433, 'total_tokens': 1116}"
+4814adfc,qwq-plus,f8ca6fbb-1e90-9f52-81ff-21606cd58c4c,200,,,1747769079,"[{""entity"":""low carbon bainite steel"",""attribute"":""carbon content"",""value"":""less than 0.05%""},{""entity"":""low carbon bainite steel"",""attribute"":""matrix structure"",""value"":""carbon free bainite plus a few evenly distributed Ma Ao islands""},{""entity"":""low carbon bainite steel"",""attribute"":""strength"",""value"":""significantly higher than that of ferrite-pearlite steel""},{""entity"":""low carbon bainite steel"",""attribute"":""toughness"",""value"":""good""},{""entity"":""low carbon bainite steel"",""attribute"":""weldability"",""value"":""good""},{""entity"":""ultra low carbon bainitic steel (ULCBsteel)"",""attribute"":""carbon content"",""value"":""less than 0.03%""}]","{'completion_tokens': 2192, 'prompt_tokens': 499, 'total_tokens': 2691}"
+978712ec,qwq-plus,50b808d7-a42c-9b74-8aa2-c260ea8f6365,200,,,1747769080,"[
+    {""entity"": ""low-cardon steel"", ""attribute"": ""carbon content"", ""value"": ""less than 0.25%""},
+    {""entity"": ""low-cardon steel"", ""attribute"": ""ductility"", ""value"": ""high""},
+    {""entity"": ""low-cardon steel"", ""attribute"": ""toughness"", ""value"": ""high""},
+    {""entity"": ""low-cardon steel"", ""attribute"": ""processing formability"", ""value"": ""good""},
+    {""entity"": ""low-cardon steel"", ""attribute"": ""weld performance"", ""value"": ""good""},
+    {""entity"": ""low-cardon steel"", ""attribute"": ""tensileStrength"", ""value"": ""relatively low""}
+]","{'completion_tokens': 1528, 'prompt_tokens': 433, 'total_tokens': 1961}"
+47c1df54,qwq-plus,7b5f6574-6d22-90d4-a168-72fd139a47f8,200,,,1747769068,"[
+  {
+    ""entity"": ""low carbon magnesia carbon brick"",
+    ""attribute"": ""carbon content"",
+    ""value"": ""not exceeding 8%""
+  },
+  {
+    ""entity"": ""low carbon magnesia carbon brick"",
+    ""attribute"": ""composition"",
+    ""value"": ""ultra-fine graphite or nano carbon black""
+  }
+]","{'completion_tokens': 2213, 'prompt_tokens': 419, 'total_tokens': 2632}"
+b4c9c3f2,qwq-plus,28f627a2-3931-96a2-8eb2-a589a7096ee9,200,,,1747769068,"[
+    {
+        ""entity"": ""low-signature propellant"",
+        ""attribute"": ""radiation characteristic signal"",
+        ""value"": ""low""
+    },
+    {
+        ""entity"": ""low-signature propellant"",
+        ""attribute"": ""attenuation of missile guidance signal"",
+        ""value"": ""low""
+    }
+]","{'completion_tokens': 862, 'prompt_tokens': 452, 'total_tokens': 1314}"
+0bebbb8b,qwq-plus,1faa648c-b153-9c27-b226-bb93d4469430,200,,,1747769079,"[
+    {""entity"": ""low-dimensional materials"", ""attribute"": ""dimension"", ""value"": ""lower than three dimensions""},
+    {""entity"": ""zero dimensional materials"", ""attribute"": ""dimension"", ""value"": ""0D""},
+    {""entity"": ""one-dimensional materials"", ""attribute"": ""dimension"", ""value"": ""1D""},
+    {""entity"": ""two-dimensional materials"", ""attribute"": ""dimension"", ""value"": ""2D""}
+]","{'completion_tokens': 575, 'prompt_tokens': 385, 'total_tokens': 960}"
+f4129fdb,qwq-plus,9878243c-f6e2-9d1c-a7a4-c25c7342f310,200,,,1747769080,"[{""entity"":""cryogenic austenitic stainless steel"",""attribute"":""crystalsystem"",""value"":""face-centered cubic""},{""entity"":""cryogenic austenitic stainless steel"",""attribute"":""composition"",""value"":""chromium, nickel, manganese""},{""entity"":""cryogenic austenitic stainless steel"",""attribute"":""coldBrittleTransformationTemperature"",""value"":""none""},{""entity"":""21-6-9 low temperature non-magnetic steel"",""attribute"":""tensileStrength"",""value"":"">1300MPa at 4.2K""},{""entity"":""21-6-9 low temperature non-magnetic steel"",""attribute"":""ductility"",""value"":""good""},{""entity"":""15Mn26A14"",""attribute"":""toughness"",""value"":""high low-temperature toughness""},{""entity"":""15Mn26A14"",""attribute"":""magneticPermeability"",""value"":""low""},{""entity"":""Iron nickel base and nickel base superaalloy series"",""attribute"":""tensileStrength"",""value"":""2.5-5 times higher than 18-8 stainless steel""}]","{'completion_tokens': 2874, 'prompt_tokens': 720, 'total_tokens': 3594}"
+788c15e4,qwq-plus,079da20b-310c-9456-832f-38c3864c40e1,200,,,1747769081,"[
+  {
+    ""entity"": ""low-temperature bainitic steel"",
+    ""attribute"": ""crystalsystem"",
+    ""value"": ""bainite""
+  },
+  {
+    ""entity"": ""low-temperature bainitic steel"",
+    ""attribute"": ""shape"",
+    ""value"": ""flat noodles""
+  }
+]","{'completion_tokens': 2159, 'prompt_tokens': 468, 'total_tokens': 2627}"
+9ea9ca2b,qwq-plus,20066999-abd6-9efb-b9ca-e0ea520dfaa3,200,,,1747769072,"[{""entity"":""Cryogenic maraging stainless steel"",""attribute"":""tensileStrength"",""value"":""high""},{""entity"":""Low temperature duplex stainless steel"",""attribute"":""corrosionResistance"",""value"":""excellent""},{""entity"":""cryogenic stainless steel"",""attribute"":""serviceTemperatureRange"",""value"":""77-173K, some steel types can reach 20K""},{""entity"":""austenitic stainless steel"",""attribute"":""crystalsystem"",""value"":""austenitic""},{""entity"":""austenitic stainless steel"",""attribute"":""cold_brittleness"",""value"":""absent""},{""entity"":""austenitic stainless steel"",""attribute"":""low-temperature toughness"",""value"":""good""},{""entity"":""austenitic stainless steel"",""attribute"":""magnetic_property"",""value"":""nonmagnetic""},{""entity"":""austenitic stainless steel"",""attribute"":""serviceTemperatureRange"",""value"":""4.2-77K""}]","{'completion_tokens': 3116, 'prompt_tokens': 553, 'total_tokens': 3669}"
+aac4c9a9,qwq-plus,c4665abc-81e3-9121-b52c-edece96c7916,200,,,1747769079,"[
+  {
+    ""entity"": ""low temperature superconducting material"",
+    ""attribute"": ""criticalTransformationTemperature"",
+    ""value"": ""Tr <30K""
+  },
+  {
+    ""entity"": ""low temperature superconducting material"",
+    ""attribute"": ""operatingTemperature"",
+    ""value"": ""liquid helium temperature""
+  },
+  {
+    ""entity"": ""low temperature superconducting material"",
+    ""attribute"": ""composition"",
+    ""value"": ""metal, alloy, and compound""
+  }
+]","{'completion_tokens': 1700, 'prompt_tokens': 401, 'total_tokens': 2101}"
+0676fb39,qwq-plus,a71779f4-095c-9771-9b41-926b82d83c62,200,,,1747769076,"[
+    {
+        ""entity"": ""crystal structure defects"",
+        ""attribute"": ""defectReaction"",
+        ""value"": ""annihilation, clustering and other phenomena""
+    }
+]","{'completion_tokens': 2725, 'prompt_tokens': 417, 'total_tokens': 3142}"
+d2244e00,qwq-plus,c2551e72-c4e1-94fd-b1d4-c0956ee103b5,200,,,1747769080,"[
+  {
+    ""entity"": ""gun propellant"",
+    ""attribute"": ""temperatureSensitivity"",
+    ""value"": ""low""
+  },
+  {
+    ""entity"": ""gun propellant"",
+    ""attribute"": ""combustionSpeedTemperatureDependency"",
+    ""value"": ""increases exponentially with temperature""
+  }
+]","{'completion_tokens': 1160, 'prompt_tokens': 426, 'total_tokens': 1586}"
+d0b857d4,qwq-plus,08274925-d6fe-9bca-a76a-ecf46f7566dc,200,,,1747769080,"[
+    {
+        ""entity"": ""cryogenic steel"",
+        ""attribute"": ""ductility"",
+        ""value"": ""good""
+    },
+    {
+        ""entity"": ""cryogenic steel"",
+        ""attribute"": ""ductility"",
+        ""value"": ""no cold brittleness""
+    },
+    {
+        ""entity"": ""cryogenic steel"",
+        ""attribute"": ""temperatureRange"",
+        ""value"": ""273-77K""
+    },
+    {
+        ""entity"": ""ultra cryogenic steel"",
+        ""attribute"": ""temperatureRange"",
+        ""value"": ""below 77K""
+    }
+]
+
+Wait, but according to the user's strict instruction, the attributes must be from the provided list. The attributes 'ductility' is in the list, but 'temperatureRange' and 'cold brittleness' are not. Therefore, only the first entry is valid. The other entries have attributes not in the list. So correcting that:
+
+[
+    {
+        ""entity"": ""cryogenic steel"",
+        ""attribute"": ""ductility"",
+        ""value"": ""good""
+    }
+]","{'completion_tokens': 4968, 'prompt_tokens': 450, 'total_tokens': 5418}"
+f3f48669,qwq-plus,9e260ac1-8ff5-9b7b-b194-5c0ec7fd1200,200,,,1747769076,"[
+    {
+        ""entity"": ""low-temperature isotropic carbon"",
+        ""attribute"": ""elasticModulus"",
+        ""value"": ""close to that of natural bone""
+    },
+    {
+        ""entity"": ""low-temperature isotropic carbon"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""turbostratic""
+    }
+]","{'completion_tokens': 2045, 'prompt_tokens': 453, 'total_tokens': 2498}"
+3769e6e3,qwq-plus,cbb3dc95-3744-9c97-9ec4-b12211f0b460,200,,,1747769078,"```json
+[
+    {
+        ""entity"": ""low temperature co-fired dielectric materials"",
+        ""attribute"": ""meltingPoint"",
+        ""value"": ""low""
+    }
+]
+```","{'completion_tokens': 2489, 'prompt_tokens': 471, 'total_tokens': 2960}"
+306ac7da,qwq-plus,8f7aa0fa-e979-9fc2-998d-c6f79ded2b3b,200,,,1747769074,"[
+    {
+        ""entity"": ""austenitic stainless steel"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""face-centered cubic (fcc)""
+    },
+    {
+        ""entity"": ""low temperature alloy (bcc structure)"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""higher at low temperature""
+    },
+    {
+        ""entity"": ""low temperature alloy (bcc structure)"",
+        ""attribute"": ""ductility"",
+        ""value"": ""lower toughness and plasticity""
+    },
+    {
+        ""entity"": ""low temperature alloy (fcc structure)"",
+        ""attribute"": ""ductility"",
+        ""value"": ""high toughness and plasticity""
+    },
+    {
+        ""entity"": ""low temperature alloy (fcc structure)"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""increases at low temperature""
+    },
+    {
+        ""entity"": ""austenitic alloy"",
+        ""attribute"": ""martensiteTransformation"",
+        ""value"": ""no low-temperature martensite transformation""
+    },
+    {
+        ""entity"": ""austenitic alloy"",
+        ""attribute"": ""Ms point"",
+        ""value"": ""as low as possible""
+    },
+    {
+        ""entity"": ""low temperature alloy (for deep drawing)"",
+        ""attribute"": ""Md point"",
+        ""value"": ""as low as possible""
+    },
+    {
+        ""entity"": ""low temperature alloy (ultra low temperature technology)"",
+        ""attribute"": ""magnetic"",
+        ""value"": ""non-magnetic""
+    },
+    {
+        ""entity"": ""low nickel steel"",
+        ""attribute"": ""cost"",
+        ""value"": ""cheap""
+    }
+]","{'completion_tokens': 2309, 'prompt_tokens': 855, 'total_tokens': 3164}"
+a5fb50e7,qwq-plus,1167a6d1-5c0f-9f2a-a8c6-f144e1920be3,200,,,1747769070,"[
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""crystalsystem"", ""value"": ""fcc""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""density"", ""value"": ""low""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""magnetic"", ""value"": ""non-magnetic""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""specificStrength"", ""value"": ""high""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""tensileStrength"", ""value"": ""high""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""ductility"", ""value"": ""high""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""toughness"", ""value"": ""high""},
+  {""entity"": ""cryogenic aluminium alloy"", ""attribute"": ""composition"", ""value"": ""containing Mg6%, Mn1.5%, Cr0.35% or their combination and Cu or Mg6.5%, Zn8%""}
+]","{'completion_tokens': 3397, 'prompt_tokens': 461, 'total_tokens': 3858}"
+749a6e92,qwq-plus,9bf9ff6d-d46b-9af0-8ed7-6060b83f0e0f,200,,,1747769075,"[
+    {""entity"": ""cryogenic maraging stainless steel"", ""attribute"": ""carbon content"", ""value"": ""low (<0.03%)""},
+    {""entity"": ""cryogenic maraging stainless steel"", ""attribute"": ""nickel content"", ""value"": ""high""},
+    {""entity"": ""cryogenic maraging stainless steel"", ""attribute"": ""impact resistance"", ""value"": ""high at low temperature of 20-70K""}
+]","{'completion_tokens': 871, 'prompt_tokens': 412, 'total_tokens': 1283}"
+95ba5abf,qwq-plus,58b5885a-f748-9867-a861-0f9e82d2a880,200,,,1747769072,"[
+    {
+        ""entity"": ""cryogenic nickel steel"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""ferritic""
+    },
+    {
+        ""entity"": ""cryogenic nickel steel"",
+        ""attribute"": ""ductility"",
+        ""value"": ""improved low-temperature toughness by reducing C and impurities""
+    }
+]","{'completion_tokens': 3328, 'prompt_tokens': 465, 'total_tokens': 3793}"
+b9d4dc99,qwq-plus,62a404e7-d128-9d18-b8d7-833399ab6928,200,,,1747769068,"[
+  {
+    ""entity"": ""low temperature dual-phase steel"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""high""
+  },
+  {
+    ""entity"": ""low temperature dual-phase steel"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""good""
+  },
+  {
+    ""entity"": ""low temperature dual-phase steel"",
+    ""attribute"": ""crystalsystem"",
+    ""value"": ""ferrite austenite""
+  }
+]","{'completion_tokens': 3463, 'prompt_tokens': 554, 'total_tokens': 4017}"
+31789933,qwq-plus,36e3fcc1-ba42-92f6-ab28-64eb6f365688,200,,,1747769068,"[
+  {""entity"": ""cryogenic titanium alloy"", ""attribute"": ""corrosionResistance"", ""value"": ""good""},
+  {""entity"": ""cryogenic titanium alloy"", ""attribute"": ""thermalConductivity"", ""value"": ""low""},
+  {""entity"": ""α Titanium alloy"", ""attribute"": ""crystalsystem"", ""value"": ""hcp""},
+  {""entity"": ""β Titanium alloy"", ""attribute"": ""crystalsystem"", ""value"": ""BCC""}
+]","{'completion_tokens': 2948, 'prompt_tokens': 452, 'total_tokens': 3400}"
+7a506d8b,qwq-plus,10ac4e7c-87d7-92d4-94ca-0b3eb8db463c,200,,,1747769074,"[{""entity"":""cryogenic iron-nickel base superalloy"",""attribute"":""tensileStrength"",""value"":""high""},{""entity"":""cryogenic iron-nickel base superalloy"",""attribute"":""ductility"",""value"":""good""},{""entity"":""cryogenic iron-nickel base superalloy"",""attribute"":""crystalsystem"",""value"":""austenitic""}]","{'completion_tokens': 834, 'prompt_tokens': 450, 'total_tokens': 1284}"
+eab8b455,qwq-plus,bb385595-ca88-9187-bc74-4c379cdcc761,200,,,1747769071,"[
+    {
+        ""entity"": ""cryogenic ferritic steel"",
+        ""attribute"": ""carbon content"",
+        ""value"": ""<0.12%""
+    },
+    {
+        ""entity"": ""cryogenic ferritic steel"",
+        ""attribute"": ""grain structure"",
+        ""value"": ""fine ferrite grains""
+    }
+]","{'completion_tokens': 1966, 'prompt_tokens': 459, 'total_tokens': 2425}"
+06a9629c,qwq-plus,139f851c-2186-949c-a501-abb3dbf4aca6,200,,,1747769074,"[{""entity"":""cryogenic copper alloy"",""attribute"":""crystalsystem"",""value"":""fcc""},{""entity"":""cryogenic copper alloy"",""attribute"":""ductility"",""value"":""good""}]","{'completion_tokens': 640, 'prompt_tokens': 432, 'total_tokens': 1072}"
+e5052de5,qwq-plus,f41b0fa8-18bd-9124-8269-243f10cb141d,200,,,1747769076,"[
+  {
+    ""entity"": ""high alloy ultra-high strength -steel"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""very high""
+  },
+  {
+    ""entity"": ""precipitation hardening stainless steel"",
+    ""attribute"": ""hardness"",
+    ""value"": ""significant strengthening through precipitation of alloy carbide and intermetallic compound""
+  },
+  {
+    ""entity"": ""maraging steel"",
+    ""attribute"": ""hardness"",
+    ""value"": ""significant strengthening through aging precipitation of intermetallic compound""
+  },
+  {
+    ""entity"": ""18NU high alloy ultra-high strength -steel"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""very high""
+  }
+]","{'completion_tokens': 3047, 'prompt_tokens': 513, 'total_tokens': 3560}"
+b52127c0,qwq-plus,ba511b20-5884-9c10-960b-fe974ead522b,200,,,1747769069,"[
+    {
+        ""entity"": ""high alloy cast steel"",
+        ""attribute"": ""corrosionResistance"",
+        ""value"": ""high""
+    }
+]","{'completion_tokens': 522, 'prompt_tokens': 431, 'total_tokens': 953}"
+a13833ed,qwq-plus,2c43b1d5-7e40-9574-b638-af496343572f,200,,,1747769079,"[
+    {
+        ""entity"": ""high-order transformation"",
+        ""attribute"": ""order"",
+        ""value"": ""third or more""
+    },
+    {
+        ""entity"": ""high-order transformation"",
+        ""attribute"": ""type"",
+        ""value"": ""discontinuous""
+    }
+]","{'completion_tokens': 493, 'prompt_tokens': 401, 'total_tokens': 894}"
+a99c6b30,qwq-plus,ad2335d4-d89d-96b9-a9c6-6403fed3ea73,200,,,1747769079,"[{""entity"":""high formability magnesium alloy"",""attribute"":""texture"",""value"":""weak/non base""},{""entity"":""high formability magnesium alloy"",""attribute"":""grain size"",""value"":""about lO μ m""}]","{'completion_tokens': 1682, 'prompt_tokens': 415, 'total_tokens': 2097}"
+423a06d0,qwq-plus,47514112-0590-9c86-a5a8-dbab9028ccc7,200,,,1747769078,"[
+  {""entity"": ""high dielectric constant paste"", ""attribute"": ""dielectric constant"", ""value"": ""high""},
+  {""entity"": ""Barium titanate"", ""attribute"": ""dielectric constant"", ""value"": ""high""}
+]","{'completion_tokens': 2844, 'prompt_tokens': 402, 'total_tokens': 3246}"
+d3fc3de4,qwq-plus,0f2430a0-e0a0-93f7-afa3-795e66e1f07c,200,,,1747769074,"[
+  {""entity"": ""PBX"", ""attribute"": ""alternativeName"", ""value"": ""plastic bonded explosives""},
+  {""entity"": ""PBX"", ""attribute"": ""components"", ""value"": ""adhesive, plasticizer, deterrent""}
+]","{'completion_tokens': 3957, 'prompt_tokens': 435, 'total_tokens': 4392}"
+883134e1,qwq-plus,d8f257b0-b389-9a82-8a3f-44cc5becc071,200,,,1747769073,"[{""entity"":""high impact polystyrene"",""attribute"":""alternativeName"",""value"":""grafted high impact strength polystyrene""},{""entity"":""high impact polystyrene"",""attribute"":""preparationMethod"",""value"":""bulk suspension polymerization and bulk polymerization""},{""entity"":""high impact polystyrene"",""attribute"":""application"",""value"":""home appliance product casings, automotive and medical equipment components, drainage pipes, toys""}]","{'completion_tokens': 787, 'prompt_tokens': 425, 'total_tokens': 1212}"
+dabcc75e,qwq-plus,e9f14d4f-0f4b-9f04-8e6c-eebdd9666a8c,200,,,1747769075,"[
+  {
+    ""entity"": ""high phosphorus cast iron"",
+    ""attribute"": ""phosphorus content"",
+    ""value"": ""0.30-0.80%""
+  },
+  {
+    ""entity"": ""high phosphorus cast iron"",
+    ""attribute"": ""hardness"",
+    ""value"": ""hard""
+  },
+  {
+    ""entity"": ""high phosphorus cast iron"",
+    ""attribute"": ""wear resistance"",
+    ""value"": ""good""
+  },
+  {
+    ""entity"": ""high phosphorus cast iron"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""improved when alloyed""
+  }
+]","{'completion_tokens': 2196, 'prompt_tokens': 491, 'total_tokens': 2687}"
+b13523fe,qwq-plus,7c7ea658-8eef-9582-be82-e70ee409243f,200,,,1747769074,"[{""entity"":""kaolinite"",""attribute"":""shape"",""value"":""layered""}]","{'completion_tokens': 759, 'prompt_tokens': 446, 'total_tokens': 1205}"
+de85dca8,qwq-plus,34f0c7fd-7b5e-9327-9433-09d218e1236f,200,,,1747769074,"[{""entity"":""kaolin"",""attribute"":""color"",""value"":""white, light yellow, light brown, light green (when containing impurities)""},{""entity"":""kaolin"",""attribute"":""shape"",""value"":""earthy or dense blocks""},{""entity"":""kaolin"",""attribute"":""corrosionResistance"",""value"":""good acid resistance""},{""entity"":""kaolin"",""attribute"":""thermalConductivity"",""value"":""insulation""},{""entity"":""kaolin"",""attribute"":""meltingPoint"",""value"":""high""}]","{'completion_tokens': 3336, 'prompt_tokens': 648, 'total_tokens': 3984}"
+1d69fb4d,qwq-plus,e0ff0272-1c2c-9e1d-85d4-ea1a2e894a9c,200,,,1747769077,"[{""entity"":""blast furnace"",""attribute"":""shape"",""value"":""round""},{""entity"":""blast furnace"",""attribute"":""effective volume"",""value"":""more than 5000m³""},{""entity"":""blast furnace"",""attribute"":""first generation furnace life"",""value"":""more than 10 years""}]","{'completion_tokens': 582, 'prompt_tokens': 542, 'total_tokens': 1124}"
+6da88bbe,qwq-plus,90f7db48-1f26-9c0d-9570-12ab3cf522dd,200,,,1747769073,"[{""entity"": ""blast furnace ironmaking process"", ""attribute"": ""productivity"", ""value"": ""high""}, {""entity"": ""blast furnace ironmaking process"", ""attribute"": ""energy consumption"", ""value"": ""low""}, {""entity"": ""blast furnace ironmaking process"", ""attribute"": ""output"", ""value"": ""large""}, {""entity"": ""pig iron"", ""attribute"": ""production percentage"", ""value"": ""over 95% of the world's iron output""}, {""entity"": ""hot air"", ""attribute"": ""temperature"", ""value"": ""800-1350 °C""}, {""entity"": ""blast furnace gas"", ""attribute"": ""use"", ""value"": ""gas fuel""}]","{'completion_tokens': 2753, 'prompt_tokens': 636, 'total_tokens': 3389}"
+945f07bd,qwq-plus,24cbf38e-1b83-9a24-8724-c1ecc94fa301,200,,,1747769073,"[
+  {
+    ""entity"": ""high alumina bauxite"",
+    ""attribute"": ""Al2O3 content"",
+    ""value"": "">48%""
+  },
+  {
+    ""entity"": ""high alumina bauxite"",
+    ""attribute"": ""iron oxide content"",
+    ""value"": ""low""
+  },
+  {
+    ""entity"": ""high alumina bauxite"",
+    ""attribute"": ""application"",
+    ""value"": ""main raw material for producing high alumina refractory""
+  }
+]","{'completion_tokens': 1885, 'prompt_tokens': 404, 'total_tokens': 2289}"
+537669dc,qwq-plus,7f5fb9d4-cd72-9fa5-9d2d-7ff4c9aeb84c,200,,,1747769068,"[
+  {
+    ""entity"": ""high-alumina cordierite brick"",
+    ""attribute"": ""thermal shock resistance"",
+    ""value"": ""good""
+  }
+]","{'completion_tokens': 3542, 'prompt_tokens': 428, 'total_tokens': 3970}"
+687f6a3b,qwq-plus,472b5804-cf7d-9d09-8a3f-61d810c3fc29,200,,,1747769077,"[{""entity"": ""high-alumina brick"", ""attribute"": ""Al2O3 content"", ""value"": ""greater than 48%""}]","{'completion_tokens': 703, 'prompt_tokens': 437, 'total_tokens': 1140}"
+a5eeca7b,qwq-plus,3309b3ec-dc28-9344-94da-01b15abc7330,200,,,1747769071,"[
+  {
+    ""entity"": ""high manganese steel"",
+    ""attribute"": ""shape"",
+    ""value"": ""castings""
+  }
+]","{'completion_tokens': 1309, 'prompt_tokens': 434, 'total_tokens': 1743}"
+b757c51c,qwq-plus,da1225b3-bdb8-9191-b1f7-15e185e5fcdf,200,,,1747769068,"[{""entity"":""high density optical recording materials"",""attribute"":""density"",""value"":""10^6 bit/cm2 or more""}]","{'completion_tokens': 286, 'prompt_tokens': 404, 'total_tokens': 690}"
+48b64b64,qwq-plus,9ae66d3d-2a4e-93c7-bc74-ffdbf407614d,200,,,1747769076,"[{""entity"":""high density tungsten alloys"",""attribute"":""density"",""value"":""high""},{""entity"":""high density tungsten alloys"",""attribute"":""electricalConductivity"",""value"":""good""},{""entity"":""high density tungsten alloys"",""attribute"":""thermalConductivity"",""value"":""good""},{""entity"":""high density tungsten alloys"",""attribute"":""corrosionResistance"",""value"":""good""},{""entity"":""high density tungsten alloys"",""attribute"":""ductility"",""value"":""good""},{""entity"":""high density tungsten alloys"",""attribute"":""tensileStrength"",""value"":""high""}]","{'completion_tokens': 1551, 'prompt_tokens': 573, 'total_tokens': 2124}"
+cd3c0bb0,qwq-plus,de426b5d-fac9-99b8-b07f-dbbc195e64a8,200,,,1747769073,"[{""entity"":""high-density fiberboard"",""attribute"":""density"",""value"":""greater than 850kg/m3""}]","{'completion_tokens': 660, 'prompt_tokens': 477, 'total_tokens': 1137}"
+70415070,qwq-plus,19bf9648-249d-934a-85ad-1bcfed627432,200,,,1747769070,"[{""entity"": ""thermobimetal"", ""attribute"": ""sensitivity"", ""value"": ""high""}]","{'completion_tokens': 2508, 'prompt_tokens': 416, 'total_tokens': 2924}"
+d2534a35,qwq-plus,ad3009bf-888f-9a67-b810-454fc28d6ebe,200,,,1747769082,"[{""entity"": ""high energy low sensitivity propellant"", ""attribute"": ""energy"", ""value"": ""1190J/g""}]","{'completion_tokens': 533, 'prompt_tokens': 457, 'total_tokens': 990}"
+d5bdafcc,qwq-plus,79aa76f5-372c-9bbf-bcf1-e605b3d45c9e,200,,,1747769066,[],"{'completion_tokens': 2219, 'prompt_tokens': 513, 'total_tokens': 2732}"
+35d418f1,qwq-plus,b78b5b90-5db6-9aec-b660-4bc604cd060a,200,,,1747769081,[],"{'completion_tokens': 258, 'prompt_tokens': 379, 'total_tokens': 637}"
+607deda7,qwq-plus,d4090154-1dc5-9e6d-bf6e-e6fb49a44a85,200,,,1747769068,"[
+  {""entity"": ""High energy density materials"", ""attribute"": ""density"", ""value"": ""high""},
+  {""entity"": ""High energy density materials"", ""attribute"": ""composition"", ""value"": ""high energy density compound, oxidizer, combustible agents, adhesive and other additive""},
+  {""entity"": ""High energy density materials"", ""attribute"": ""applications"", ""value"": ""propellants, gun propellant, warhead charges and initiating explosive devices for various weapons""},
+  {""entity"": ""High energy density materials"", ""attribute"": ""applicationAreas"", ""value"": ""high-energy insensitive explosive, small propulsion system solid fuel, smokeless pyrotechnic agent, gas generating composition, flameless low temperature extinguishing agent""}
+]","{'completion_tokens': 1590, 'prompt_tokens': 542, 'total_tokens': 2132}"
+8a117f8c,qwq-plus,3025d365-ae80-9a6e-8c1a-a68ee77c4910,200,,,1747769073,"[
+  {
+    ""entity"": ""high energy density compound"",
+    ""attribute"": ""density"",
+    ""value"": ""greater than 1.9g/cm3""
+  },
+  {
+    ""entity"": ""high energy density compound"",
+    ""attribute"": ""detonationVelocity"",
+    ""value"": ""greater than 9km/s""
+  },
+  {
+    ""entity"": ""high energy density compound"",
+    ""attribute"": ""detonationPressure"",
+    ""value"": ""greater than 40GPa""
+  }
+]","{'completion_tokens': 2034, 'prompt_tokens': 508, 'total_tokens': 2542}"
+5fc3a962,qwq-plus,02d2878a-ce7b-99c6-ae0f-8cf176e3a12c,200,,,1747769079,"[{""entity"": ""powder"", ""attribute"": ""shape"", ""value"": ""powder""}]","{'completion_tokens': 1605, 'prompt_tokens': 468, 'total_tokens': 2073}"
+39189510,qwq-plus,14ee1fec-bac2-9a66-a2b7-b4e1f6c55697,200,,,1747769074,"[{""entity"": ""high performance explosives"", ""attribute"": ""density"", ""value"": ""extremely high""}]","{'completion_tokens': 372, 'prompt_tokens': 448, 'total_tokens': 820}"
+58ec1112,qwq-plus,3c58d604-f6a3-91dc-bf65-2aebe8ea53f3,200,,,1747769067,"[{""entity"":""high boron-low carbon superalloy"",""attribute"":""boron content"",""value"":""increased by about one amount""},{""entity"":""high boron-low carbon superalloy"",""attribute"":""carbon content"",""value"":""reduced by about one order of magnitude""},{""entity"":""high boron-low carbon superalloy"",""attribute"":""base material"",""value"":""nickel-base cast superalloy""},{""entity"":""high boron-low carbon superalloy"",""attribute"":""application"",""value"":""making turbine blades""}]","{'completion_tokens': 3543, 'prompt_tokens': 434, 'total_tokens': 3977}"
+ec3ed546,qwq-plus,9cf0788d-9201-95f5-b1a7-bf1ad2c22db2,200,,,1747769080,"[{""entity"":""high expansion alloy"",""attribute"":""thermalExpansionCoefficient"",""value"":""higher than 15 * 10^-6 °C""},{""entity"":""Mn72Ni18Cu"",""attribute"":""thermalExpansionCoefficient"",""value"":""higher than 15 * 10^-6 °C""},{""entity"":""FeNi22Cr3"",""attribute"":""thermalExpansionCoefficient"",""value"":""higher than 15 * 10^-6 °C""}]","{'completion_tokens': 765, 'prompt_tokens': 436, 'total_tokens': 1201}"
+80627861,qwq-plus,83f70d24-baee-9636-bc4c-c79d72495e86,200,,,1747769078,"[
+  {""entity"": ""metal welded pipes"", ""attribute"": ""shape"", ""value"": ""pipe""},
+  {""entity"": ""food cans"", ""attribute"": ""shape"", ""value"": ""can""},
+  {""entity"": ""various internal pressure cans"", ""attribute"": ""shape"", ""value"": ""can""}
+]","{'completion_tokens': 2689, 'prompt_tokens': 467, 'total_tokens': 3156}"
+f0d891e7,qwq-plus,821c69c9-27f1-99cb-8d02-c9ba4053becd,200,,,1747769079,"[
+  {
+    ""entity"": ""high-frequency temperature compensation dielectric ceramic"",
+    ""attribute"": ""temperatureCoefficient"",
+    ""value"": ""negative""
+  }
+]","{'completion_tokens': 1998, 'prompt_tokens': 430, 'total_tokens': 2428}"
+046cc717,qwq-plus,5b5dbadd-f767-9cb5-96f6-6fd5a5e69a93,200,,,1747769074,"[{""entity"":""high temperature-stable dielectric ceramics"",""attribute"":""dielectricConstantStability"",""value"":""highly stable""}]","{'completion_tokens': 869, 'prompt_tokens': 399, 'total_tokens': 1268}"
+6c3c4d92,qwq-plus,540b5031-a79d-91a7-b38e-a064dfec0776,200,,,1747769083,"[{""entity"":""laser crystal"",""attribute"":""transitionCrossSection"",""value"":""large""},{""entity"":""laser crystal"",""attribute"":""fluorescenceLifetime"",""value"":""long""},{""entity"":""laser crystal"",""attribute"":""size"",""value"":""large enough""},{""entity"":""laser crystal"",""attribute"":""uniformity"",""value"":""good enough""}]","{'completion_tokens': 1085, 'prompt_tokens': 428, 'total_tokens': 1513}"
+298a1e0f,qwq-plus,5199f3f9-098a-922f-8b74-f544308e14f0,200,,,1747769066,"[
+  {
+    ""entity"": ""high mobility organic/polymer materials"",
+    ""attribute"": ""mobility"",
+    ""value"": ""0.1-1cm²/(V·s)""
+  }
+]","{'completion_tokens': 3886, 'prompt_tokens': 453, 'total_tokens': 4339}"
+fef37bfc,qwq-plus,0ec863e7-5d69-9723-8f84-bb7b65c62dc2,200,,,1747769080,"[{""entity"":""low expansion alloy with high strength"",""attribute"":""tensileStrength"",""value"":""greater than 100MPa""},{""entity"":""low expansion alloy with high strength"",""attribute"":""composition"",""value"":""FeNi35Co5Ti3 alloy""}]","{'completion_tokens': 1155, 'prompt_tokens': 393, 'total_tokens': 1548}"
+63f272f1,qwq-plus,ed10969f-ba2e-928a-ade0-1774c177d464,200,,,1747769075,"[
+    {
+        ""entity"": ""high strength and high modules fiber"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""greater than 15cN/dtex or 2GPa""
+    },
+    {
+        ""entity"": ""high strength and high modules fiber"",
+        ""attribute"": ""elasticModulus"",
+        ""value"": ""greater than 350cN/dtex or 40GPa""
+    }
+]","{'completion_tokens': 1181, 'prompt_tokens': 532, 'total_tokens': 1713}"
+d807b546,qwq-plus,dd4d504f-efbc-9ca8-a85c-49ff1d20e0ce,200,,,1747769072,"[{""entity"":""high strength diamond"",""attribute"":""compressiveStrength"",""value"":""more than 1.7 * 10^4 kgf/cm²""},{""entity"":""high strength diamond"",""attribute"":""codeName"",""value"":""JR-3""},{""entity"":""high strength diamond"",""attribute"":""measurementMethod"",""value"":""diamond meter""},{""entity"":""high strength diamond"",""attribute"":""shape"",""value"":""relatively complete""},{""entity"":""high strength diamond"",""attribute"":""color"",""value"":""transparent""},{""entity"":""high strength diamond"",""attribute"":""isometricRequirement"",""value"":""not less than 80% (particle percentage)""},{""entity"":""high strength diamond"",""attribute"":""connectedCrystalRequirement"",""value"":""not more than 3% (particle percentage)""},{""entity"":""high strength diamond"",""attribute"":""multiCrystalRequirement"",""value"":""not more than 3% (particle percentage)""},{""entity"":""high strength diamond"",""attribute"":""particleSizeComposition"",""value"":""meets standard requirements""},{""entity"":""high strength diamond"",""attribute"":""impurityContent"",""value"":""meets standard requirements""},{""entity"":""high strength diamond"",""attribute"":""synthesisCondition"",""value"":""strict process conditions""},{""entity"":""high strength diamond"",""attribute"":""suitableFor"",""value"":""making geological bricks, stone processing tools, and metal adhesive grinding wheels""},{""entity"":""high strength diamond"",""attribute"":""crystalsystem"",""value"":""isometric""}]","{'completion_tokens': 3491, 'prompt_tokens': 525, 'total_tokens': 4016}"
+7a69e355,qwq-plus,b8e21442-a095-9c45-ab8c-d5bc0c893fbb,200,,,1747769083,"[
+  {
+    ""entity"": ""super-hard aluminium alloy"",
+    ""attribute"": ""hardness"",
+    ""value"": ""super-hard""
+  },
+  {
+    ""entity"": ""super-hard aluminium alloy"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""highest when total content of zinc, magnesium, and copper exceeds 9% (mass fraction)""
+  },
+  {
+    ""entity"": ""super-hard aluminium alloy"",
+    ""attribute"": ""ductility"",
+    ""value"": ""low""
+  },
+  {
+    ""entity"": ""super-hard aluminium alloy"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""improved with over aging treatment""
+  }
+]","{'completion_tokens': 1502, 'prompt_tokens': 631, 'total_tokens': 2133}"
+75134401,qwq-plus,5249f030-0b51-99d6-8914-7cb9e6ebe815,200,,,1747769082,"[{""entity"": ""high strength cast magnesium alloy"", ""attribute"": ""tensileStrength"", ""value"": ""high""}, {""entity"": ""Mg Zn Zr alloy"", ""attribute"": ""tensileStrength"", ""value"": ""increases with Zn content in aging state""}, {""entity"": ""high strength cast magnesium alloy"", ""attribute"": ""shape"", ""value"": ""thin-walled""}]","{'completion_tokens': 1824, 'prompt_tokens': 466, 'total_tokens': 2290}"
+3e8cd37b,qwq-plus,143f6253-5b88-95c9-b45e-185bb581efcc,200,,,1747769078,"[{""entity"":""Cu Cr Zr alloy"",""attribute"":""tensileStrength"",""value"":""700MPa""},{""entity"":""Cu Cr Zr alloy"",""attribute"":""electricalConductivity"",""value"":""above 80% IACS""},{""entity"":""Cu Cr Zr alloy"",""attribute"":""electricalConductivity"",""value"":""above 90% IACS""},{""entity"":""Cu Cr Zr alloy"",""attribute"":""tensileStrength"",""value"":""above 450MPa""}]","{'completion_tokens': 1161, 'prompt_tokens': 539, 'total_tokens': 1700}"
+e7634f7e,qwq-plus,bc02eb6c-9043-9797-9dd3-b1746e40bc01,200,,,1747769068,"[
+    {
+        ""entity"": ""Cu-2% Be alloy"",
+        ""attribute"": ""elasticModulus"",
+        ""value"": ""130GPa""
+    },
+    {
+        ""entity"": ""Cu-2% Be alloy"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""1200MPa""
+    },
+    {
+        ""entity"": ""Cu-2% Be alloy"",
+        ""attribute"": ""corrosionResistance"",
+        ""value"": ""high""
+    },
+    {
+        ""entity"": ""Cu-2% Be alloy"",
+        ""attribute"": ""electricalConductivity"",
+        ""value"": ""high""
+    },
+    {
+        ""entity"": ""Cu Ni Sn alloy"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""high""
+    },
+    {
+        ""entity"": ""Cu Ni Mn alloy"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""high""
+    },
+    {
+        ""entity"": ""Cu Ni Al alloy"",
+        ""attribute"": ""tensileStrength"",
+        ""value"": ""high""
+    }
+]","{'completion_tokens': 993, 'prompt_tokens': 586, 'total_tokens': 1579}"
+2eb90180,qwq-plus,76360fc2-305b-9ff6-9593-256fcc95734e,200,,,1747769083,"[
+    {""entity"": ""high strength concrete"", ""attribute"": ""compressiveStrength"", ""value"": ""high""},
+    {""entity"": ""high strength concrete"", ""attribute"": ""deformationResistance"", ""value"": ""strong""},
+    {""entity"": ""high strength concrete"", ""attribute"": ""density"", ""value"": ""large""},
+    {""entity"": ""high strength concrete"", ""attribute"": ""porosity"", ""value"": ""low""},
+    {""entity"": ""high strength concrete"", ""attribute"": ""compressiveStrength"", ""value"": ""4-6 times of that of ordinary concrete""}
+]","{'completion_tokens': 1467, 'prompt_tokens': 481, 'total_tokens': 1948}"
+63f51c00,qwq-plus,1938eb1d-b89a-9e2d-b101-a672d831abfb,200,,,1747769081,[],"{'completion_tokens': 1418, 'prompt_tokens': 465, 'total_tokens': 1883}"
+5a0c6e05,qwq-plus,18b1d086-8a44-92f5-abb1-c3f2a19b8517,200,,,1747769074,"[{""entity"":""pyrotechnic compositions"",""attribute"":""combustionDifficulty"",""value"":""assessed via safety tests""},{""entity"":""pyrotechnic compositions"",""attribute"":""deflagrationDifficulty"",""value"":""assessed via safety tests""},{""entity"":""pyrotechnic compositions"",""attribute"":""detonationDifficulty"",""value"":""assessed via safety tests""},{""entity"":""initiating explosives"",""attribute"":""combustionDifficulty"",""value"":""assessed via safety tests""},{""entity"":""initiating explosives"",""attribute"":""deflagrationDifficulty"",""value"":""assessed via safety tests""},{""entity"":""initiating explosives"",""attribute"":""detonationDifficulty"",""value"":""assessed via safety tests""}]","{'completion_tokens': 1878, 'prompt_tokens': 448, 'total_tokens': 2326}"
+6b9ee11b,qwq-plus,0bf90624-0d42-9b4e-97ec-e9dadb074708,200,,,1747769080,"[{""entity"": ""compatibility"", ""attribute"": ""definition"", ""value"": ""the degree to which the reaction ability of the system changes compared with that of a single substance after two or more substances mix or contact each other to form a mixed system""}, {""entity"": ""internal compatibility"", ""attribute"": ""scope"", ""value"": ""components of initiating explosives and relative compositions""}, {""entity"": ""external compatibility"", ""attribute"": ""scope"", ""value"": ""agent as a whole and the phase contacting substances""}]","{'completion_tokens': 808, 'prompt_tokens': 452, 'total_tokens': 1260}"
+f5b12a73,qwq-plus,fa467823-1e16-9006-b9d7-bbed8e6e2ef6,200,,,1747769081,"[{""entity"": ""pyrotechnic composition"", ""attribute"": ""chemicalStability"", ""value"": ""tested under constant temperature and timed thermal action""}]","{'completion_tokens': 1563, 'prompt_tokens': 389, 'total_tokens': 1952}"
+3ce0ea24,qwq-plus,aec3cff7-da06-95df-b047-3587d754f8b0,200,,,1747769068,"[
+  {""entity"": ""spark source mass spectrometry"", ""attribute"": ""electric field strength"", ""value"": ""10^5 V/cm""},
+  {""entity"": ""spark source mass spectrometry"", ""attribute"": ""temperature"", ""value"": ""5000K""},
+  {""entity"": ""spark source mass spectrometry"", ""attribute"": ""ionization efficiency"", ""value"": ""extremely high""}
+]","{'completion_tokens': 1902, 'prompt_tokens': 450, 'total_tokens': 2352}"
+662f4545,qwq-plus,58c6cda0-a464-9d13-a027-33effa440137,200,,,1747769078,"[{""entity"": ""rocket propellant"", ""attribute"": ""composition"", ""value"": ""oxidizer, incendiary composition, and some functional additive""}, {""entity"": ""rocket propellant"", ""attribute"": ""form"", ""value"": ""a single substance or a mixture""}]","{'completion_tokens': 592, 'prompt_tokens': 459, 'total_tokens': 1051}"
+d772b02c,qwq-plus,0365f94a-4160-90d6-99db-daa3aca47a2e,200,,,1747769078,"[
+  {
+    ""entity"": ""volcanic ash"",
+    ""attribute"": ""density"",
+    ""value"": ""small""
+  }
+]","{'completion_tokens': 3399, 'prompt_tokens': 508, 'total_tokens': 3907}"
+c2ff0558,qwq-plus,8572f0bf-89b4-9e7a-bece-d3146a490bc4,200,,,1747769073,"[
+  {
+    ""entity"": ""pozzolanic addition"",
+    ""attribute"": ""shape"",
+    ""value"": ""powder""
+  }
+]","{'completion_tokens': 4907, 'prompt_tokens': 433, 'total_tokens': 5340}"
+a98817e7,qwq-plus,be8bd78e-907b-9f34-8f99-905a64ec2d45,200,,,1747769067,"[{""entity"":""volcanic agglomerate"",""attribute"":""shape"",""value"":""irregular""}]","{'completion_tokens': 1643, 'prompt_tokens': 447, 'total_tokens': 2090}"
+4def2bf6,qwq-plus,8f3e228f-7ab9-91ff-ad4d-706dd065d376,200,,,1747769075,"[{""entity"":""volcanic breccia"",""attribute"":""particleSize"",""value"":""2-64mm""},{""entity"":""volcanic breccia"",""attribute"":""location"",""value"":""near the crater""}]","{'completion_tokens': 508, 'prompt_tokens': 401, 'total_tokens': 909}"
+abd2a21c,qwq-plus,0d7c134b-ad1f-9b45-b924-3addde143903,200,,,1747769067,"[
+    {
+        ""entity"": ""volcanic tuff"",
+        ""attribute"": ""composition"",
+        ""value"": ""pyroclastic rock composed of crystal chips, rock chips, and glass shards""
+    },
+    {
+        ""entity"": ""volcanic tuff"",
+        ""attribute"": ""particleSize"",
+        ""value"": ""less than 2mm""
+    },
+    {
+        ""entity"": ""volcanic tuff"",
+        ""attribute"": ""detritalMaterialPercentage"",
+        ""value"": ""less than 50%""
+    },
+    {
+        ""entity"": ""volcanic tuff"",
+        ""attribute"": ""sortedness"",
+        ""value"": ""poorly sorted""
+    },
+    {
+        ""entity"": ""volcanic tuff"",
+        ""attribute"": ""interstitialMaterial"",
+        ""value"": ""finer volcanic dust""
+    }
+]","{'completion_tokens': 2332, 'prompt_tokens': 507, 'total_tokens': 2839}"
+1ed7181e,qwq-plus,bb49ad7e-cff0-9072-8cd1-ec0cbc403b79,200,,,1747769079,[],"{'completion_tokens': 1232, 'prompt_tokens': 393, 'total_tokens': 1625}"
+a7e9faa5,qwq-plus,33cae798-ea11-9fe7-9bcc-e1d00fcdec4e,200,,,1747769077,[],"{'completion_tokens': 3225, 'prompt_tokens': 489, 'total_tokens': 3714}"
+41d2081e,qwq-plus,674660b1-63ba-9843-8b97-ee9ad9500b8a,200,,,1747769073,"[
+    {""entity"": ""obsidian"", ""attribute"": ""color"", ""value"": ""colorless""},
+    {""entity"": ""light flim"", ""attribute"": ""density"", ""value"": ""light""},
+    {""entity"": ""flim"", ""attribute"": ""density"", ""value"": """"},
+    {""entity"": ""heavy flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""barium flim"", ""attribute"": ""density"", ""value"": """"},
+    {""entity"": ""heavy barium flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""lanthanum flim"", ""attribute"": ""density"", ""value"": """"},
+    {""entity"": ""heavy lanthanum flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""titanium flim"", ""attribute"": ""density"", ""value"": """"},
+    {""entity"": ""special flim"", ""attribute"": ""density"", ""value"": """"}
+]
+
+Wait, but the problem requires the ""value"" field to be present even if it's empty? Or perhaps I should only include entries where the attribute is known. Let me correct that. 
+
+Wait, the user's instruction says to extract attributes from the given interpretation. For entities like 'flim' (without modifiers), the text doesn't specify their density beyond being part of the categorization. Since the text says the division is based on density, but the unmodified 'flint' might not have a specified density value. So perhaps those should be omitted. 
+
+Revised JSON:
+
+[
+    {""entity"": ""obsidian"", ""attribute"": ""color"", ""value"": ""colorless""},
+    {""entity"": ""light flim"", ""attribute"": ""density"", ""value"": ""light""},
+    {""entity"": ""heavy flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""heavy barium flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""heavy lanthanum flim"", ""attribute"": ""density"", ""value"": ""heavy""}
+]
+
+But in the original text, ""barium flim"" is listed, so maybe its density is implied as 'barium', but that's not in the attribute types. Alternatively, the 'barium' part refers to composition, not density. So only those with 'light' or 'heavy' in their names get the density attribute. 
+
+Also, 'flim' is probably a typo for 'flint', but I'll keep it as in the original text. 
+
+Final answer after correction:
+</think>
+
+[
+    {""entity"": ""obsidian"", ""attribute"": ""color"", ""value"": ""colorless""},
+    {""entity"": ""light flim"", ""attribute"": ""density"", ""value"": ""light""},
+    {""entity"": ""heavy flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""heavy barium flim"", ""attribute"": ""density"", ""value"": ""heavy""},
+    {""entity"": ""heavy lanthanum flim"", ""attribute"": ""density"", ""value"": ""heavy""}
+]","{'completion_tokens': 3542, 'prompt_tokens': 474, 'total_tokens': 4016}"
+78f7c90e,qwq-plus,94fbda3d-65f1-980c-ba69-74255b7af8c4,200,,,1747769080,"[
+    {""entity"": ""flame heat treatment"", ""attribute"": ""alternativeName"", ""value"": ""flame surface quenching""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""purpose"", ""value"": ""case hardening""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""fuel"", ""value"": ""oxygen acetylene, methane, propane""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""equipmentCharacteristics"", ""value"": ""simple, fast, flexible""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""application"", ""value"": ""quenching large workpieces, heat treatment on construction site""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""temperatureControl"", ""value"": ""difficult to accurately control""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""qualityCharacteristics"", ""value"": ""poor uniformity and stability""},
+    {""entity"": ""flame heat treatment"", ""attribute"": ""usage"", ""value"": ""special occasions""}
+]","{'completion_tokens': 1357, 'prompt_tokens': 504, 'total_tokens': 1861}"
+300e1ac9,qwq-plus,1236ddf4-e7b3-9725-a5e6-e27b4bd77d20,200,,,1747769067,"[
+  {
+    ""entity"": ""Flame Sensitivity"",
+    ""attribute"": ""type"",
+    ""value"": ""thermal sensitivity""
+  },
+  {
+    ""entity"": ""Flame Sensitivity Test"",
+    ""attribute"": ""testMethod"",
+    ""value"": ""uses spark or flame generated by fuse or standard fuming powder""
+  },
+  {
+    ""entity"": ""Flame Sensitivity Test"",
+    ""attribute"": ""measurementCriteria"",
+    ""value"": ""distance or upper/lower limits corresponding to 50% firing rate""
+  }
+]","{'completion_tokens': 1263, 'prompt_tokens': 502, 'total_tokens': 1765}"
+6de8b4da,qwq-plus,23a5d2bf-ef07-9bfd-8e3e-8302c1771174,200,,,1747769082,"[{""entity"":""flame jet reaction deposition"",""attribute"":""alternativeName"",""value"":""flame method""},{""entity"":""flame jet reaction deposition"",""attribute"":""classification"",""value"":""thermo-chemical vapor deposition (TCVD)""}]","{'completion_tokens': 538, 'prompt_tokens': 404, 'total_tokens': 942}"
+185794fc,qwq-plus,b37e1c2d-9b49-903c-bec7-198e0cd27b08,200,,,1747769081,"[
+  {
+    ""entity"": ""additive in propellant"",
+    ""attribute"": ""function"",
+    ""value"": ""improve a certain performance of propellant""
+  },
+  {
+    ""entity"": ""additive in propellant"",
+    ""attribute"": ""content"",
+    ""value"": ""below 5%""
+  }
+]","{'completion_tokens': 1265, 'prompt_tokens': 417, 'total_tokens': 1682}"
+cd9991bf,qwq-plus,f437a72f-c684-9f06-8c0f-426c1a7c5cd2,200,,,1747769070,"[{""entity"":""propellant"",""attribute"":""process"",""value"":""press drawing process""},{""entity"":""propellant"",""attribute"":""process"",""value"":""calendering process""},{""entity"":""propellant"",""attribute"":""process"",""value"":""casting process""},{""entity"":""propellant"",""attribute"":""process"",""value"":""suspension process""}]","{'completion_tokens': 896, 'prompt_tokens': 412, 'total_tokens': 1308}"
+8c4adfe3,qwq-plus,5284f4a4-6fb3-9bc2-a22d-45ce6ce8cc06,200,,,1747769075,"[{""entity"":""propellant"",""attribute"":""hygroscopicity"",""value"":""ability to absorb water vapor""},{""entity"":""explosive"",""attribute"":""hygroscopicity"",""value"":""ability to absorb water vapor""}]","{'completion_tokens': 712, 'prompt_tokens': 447, 'total_tokens': 1159}"
+1060c327,qwq-plus,c81e4709-f421-942b-bf3d-1f91eb0d9294,200,,,1747769080,[],"{'completion_tokens': 2273, 'prompt_tokens': 491, 'total_tokens': 2764}"
+e155710b,qwq-plus,d52a943f-c164-9aea-8d94-8f61a2ebbb44,200,,,1747769074,"[
+  {
+    ""entity"": ""semiconductor materials"",
+    ""attribute"": ""electricalConductivity"",
+    ""value"": ""measured via Hall effect""
+  },
+  {
+    ""entity"": ""semiconductor materials"",
+    ""attribute"": ""Hall coefficient"",
+    ""value"": ""measured via Hall effect""
+  }
+]","{'completion_tokens': 3978, 'prompt_tokens': 440, 'total_tokens': 4418}"
+10164ba4,qwq-plus,30eb2e05-65f0-91fc-aee6-de319a71c91a,200,,,1747769072,"[
+  {
+    ""entity"": ""electromechanical coupling coefficient"",
+    ""attribute"": ""definition"",
+    ""value"": ""The ratio of the elastic electric interaction energy density related to the piezoelectric effect to the geometric mean value of the product of elasticity energy density and dielectric energy density reflects the ability of piezoelectric materials to convert elastic electric energy.""
+  }
+]","{'completion_tokens': 2046, 'prompt_tokens': 416, 'total_tokens': 2462}"
+75fea3a5,qwq-plus,90a349c9-ca60-9245-8574-7231d2c626b0,200,,,1747769069,"[
+    {
+        ""entity"": ""machined plate"",
+        ""attribute"": ""shape"",
+        ""value"": ""grooved surface""
+    },
+    {
+        ""entity"": ""machined plate"",
+        ""attribute"": ""material"",
+        ""value"": ""graphite""
+    }
+]","{'completion_tokens': 2177, 'prompt_tokens': 425, 'total_tokens': 2602}"
+7a93f4b9,qwq-plus,2217644e-f5e4-90cb-b574-18556fe79238,200,,,1747769072,"[{""entity"":""enzyme tube"",""attribute"":""shape"",""value"":""tubular""},{""entity"":""enzyme tube"",""attribute"":""material"",""value"":""nylon resin""},{""entity"":""enzyme tube"",""attribute"":""application"",""value"":""clinical diagnosis of disaccharides,lactose,uric acid,creatinine""},{""entity"":""enzyme tube"",""attribute"":""enzymeType"",""value"":""invertase,glucose oxidase,urease""}]","{'completion_tokens': 1374, 'prompt_tokens': 571, 'total_tokens': 1945}"
+a8f2f825,qwq-plus,f5bd5e17-11f4-9949-9dc6-de6ee2649ec1,200,,,1747769071,"[{""entity"":""enzyme test paper"",""attribute"":""selectivity"",""value"":""strong""},{""entity"":""enzyme test paper"",""attribute"":""sensitivity"",""value"":""high""},{""entity"":""enzyme test paper"",""attribute"":""speed"",""value"":""fast""},{""entity"":""enzyme test paper"",""attribute"":""degree of tropism"",""value"":""high""},{""entity"":""enzyme test paper"",""attribute"":""pollution"",""value"":""no pollution""},{""entity"":""enzyme test paper"",""attribute"":""color"",""value"":""changes with sugar concentration""},{""entity"":""enzyme test paper"",""attribute"":""color"",""value"":""changes with galactose content""},{""entity"":""enzyme test paper"",""attribute"":""application"",""value"":""clinical analysis""},{""entity"":""enzyme test paper"",""attribute"":""application"",""value"":""determination of galactose content""},{""entity"":""glucose test strips"",""attribute"":""type"",""value"":""semi quantitative""},{""entity"":""glucose test strips"",""attribute"":""application"",""value"":""measure glucose content in body fluids and urine""}]","{'completion_tokens': 3259, 'prompt_tokens': 534, 'total_tokens': 3793}"
+1afce700,qwq-plus,14dee88f-f9f8-9544-9876-001b8ae40925,200,,,1747769080,"[
+  {
+    ""entity"": ""art porcelain"",
+    ""attribute"": ""alternativeName"",
+    ""value"": ""ornamental porcelain""
+  },
+  {
+    ""entity"": ""art porcelain"",
+    ""attribute"": ""type"",
+    ""value"": ""ceramics handicraft""
+  },
+  {
+    ""entity"": ""art porcelain"",
+    ""attribute"": ""purpose"",
+    ""value"": ""artistic appreciation and decorative value""
+  }
+]","{'completion_tokens': 1487, 'prompt_tokens': 383, 'total_tokens': 1870}"
+f6af4351,qwq-plus,6439c74d-3ca6-97ab-8bcc-562086b68b48,200,,,1747769071,"[
+    {
+        ""entity"": ""magnesia dolomite brick"",
+        ""attribute"": ""shape"",
+        ""value"": ""brick""
+    }
+]","{'completion_tokens': 3252, 'prompt_tokens': 399, 'total_tokens': 3651}"
+12f16f2f,qwq-plus,0f9a783a-3109-9823-8f81-540d1fd6ee8b,200,,,1747769066,"[{""entity"":""magnesium powder"",""attribute"":""shape"",""value"":""powder""}]","{'completion_tokens': 1804, 'prompt_tokens': 562, 'total_tokens': 2366}"
+30061975,qwq-plus,69c95c38-c8dc-9dc4-a270-1c76c65c2eb6,200,,,1747769073,"[
+    {
+        ""entity"": ""magnesia calcia carbon brick"",
+        ""attribute"": ""corrosionResistance"",
+        ""value"": ""excellent corrosion resistance to alkaline slag""
+    },
+    {
+        ""entity"": ""magnesia calcia carbon brick"",
+        ""attribute"": ""thermalConductivity"",
+        ""value"": ""excellent thermal conductivity""
+    }
+]","{'completion_tokens': 1103, 'prompt_tokens': 441, 'total_tokens': 1544}"
+89e31b64,qwq-plus,725da7f0-7695-944a-a58b-8bb05e91d556,200,,,1747769076,"[{""entity"":""magnesia calcia brick"",""attribute"":""shape"",""value"":""brick""},{""entity"":""magnesia calcia brick"",""attribute"":""crystalsystem"",""value"":""periclase (main phase)""},{""entity"":""magnesia calcia brick"",""attribute"":""crystalsystem"",""value"":""dicalcium silicate (secondary phase)""}]","{'completion_tokens': 3063, 'prompt_tokens': 443, 'total_tokens': 3506}"
+0787969d,qwq-plus,9120e801-4ee7-9c3c-9708-e5789474eb36,200,,,1747769078,"[
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""dielectric loss"", ""value"": ""low""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""frequency variation"", ""value"": ""small""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""coefficient of volume resistance"", ""value"": ""high""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""electrical performance"", ""value"": ""superior to steatite porcelain""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""coefficient of thermal expansion"", ""value"": ""high""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""thermal stability"", ""value"": ""poor""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""processing properties"", ""value"": ""good""},
+  {""entity"": ""forsterite ceramics"", ""attribute"": ""ductility"", ""value"": ""high""}
+]","{'completion_tokens': 3092, 'prompt_tokens': 499, 'total_tokens': 3591}"
+7f377200,qwq-plus,8e4a8d6c-2350-95aa-87f6-0fa4331a5d4f,200,,,1747769071,"[
+    {
+        ""entity"": ""magnesite chrome brick"",
+        ""attribute"": ""corrosionResistance"",
+        ""value"": ""strong resistance to alkaline slag corrosion""
+    },
+    {
+        ""entity"": ""magnesite chrome brick"",
+        ""attribute"": ""thermalShockResistance"",
+        ""value"": ""good""
+    },
+    {
+        ""entity"": ""magnesite chrome brick"",
+        ""attribute"": ""highTemperatureStrength"",
+        ""value"": ""high""
+    },
+    {
+        ""entity"": ""magnesite chrome brick"",
+        ""attribute"": ""mainCrystalPhases"",
+        ""value"": ""periclase and spinel""
+    }
+]","{'completion_tokens': 3733, 'prompt_tokens': 434, 'total_tokens': 4167}"
+7baa3291,qwq-plus,fb175d20-3e99-91a0-a87d-65cd24af40e3,200,,,1747769082,"[{""entity"":""magnesium alloy battery"",""attribute"":""shape"",""value"":""extrusion plates and extrusion bar""},{""entity"":""magnesium alloy"",""attribute"":""corrosionResistance"",""value"":""controlled balance between corrosion discharge and self corrosion""}]","{'completion_tokens': 1102, 'prompt_tokens': 475, 'total_tokens': 1577}"
+7fc60df7,qwq-plus,7267504a-96b9-920b-b3e2-a97f894d4c8a,200,,,1747769080,"[
+  {""entity"": ""pitting corrosion"", ""attribute"": ""shape"", ""value"": ""small diameter and deep corrosion pit""},
+  {""entity"": ""filiform corrosion"", ""attribute"": ""shape"", ""value"": ""visible zigzag groove""}
+]","{'completion_tokens': 3433, 'prompt_tokens': 609, 'total_tokens': 4042}"
+a77ae3cd,qwq-plus,50046f2a-c618-9717-8a61-e2e848a95a87,200,,,1747769074,"[{""entity"": ""magnesium alloy"", ""attribute"": ""differenceEffect"", ""value"": ""the difference between the hydrogen evolution rate I0 at corrosion potential and the hydrogen evolution rate IH measured at a certain external anode potential""}]","{'completion_tokens': 931, 'prompt_tokens': 399, 'total_tokens': 1330}"
+ac73ac58,qwq-plus,ee564e74-1b88-905b-ba79-625a3c289929,200,,,1747769066,"[{""entity"":""magnesium alloy"",""attribute"":""oxidation"",""value"":""easy to oxidize""},{""entity"":""micro-arc oxidation film"",""attribute"":""bondingStrength"",""value"":""18.9 MPa""},{""entity"":""adhesive layer"",""attribute"":""peelStrength"",""value"":""low""},{""entity"":""adhesive layer"",""attribute"":""heatResistance"",""value"":""poor""},{""entity"":""bonded joint"",""attribute"":""shape"",""value"":""lap""},{""entity"":""magnesium alloy bonding"",""attribute"":""applicationFields"",""value"":""rail transit, automobiles, aerospace""},{""entity"":""J-47 adhesive"",""attribute"":""thermalConductivity"",""value"":""low""},{""entity"":""J-47 adhesive"",""attribute"":""electricalConductivity"",""value"":""low""},{""entity"":""magnesium alloy matrix"",""attribute"":""bondingStrength"",""value"":""5.8 MPa""},{""entity"":""micro-arc oxidation film"",""attribute"":""surfaceTexture"",""value"":""micropores""},{""entity"":""magnesium alloy surface"",""attribute"":""surfaceTreatment"",""value"":""texturing""}]","{'completion_tokens': 2658, 'prompt_tokens': 781, 'total_tokens': 3439}"
+85fcd83b,qwq-plus,6099abc7-41fc-9605-a41c-83f79f74e523,200,,,1747769081,"[
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""meltingProcessType"", ""value"": ""intermittent""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""meltingProcessType"", ""value"": ""continuous""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""flameRetardantType"", ""value"": ""flux protected""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""flameRetardantType"", ""value"": ""gas protected""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""heatingMethod"", ""value"": ""gas""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""heatingMethod"", ""value"": ""resistance""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""heatingMethod"", ""value"": ""induction""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""pouringSystemType"", ""value"": ""electromagnetic""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""pouringSystemType"", ""value"": ""pneumatic""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""pouringSystemType"", ""value"": ""cold pump""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""pouringSystemType"", ""value"": ""rotary""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""furnace body""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""heating system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""crucible""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""furnace cover""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""protective gas system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""quantitative pouring system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""three-dimensional positioning system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""safety assurance system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""component"", ""value"": ""integrated control system""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""melting rate""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""melt quality""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""pouring quantitative accuracy""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""flame retardant method""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""safety and reliability""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""energy cost""},
+  {""entity"": ""melting and pouring furnace of magnesium alloy"", ""attribute"": ""evaluationCriteria"", ""value"": ""intelligent degree of process control""}
+]","{'completion_tokens': 5414, 'prompt_tokens': 677, 'total_tokens': 6091}"
+5737c18a,qwq-plus,f4949dc8-4b24-9e8e-b703-29b0eced0718,200,,,1747769067,"[{""entity"":""flux"",""attribute"":""density"",""value"":""dense""},{""entity"":""flux"",""attribute"":""meltingPoint"",""value"":""low""},{""entity"":""flux"",""attribute"":""density"",""value"":""reduced""},{""entity"":""flux"",""attribute"":""shape"",""value"":""layer""},{""entity"":""flux"",""attribute"":""corrosionResistance"",""value"":""low""}]","{'completion_tokens': 3205, 'prompt_tokens': 638, 'total_tokens': 3843}"
+6c7666c5,qwq-plus,323e7493-7a5c-9bb4-a841-a89d8d5966aa,200,,,1747769074,"[
+  {
+    ""entity"": ""oxide film"",
+    ""attribute"": ""density"",
+    ""value"": ""must exceed critical concentration (e.g., SF6 >0.1%)""
+  },
+  {
+    ""entity"": ""magnesium alloy"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""improved by oxide film""
+  }
+]","{'completion_tokens': 3154, 'prompt_tokens': 687, 'total_tokens': 3841}"
+f152b075,qwq-plus,c561a0f8-fa1b-9f31-a0e1-469d5c1b66e1,200,,,1747769068,"[
+  {
+    ""entity"": ""ceramics layer"",
+    ""attribute"": ""shape"",
+    ""value"": ""porous""
+  },
+  {
+    ""entity"": ""ceramics organic composite coating"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""excellent""
+  }
+]","{'completion_tokens': 1673, 'prompt_tokens': 513, 'total_tokens': 2186}"
+4f5d3518,qwq-plus,282c0fe5-905f-9fbd-bde5-6d1e536f2599,200,,,1747769079,"[
+  {""entity"": ""motor shells"", ""attribute"": ""shape"", ""value"": ""consistent with the mold""},
+  {""entity"": ""aircraft guide wheels"", ""attribute"": ""shape"", ""value"": ""consistent with the mold""},
+  {""entity"": ""exhaust pipes"", ""attribute"": ""shape"", ""value"": ""consistent with the mold""},
+  {""entity"": ""lost foam casting of magnesium alloy"", ""attribute"": ""dimensional accuracy"", ""value"": ""high""},
+  {""entity"": ""lost foam casting of magnesium alloy"", ""attribute"": ""surface quality"", ""value"": ""good""},
+  {""entity"": ""lost foam casting of magnesium alloy"", ""attribute"": ""adaptability"", ""value"": ""high""},
+  {""entity"": ""lost foam casting of magnesium alloy"", ""attribute"": ""process requirement"", ""value"": ""atmosphere protection""}
+]","{'completion_tokens': 3251, 'prompt_tokens': 663, 'total_tokens': 3914}"
+df6f4d81,qwq-plus,2487338a-55ee-9b6e-8184-7df76617e505,200,,,1747769073,"[
+  {
+    ""entity"": ""magnesium alloy anodic oxide film"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""good""
+  },
+  {
+    ""entity"": ""magnesium alloy anodic oxide film"",
+    ""attribute"": ""shape"",
+    ""value"": ""porous""
+  },
+  {
+    ""entity"": ""magnesium alloy anodic oxide coating"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""better""
+  }
+]","{'completion_tokens': 2892, 'prompt_tokens': 596, 'total_tokens': 3488}"
+f4948c5d,qwq-plus,e5df7089-4274-95fd-8cd4-5e7c8f0665ff,200,,,1747769077,"[{""entity"": ""magnesium alloy hollow thinwalled profile"", ""attribute"": ""shape"", ""value"": ""hollow with multiple closed through-holes and smaller wall thickness""}, {""entity"": ""AZ31 magnesium alloy"", ""attribute"": ""ductility"", ""value"": ""good plasticity""}]","{'completion_tokens': 749, 'prompt_tokens': 632, 'total_tokens': 1381}"
+fec1330c,qwq-plus,cb7dff41-0f51-9a7e-9589-2e1c14ef87a0,200,,,1747769081,"[{""entity"":""self sealing micro arc oxidation film"",""attribute"":""corrosionResistance"",""value"":""5-6 times higher than ordinary micro arc oxidation films""}]","{'completion_tokens': 1952, 'prompt_tokens': 526, 'total_tokens': 2478}"
+5fbf37e6,qwq-plus,6eebaec7-a263-93dc-b50b-196530ec4038,200,,,1747769081,"[
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""mainConstituent"", ""value"": ""magnesium""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""hydrogenStorageCapacity"", ""value"": ""large""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""resourceAbundance"", ""value"": ""abundant""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""cost"", ""value"": ""low prices""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""types"", ""value"": ""magnesium based hydrogen storage alloy""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""types"", ""value"": ""magnesium based coordination hydride hydrogen storage materials""},
+    {""entity"": ""Mg based hydrogen storage materials"", ""attribute"": ""types"", ""value"": ""magnesium based composite hydrogen storage materials""}
+]","{'completion_tokens': 2758, 'prompt_tokens': 436, 'total_tokens': 3194}"
+a4015eaf,qwq-plus,1112c6e0-8b73-956f-92f2-5d9a98c8735e,200,,,1747769082,"[
+  {
+    ""entity"": ""reinforcement materials"",
+    ""attribute"": ""shape"",
+    ""value"": ""fibrous, granular, crystal whisker""
+  }
+]","{'completion_tokens': 3220, 'prompt_tokens': 505, 'total_tokens': 3725}"
+92ef11aa,qwq-plus,7d6a2480-7174-9750-b6d7-5770820e6779,200,,,1747769071,"[
+  {
+    ""entity"": ""Mg based biomaterials"",
+    ""attribute"": ""elasticModulus"",
+    ""value"": ""closer to human bone""
+  },
+  {
+    ""entity"": ""Mg based biomaterials"",
+    ""attribute"": ""density"",
+    ""value"": ""closer to human bone""
+  },
+  {
+    ""entity"": ""Mg based biomaterials"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""prone to corrosion (degradation)""
+  }
+]","{'completion_tokens': 1370, 'prompt_tokens': 556, 'total_tokens': 1926}"
+a49e5234,qwq-plus,d60628de-46a3-9e76-a728-77172db94c55,200,,,1747769073,"[{""entity"":""magnesite spinel brick"",""attribute"":""composition"",""value"":""periclase and magnesia alumina spinel""},{""entity"":""magnesite spinel brick"",""attribute"":""raw_materials"",""value"":""magnesia and synthetic magnesium aluminum spinel""}]","{'completion_tokens': 708, 'prompt_tokens': 405, 'total_tokens': 1113}"
+34a83f9f,qwq-plus,bbe9c70d-b708-9909-a7e3-bff9e78e2e79,200,,,1747769073,"[{""entity"": ""spinel ceramics"", ""attribute"": ""crystalsystem"", ""value"": ""face-centered cubic""}, {""entity"": ""spinel ceramics"", ""attribute"": ""corrosionResistance"", ""value"": ""excellent""}]","{'completion_tokens': 878, 'prompt_tokens': 476, 'total_tokens': 1354}"
+51fbe117,qwq-plus,f4b8fd70-75c4-98f2-8f75-56d46cbc83b1,200,,,1747769075,"[
+    {""entity"": ""magnesite alumina brick"", ""attribute"": ""mainCrystallinePhase"", ""value"": ""peridase""},
+    {""entity"": ""magnesite alumina brick"", ""attribute"": ""mainBondingPhase"", ""value"": ""magnesium aluminum spinel""},
+    {""entity"": ""magnesite alumina brick"", ""attribute"": ""Al2O3Content"", ""value"": ""less than 10%""},
+    {""entity"": ""magnesite alumina brick"", ""attribute"": ""thermalShockResistance"", ""value"": ""better than magnesite brick""},
+    {""entity"": ""magnesite alumina brick"", ""attribute"": ""loadBatingStartingTemperature"", ""value"": ""higher""}
+]","{'completion_tokens': 1737, 'prompt_tokens': 444, 'total_tokens': 2181}"
+2c311d6a,qwq-plus,f5ffe43d-8044-9ab8-8a0a-a3c85419143c,200,,,1747769073,"[
+  {
+    ""entity"": ""Mg Mn ferrite"",
+    ""attribute"": ""crystalsystem"",
+    ""value"": ""spinel""
+  },
+  {
+    ""entity"": ""Mg Mn ferrite"",
+    ""attribute"": ""magneticHysteresis"",
+    ""value"": ""rectangular""
+  }
+]","{'completion_tokens': 1202, 'prompt_tokens': 472, 'total_tokens': 1674}"
+699c7240,qwq-plus,06bc2664-83e8-918a-b466-dbd328f460f4,200,,,1747769084,"[
+  {""entity"": ""Magnox alloy"", ""attribute"": ""corrosionResistance"", ""value"": ""resists oxidation and reaction between metals""},
+  {""entity"": ""Magnox AL80"", ""attribute"": ""composition"", ""value"": ""0.80% aluminum and 0.01% beryllium added to magnesium""},
+  {""entity"": ""Magnox AL80"", ""attribute"": ""application"", ""value"": ""used for production of natural uranium fuel, graphite moderator, CO2 coolant, fuel element cladding and end plug in Magnox reactors""},
+  {""entity"": ""cladding"", ""attribute"": ""shape"", ""value"": ""herringbone or multi-head spiral heat dissipation fins""},
+  {""entity"": ""Magnox ZR55"", ""attribute"": ""composition"", ""value"": ""0.55% zirconium added to magnesium""},
+  {""entity"": ""Magnox ZR55"", ""attribute"": ""tensileStrength"", ""value"": ""higher near room temperature compared to Magnox AL80""},
+  {""entity"": ""Magnox ZR55"", ""attribute"": ""tensileStrength"", ""value"": ""lower than Magnox AL80 at temperatures above 400°C""},
+  {""entity"": ""Magnox ZR55"", ""attribute"": ""application"", ""value"": ""used as cladding material requiring an intermediate layer (aluminum or carbon) between cladding and uranium core to prevent plutonium diffusion""},
+  {""entity"": ""Magnox MN70"", ""attribute"": ""composition"", ""value"": ""0.70% manganese added to magnesium""},
+  {""entity"": ""Magnox MN70"", ""attribute"": ""tensileStrength"", ""value"": ""high""},
+  {""entity"": ""Magnox MN70"", ""attribute"": ""creepResistance"", ""value"": ""good""},
+  {""entity"": ""Magnox MN70"", ""attribute"": ""application"", ""value"": ""used as structural materials of fuel element except cladding""}
+]","{'completion_tokens': 4829, 'prompt_tokens': 686, 'total_tokens': 5515}"
+068b3ab4,qwq-plus,6c62b0ec-c2ff-9cd6-ad94-fa901ca3ca2a,200,,,1747769082,"[
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""carbon content"", ""value"": ""8% -20%""},
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""apparent porosity"", ""value"": ""low""},
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""corrosionResistance"", ""value"": ""excellent""},
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""thermalConductivity"", ""value"": ""excellent""},
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""slag penetration resistance"", ""value"": ""excellent""},
+    {""entity"": ""magnesia carbon brick"", ""attribute"": ""thermal shock resistance"", ""value"": ""excellent""}
+]","{'completion_tokens': 1345, 'prompt_tokens': 434, 'total_tokens': 1779}"
+2a965f43,qwq-plus,f2968b4a-27fa-9927-883e-75964c14b875,200,,,1747769074,"[{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""capacity"",""value"":""2.2A_h/g""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""potential"",""value"":""negative""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""currentEfficiency"",""value"":""about 50%""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""shape"",""value"":""D-shaped""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""shape"",""value"":""trapezoidal bar""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""shape"",""value"":""ribbon""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""shape"",""value"":""round rod""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""composition"",""value"":""high purity magnesium""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""composition"",""value"":""Mg Mn""},{""entity"":""magnesium alloy sacrificial anodes"",""attribute"":""composition"",""value"":""Mg Al Zn Mn""}]","{'completion_tokens': 2107, 'prompt_tokens': 620, 'total_tokens': 2727}"
+7cdb175d,qwq-plus,6253fae2-d98b-9808-9581-c49bff88a95b,200,,,1747769078,"[
+    {
+        ""entity"": ""magnesium"",
+        ""attribute"": ""shape"",
+        ""value"": ""powder""
+    },
+    {
+        ""entity"": ""magnesium"",
+        ""attribute"": ""corrosionResistance"",
+        ""value"": ""low""
+    }
+]","{'completion_tokens': 3117, 'prompt_tokens': 611, 'total_tokens': 3728}"
+9ce14eda,qwq-plus,ebe7c8df-6dbf-929a-aa6a-e8e8251f8761,200,,,1747769072,"[{""entity"": ""magnesium"", ""attribute"": ""shape"", ""value"": ""ingots""}, {""entity"": ""magnesium produced by Pidgeon process"", ""attribute"": ""quality grade"", ""value"": ""slightly higher than electrolytic magnesium""}]","{'completion_tokens': 1453, 'prompt_tokens': 574, 'total_tokens': 2027}"
+04064c20,qwq-plus,58833b80-09fe-97fa-b28b-4623b1b0ad35,200,,,1747769069,"[
+    {
+        ""entity"": ""magnesia porcelain"",
+        ""attribute"": ""color"",
+        ""value"": ""beige interior and ivory white""
+    },
+    {
+        ""entity"": ""protoenstatite ceramics"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""protoenstatite""
+    },
+    {
+        ""entity"": ""forsterite porcelain"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""forsterite""
+    },
+    {
+        ""entity"": ""spinel porcelain"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""spinel""
+    },
+    {
+        ""entity"": ""cordierite porcelain"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""cordierite""
+    }
+]","{'completion_tokens': 2405, 'prompt_tokens': 453, 'total_tokens': 2858}"
+0bf8c426,qwq-plus,a6d3583a-e017-9165-9df1-f4b9c48cd95d,200,,,1747769078,"[
+  {
+    ""entity"": ""magnesite brick"",
+    ""attribute"": ""MgO content"",
+    ""value"": ""more than 90%""
+  },
+  {
+    ""entity"": ""magnesite brick"",
+    ""attribute"": ""main crystal phase"",
+    ""value"": ""periclase""
+  }
+]","{'completion_tokens': 2004, 'prompt_tokens': 412, 'total_tokens': 2416}"
+705f8057,qwq-plus,e6ba1198-2d6f-9622-804f-aa7311f98728,200,,,1747769068,"[
+  {""entity"": ""Mooney scorch time"", ""attribute"": ""testTemperature"", ""value"": ""120 °C, 125 °C, or 145 °C""},
+  {""entity"": ""large rotor Mooney viscosity meter"", ""attribute"": ""incrementValue"", ""value"": ""5 Mooney values""},
+  {""entity"": ""small rotor Mooney viscosity meter"", ""attribute"": ""incrementValue"", ""value"": ""3 Mooney values""}
+]","{'completion_tokens': 1612, 'prompt_tokens': 529, 'total_tokens': 2141}"
+eb5a9438,qwq-plus,f2449ba9-82c3-9515-a484-43d7d6cf0db2,200,,,1747769075,"[
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""definition"",
+        ""value"": ""resistance shear torque value of crude rubber or rubber mixture to the rotor measured with a Mooney viscosity meter""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""measurementUnit"",
+        ""value"": ""0.083N·m""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""application"",
+        ""value"": ""evaluate processing properties and physical/mechanical properties of rubber""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""effectOfLowValue"",
+        ""value"": ""not easy to mixing, easy to roll, low adhesive force, low product properties""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""effectOfHighValue"",
+        ""value"": ""low plasticity, difficult mixing/extrusion, large shrinkage, unclear patterns, rough surface""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""inventor"",
+        ""value"": ""American M. Mooney""
+    },
+    {
+        ""entity"": ""Mooney viscosity"",
+        ""attribute"": ""yearInvented"",
+        ""value"": ""1934""
+    }
+]","{'completion_tokens': 2491, 'prompt_tokens': 703, 'total_tokens': 3194}"
+9ce7defa,qwq-plus,2b525024-0d27-94e9-8c77-0e724e57586c,200,,,1747769068,"[
+    {""entity"": ""motan wax"", ""attribute"": ""components"", ""value"": ""wax, resin, pitch""},
+    {""entity"": ""waxy lignite"", ""attribute"": ""wax content"", ""value"": ""more than 3%""},
+    {""entity"": ""waxy lignite"", ""attribute"": ""particle size"", ""value"": ""less than 4mm""},
+    {""entity"": ""waxy lignite"", ""attribute"": ""moisture content"", ""value"": ""less than 20%""}
+]","{'completion_tokens': 1719, 'prompt_tokens': 510, 'total_tokens': 2229}"
+85e55973,qwq-plus,b110466c-c0ce-908f-bbc4-062b8ac2c620,200,,,1747769081,"[{""entity"": ""Monte Carlo method"", ""attribute"": ""type"", ""value"": ""computer simulation method""}, {""entity"": ""Monte Carlo method"", ""attribute"": ""basis"", ""value"": ""repeated random sampling""}, {""entity"": ""Monte Carlo method"", ""attribute"": ""method"", ""value"": ""conducting a series of computer experiments using unrelated random variables""}, {""entity"": ""Monte Carlo method"", ""attribute"": ""purpose"", ""value"": ""study a large number of states in relative space within a reasonable computational time""}]","{'completion_tokens': 1052, 'prompt_tokens': 409, 'total_tokens': 1461}"
+3832d2de,qwq-plus,7cb742e4-53b0-9701-8e4f-673981e7b2c0,200,,,1747769077,"[
+    {
+        ""entity"": ""montmorillonite"",
+        ""attribute"": ""crystalsystem"",
+        ""value"": ""layered""
+    },
+    {
+        ""entity"": ""montmorillonite"",
+        ""attribute"": ""color"",
+        ""value"": ""white, yellow, rose red, blue-green""
+    },
+    {
+        ""entity"": ""montmorillonite"",
+        ""attribute"": ""shape"",
+        ""value"": ""clumpy aggregate, fluffy""
+    }
+]","{'completion_tokens': 785, 'prompt_tokens': 524, 'total_tokens': 1309}"
+3a1e3ac1,qwq-plus,aac2ba4d-855b-9d80-9551-43e6a934c72f,200,,,1747769082,"[
+  {
+    ""entity"": ""tanning agents"",
+    ""attribute"": ""penetration"",
+    ""value"": ""promoted by combining with acid radicals""
+  },
+  {
+    ""entity"": ""tanning agents"",
+    ""attribute"": ""interaction_with_collagen"",
+    ""value"": ""reduced combination""
+  }
+]","{'completion_tokens': 1539, 'prompt_tokens': 413, 'total_tokens': 1952}"
+79d7e696,qwq-plus,10c7032a-c450-9ccc-8e91-2b0b846e2936,200,,,1747769066,"[
+  {""entity"": ""manganese white copper"", ""attribute"": ""tensileStrength"", ""value"": ""improved""},
+  {""entity"": ""manganese white copper"", ""attribute"": ""elasticModulus"", ""value"": ""improved""},
+  {""entity"": ""manganese white copper"", ""attribute"": ""corrosionResistance"", ""value"": ""improved""},
+  {""entity"": ""manganese white copper"", ""attribute"": ""ductility"", ""value"": ""improved""},
+  {""entity"": ""manganese white copper"", ""attribute"": ""electricalConductivity"", ""value"": ""improved""},
+  {""entity"": ""Cu-20Ni-1.5Mn alloy"", ""attribute"": ""corrosionResistance"", ""value"": ""better than Cu-12Mn-3Ni alloy""}
+]","{'completion_tokens': 4948, 'prompt_tokens': 692, 'total_tokens': 5640}"
+55a93dab,qwq-plus,66dbab19-9572-9224-aba4-b914e0fcda00,200,,,1747769071,"[
+    {
+        ""entity"": ""ferrosilicomanganese"",
+        ""attribute"": ""manganeseContent"",
+        ""value"": ""62% -68%""
+    },
+    {
+        ""entity"": ""ferrosilicomanganese"",
+        ""attribute"": ""siliconContent"",
+        ""value"": ""16% -27%""
+    },
+    {
+        ""entity"": ""ferrosilicomanganese"",
+        ""attribute"": ""carbonContent"",
+        ""value"": ""0.5% -2.5%""
+    }
+]","{'completion_tokens': 1514, 'prompt_tokens': 574, 'total_tokens': 2088}"
+3647d69e,qwq-plus,bfeec1b9-e268-98ec-b8e8-286ab723b304,200,,,1747769074,"[
+  {""entity"": ""manganese brass"", ""attribute"": ""hardness"", ""value"": ""improved""},
+  {""entity"": ""manganese brass"", ""attribute"": ""corrosionResistance"", ""value"": ""significantly improved in seawater, chloride, and overheating steam""},
+  {""entity"": ""58Cu-40Zn-2Mn alloy"", ""attribute"": ""tensileStrength"", ""value"": ""400MPa""},
+  {""entity"": ""58Cu-40Zn-2Mn alloy"", ""attribute"": ""ductility"", ""value"": ""40% elongation""},
+  {""entity"": ""57Cu-39Zn-3Mn-lAl alloy"", ""attribute"": ""tensileStrength"", ""value"": ""500-550MPa""},
+  {""entity"": ""57Cu-39Zn-3Mn-lAl alloy"", ""attribute"": ""ductility"", ""value"": ""15%-25% elongation""},
+  {""entity"": ""55Cu-41Zn-3Mn-lFe alloy"", ""attribute"": ""tensileStrength"", ""value"": ""500-550MPa""},
+  {""entity"": ""55Cu-41Zn-3Mn-lFe alloy"", ""attribute"": ""ductility"", ""value"": ""15%-25% elongation""}
+]","{'completion_tokens': 4742, 'prompt_tokens': 614, 'total_tokens': 5356}"
+05d2944d,qwq-plus,12d3907f-8412-9f86-bd3c-b6c016af02d8,200,,,1747769071,"[{""entity"": ""manganese nodule"", ""attribute"": ""shape"", ""value"": ""spherical, round, potato, grape, flat, slag""}, {""entity"": ""manganese nodule"", ""attribute"": ""color"", ""value"": ""black and brownish black""}]","{'completion_tokens': 2926, 'prompt_tokens': 545, 'total_tokens': 3471}"
+59e7f480,qwq-plus,cb68da06-87b0-9ea1-91e0-f67f39eae732,200,,,1747769082,"[
+  {""entity"": ""manganese bronze"", ""attribute"": ""corrosionResistance"", ""value"": ""good""},
+  {""entity"": ""Cu-35Mn-14Zn elasticity alloy"", ""attribute"": ""tensileStrength"", ""value"": ""1274MPa""},
+  {""entity"": ""Cu-35Mn-14Zn elasticity alloy"", ""attribute"": ""elasticModulus"", ""value"": ""14700MPa""}
+]","{'completion_tokens': 2980, 'prompt_tokens': 585, 'total_tokens': 3565}"
+27f1b05d,qwq-plus,9b3b8808-7bc4-925d-b976-01f6e5a3c95d,200,,,1747769072,"[
+    {
+        ""entity"": ""bioinert composite"",
+        ""attribute"": ""chemicalReaction"",
+        ""value"": ""minimal or none""
+    },
+    {
+        ""entity"": ""bioinert composite"",
+        ""attribute"": ""biologicalStability"",
+        ""value"": ""maintained""
+    }
+]","{'completion_tokens': 1645, 'prompt_tokens': 415, 'total_tokens': 2060}"
+56eeb2a3,qwq-plus,3ca50577-15ec-95e4-b2b1-7c274ecf8be3,200,,,1747769069,"[{""entity"":""bioinert ceramics"",""attribute"":""density"",""value"":""high""},{""entity"":""bioinert ceramics"",""attribute"":""purity"",""value"":""high""},{""entity"":""bioinert ceramics"",""attribute"":""biocompatibility"",""value"":""good""},{""entity"":""bioinert ceramics"",""attribute"":""wear resistance"",""value"":""excellent""},{""entity"":""bioinert ceramics"",""attribute"":""chemical stability"",""value"":""excellent""},{""entity"":""bioinert ceramics"",""attribute"":""mechanical strength"",""value"":""high""}]","{'completion_tokens': 2350, 'prompt_tokens': 413, 'total_tokens': 2763}"
+98160ee8,qwq-plus,5e9826c0-a342-992a-aa8d-9a4b48667478,200,,,1747769068,[],"{'completion_tokens': 739, 'prompt_tokens': 378, 'total_tokens': 1117}"
+964c314d,qwq-plus,d4771e05-c270-95e4-968a-5a797b9d6f77,200,,,1747769075,[],"{'completion_tokens': 424, 'prompt_tokens': 410, 'total_tokens': 834}"
+6cddd838,qwq-plus,c9db8e04-f45a-978d-be9b-e45c92899dfa,200,,,1747769081,"[{""entity"":""insulation"",""attribute"":""shape"",""value"":""damaged""},{""entity"":""lead pipes"",""attribute"":""shape"",""value"":""perforated""},{""entity"":""lead pipes"",""attribute"":""corrosionResistance"",""value"":""decreased""},{""entity"":""building structures"",""attribute"":""shape"",""value"":""damaged""},{""entity"":""non living substances"",""attribute"":""color"",""value"":""discolored""},{""entity"":""non living substances"",""attribute"":""corrosionResistance"",""value"":""reduced""},{""entity"":""plant roots"",""attribute"":""shape"",""value"":""penetrating""},{""entity"":""materials"",""attribute"":""color"",""value"":""discolored""},{""entity"":""materials"",""attribute"":""corrosionResistance"",""value"":""decreased""}]","{'completion_tokens': 2035, 'prompt_tokens': 548, 'total_tokens': 2583}"
+3530e1f6,qwq-plus,5d855f2f-6b9f-9d44-8244-dc3ce143b5a1,200,,,1747769069,"[{""entity"":""bioattachment"",""attribute"":""interactionType"",""value"":""mechanical, physical, chemical, biological""}]","{'completion_tokens': 416, 'prompt_tokens': 409, 'total_tokens': 825}"
+3d48a167,qwq-plus,e5026d53-eb5e-9ff1-988d-e68890ba8588,200,,,1747769072,"[
+  {
+    ""entity"": ""biological engineering titanium alloy"",
+    ""attribute"": ""corrosionResistance"",
+    ""value"": ""strong""
+  },
+  {
+    ""entity"": ""biological engineering titanium alloy"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""higher""
+  },
+  {
+    ""entity"": ""biological engineering titanium alloy"",
+    ""attribute"": ""elasticModulus"",
+    ""value"": ""lower""
+  },
+  {
+    ""entity"": ""biological engineering titanium alloy"",
+    ""attribute"": ""compatibility"",
+    ""value"": ""good compatibility with human cell tissues and does not cause allergic reaction""
+  }
+]","{'completion_tokens': 2162, 'prompt_tokens': 479, 'total_tokens': 2641}"
+6e04286d,qwq-plus,4fff7c29-974e-9a9b-b90f-d51180991839,200,,,1747769076,"[{""entity"": ""bio-functional membrane"", ""attribute"": ""shape"", ""value"": ""hollow fiber""}]","{'completion_tokens': 663, 'prompt_tokens': 410, 'total_tokens': 1073}"
+11c3568c,qwq-plus,9605cdf9-1a67-91cb-89aa-9d4655780ec8,200,,,1747769078,"[{""entity"": ""biomedical materials"", ""attribute"": ""biofunctionability"", ""value"": ""ability to perform functions at the implantation position""}]","{'completion_tokens': 508, 'prompt_tokens': 392, 'total_tokens': 900}"
+374c5ffa,qwq-plus,cdf9bfac-a432-9c7a-a329-c3141c7b113f,200,,,1747769075,"[{""entity"":""biochemical sedimentary rocks"",""attribute"":""biological structures"",""value"":""often have""},{""entity"":""biochemical sedimentary rocks"",""attribute"":""bioclastic structures"",""value"":""often have""},{""entity"":""biochemical sedimentary rocks"",""attribute"":""composition"",""value"":""accumulation of substances in colloidal solution and true solution""},{""entity"":""biochemical sedimentary rocks"",""attribute"":""formation_process"",""value"":""biochemical action or biological physiological activities""}]","{'completion_tokens': 3420, 'prompt_tokens': 432, 'total_tokens': 3852}"
+b2c143cf,qwq-plus,3d3619e8-3d6f-922a-ba9e-322ee8801327,200,,,1747769070,[],"{'completion_tokens': 3686, 'prompt_tokens': 442, 'total_tokens': 4128}"
+a5da50ab,qwq-plus,054aa1e2-fd06-9655-a7d8-8fb0fd3669a3,200,,,1747769072,"[
+  {
+    ""entity"": ""bioactive materials"",
+    ""attribute"": ""bioactivityFunction"",
+    ""value"": ""promote tissue-material connection""
+  },
+  {
+    ""entity"": ""bioactive materials"",
+    ""attribute"": ""biologicalEffect"",
+    ""value"": ""induce cell activity""
+  },
+  {
+    ""entity"": ""bioactive materials"",
+    ""attribute"": ""biologicalResponse"",
+    ""value"": ""regenerate new tissues""
+  },
+  {
+    ""entity"": ""bioactive materials"",
+    ""attribute"": ""surfaceInteraction"",
+    ""value"": ""cause biological/chemical reactions on surface""
+  }
+]","{'completion_tokens': 1349, 'prompt_tokens': 451, 'total_tokens': 1800}"
+c72cccdb,qwq-plus,8d5f5d09-e518-9ee7-9ce4-60fbb1d07950,200,,,1747769069,"[{""entity"":""bioactive glass"",""attribute"":""biocompatibility"",""value"":""present""},{""entity"":""bioactive glass"",""attribute"":""application"",""value"":""medical and biomedical applications""},{""entity"":""bioactive glass"",""attribute"":""function"",""value"":""promotes bone repair and regeneration""},{""entity"":""bioactive glass"",""attribute"":""interaction"",""value"":""combines with bone tissue""},{""entity"":""bioactive glass"",""attribute"":""biologicalResponse"",""value"":""stimulates specific biological response in vivo""}]","{'completion_tokens': 2417, 'prompt_tokens': 445, 'total_tokens': 2862}"
+b5c22e41,qwq-plus,741b2820-ea8b-9610-b0aa-9a0fecc3c305,200,,,1747769071,"[
+  {
+    ""entity"": ""bioglass/polymer composites"",
+    ""attribute"": ""composition"",
+    ""value"": ""bioactive glass and one or more macromolecules""
+  },
+  {
+    ""entity"": ""bioglass/polymer composites"",
+    ""attribute"": ""basePhase"",
+    ""value"": ""organic phase""
+  }
+]","{'completion_tokens': 1826, 'prompt_tokens': 407, 'total_tokens': 2233}"
+a7d61bd5,qwq-plus,7b50b9da-03ff-9343-ace5-fc7f3b5af408,200,,,1747769079,"[
+    {
+        ""entity"": ""bioactive glass-ceramics"",
+        ""attribute"": ""alternativeName"",
+        ""value"": ""bioactive crystallite glass""
+    },
+    {
+        ""entity"": ""bioactive glass-ceramics"",
+        ""attribute"": ""composition"",
+        ""value"": ""apatite microcrystals""
+    },
+    {
+        ""entity"": ""bioactive glass-ceramics"",
+        ""attribute"": ""structure"",
+        ""value"": ""contains one or more crystalline phases""
+    },
+    {
+        ""entity"": ""bioactive glass-ceramics"",
+        ""attribute"": ""type"",
+        ""value"": ""calcium metaphosphate glass-ceramics""
+    }
+]","{'completion_tokens': 1261, 'prompt_tokens': 442, 'total_tokens': 1703}"
+9befdca1,qwq-plus,ace113f2-14ee-9bcc-ae23-50eb7ec98875,200,,,1747769076,"[
+  {
+    ""entity"": ""A-W bioactive glass-ceramics"",
+    ""attribute"": ""tensileStrength"",
+    ""value"": ""13MPa""
+  },
+  {
+    ""entity"": ""A-W bioactive glass-ceramics"",
+    ""attribute"": ""crystalsystem"",
+    ""value"": ""apatite and wollastonite""
+  }
+]","{'completion_tokens': 4067, 'prompt_tokens': 481, 'total_tokens': 4548}"
+db398c36,qwq-plus,6c25499f-e22a-99dc-8253-b05410a0d994,200,,,1747769080,"[
+  {""entity"":""bioactive glass microspheres"",""attribute"":""shape"",""value"":""spherical""},
+  {""entity"":""bioactive glass microspheres"",""attribute"":""particle size"",""value"":""50 mm to 2 mm""},
+  {""entity"":""bioactive glass microspheres"",""attribute"":""surface roughness"",""value"":""rough""},
+  {""entity"":""bioactive glass microspheres"",""attribute"":""density"",""value"":""difference exists between solid ceramics and surrounding media""}
+]","{'completion_tokens': 3085, 'prompt_tokens': 529, 'total_tokens': 3614}"
+a7478d7c,qwq-plus,88fff0d1-1fbb-9f0c-81b4-3088ee43ef1c,200,,,1747769070,[],"{'completion_tokens': 2625, 'prompt_tokens': 467, 'total_tokens': 3092}"
+d1aede99,qwq-plus,566f337d-1647-93ef-b021-f3bbeabbf8d7,200,,,1747769068,"[{""entity"":""bioactivity composite"",""attribute"":""bioactivity"",""value"":""promoting cell activity or new tissue regeneration""},{""entity"":""hydroxyapatite"",""attribute"":""bioactivity"",""value"":""the main inorganic component of human bone""},{""entity"":""hydroxyapatite"",""attribute"":""bone bonding ability"",""value"":""can form bone bonding with new bone""},{""entity"":""bioactivity composite"",""attribute"":""implant compatibility"",""value"":""does not cause inflammation or irritation when implanted""}]","{'completion_tokens': 3714, 'prompt_tokens': 494, 'total_tokens': 4208}"
+b2a930b5,qwq-plus,44dacf55-e4a0-938d-ae98-d18aab568bf0,200,,,1747769076,"[{""entity"":""titanium and its alloy"",""attribute"":""corrosionResistance"",""value"":""improved""},{""entity"":""hydroxyapatite"",""attribute"":""crystalsystem"",""value"":""bioactive""},{""entity"":""active oxide layer"",""attribute"":""shape"",""value"":""coating""}]","{'completion_tokens': 3608, 'prompt_tokens': 465, 'total_tokens': 4073}"
+2c461706,qwq-plus,dd9f7e6c-b34c-9c88-b0f7-b68599bdeec6,200,,,1747769078,"[
+  {""entity"": ""bioactive bone cement"", ""attribute"": ""hardness"", ""value"": ""similar to human hard tissue""},
+  {""entity"": ""bioactive bone cement"", ""attribute"": ""shape"", ""value"": ""arbitrary""}
+]","{'completion_tokens': 3410, 'prompt_tokens': 643, 'total_tokens': 4053}"
+14438622,qwq-plus,c4f57959-965b-9846-9d0e-71eddb6843f1,200,,,1747769073,"[
+  {
+    ""entity"": ""bioactive bonding"",
+    ""attribute"": ""mechanicalStrength"",
+    ""value"": ""certain mechanical strength""
+  }
+]","{'completion_tokens': 3482, 'prompt_tokens': 463, 'total_tokens': 3945}"
+239eebf8,qwq-plus,bebefc34-356f-9929-87d1-4c93cfc796dd,200,,,1747769077,[],"{'completion_tokens': 1300, 'prompt_tokens': 743, 'total_tokens': 2043}"
+a43402b7,qwq-plus,448811cb-4947-9330-b9ea-06e07c9a8c69,200,,,1747769073,"[{""entity"":""absorbable bioceramics"",""attribute"":""corrosionResistance"",""value"":""low""},{""entity"":""hydroxyapatite ceramics"",""attribute"":""corrosionResistance"",""value"":""high""},{""entity"":""alumina ceramics"",""attribute"":""hardness"",""value"":""high""},{""entity"":""piezoelectric bioceramics"",""attribute"":""elasticModulus"",""value"":""high""},{""entity"":""bioglass"",""attribute"":""corrosionResistance"",""value"":""moderate""}]","{'completion_tokens': 3830, 'prompt_tokens': 710, 'total_tokens': 4540}"
+855a63bb,qwq-plus,6131cf25-874d-99d8-adba-31dc70f5f15c,200,,,1747769071,"[  
+  {""entity"": ""bioactive coating"", ""attribute"": ""function"", ""value"": ""cause specific reaction of surrounding tissues or chemical bonding with tissues""},  
+  {""entity"": ""absorbable bioceramics"", ""attribute"": ""degradation"", ""value"": ""gradually degradation and absorbed in physiological environment""},  
+  {""entity"": ""single component biological ceramics"", ""attribute"": ""composition"", ""value"": ""a single kind of biological ceramic""},  
+  {""entity"": ""composite biological ceramics"", ""attribute"": ""composition"", ""value"": ""two or more components""},  
+  {""entity"": ""substitute repair biological ceramics"", ""attribute"": ""application"", ""value"": ""replace or repair human lesions or damaged parts""},  
+  {""entity"": ""therapeutic biological ceramics"", ""attribute"": ""application"", ""value"": ""targeted treatment of human diseases""},  
+  {""entity"": ""multifunctional biological ceramics"", ""attribute"": ""function"", ""value"": ""multiple functions such as repairing and promoting bone tissue growth""},  
+  {""entity"": ""hydroxyapatite ceramics"", ""attribute"": ""application"", ""value"": ""bone defect repair""},  
+  {""entity"": ""bioglass"", ""attribute"": ""application"", ""value"": ""auditory ossicles replacement""},  
+  {""entity"": ""alumina ceramics"", ""attribute"": ""application"", ""value"": ""hip joint replacement""},  
+  {""entity"": ""magnetic biological ceramics"", ""attribute"": ""application"", ""value"": ""targeted treatment of human diseases""}  
+]","{'completion_tokens': 1569, 'prompt_tokens': 709, 'total_tokens': 2278}"

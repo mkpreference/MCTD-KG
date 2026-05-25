@@ -1,0 +1,682 @@
+{
+    "1001": {
+        "correct_relations": 3,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 6
+    },
+    "1002": {
+        "correct_relations": 2,
+        "correct_attributes": 2,
+        "total_true_relations": 2,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 3
+    },
+    "1003": {
+        "correct_relations": 4,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 1
+    },
+    "1004": {
+        "correct_relations": 6,
+        "correct_attributes": 1,
+        "total_true_relations": 8,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 7,
+        "total_extracted_attributes": 2
+    },
+    "1005": {
+        "correct_relations": 12,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 12,
+        "total_extracted_attributes": 2
+    },
+    "1006": {
+        "correct_relations": 2,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 0
+    },
+    "1008": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 7,
+        "total_extracted_attributes": 1
+    },
+    "1009": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 11,
+        "total_extracted_attributes": 12
+    },
+    "1011": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 11,
+        "total_extracted_attributes": 1
+    },
+    "1012": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 2
+    },
+    "1013": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 13,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 4
+    },
+    "1015": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 1
+    },
+    "1016": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 4
+    },
+    "1017": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 8,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 1
+    },
+    "1018": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 7,
+        "total_extracted_attributes": 1
+    },
+    "1020": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 6,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 1
+    },
+    "1021": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 7,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 4
+    },
+    "1022": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 6
+    },
+    "1024": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 2
+    },
+    "1025": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 1
+    },
+    "1026": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 18,
+        "total_extracted_attributes": 3
+    },
+    "1027": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 8,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 2
+    },
+    "1029": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 2
+    },
+    "1030": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 0
+    },
+    "1032": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 0
+    },
+    "1033": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 21,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 3
+    },
+    "1034": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 6
+    },
+    "1035": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 8,
+        "total_true_attributes": 6,
+        "total_extracted_relations": 44,
+        "total_extracted_attributes": 6
+    },
+    "1036": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 10,
+        "total_extracted_attributes": 4
+    },
+    "1037": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 2
+    },
+    "1038": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 9,
+        "total_extracted_attributes": 8
+    },
+    "1039": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 5
+    },
+    "1040": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 11,
+        "total_extracted_relations": 8,
+        "total_extracted_attributes": 4
+    },
+    "1041": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 9,
+        "total_extracted_attributes": 3
+    },
+    "1042": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 27,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 3
+    },
+    "1043": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 10,
+        "total_true_attributes": 8,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 2
+    },
+    "1044": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 7,
+        "total_extracted_attributes": 1
+    },
+    "1045": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 9,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 4
+    },
+    "1046": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 0
+    },
+    "1047": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 8,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 2
+    },
+    "1048": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 10,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 1
+    },
+    "1049": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 0
+    },
+    "1050": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 0
+    },
+    "2001": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 10,
+        "total_extracted_attributes": 4
+    },
+    "2002": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 8,
+        "total_extracted_relations": 9,
+        "total_extracted_attributes": 3
+    },
+    "2004": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 11,
+        "total_extracted_attributes": 3
+    },
+    "2007": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 7,
+        "total_extracted_attributes": 5
+    },
+    "2008": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 1
+    },
+    "2009": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 16,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 5
+    },
+    "2010": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 1
+    },
+    "2011": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 9,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 12,
+        "total_extracted_attributes": 6
+    },
+    "2012": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 10,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 1
+    },
+    "2014": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 13,
+        "total_true_attributes": 13,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 1
+    },
+    "2015": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 5
+    },
+    "2016": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 17,
+        "total_true_attributes": 6,
+        "total_extracted_relations": 1,
+        "total_extracted_attributes": 0
+    },
+    "2017": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 15,
+        "total_extracted_attributes": 1
+    },
+    "2018": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 10,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 3
+    },
+    "2019": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 8
+    },
+    "2020": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 9,
+        "total_extracted_attributes": 1
+    },
+    "2022": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 8,
+        "total_extracted_attributes": 1
+    },
+    "2024": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 10,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 2
+    },
+    "2025": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 15,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 1,
+        "total_extracted_attributes": 1
+    },
+    "2026": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 0
+    },
+    "2028": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 5,
+        "total_extracted_relations": 1,
+        "total_extracted_attributes": 2
+    },
+    "2029": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 6,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 16,
+        "total_extracted_attributes": 4
+    },
+    "2030": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 5
+    },
+    "2031": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 15,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 3
+    },
+    "2032": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 11,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 1
+    },
+    "2033": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 11,
+        "total_extracted_attributes": 4
+    },
+    "2034": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 9,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 21,
+        "total_extracted_attributes": 4
+    },
+    "2035": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 3,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 12,
+        "total_extracted_attributes": 4
+    },
+    "2036": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 12,
+        "total_extracted_attributes": 2
+    },
+    "2037": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 0
+    },
+    "2038": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 3
+    },
+    "2039": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 2
+    },
+    "2040": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 2,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 3,
+        "total_extracted_attributes": 6
+    },
+    "2041": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 5,
+        "total_true_attributes": 0,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 2
+    },
+    "2042": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 1,
+        "total_true_attributes": 1,
+        "total_extracted_relations": 10,
+        "total_extracted_attributes": 2
+    },
+    "2043": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 13,
+        "total_true_attributes": 2,
+        "total_extracted_relations": 6,
+        "total_extracted_attributes": 0
+    },
+    "2044": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 4,
+        "total_true_attributes": 3,
+        "total_extracted_relations": 4,
+        "total_extracted_attributes": 2
+    },
+    "2045": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 12,
+        "total_true_attributes": 7,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 3
+    },
+    "2047": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 7,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 2,
+        "total_extracted_attributes": 3
+    },
+    "2048": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 11,
+        "total_true_attributes": 8,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 5
+    },
+    "2049": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 11,
+        "total_true_attributes": 8,
+        "total_extracted_relations": 13,
+        "total_extracted_attributes": 5
+    },
+    "2050": {
+        "correct_relations": 0,
+        "correct_attributes": 0,
+        "total_true_relations": 11,
+        "total_true_attributes": 4,
+        "total_extracted_relations": 5,
+        "total_extracted_attributes": 7
+    }
+}

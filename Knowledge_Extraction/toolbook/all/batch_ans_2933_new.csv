@@ -1,0 +1,35 @@
+custom_id,model,request_id,status_code,error_code,error_message,created,content,usage
+e7d7da0a,qwq-plus,cd283493-25aa-95e9-96f1-59d9b494ae1d,200,,,1742826134,"[
+    {""head"": ""active waste rubber powder"", ""relation"": ""isAKindOf"", ""tail"": ""reactive elastomer powder""},
+    {""head"": ""active waste rubber powder"", ""relation"": ""isDerivedFrom"", ""tail"": ""surface activation or conditioning treatment""},
+    {""head"": ""active waste rubber powder"", ""relation"": ""isDerivedFrom"", ""tail"": ""saturated vulcanization accelerator treatment method""},
+    {""head"": ""active waste rubber powder"", ""relation"": ""isDerivedFrom"", ""tail"": ""liquid macromolecule/vulcanizing agent treatment method""},
+    {""head"": ""active waste rubber powder"", ""relation"": ""isAlternativeTo"", ""tail"": ""cured rubber powder""}
+]","{'completion_tokens': 2991, 'prompt_tokens': 3604, 'total_tokens': 6595}"
+2c3f0014,qwq-plus,8c0d6a95-14f5-99e1-91f3-caf73e0c1d4d,200,,,1742826134,"[
+{""head"": ""activated sintering"", ""relation"": ""isAKindOf"", ""tail"": ""sintering process""},
+{""head"": ""activated sintering"", ""relation"": ""isUsedFor"", ""tail"": ""promoting the sintering process""},
+{""head"": ""activated sintering"", ""relation"": ""isUsedFor"", ""tail"": ""improving product performance""},
+{""head"": ""activated sintering"", ""relation"": ""isUsedFor"", ""tail"": ""solving activation or conditioning problem of materials difficult to sinter""}
+]","{'completion_tokens': 2026, 'prompt_tokens': 3608, 'total_tokens': 5634}"
+1947124e,qwq-plus,72a45691-8e80-9f61-86ba-b68545833aa3,200,,,1742826134,"[
+  {""head"": ""activated carbon fiber"", ""relation"": ""isAKindOf"", ""tail"": ""inorganic fibers""},
+  {""entity"": ""activated carbon fiber"", ""attribute"": ""specific surface"", ""value"": ""generally greater than 500mVg""}
+]","{'completion_tokens': 2115, 'prompt_tokens': 3580, 'total_tokens': 5695}"
+33992080,qwq-plus,b398545f-62a1-94f2-99cb-8e1115f019da,200,,,1742826134,"[{""head"": ""activated sludge"", ""relation"": ""isAKindOf"", ""tail"": ""flocculent sludge""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""bacteria""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""fungi""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""mycelia""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""protozoa""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""metazoa""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""microbial groups""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""organic suspended solids""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""inorganic suspended solids""}, {""head"": ""activated sludge"", ""relation"": ""isMadeOf"", ""tail"": ""colloidal substances""}, {""head"": ""activated sludge"", ""relation"": ""isUsedFor"", ""tail"": ""sewage purification""}, {""entity"": ""activated sludge"", ""attribute"": ""color"", ""value"": ""brown""}, {""entity"": ""activated sludge"", ""attribute"": ""shape"", ""value"": ""flocculent""}]","{'completion_tokens': 2816, 'prompt_tokens': 3611, 'total_tokens': 6427}"
+355f601c,qwq-plus,b4832056-80d8-934c-980e-db5935401d7d,200,,,1742826135,"[
+    {""head"": ""active aluminium"", ""relation"": ""isDerivedFrom"", ""tail"": ""alumina hydrate variant""}
+]","{'completion_tokens': 1068, 'prompt_tokens': 3583, 'total_tokens': 4651}"
+1cf50a44,qwq-plus,8d031c23-7fbe-9bff-a34e-ff27df4f1fab,200,,,1742826135,"[
+    {""head"": ""free radicals"", ""relation"": ""isAKindOf"", ""tail"": ""reactive species""},
+    {""head"": ""cations"", ""relation"": ""isAKindOf"", ""tail"": ""reactive species""},
+    {""head"": ""anions"", ""relation"": ""isAKindOf"", ""tail"": ""reactive species""},
+    {""head"": ""active chains with active end groups"", ""relation"": ""isAKindOf"", ""tail"": ""reactive species""}
+]","{'completion_tokens': 1362, 'prompt_tokens': 3574, 'total_tokens': 4936}"
+a3928d05,qwq-plus,b782ba25-7a8f-9450-8a04-73d27b290464,200,,,1742826136,"[
+  {""head"": ""pyrometallurgy"", ""relation"": ""isAlternativeTo"", ""tail"": ""dry metallurgy""},
+  {""head"": ""pyrometallurgy"", ""relation"": ""isAKindOf"", ""tail"": ""metallurgical process""},
+  {""head"": ""pyrometallurgy"", ""relation"": ""isUsedFor"", ""tail"": ""extracting metals or their compounds from ores""},
+  {""head"": ""pyrometallurgy"", ""relation"": ""isPartOf"", ""tail"": ""extraction metallurgy""},
+  {""head"": ""redox reaction"", ""relation"": ""isPartOf"", ""tail"": ""pyrometallurgy""}
+]","{'completion_tokens': 3780, 'prompt_tokens': 3606, 'total_tokens': 7386}"

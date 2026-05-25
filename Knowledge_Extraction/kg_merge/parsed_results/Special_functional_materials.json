@@ -1,0 +1,3213 @@
+{
+  "1-s2.0-S0169433226009414-main_chunks": [
+    [
+      {
+        "head": "Cu2O",
+        "relation": "isPartOf",
+        "tail": "Cu2O/In2O3/CuInO2 composite heterostructure thin films"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isPartOf",
+        "tail": "Cu2O/In2O3/CuInO2 composite heterostructure thin films"
+      },
+      {
+        "head": "CuInO2",
+        "relation": "isPartOf",
+        "tail": "Cu2O/In2O3/CuInO2 composite heterostructure thin films"
+      },
+      {
+        "head": "Cu2O/In2O3/CuInO2 composite heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "heterostructure thin films"
+      },
+      {
+        "head": "Cu2O/In2O3/CuInO2 composite heterostructure thin films",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrates"
+      }
+    ],
+    [
+      {
+        "head": "dynamic aurora pulsed laser deposition",
+        "relation": "isDerivedFrom",
+        "tail": "pulsed laser deposition"
+      },
+      {
+        "head": "complex oxide thin films",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin films"
+      },
+      {
+        "head": "functional metal oxide epitaxial thin films",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin films"
+      },
+      {
+        "head": "complex oxide thin films",
+        "relation": "isMadeOf",
+        "tail": "complex oxide"
+      },
+      {
+        "head": "functional metal oxide epitaxial thin films",
+        "relation": "isMadeOf",
+        "tail": "functional metal oxide"
+      },
+      {
+        "head": "functional metal oxide epitaxial thin films",
+        "relation": "isUsedFor",
+        "tail": "high-performance electronic devices"
+      },
+      {
+        "head": "functional metal oxide epitaxial thin films",
+        "relation": "isUsedFor",
+        "tail": "sensors"
+      },
+      {
+        "head": "functional metal oxide epitaxial thin films",
+        "relation": "isUsedFor",
+        "tail": "opto-electronic applications"
+      },
+      {
+        "entity": "epitaxial thin films",
+        "attribute": "shape",
+        "value": "thin film"
+      },
+      {
+        "entity": "complex oxide thin films",
+        "attribute": "shape",
+        "value": "thin film"
+      },
+      {
+        "entity": "functional metal oxide epitaxial thin films",
+        "attribute": "shape",
+        "value": "thin film"
+      }
+    ],
+    [
+      {
+        "head": "Cu2O",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure"
+      },
+      {
+        "head": "CuInO2",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "thin film"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "photocatalysis"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "electrocatalysis"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "solar cells"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "sensors"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "light-emitting diodes"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "relation": "isUsedFor",
+        "tail": "optoelectronic devices"
+      },
+      {
+        "head": "heterojunction",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure"
+      },
+      {
+        "head": "In2O3 target",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "entity": "In2O3 target",
+        "attribute": "shape",
+        "value": "cylindrical with diameter 2 cm and thickness 0.2 cm"
+      },
+      {
+        "entity": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 composite heterostructure thin films",
+        "attribute": "crystalsystem",
+        "value": "single-crystalline"
+      }
+    ],
+    [
+      {
+        "head": "(2CuO)(1−x)/(In2O3)x composite targets",
+        "relation": "isMadeOf",
+        "tail": "CuO"
+      },
+      {
+        "head": "(2CuO)(1−x)/(In2O3)x composite targets",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "composite pellets",
+        "relation": "isMadeOf",
+        "tail": "PVA"
+      },
+      {
+        "head": "composite pellets",
+        "attribute": "shape",
+        "value": "2 cm in diameter and 0.2 cm in thickness"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "p-Cu2O"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "n-In2O3"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "p-CuInO2"
+      },
+      {
+        "head": "p-Cu2O",
+        "relation": "isPartOf",
+        "tail": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "n-In2O3",
+        "relation": "isPartOf",
+        "tail": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "p-CuInO2",
+        "relation": "isPartOf",
+        "tail": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "dynamic aurora pulsed laser deposition",
+        "relation": "isUsedFor",
+        "tail": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "dynamic aurora pulsed laser deposition",
+        "relation": "isAlternativeTo",
+        "tail": "sequential deposition"
+      },
+      {
+        "head": "p–n–p junction network",
+        "relation": "isPartOf",
+        "tail": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "multi-phase heterostructure"
+      },
+      {
+        "head": "p-Cu2O",
+        "relation": "isAKindOf",
+        "tail": "metal oxide semiconductor"
+      },
+      {
+        "head": "n-In2O3",
+        "relation": "isAKindOf",
+        "tail": "metal oxide semiconductor"
+      },
+      {
+        "head": "p-CuInO2",
+        "relation": "isAKindOf",
+        "tail": "metal oxide semiconductor"
+      },
+      {
+        "head": "epitaxial p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      }
+    ],
+    [
+      {
+        "head": "Epitaxial Cu2O thin films",
+        "relation": "isPartOf",
+        "tail": "MgO (001) substrates"
+      },
+      {
+        "head": "In2O3 thin films",
+        "relation": "isPartOf",
+        "tail": "MgO (001) substrates"
+      },
+      {
+        "head": "composite heterostructure thin films",
+        "relation": "isPartOf",
+        "tail": "MgO (001) substrates"
+      },
+      {
+        "head": "composite heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "composite heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "composite heterostructure thin films",
+        "relation": "isDerivedFrom",
+        "tail": "(2CuO)(1−x)/(In2O3)x targets"
+      },
+      {
+        "head": "RHEED",
+        "relation": "isPartOf",
+        "tail": "DA-PLD technique"
+      },
+      {
+        "head": "electromagnet",
+        "relation": "isPartOf",
+        "tail": "DA-PLD technique"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "CuInO2",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      },
+      {
+        "head": "p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "heterostructure thin films"
+      },
+      {
+        "head": "DA-PLD technique",
+        "relation": "isUsedFor",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 heterostructure thin films"
+      }
+    ],
+    [
+      {
+        "head": "epitaxial growth behaviour",
+        "relation": "isTestedBy",
+        "tail": "RHEED"
+      },
+      {
+        "head": "heterostructure thin films",
+        "relation": "isTestedBy",
+        "tail": "electron backscatter diffraction"
+      },
+      {
+        "head": "heterostructure thin films",
+        "relation": "isTestedBy",
+        "tail": "dynamic force microscopy"
+      },
+      {
+        "head": "heterostructure thin films",
+        "relation": "isTestedBy",
+        "tail": "scanning transmission electron microscope"
+      },
+      {
+        "head": "heterostructure thin films",
+        "relation": "isTestedBy",
+        "tail": "ultraviolet–visible spectroscopy"
+      },
+      {
+        "head": "heterostructure thin films",
+        "relation": "isTestedBy",
+        "tail": "solar simulator"
+      },
+      {
+        "head": "1-CIO heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "heterostructure thin films"
+      },
+      {
+        "head": "3-CIO heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "heterostructure thin films"
+      },
+      {
+        "head": "5-CIO heterostructure thin films",
+        "relation": "isAKindOf",
+        "tail": "heterostructure thin films"
+      },
+      {
+        "head": "1-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "1-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "1-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "3-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "3-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "3-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "5-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "5-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "5-CIO heterostructure thin films",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      }
+    ],
+    [
+      {
+        "entity": "CuInO2 phase",
+        "attribute": "crystalsystem",
+        "value": "rhombohedral"
+      },
+      {
+        "entity": "Cu2O phase",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "In2O3 phase",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "head": "pristine In2O3 epitaxial thin film",
+        "relation": "isTestedBy",
+        "tail": "Rocking curve measurements"
+      },
+      {
+        "head": "pristine Cu2O film",
+        "relation": "isTestedBy",
+        "tail": "Rocking curve measurements"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isTestedBy",
+        "tail": "Rocking curve measurements"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isTestedBy",
+        "tail": "Rocking curve measurements"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isTestedBy",
+        "tail": "Rocking curve measurements"
+      },
+      {
+        "head": "(400) plane",
+        "relation": "isPartOf",
+        "tail": "pristine In2O3 epitaxial thin film"
+      },
+      {
+        "head": "(022) plane",
+        "relation": "isPartOf",
+        "tail": "pristine Cu2O film"
+      },
+      {
+        "head": "(0003) plane",
+        "relation": "isPartOf",
+        "tail": "CuInO2 phase"
+      },
+      {
+        "head": "(222) plane",
+        "relation": "isPartOf",
+        "tail": "In2O3 phase"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "CuInO2 phase"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "Cu2O phase"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "In2O3 phase"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "CuInO2 phase"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "Cu2O phase"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "In2O3 phase"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "CuInO2 phase"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "Cu2O phase"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isMadeOf",
+        "tail": "In2O3 phase"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isAKindOf",
+        "tail": "heterostructures thin films"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isAKindOf",
+        "tail": "heterostructures thin films"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isAKindOf",
+        "tail": "heterostructures thin films"
+      },
+      {
+        "head": "pristine In2O3 epitaxial thin film",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      },
+      {
+        "head": "pristine Cu2O film",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      },
+      {
+        "head": "CIO-1 heterostructures thin film",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      },
+      {
+        "head": "CIO-3 heterostructures thin film",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      },
+      {
+        "head": "CIO-5 heterostructures thin film",
+        "relation": "isDependentOn",
+        "tail": "MgO (001) substrate"
+      }
+    ],
+    [
+      {
+        "head": "CIO-1",
+        "relation": "isDerivedFrom",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isDerivedFrom",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isDerivedFrom",
+        "tail": "In2O3"
+      },
+      {
+        "head": "(111) oriented grains",
+        "relation": "isPartOf",
+        "tail": "In2O3 film"
+      },
+      {
+        "head": "in-plane domains",
+        "relation": "isPartOf",
+        "tail": "(111) oriented grains"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isTestedBy",
+        "tail": "rocking curve"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isTestedBy",
+        "tail": "rocking curve"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isTestedBy",
+        "tail": "rocking curve"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isTestedBy",
+        "tail": "rocking curve"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isTestedBy",
+        "tail": "rocking curve"
+      }
+    ],
+    [
+      {
+        "entity": "CuInO2",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "entity": "In2O3",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "MgO",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "Cu2O",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "head": "epitaxial films",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "epitaxial films",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "epitaxial films",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "epitaxial films",
+        "relation": "isAKindOf",
+        "tail": "thin film"
+      },
+      {
+        "head": "epitaxial films",
+        "relation": "isDependentOn",
+        "tail": "MgO"
+      },
+      {
+        "head": "composite targets",
+        "relation": "isMadeOf",
+        "tail": "CuO"
+      },
+      {
+        "head": "composite targets",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isAlternativeTo",
+        "tail": "Cu2O"
+      }
+    ],
+    [
+      {
+        "entity": "In2O3",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "In2O3 epitaxial film",
+        "attribute": "shape",
+        "value": "maze-like"
+      },
+      {
+        "head": "In2O3 epitaxial film",
+        "relation": "isTestedBy",
+        "tail": "EBSD"
+      },
+      {
+        "head": "In2O3 epitaxial film",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      },
+      {
+        "head": "In2O3 epitaxial film",
+        "relation": "isPartOf",
+        "tail": "MgO (001) substrate"
+      },
+      {
+        "head": "spherical grains",
+        "relation": "isPartOf",
+        "tail": "In2O3 epitaxial film"
+      },
+      {
+        "head": "maze-like grains",
+        "relation": "isPartOf",
+        "tail": "In2O3 epitaxial film"
+      }
+    ],
+    [
+      {
+        "entity": "Cu2O epitaxial thin film",
+        "attribute": "shape",
+        "value": "maze-like"
+      },
+      {
+        "head": "Cu2O epitaxial thin film",
+        "relation": "isPartOf",
+        "tail": "MgO substrate"
+      },
+      {
+        "head": "Cu2O epitaxial thin film",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "Cu2O epitaxial thin film",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      }
+    ],
+    [
+      {
+        "entity": "Cu2O",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "In2O3",
+        "attribute": "crystalsystem",
+        "value": "cubic"
+      },
+      {
+        "entity": "CuInO2",
+        "attribute": "crystalsystem",
+        "value": "rhombohedral"
+      },
+      {
+        "entity": "CIO-1",
+        "attribute": "shape",
+        "value": "maze-like morphology"
+      },
+      {
+        "entity": "CIO-3",
+        "attribute": "shape",
+        "value": "maze-like morphology"
+      },
+      {
+        "entity": "CIO-5",
+        "attribute": "shape",
+        "value": "maze-like morphology"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isDependentOn",
+        "tail": "MgO substrate"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isDependentOn",
+        "tail": "MgO substrate"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isDependentOn",
+        "tail": "MgO substrate"
+      }
+    ],
+    [
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isMadeOf",
+        "tail": "Cu"
+      },
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isMadeOf",
+        "tail": "In"
+      },
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isMadeOf",
+        "tail": "O"
+      },
+      {
+        "head": "MgO",
+        "relation": "isMadeOf",
+        "tail": "Mg"
+      },
+      {
+        "head": "FFT patterns",
+        "relation": "isDerivedFrom",
+        "tail": "HR-TEM image"
+      },
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isTestedBy",
+        "tail": "STEM"
+      },
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isTestedBy",
+        "tail": "EDX"
+      },
+      {
+        "head": "CIO-5 thin film",
+        "relation": "isTestedBy",
+        "tail": "XRD"
+      },
+      {
+        "entity": "CuInO2",
+        "attribute": "crystalsystem",
+        "value": "rhombohedral"
+      }
+    ],
+    [
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isAKindOf",
+        "tail": "multi-phase epitaxial films"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isAKindOf",
+        "tail": "multi-phase epitaxial films"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isAKindOf",
+        "tail": "multi-phase epitaxial films"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isTestedBy",
+        "tail": "Tauc plots"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isTestedBy",
+        "tail": "Tauc plots"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isTestedBy",
+        "tail": "Tauc plots"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isTestedBy",
+        "tail": "Tauc plots"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isTestedBy",
+        "tail": "Tauc plots"
+      }
+    ],
+    [
+      {
+        "head": "CIO-1",
+        "relation": "isAKindOf",
+        "tail": "epitaxial composite heterostructure"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "hetero junctions",
+        "relation": "isPartOf",
+        "tail": "CIO-1"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isAKindOf",
+        "tail": "epitaxial composite heterostructure"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "hetero junctions",
+        "relation": "isPartOf",
+        "tail": "CIO-3"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isAKindOf",
+        "tail": "epitaxial composite heterostructure"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction"
+      },
+      {
+        "head": "hetero junctions",
+        "relation": "isPartOf",
+        "tail": "CIO-5"
+      },
+      {
+        "entity": "In2O3",
+        "attribute": "electricalConductivity",
+        "value": "n-type"
+      },
+      {
+        "entity": "Cu2O",
+        "attribute": "electricalConductivity",
+        "value": "p-type"
+      },
+      {
+        "entity": "CuInO2",
+        "attribute": "electricalConductivity",
+        "value": "p-type"
+      }
+    ],
+    [
+      {
+        "head": "p-Cu2O/n-In2O3/p-CuInO2",
+        "relation": "isPartOf",
+        "tail": "epitaxial mixed-phase composite"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 configuration"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 configuration"
+      },
+      {
+        "head": "CuInO2",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 configuration"
+      },
+      {
+        "head": "p-Cu2O/p-CuInO2/n-In2O3",
+        "relation": "isPartOf",
+        "tail": "epitaxial mixed-phase composite"
+      },
+      {
+        "head": "p-CuInO2/p-Cu2O/n-In2O3",
+        "relation": "isPartOf",
+        "tail": "epitaxial mixed-phase composite"
+      },
+      {
+        "head": "p-n junction",
+        "relation": "isPartOf",
+        "tail": "p-Cu2O/n-In2O3/p-CuInO2 configuration"
+      },
+      {
+        "head": "p-Cu2O/n-In2O3/p-CuInO2 configuration",
+        "relation": "isUsedFor",
+        "tail": "optoelectronic applications"
+      },
+      {
+        "head": "In2O3",
+        "relation": "isUsedFor",
+        "tail": "transparent transport layers"
+      },
+      {
+        "head": "CuInO2",
+        "relation": "isUsedFor",
+        "tail": "barrier layers"
+      },
+      {
+        "head": "Cu2O",
+        "relation": "isUsedFor",
+        "tail": "visible-light absorber"
+      },
+      {
+        "head": "Pt electrodes",
+        "relation": "isMadeOf",
+        "tail": "platinum"
+      },
+      {
+        "head": "Pt electrodes",
+        "relation": "isPartOf",
+        "tail": "planar device configuration"
+      },
+      {
+        "head": "planar device configuration",
+        "relation": "isUsedFor",
+        "tail": "electrical measurements"
+      },
+      {
+        "head": "epitaxial thin films",
+        "relation": "isTestedBy",
+        "tail": "J-V measurements"
+      }
+    ],
+    [
+      {
+        "head": "wider bandgap phases",
+        "relation": "isPartOf",
+        "tail": "ICO-3 film"
+      },
+      {
+        "head": "wider bandgap phases",
+        "relation": "isPartOf",
+        "tail": "ICO-5 film"
+      },
+      {
+        "head": "interfacial defects",
+        "relation": "isPartOf",
+        "tail": "ICO-3 film"
+      },
+      {
+        "head": "interfacial defects",
+        "relation": "isPartOf",
+        "tail": "ICO-5 film"
+      },
+      {
+        "head": "interfacial defects",
+        "relation": "isAKindOf",
+        "tail": "recombination centres"
+      },
+      {
+        "head": "ICO-3 film",
+        "relation": "isDependentOn",
+        "tail": "wider bandgap phases"
+      },
+      {
+        "head": "ICO-5 film",
+        "relation": "isDependentOn",
+        "tail": "wider bandgap phases"
+      },
+      {
+        "head": "ICO-3 film",
+        "relation": "isDependentOn",
+        "tail": "interfacial defects"
+      },
+      {
+        "head": "ICO-5 film",
+        "relation": "isDependentOn",
+        "tail": "interfacial defects"
+      }
+    ],
+    [
+      {
+        "head": "DA-PLD method",
+        "relation": "isUsedFor",
+        "tail": "Cu2O(011)/In2O3(111)/CuInO2(0001) heterostructure epitaxial thin films"
+      },
+      {
+        "head": "(2CuO)(1−x)/(In2O3)x composite target",
+        "relation": "isUsedFor",
+        "tail": "Cu2O/In2O3/CuInO2 heterostructure epitaxial thin films"
+      },
+      {
+        "head": "CIO-1",
+        "relation": "isAKindOf",
+        "tail": "Cu2O/In2O3/CuInO2 heterostructure epitaxial thin films"
+      },
+      {
+        "head": "CIO-3",
+        "relation": "isAKindOf",
+        "tail": "Cu2O/In2O3/CuInO2 heterostructure epitaxial thin films"
+      },
+      {
+        "head": "CIO-5",
+        "relation": "isAKindOf",
+        "tail": "Cu2O/In2O3/CuInO2 heterostructure epitaxial thin films"
+      },
+      {
+        "entity": "pristine Cu2O films",
+        "attribute": "shape",
+        "value": "large, continuous maze-like structures interspersed with plateau-shaped grains"
+      },
+      {
+        "entity": "pristine In2O3 films",
+        "attribute": "shape",
+        "value": "finer maze-like networks with spherical particles"
+      },
+      {
+        "entity": "CIO-1 heterostructure thin films",
+        "attribute": "shape",
+        "value": "maze-like grain patterns composed of densely packed spherical crystallites"
+      },
+      {
+        "entity": "CIO-3 heterostructure thin films",
+        "attribute": "shape",
+        "value": "maze-like grain patterns composed of densely packed spherical crystallites"
+      },
+      {
+        "entity": "CIO-5 heterostructure thin films",
+        "attribute": "shape",
+        "value": "maze-like grain patterns composed of densely packed spherical crystallites"
+      },
+      {
+        "entity": "heterostructure epitaxial thin films",
+        "attribute": "electricalConductivity",
+        "value": "ohmic-type conduction"
+      }
+    ],
+    [
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isTestedBy",
+        "tail": "planar device configuration"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isTestedBy",
+        "tail": "planar device configuration"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isTestedBy",
+        "tail": "planar device configuration"
+      },
+      {
+        "head": "J-V curves",
+        "relation": "isPartOf",
+        "tail": "J-V characteristics"
+      },
+      {
+        "entity": "Cu2O",
+        "attribute": "electricalConductivity",
+        "value": "p-type"
+      },
+      {
+        "entity": "In2O3",
+        "attribute": "electricalConductivity",
+        "value": "n-type"
+      },
+      {
+        "entity": "CuInO2",
+        "attribute": "electricalConductivity",
+        "value": "p-type"
+      }
+    ],
+    [
+      {
+        "head": "ICO-1",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isAKindOf",
+        "tail": "epitaxial thin film"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-1",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-3",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "Cu2O"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "In2O3"
+      },
+      {
+        "head": "ICO-5",
+        "relation": "isMadeOf",
+        "tail": "CuInO2"
+      },
+      {
+        "entity": "ICO-1",
+        "attribute": "electricalConductivity",
+        "value": "remains comparable"
+      },
+      {
+        "entity": "ICO-3",
+        "attribute": "electricalConductivity",
+        "value": "remains comparable"
+      },
+      {
+        "entity": "ICO-5",
+        "attribute": "electricalConductivity",
+        "value": "remains comparable"
+      }
+    ]
+  ],
+  "Balancing_Structure_and_Performance_Optimized_BZO_Nanorod_Do": [
+    [
+      {
+        "head": "BZO nanorods",
+        "relation": "isPartOf",
+        "tail": "YBCO matrix"
+      },
+      {
+        "head": "Ca-doped YBCO interlayers",
+        "relation": "isPartOf",
+        "tail": "multilayer architecture"
+      },
+      {
+        "head": "YBCO layers",
+        "relation": "isPartOf",
+        "tail": "multilayer architecture"
+      },
+      {
+        "head": "multilayer architecture",
+        "relation": "isUsedFor",
+        "tail": "next-generation coated conductors"
+      },
+      {
+        "head": "multilayer architecture",
+        "relation": "isUsedFor",
+        "tail": "high-performance applications in strong magnetic fields"
+      },
+      {
+        "head": "zero-field Jc(0)",
+        "relation": "isDependentOn",
+        "tail": "BZO concentration"
+      },
+      {
+        "entity": "BZO nanorods",
+        "attribute": "shape",
+        "value": "vertically aligned"
+      }
+    ],
+    [
+      {
+        "head": "YBCO",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "head": "BZO-doped YBCO",
+        "relation": "isAKindOf",
+        "tail": "YBCO"
+      },
+      {
+        "head": "Ca-doped YBCO",
+        "relation": "isAKindOf",
+        "tail": "YBCO"
+      },
+      {
+        "head": "Ca-doped YBCO intermediate layer",
+        "relation": "isPartOf",
+        "tail": "BZO-doped YBCO multilayer structures"
+      },
+      {
+        "head": "BZO-doped YBCO multilayer structures",
+        "relation": "isMadeOf",
+        "tail": "BZO-doped YBCO layers"
+      },
+      {
+        "head": "BZO-doped YBCO multilayer structures",
+        "relation": "isMadeOf",
+        "tail": "Ca-doped YBCO intermediate layers"
+      },
+      {
+        "head": "BZO-doped YBCO multilayer structures",
+        "relation": "isUsedFor",
+        "tail": "high-temperature superconductor applications"
+      },
+      {
+        "head": "coated conductors",
+        "relation": "isUsedFor",
+        "tail": "high-field magnets"
+      },
+      {
+        "head": "coated conductors",
+        "relation": "isUsedFor",
+        "tail": "rotating machines"
+      },
+      {
+        "head": "coated conductors",
+        "relation": "isUsedFor",
+        "tail": "energy storage systems"
+      },
+      {
+        "entity": "BZO nanorods",
+        "attribute": "shape",
+        "value": "nanorods"
+      }
+    ],
+    [
+      {
+        "head": "Multilayer YBCO films",
+        "relation": "isMadeOf",
+        "tail": "BaZrO3"
+      },
+      {
+        "head": "Multilayer YBCO films",
+        "relation": "isMadeOf",
+        "tail": "30% Ca-doped YBCO spacer layers"
+      },
+      {
+        "head": "Multilayer YBCO films",
+        "relation": "isDerivedFrom",
+        "tail": "pulsed laser deposition"
+      },
+      {
+        "head": "Multilayer YBCO films",
+        "relation": "isTestedBy",
+        "tail": "PANalytical Empyrean x-ray diffractometer"
+      },
+      {
+        "head": "Multilayer YBCO films",
+        "relation": "isAlternativeTo",
+        "tail": "Single-layer YBCO films"
+      },
+      {
+        "head": "Single-layer YBCO films",
+        "relation": "isMadeOf",
+        "tail": "BaZrO3"
+      },
+      {
+        "head": "Single-layer YBCO films",
+        "relation": "isMadeOf",
+        "tail": "YBCO"
+      },
+      {
+        "head": "30% Ca-doped YBCO spacer layers",
+        "relation": "isAKindOf",
+        "tail": "YBCO"
+      },
+      {
+        "entity": "BaZrO3",
+        "attribute": "shape",
+        "value": "nanorods"
+      },
+      {
+        "entity": "Multilayer YBCO films",
+        "attribute": "shape",
+        "value": "multilayer structure"
+      },
+      {
+        "entity": "Single-layer YBCO films",
+        "attribute": "shape",
+        "value": "single-layer structure"
+      }
+    ],
+    [
+      {
+        "head": "multilayer films",
+        "relation": "isAKindOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "single-layer films",
+        "relation": "isAKindOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isPartOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "YBCO films",
+        "relation": "isTestedBy",
+        "tail": "High-resolution transmission electron microscopy (HRTEM)"
+      },
+      {
+        "head": "YBCO films",
+        "relation": "isTestedBy",
+        "tail": "Quantum Design Physical Property Measurement System (PPMS) magnetometer"
+      },
+      {
+        "head": "YBCO films",
+        "relation": "isTestedBy",
+        "tail": "Williamson–Hall analysis"
+      },
+      {
+        "head": "BZO-doped YBCO layers",
+        "relation": "isPartOf",
+        "tail": "multilayer films"
+      },
+      {
+        "head": "stacking faults",
+        "relation": "isPartOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "dislocations",
+        "relation": "isPartOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "Ca-doped YBCO layers",
+        "relation": "isAKindOf",
+        "tail": "YBCO layers"
+      },
+      {
+        "head": "BZO-doped YBCO layers",
+        "relation": "isAKindOf",
+        "tail": "YBCO layers"
+      },
+      {
+        "head": "multilayer films",
+        "relation": "isMadeOf",
+        "tail": "BZO-doped YBCO layers"
+      },
+      {
+        "head": "multilayer films",
+        "relation": "isMadeOf",
+        "tail": "Ca-doped YBCO layers"
+      },
+      {
+        "entity": "BZO nanorods",
+        "attribute": "shape",
+        "value": "nanorods"
+      }
+    ],
+    [
+      {
+        "entity": "BZO nanorods",
+        "attribute": "shape",
+        "value": "nanorod shape"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isPartOf",
+        "tail": "multilayer YBCO films"
+      },
+      {
+        "head": "Ca-doped YBCO interlayers",
+        "relation": "isPartOf",
+        "tail": "multilayer YBCO films"
+      },
+      {
+        "head": "Ca-doped YBCO spacers",
+        "relation": "isPartOf",
+        "tail": "multilayer YBCO films"
+      },
+      {
+        "head": "Ca-doped YBCO",
+        "relation": "isAKindOf",
+        "tail": "YBCO"
+      },
+      {
+        "head": "multilayer YBCO films",
+        "relation": "isAKindOf",
+        "tail": "YBCO films"
+      },
+      {
+        "head": "Ca-doped YBCO interlayers",
+        "relation": "isMadeOf",
+        "tail": "Ca-doped YBCO"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isMadeOf",
+        "tail": "BZO"
+      },
+      {
+        "head": "Ca-doped YBCO spacers",
+        "relation": "isMadeOf",
+        "tail": "Ca-doped YBCO"
+      },
+      {
+        "head": "multilayer YBCO films",
+        "relation": "isAlternativeTo",
+        "tail": "single-layer YBCO films"
+      },
+      {
+        "head": "M4 multilayer",
+        "relation": "isAKindOf",
+        "tail": "multilayer YBCO films"
+      }
+    ],
+    [
+      {
+        "head": "single-layer films",
+        "relation": "isMadeOf",
+        "tail": "BZO dopant"
+      },
+      {
+        "head": "multilayer films",
+        "relation": "isMadeOf",
+        "tail": "BZO dopant"
+      },
+      {
+        "head": "magnetic hysteresis loops",
+        "relation": "isTestedBy",
+        "tail": "Bean model"
+      },
+      {
+        "head": "flux pinning centers",
+        "relation": "isPartOf",
+        "tail": "multilayer structures"
+      },
+      {
+        "head": "Jc(0)",
+        "relation": "isDependentOn",
+        "tail": "BZO dopant concentration"
+      },
+      {
+        "head": "multilayer films",
+        "relation": "isAlternativeTo",
+        "tail": "single-layer films"
+      }
+    ],
+    [
+      {
+        "head": "sample M0",
+        "relation": "isUsedFor",
+        "tail": "low magnetic fields"
+      },
+      {
+        "head": "sample M4",
+        "relation": "isUsedFor",
+        "tail": "magnetic fields exceeding 2 T"
+      },
+      {
+        "head": "sample M2",
+        "relation": "isUsedFor",
+        "tail": "intermediate magnetic fields (1 T to 2 T)"
+      },
+      {
+        "head": "Ca-doped spacer layer",
+        "relation": "isPartOf",
+        "tail": "YBCO matrix"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isPartOf",
+        "tail": "YBCO matrix"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isUsedFor",
+        "tail": "flux pinning"
+      },
+      {
+        "head": "sample M0",
+        "relation": "isAKindOf",
+        "tail": "multilayer film"
+      },
+      {
+        "head": "sample M4",
+        "relation": "isAKindOf",
+        "tail": "multilayer film"
+      },
+      {
+        "head": "sample M8",
+        "relation": "isAKindOf",
+        "tail": "multilayer film"
+      },
+      {
+        "head": "sample M10",
+        "relation": "isAKindOf",
+        "tail": "multilayer film"
+      },
+      {
+        "entity": "BZO nanorods",
+        "attribute": "shape",
+        "value": "rod shape"
+      }
+    ],
+    [
+      {
+        "head": "Ca spacer layer",
+        "relation": "isPartOf",
+        "tail": "YBCO/BZO interface"
+      },
+      {
+        "head": "σ",
+        "relation": "isDependentOn",
+        "tail": "dc"
+      },
+      {
+        "head": "Δu",
+        "relation": "isDependentOn",
+        "tail": "dc"
+      },
+      {
+        "head": "vortex creep rate",
+        "relation": "isDependentOn",
+        "tail": "Δu"
+      },
+      {
+        "head": "vortex creep rate",
+        "relation": "isDependentOn",
+        "tail": "temperature"
+      },
+      {
+        "head": "M8",
+        "relation": "isAKindOf",
+        "tail": "material configuration"
+      },
+      {
+        "head": "M4",
+        "relation": "isAKindOf",
+        "tail": "material configuration"
+      }
+    ],
+    [
+      {
+        "head": "Ca-spacer layers",
+        "relation": "isPartOf",
+        "tail": "multilayer structure"
+      },
+      {
+        "head": "YBCO",
+        "relation": "isAKindOf",
+        "tail": "superconductor"
+      },
+      {
+        "head": "BZO",
+        "relation": "isPartOf",
+        "tail": "multilayer structure"
+      },
+      {
+        "head": "BZO",
+        "relation": "isPartOf",
+        "tail": "YBCO"
+      },
+      {
+        "head": "YBCO/BZO interface",
+        "relation": "isPartOf",
+        "tail": "multilayer structure"
+      },
+      {
+        "head": "multilayer structure",
+        "relation": "isAlternativeTo",
+        "tail": "single film structure"
+      },
+      {
+        "head": "Ca-spacer layers",
+        "relation": "isMadeOf",
+        "tail": "Calcium"
+      },
+      {
+        "head": "Ca-spacer layers",
+        "relation": "isMadeOf",
+        "tail": "Oxygen"
+      }
+    ],
+    [
+      {
+        "head": "Ca-doped layer",
+        "relation": "isPartOf",
+        "tail": "Ca-doped BZO nanorod multilayers"
+      },
+      {
+        "head": "BZO nanorods",
+        "relation": "isPartOf",
+        "tail": "Ca-doped BZO nanorod multilayers"
+      },
+      {
+        "head": "Ca-doped BZO nanorod multilayers",
+        "relation": "isUsedFor",
+        "tail": "high-field applications"
+      },
+      {
+        "head": "controlled nanostructuring",
+        "relation": "isComplementaryTo",
+        "tail": "compositional tuning"
+      },
+      {
+        "head": "Ca-doped BZO nanorod multilayers",
+        "relation": "isAKindOf",
+        "tail": "YBCO-based coated conductors"
+      }
+    ]
+  ],
+  "Optimization_of_Critical_Current_Density_at_16_Tesla_in_Nb3S": [
+    [
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isAKindOf",
+        "tail": "dopant-stabilized IT conductor"
+      },
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isMadeOf",
+        "tail": "Ti-doped Nb3Sn"
+      },
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isUsedFor",
+        "tail": "FCC-hh"
+      }
+    ],
+    [
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isMadeOf",
+        "tail": "Nb3Sn"
+      },
+      {
+        "head": "Internal-tin type multiﬁlamentary Nb3Sn superconducting wires",
+        "relation": "isAKindOf",
+        "tail": "superconducting wires"
+      },
+      {
+        "head": "Ti",
+        "relation": "isPartOf",
+        "tail": "Nb3Sn"
+      },
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isUsedFor",
+        "tail": "Future Circular Collider (FCC)"
+      },
+      {
+        "head": "Nb3Sn superconducting wires",
+        "relation": "isUsedFor",
+        "tail": "China Fusion Engineering Demonstration Reactor (CFEDR)"
+      },
+      {
+        "head": "heat treatment processes",
+        "relation": "isUsedFor",
+        "tail": "optimizing microstructure"
+      },
+      {
+        "head": "Internal-tin type multiﬁlamentary Nb3Sn superconducting wires",
+        "relation": "isAKindOf",
+        "tail": "IT Nb3Sn wires"
+      },
+      {
+        "head": "heat treatment processes",
+        "relation": "isUsedFor",
+        "tail": "grain refinement"
+      },
+      {
+        "head": "Ti-doped Nb3Sn wires",
+        "relation": "isAKindOf",
+        "tail": "Nb3Sn superconducting wires"
+      },
+      {
+        "head": "Sn-rich Nb3Sn phases",
+        "relation": "isAKindOf",
+        "tail": "Nb3Sn phases"
+      },
+      {
+        "entity": "Nb3Sn superconducting wires",
+        "attribute": "shape",
+        "value": "multiﬁlamentary"
+      }
+    ],
+    [
+      {
+        "head": "Nb3Sn strands",
+        "relation": "isMadeOf",
+        "tail": "Nb–47wt.% Ti alloy filaments"
+      },
+      {
+        "head": "Ti dopant",
+        "relation": "isPartOf",
+        "tail": "Nb–47wt.% Ti alloy filaments"
+      },
+      {
+        "head": "Nb3Sn strands",
+        "relation": "isMadeOf",
+        "tail": "subelements"
+      },
+      {
+        "head": "two-stage heat-treatment strategy",
+        "relation": "isUsedFor",
+        "tail": "Nb3Sn formation"
+      },
+      {
+        "head": "Nb3Sn strands",
+        "relation": "isTestedBy",
+        "tail": "SEM"
+      },
+      {
+        "head": "Nb3Sn strands",
+        "relation": "isTestedBy",
+        "tail": "EDS"
+      },
+      {
+        "head": "Nb3Sn strands",
+        "relation": "isTestedBy",
+        "tail": "EBSD"
+      },
+      {
+        "entity": "Nb3Sn strands",
+        "attribute": "shape",
+        "value": "0.818 mm in diameter"
+      }
+    ],
+    [
+      {
+        "head": "37-core wires",
+        "relation": "isTestedBy",
+        "tail": "ITER-type Ic mandrels"
+      },
+      {
+        "head": "hysteresis loop",
+        "relation": "isTestedBy",
+        "tail": "Physical Property Measurement System (VSM-PPMS)"
+      },
+      {
+        "head": "inner Cu",
+        "relation": "isPartOf",
+        "tail": "37-core wires"
+      },
+      {
+        "head": "inner Cu",
+        "relation": "isMadeOf",
+        "tail": "Sn"
+      },
+      {
+        "head": "inner Cu",
+        "relation": "isMadeOf",
+        "tail": "Cu"
+      },
+      {
+        "entity": "effective filament",
+        "attribute": "shape",
+        "value": "87 µm"
+      },
+      {
+        "entity": "subelement",
+        "attribute": "shape",
+        "value": "71 µm"
+      }
+    ],
+    [
+      {
+        "head": "Sn gradients",
+        "relation": "isPartOf",
+        "tail": "persistent microstructural defects"
+      },
+      {
+        "head": "columnar A15 grains",
+        "relation": "isPartOf",
+        "tail": "persistent microstructural defects"
+      },
+      {
+        "head": "coarse A15 grains",
+        "relation": "isPartOf",
+        "tail": "persistent microstructural defects"
+      },
+      {
+        "head": "sub-optimal superconducting fraction",
+        "relation": "isPartOf",
+        "tail": "persistent microstructural defects"
+      },
+      {
+        "head": "residual tensile/compressive stress",
+        "relation": "isPartOf",
+        "tail": "persistent microstructural defects"
+      },
+      {
+        "head": "synergistic defect-engineering framework",
+        "relation": "isUsedFor",
+        "tail": "suppress persistent microstructural defects"
+      },
+      {
+        "head": "grain refinement",
+        "relation": "isPartOf",
+        "tail": "synergistic defect-engineering framework"
+      },
+      {
+        "head": "Sn homogenization",
+        "relation": "isPartOf",
+        "tail": "synergistic defect-engineering framework"
+      },
+      {
+        "head": "strain relaxation",
+        "relation": "isPartOf",
+        "tail": "synergistic defect-engineering framework"
+      },
+      {
+        "head": "superconducting volume fraction maximization",
+        "relation": "isPartOf",
+        "tail": "synergistic defect-engineering framework"
+      },
+      {
+        "head": "synergistic defect-engineering framework",
+        "relation": "isUsedFor",
+        "tail": "elevate the global transport capability of the wires"
+      }
+    ],
+    [
+      {
+        "entity": "Nb3Sn",
+        "attribute": "crystalsystem",
+        "value": "A15"
+      },
+      {
+        "head": "Nb3Sn superconducting wire",
+        "relation": "isMadeOf",
+        "tail": "Nb3Sn"
+      },
+      {
+        "head": "A15 layer",
+        "relation": "isPartOf",
+        "tail": "Nb3Sn superconducting wire"
+      },
+      {
+        "head": "A15 layer",
+        "relation": "isAKindOf",
+        "tail": "crystal structure"
+      },
+      {
+        "head": "Nb3Sn superconducting wire",
+        "relation": "isAKindOf",
+        "tail": "superconducting wire"
+      },
+      {
+        "head": "Nb3Sn",
+        "relation": "isAKindOf",
+        "tail": "superconducting material"
+      }
+    ],
+    [
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "shape",
+        "value": "columnar"
+      },
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "shape",
+        "value": "equiaxed"
+      },
+      {
+        "entity": "Nb3Sn",
+        "attribute": "strain sensitivity",
+        "value": "extreme"
+      },
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "grain size",
+        "value": "modal grain size represents the most statistically dominant grain dimension"
+      },
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "aspect ratio",
+        "value": "smallest aspect ratio at 680°C around 100 h"
+      },
+      {
+        "entity": "Nb3Sn",
+        "attribute": "critical current density",
+        "value": "enhanced by high qualities in compositional gradient, size and aspect ratio"
+      },
+      {
+        "head": "grain size",
+        "relation": "isAKindOf",
+        "tail": "characteristic length scale of the microstructure"
+      },
+      {
+        "head": "grain size",
+        "relation": "isDependentOn",
+        "tail": "heating temperature"
+      },
+      {
+        "head": "grain size",
+        "relation": "isDependentOn",
+        "tail": "dwell time"
+      },
+      {
+        "head": "strain in Nb3Sn GBs",
+        "relation": "isTestedBy",
+        "tail": "KAM analysis"
+      },
+      {
+        "head": "strain in Nb3Sn GBs",
+        "relation": "isDependentOn",
+        "tail": "KAM values"
+      },
+      {
+        "head": "strain sensitivity",
+        "relation": "isDependentOn",
+        "tail": "Sn content"
+      },
+      {
+        "head": "strain sensitivity",
+        "relation": "isDependentOn",
+        "tail": "heating temperature"
+      },
+      {
+        "head": "strain sensitivity",
+        "relation": "isDependentOn",
+        "tail": "duration"
+      },
+      {
+        "head": "KAM values",
+        "relation": "isDependentOn",
+        "tail": "duration at HT"
+      },
+      {
+        "head": "critical current density",
+        "relation": "isDependentOn",
+        "tail": "grain size and aspect ratio"
+      },
+      {
+        "head": "Nb3Sn grains",
+        "relation": "isPartOf",
+        "tail": "multiﬁlamentary wires"
+      }
+    ],
+    [
+      {
+        "head": "Nb3Sn",
+        "relation": "isAKindOf",
+        "tail": "superconducting phase"
+      },
+      {
+        "head": "Nb filaments",
+        "relation": "isPartOf",
+        "tail": "61-core wires"
+      },
+      {
+        "head": "HT process",
+        "relation": "isUsedFor",
+        "tail": "forming Nb3Sn grains"
+      },
+      {
+        "head": "Nb3Sn grains",
+        "relation": "isDependentOn",
+        "tail": "HT duration"
+      },
+      {
+        "head": "Nb3Sn grains",
+        "relation": "isDependentOn",
+        "tail": "HT temperature"
+      },
+      {
+        "head": "smaller Nb diameter",
+        "relation": "isAlternativeTo",
+        "tail": "higher HT temperature"
+      },
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "shape",
+        "value": "columnar"
+      },
+      {
+        "entity": "Nb3Sn grains",
+        "attribute": "shape",
+        "value": "abnormally coarse"
+      }
+    ],
+    [
+      {
+        "entity": "multi-filamentary Nb3Sn wires",
+        "attribute": "shape",
+        "value": "finer filaments"
+      },
+      {
+        "head": "columnar grains",
+        "relation": "isAKindOf",
+        "tail": "grain structure"
+      },
+      {
+        "head": "multi-filamentary Nb3Sn wires",
+        "relation": "isDependentOn",
+        "tail": "heat treatment duration"
+      }
+    ]
+  ],
+  "s41586-019-1718-x_chunks": [
+    [
+      {
+        "head": "Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "Bi-2212",
+        "relation": "isPartOf",
+        "tail": "copper oxide high-temperature superconductors"
+      },
+      {
+        "head": "NbSe2",
+        "relation": "isAKindOf",
+        "tail": "conventional two-dimensional superconductors"
+      },
+      {
+        "head": "monolayer copper oxides",
+        "relation": "isUsedFor",
+        "tail": "studying high-temperature superconductivity"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk Bi-2212"
+      }
+    ],
+    [
+      {
+        "head": "high-temperature copper oxide superconductors",
+        "relation": "isPartOf",
+        "tail": "layered structure"
+      },
+      {
+        "head": "monolayer HTS",
+        "relation": "isPartOf",
+        "tail": "epitaxial oxide heterostructures"
+      },
+      {
+        "head": "2D materials",
+        "relation": "isDerivedFrom",
+        "tail": "layered bulk"
+      },
+      {
+        "head": "scanning tunnelling microscopy/spectroscopy (STM/STS)",
+        "relation": "isUsedFor",
+        "tail": "probing the surface of materials"
+      },
+      {
+        "head": "angle-resolved photoemission spectroscopy (ARPES)",
+        "relation": "isUsedFor",
+        "tail": "probing the surface of materials"
+      },
+      {
+        "head": "HTS",
+        "relation": "isTestedBy",
+        "tail": "scanning tunnelling microscopy/spectroscopy (STM/STS)"
+      },
+      {
+        "head": "HTS",
+        "relation": "isTestedBy",
+        "tail": "angle-resolved photoemission spectroscopy (ARPES)"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDerivedFrom",
+        "tail": "layered bulk"
+      },
+      {
+        "head": "monolayer HTS",
+        "relation": "isAKindOf",
+        "tail": "HTS"
+      },
+      {
+        "head": "layered bulk",
+        "attribute": "shape",
+        "value": "layered structure"
+      },
+      {
+        "head": "2D materials",
+        "attribute": "shape",
+        "value": "monolayer"
+      }
+    ],
+    [
+      {
+        "head": "monolayer",
+        "relation": "isPartOf",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "monolayer",
+        "relation": "isMadeOf",
+        "tail": "CuO2 planes"
+      },
+      {
+        "head": "van der Waals gaps",
+        "relation": "isPartOf",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "Bi2212 thin flake",
+        "relation": "isMadeOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "Bi2212 thin flake",
+        "relation": "isTestedBy",
+        "tail": "Atomic force microscopy"
+      },
+      {
+        "head": "monolayer terraces",
+        "relation": "isPartOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212 device",
+        "relation": "isMadeOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "bulk Bi-2212",
+        "relation": "isUsedFor",
+        "tail": "electrical leads"
+      },
+      {
+        "head": "layer",
+        "relation": "isPartOf",
+        "tail": "Bi2212 thin flake"
+      },
+      {
+        "entity": "Bi2212 thin flake",
+        "attribute": "shape",
+        "value": "layered"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "CuO2 planes",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "septuple-layered slab"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "head": "sample A",
+        "relation": "isAKindOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "doping level p",
+        "relation": "isDerivedFrom",
+        "tail": "resistance measurement at 200 K"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "optimally doped bulk crystals"
+      },
+      {
+        "head": "superconducting transition temperature Tc",
+        "relation": "isDependentOn",
+        "tail": "doping level"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "superconductingTransitionTemperature",
+        "value": "Tc max"
+      },
+      {
+        "entity": "sample A",
+        "attribute": "dopingLevel",
+        "value": "over-doped"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "resistivity",
+        "value": "temperature-dependent"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "temperatureDependenceOfResistivity",
+        "value": "deviates from linear behavior below T*"
+      }
+    ],
+    [
+      {
+        "head": "Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "superconducting material"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "Bi-2212 flakes",
+        "relation": "isDerivedFrom",
+        "tail": "mechanical exfoliation on an oxygen-plasma-treated SiO2 surface"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDependentOn",
+        "tail": "environmental conditions"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "indium/gold microelectrodes",
+        "relation": "isUsedFor",
+        "tail": "electrical contacts"
+      },
+      {
+        "head": "indium/gold microelectrodes",
+        "relation": "isMadeOf",
+        "tail": "indium"
+      },
+      {
+        "head": "indium/gold microelectrodes",
+        "relation": "isMadeOf",
+        "tail": "gold"
+      },
+      {
+        "head": "Bi-2212",
+        "relation": "isDependentOn",
+        "tail": "oxygen doping"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "atomic force microscopy"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "transport measurements"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "electricalConductivity",
+        "value": "insulating"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "electricalConductivity",
+        "value": "superconducting"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "large region of several hundreds of micrometres in diameter"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "cut into appropriate geometry"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "quality",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "high-temperature superconductor"
+      },
+      {
+        "head": "oxygen",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "monolayer"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "electricalConductivity",
+        "value": "low (room-temperature resistivity ~30 kΩ)"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "electricalConductivity",
+        "value": "high (room-temperature resistivity ~1 kΩ)"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "vacuum annealing"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "ozone annealing"
+      },
+      {
+        "head": "oxygen",
+        "relation": "isDependentOn",
+        "tail": "monolayer Bi-2212"
+      }
+    ],
+    [
+      {
+        "head": "Au electrode",
+        "relation": "isPartOf",
+        "tail": "STM measurement set-up"
+      },
+      {
+        "head": "STM measurement set-up",
+        "relation": "isUsedFor",
+        "tail": "tunnelling spectroscopy"
+      },
+      {
+        "head": "supermodulation ridges",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "differential conductance spectra"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "tunnelling spectroscopy"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "supermodulation ridges"
+      }
+    ],
+    [
+      {
+        "entity": "Fermi surface",
+        "attribute": "shape",
+        "value": "circular arc joined with two straight lines"
+      },
+      {
+        "entity": "constant-energy contours",
+        "attribute": "shape",
+        "value": "banana-shaped"
+      },
+      {
+        "head": "superconducting gap",
+        "relation": "isDerivedFrom",
+        "tail": "scattering vectors"
+      },
+      {
+        "head": "scattering vectors",
+        "relation": "isPartOf",
+        "tail": "quasi-particle interference"
+      },
+      {
+        "head": "Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "superconductor"
+      },
+      {
+        "head": "Fermi surface",
+        "relation": "isDerivedFrom",
+        "tail": "constant-energy contours"
+      }
+    ],
+    [
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "large scale corrugations"
+      },
+      {
+        "entity": "amorphous SiO2",
+        "attribute": "shape",
+        "value": "rough surface with r.m.s. approximately 0.25 nm"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "head": "Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-based bulk copper oxides"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDependentOn",
+        "tail": "underlying substrate"
+      },
+      {
+        "head": "supermodulation ridges",
+        "relation": "isPartOf",
+        "tail": "Bi-based bulk copper oxides"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isTestedBy",
+        "tail": "STM topography measurement"
+      },
+      {
+        "head": "BiO plane",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk copper oxide superconductors"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "copper oxide superconductor"
+      },
+      {
+        "head": "superconducting energy gap",
+        "relation": "isPartOf",
+        "tail": "superconducting state"
+      },
+      {
+        "head": "Bogoliubov quasiparticles",
+        "relation": "isPartOf",
+        "tail": "superconducting energy gap"
+      },
+      {
+        "head": "wavevectors q_i",
+        "relation": "isDerivedFrom",
+        "tail": "octet model"
+      },
+      {
+        "head": "quasi-particle interference technique",
+        "relation": "isUsedFor",
+        "tail": "superconducting gap dispersion"
+      }
+    ],
+    [
+      {
+        "entity": "normal-state Fermi surface",
+        "attribute": "shape",
+        "value": "cylindrical"
+      },
+      {
+        "head": "normal-state Fermi surface",
+        "relation": "isDerivedFrom",
+        "tail": "dispersions qi(E)"
+      },
+      {
+        "head": "superconducting gap dispersion",
+        "relation": "isDerivedFrom",
+        "tail": "dispersions qi(E)"
+      },
+      {
+        "head": "superconducting gap dispersion",
+        "relation": "isSimilarTo",
+        "tail": "d-wave superconducting gap dispersion"
+      },
+      {
+        "head": "normal-state Fermi surface",
+        "relation": "isSimilarTo",
+        "tail": "cylindrical Fermi surface in bulk Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "copper oxide superconductors"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDerivedFrom",
+        "tail": "UD50"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDerivedFrom",
+        "tail": "OP88"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDerivedFrom",
+        "tail": "OD55"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk source crystals"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "monolayer"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isDerivedFrom",
+        "tail": "bulk source crystals"
+      },
+      {
+        "head": "Δ1",
+        "relation": "isDependentOn",
+        "tail": "doping levels"
+      },
+      {
+        "head": "monolayer spectra",
+        "relation": "isSimilarTo",
+        "tail": "bulk spectra"
+      },
+      {
+        "head": "pseudogap state",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "Δ1",
+        "relation": "isPartOf",
+        "tail": "electronic structure of monolayer Bi-2212"
+      },
+      {
+        "head": "Δ1",
+        "relation": "isAKindOf",
+        "tail": "anti-nodal pseudogap"
+      }
+    ],
+    [
+      {
+        "head": "pair density wave",
+        "relation": "isComplementaryTo",
+        "tail": "charge order"
+      },
+      {
+        "head": "charge order",
+        "relation": "isPartOf",
+        "tail": "bulk copper oxides"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk copper oxides"
+      },
+      {
+        "entity": "charge order",
+        "attribute": "shape",
+        "value": "chequerboard pattern"
+      },
+      {
+        "entity": "coherence peak amplitude map",
+        "attribute": "shape",
+        "value": "chequerboard pattern with period of about 4a0"
+      }
+    ],
+    [
+      {
+        "head": "charge-ordered states",
+        "relation": "isDerivedFrom",
+        "tail": "Mott insulator"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk copper oxides"
+      },
+      {
+        "head": "charge order",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "Mott insulating patches",
+        "relation": "isPartOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "charge order",
+        "relation": "isSimilarTo",
+        "tail": "bulk copper oxides"
+      },
+      {
+        "entity": "Mott insulating patches",
+        "attribute": "electricalConductivity",
+        "value": "insulating"
+      }
+    ],
+    [
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isMadeOf",
+        "tail": "mechanical exfoliation"
+      },
+      {
+        "head": "oxygen plasma treatment",
+        "relation": "isUsedFor",
+        "tail": "increasing area of monolayer crystals on SiO2/Si wafer"
+      },
+      {
+        "head": "oxygen plasma treatment",
+        "relation": "isUsedFor",
+        "tail": "increasing yield of monolayer crystals on SiO2/Si wafer"
+      },
+      {
+        "head": "hydroxyl groups",
+        "relation": "isPartOf",
+        "tail": "functionalized SiO2 surface"
+      },
+      {
+        "head": "Ar atmosphere",
+        "relation": "isUsedFor",
+        "tail": "preserving superconductivity in monolayer Bi-2212"
+      },
+      {
+        "head": "oxygen loss",
+        "relation": "isDependentOn",
+        "tail": "room temperature"
+      },
+      {
+        "head": "glove box",
+        "relation": "isUsedFor",
+        "tail": "fabricating high-quality monolayers"
+      },
+      {
+        "head": "indium/gold microelectrodes",
+        "relation": "isUsedFor",
+        "tail": "electrical contacts"
+      },
+      {
+        "head": "chip carrier",
+        "relation": "isUsedFor",
+        "tail": "sealing devices"
+      },
+      {
+        "head": "vacuum grease",
+        "relation": "isPartOf",
+        "tail": "chip carrier"
+      },
+      {
+        "head": "cover glass",
+        "relation": "isPartOf",
+        "tail": "chip carrier"
+      },
+      {
+        "entity": "Bi-2212 crystals",
+        "attribute": "ductility",
+        "value": "low"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "flakes"
+      }
+    ],
+    [
+      {
+        "head": "SIT",
+        "relation": "isAKindOf",
+        "tail": "2D quantum phase transition"
+      },
+      {
+        "head": "SIT in monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "2D quantum phase transition"
+      },
+      {
+        "head": "SIT in monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "SIT in La2−xSrxCuO4"
+      },
+      {
+        "head": "SIT in monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "SIT in LixBi-2212"
+      },
+      {
+        "head": "SIT in monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "SIT in La2CuO4+δ"
+      },
+      {
+        "head": "sample A",
+        "relation": "isAKindOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "sample C",
+        "relation": "isAKindOf",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "disordered 2D superconductor",
+        "relation": "isAKindOf",
+        "tail": "superconductor"
+      },
+      {
+        "head": "superconducting islands",
+        "relation": "isPartOf",
+        "tail": "disordered 2D superconductor"
+      },
+      {
+        "head": "normal metal",
+        "relation": "isPartOf",
+        "tail": "disordered 2D superconductor"
+      },
+      {
+        "head": "SIT transitions in copper oxides",
+        "relation": "isAKindOf",
+        "tail": "universality class"
+      },
+      {
+        "entity": "disordered 2D superconductor",
+        "attribute": "shape",
+        "value": "2D"
+      },
+      {
+        "entity": "monolayer Bi-2212",
+        "attribute": "shape",
+        "value": "monolayer"
+      },
+      {
+        "entity": "superconducting islands",
+        "attribute": "shape",
+        "value": "islands"
+      }
+    ],
+    [
+      {
+        "head": "Kapton tape",
+        "relation": "isUsedFor",
+        "tail": "Bi-2212 flakes"
+      },
+      {
+        "head": "SiO2 layer",
+        "relation": "isPartOf",
+        "tail": "Si wafer"
+      },
+      {
+        "head": "Cr/Au electrodes",
+        "relation": "isPartOf",
+        "tail": "substrate"
+      },
+      {
+        "head": "Bi-2212 flakes",
+        "relation": "isUsedFor",
+        "tail": "STM measurements"
+      },
+      {
+        "head": "AFM",
+        "relation": "isUsedFor",
+        "tail": "monolayer Bi-2212"
+      },
+      {
+        "head": "superconductor-to-insulator transition (SIT)",
+        "relation": "isAKindOf",
+        "tail": "quantum phase transition"
+      },
+      {
+        "head": "superconductor-to-insulator transition (SIT)",
+        "relation": "isTestedBy",
+        "tail": "finite-size scaling analysis"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isAKindOf",
+        "tail": "Bi-2212"
+      },
+      {
+        "entity": "Bi-2212 flakes",
+        "attribute": "shape",
+        "value": "monolayer"
+      },
+      {
+        "entity": "Cr/Au electrodes",
+        "attribute": "shape",
+        "value": "stripes"
+      }
+    ],
+    [
+      {
+        "head": "SIT",
+        "relation": "isAKindOf",
+        "tail": "transition"
+      },
+      {
+        "head": "disorder-driven SIT",
+        "relation": "isAKindOf",
+        "tail": "SIT"
+      },
+      {
+        "head": "doping-driven SIT",
+        "relation": "isAKindOf",
+        "tail": "SIT"
+      },
+      {
+        "head": "quantum percolation model",
+        "relation": "isAKindOf",
+        "tail": "model"
+      },
+      {
+        "head": "quantum percolation model",
+        "relation": "isUsedFor",
+        "tail": "disorder-driven SIT"
+      },
+      {
+        "head": "antiferromagnetic order",
+        "relation": "isPartOf",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "monolayer Bi-2212",
+        "relation": "isSimilarTo",
+        "tail": "bulk Bi-2212"
+      },
+      {
+        "head": "SIT",
+        "relation": "isPartOf",
+        "tail": "disordered monolayer Bi-2212"
+      },
+      {
+        "head": "higher-temperature transition",
+        "relation": "isAKindOf",
+        "tail": "superconducting transition within the islands"
+      },
+      {
+        "head": "SIT",
+        "relation": "isAKindOf",
+        "tail": "lower-temperature transition"
+      }
+    ]
+  ]
+}

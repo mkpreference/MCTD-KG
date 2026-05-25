@@ -1,0 +1,6219 @@
+{
+  "1-s2.0-S1359835X25000843-main_chunks": [
+    [
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isPartOf",
+        "tail": "structure-functional composite"
+      },
+      {
+        "head": "structure-functional composite",
+        "relation": "isAKindOf",
+        "tail": "CFRP composites"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "structure-functional composite",
+        "relation": "isUsedFor",
+        "tail": "aerospace industries"
+      },
+      {
+        "head": "structure-functional composite",
+        "relation": "isUsedFor",
+        "tail": "semiconductor industries"
+      },
+      {
+        "head": "MoS2",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic protection"
+      },
+      {
+        "head": "MoS2",
+        "relation": "isUsedFor",
+        "tail": "enhanced thermal conductivity"
+      },
+      {
+        "entity": "MoS2",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "MoS2",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "structure-functional composite",
+        "attribute": "thermalConductivity",
+        "value": "68.52% increase"
+      },
+      {
+        "entity": "structure-functional composite",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "structure-functional composite",
+        "attribute": "tensileStrength",
+        "value": "91.16 MPa"
+      }
+    ],
+    [
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isUsedFor",
+        "tail": "cabin door load-bearing components of the Airbus A350-900 aircraft"
+      },
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isUsedFor",
+        "tail": "engine inspection covers of the F-35 fighter jet"
+      },
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isUsedFor",
+        "tail": "fairings of the Boeing 757–200 series aircraft"
+      },
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isUsedFor",
+        "tail": "semiconductor chip packaging"
+      },
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isUsedFor",
+        "tail": "equipment casings in the artificial intelligence sector"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "polyether ether ketone"
+      },
+      {
+        "head": "integrated structure-function composite",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "entity": "integrated structure-function composite",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "CF/PEEK composites",
+        "attribute": "elasticModulus",
+        "value": "exceptional"
+      },
+      {
+        "entity": "CF/PEEK composites",
+        "attribute": "tensileStrength",
+        "value": "exceptional"
+      }
+    ],
+    [
+      {
+        "head": "hierarchical layer",
+        "relation": "isMadeOf",
+        "tail": "polydopamine"
+      },
+      {
+        "head": "hierarchical layer",
+        "relation": "isMadeOf",
+        "tail": "polyethyleneimine"
+      },
+      {
+        "head": "hierarchical layer",
+        "relation": "isMadeOf",
+        "tail": "carbon nanotube (CNT)"
+      },
+      {
+        "head": "hierarchical layer",
+        "relation": "isPartOf",
+        "tail": "carbon fiber (CF)"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber (CF)"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheet"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isAKindOf",
+        "tail": "composite material"
+      },
+      {
+        "head": "nanomaterial",
+        "relation": "isUsedFor",
+        "tail": "modifying carbon fiber (CF)"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isUsedFor",
+        "tail": "modifying carbon fiber (CF)"
+      },
+      {
+        "head": "tetraamine-phthalocyanine nanowires (TAPc NWs)",
+        "relation": "isMadeOf",
+        "tail": "hierarchical nanostructure"
+      },
+      {
+        "head": "graphene oxide (GO)",
+        "relation": "isMadeOf",
+        "tail": "hierarchical nanostructure"
+      },
+      {
+        "head": "hierarchical nanostructure",
+        "relation": "isPartOf",
+        "tail": "carbon fiber (CF)"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isPartOf",
+        "tail": "carbon fiber (CF)"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isAKindOf",
+        "tail": "nanomaterial"
+      },
+      {
+        "entity": "MoS2 nanosheet",
+        "attribute": "shape",
+        "value": "sheet-like"
+      },
+      {
+        "entity": "CF reinforced thermoplastic composite modified with GO, PEA, and CNTs",
+        "attribute": "thermalConductivity",
+        "value": "increased by 51.5%"
+      }
+    ],
+    [
+      {
+        "head": "MoS2",
+        "relation": "isSimilarTo",
+        "tail": "graphite"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "enhancing interfacial bonding"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "improving TC"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "improving electromagnetic protection performance"
+      },
+      {
+        "head": "CF-H2O2",
+        "relation": "isAKindOf",
+        "tail": "CF"
+      },
+      {
+        "head": "Unsized CF",
+        "relation": "isAKindOf",
+        "tail": "CF"
+      },
+      {
+        "entity": "MoS2",
+        "attribute": "thermalConductivity",
+        "value": "exceptional"
+      },
+      {
+        "entity": "MoS2",
+        "attribute": "electricalConductivity",
+        "value": "exceptional"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "three-dimensional mesh structure"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isMadeOf",
+        "tail": "Mo"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isMadeOf",
+        "tail": "S"
+      },
+      {
+        "head": "CF",
+        "relation": "isDerivedFrom",
+        "tail": "CF-H2O2"
+      }
+    ],
+    [
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composite"
+      },
+      {
+        "head": "PEEK film",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composite"
+      },
+      {
+        "head": "CF/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "CF"
+      },
+      {
+        "head": "CF/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "PEEK film"
+      },
+      {
+        "head": "CF-H2O2",
+        "relation": "isTestedBy",
+        "tail": "X-ray photoelectron spectroscopy"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "CF-H2O2"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheet"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffraction analysis"
+      },
+      {
+        "head": "MoS2",
+        "relation": "isDerivedFrom",
+        "tail": "Na2MoO4"
+      },
+      {
+        "head": "CF-H2O2",
+        "relation": "isDerivedFrom",
+        "tail": "CF"
+      },
+      {
+        "entity": "MoS2 nanosheet/CF network",
+        "attribute": "shape",
+        "value": "network structure"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isTestedBy",
+        "tail": "SEM analysis"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isTestedBy",
+        "tail": "XPS"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isMadeOf",
+        "tail": "MoS2"
+      },
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheet",
+        "relation": "isDerivedFrom",
+        "tail": "Na2MoO4⋅2H2O"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "UCF-M12",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "UCF-M14",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "entity": "MoS2 nanosheet",
+        "attribute": "crystalsystem",
+        "value": "hexagonal"
+      },
+      {
+        "entity": "MoS2 nanosheet/CF network",
+        "attribute": "shape",
+        "value": "three-dimensional mesh structure"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isAKindOf",
+        "tail": "nanosheets"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "CF surface"
+      },
+      {
+        "head": "UCF-M14",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "nanosheets",
+        "relation": "isPartOf",
+        "tail": "UCF-M14"
+      },
+      {
+        "head": "nanosheets",
+        "relation": "isMadeOf",
+        "tail": "MoS2"
+      },
+      {
+        "head": "CF",
+        "relation": "isUsedFor",
+        "tail": "interfacial adhesion"
+      },
+      {
+        "head": "nanosheets",
+        "relation": "isUsedFor",
+        "tail": "mechanical interlocking with resin"
+      },
+      {
+        "head": "CF-H2O2",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "Unsized CF",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "UCF-M12",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "entity": "nanosheets",
+        "attribute": "density",
+        "value": "increases with increasing Na2MoO4⋅2H2O concentration"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "three-dimensional mesh"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isUsedFor",
+        "tail": "enhancing interfacial bond strength"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isTestedBy",
+        "tail": "interlaminar shear strength test"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isDerivedFrom",
+        "tail": "surface treatment of CFs"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isAKindOf",
+        "tail": "nanomaterial"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isUsedFor",
+        "tail": "improving bonding with resin"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "nanosheet shape"
+      },
+      {
+        "entity": "MoS2 nanosheet/CF network",
+        "attribute": "shape",
+        "value": "network structure"
+      }
+    ],
+    [
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isTestedBy",
+        "tail": "DMA tests"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "entity": "CF/PEEK composites",
+        "attribute": "elasticModulus",
+        "value": "increased following the growth of nanosheets"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "nanosheets"
+      }
+    ],
+    [
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isTestedBy",
+        "tail": "ILSS test"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "PEEK"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "interfacial bonding"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "interphase"
+      },
+      {
+        "head": "interphase",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "UCF-M14/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "UCF-M10/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "UCF-M12/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "UCF-M16/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "Unsized CF/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "elasticModulus",
+        "value": "high"
+      },
+      {
+        "entity": "nanosheet layer",
+        "attribute": "density",
+        "value": "excessive"
+      }
+    ],
+    [
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "resin"
+      },
+      {
+        "head": "Unsized CF/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "CF"
+      },
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "Unsized CF/PEEK composite"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isTestedBy",
+        "tail": "SEM observations"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isTestedBy",
+        "tail": "tensile strength test"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isTestedBy",
+        "tail": "flexural strength test"
+      },
+      {
+        "entity": "UCF-M14/PEEK composite",
+        "attribute": "tensileStrength",
+        "value": "653.26 MPa"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "lamellar structure"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "density",
+        "value": "excessive"
+      }
+    ],
+    [
+      {
+        "head": "UCF-M14/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "UCF-M14/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "UCF-M14/PEEK composite"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "Unsized CF/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "Unsized CF/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "interfacial debonding failure",
+        "relation": "isAKindOf",
+        "tail": "interfacial failure"
+      },
+      {
+        "head": "interfacial failure",
+        "relation": "isAKindOf",
+        "tail": "failure"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isComplementaryTo",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "enhancing interfacial adhesion"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isUsedFor",
+        "tail": "resisting interfacial failure"
+      },
+      {
+        "head": "Unsized CF/PEEK composite",
+        "relation": "isDependentOn",
+        "tail": "weak interface"
+      },
+      {
+        "entity": "UCF-M14/PEEK composite",
+        "attribute": "ductility",
+        "value": "good"
+      },
+      {
+        "entity": "UCF-M14/PEEK composite",
+        "attribute": "tensileStrength",
+        "value": "high"
+      },
+      {
+        "entity": "Unsized CF/PEEK composite",
+        "attribute": "ductility",
+        "value": "weak"
+      },
+      {
+        "entity": "Unsized CF/PEEK composite",
+        "attribute": "tensileStrength",
+        "value": "low"
+      }
+    ],
+    [
+      {
+        "entity": "UCF-M14",
+        "attribute": "electricalConductivity",
+        "value": "low"
+      },
+      {
+        "entity": "UCF-M16",
+        "attribute": "electricalConductivity",
+        "value": "low"
+      },
+      {
+        "entity": "UCF-M16/PEEK composite",
+        "attribute": "thermalConductivity",
+        "value": "lowest"
+      },
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "aggregated"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "CF surface"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "phonon transport"
+      },
+      {
+        "head": "interfaces",
+        "relation": "isUsedFor",
+        "tail": "electron transport"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isDependentOn",
+        "tail": "electrical conductivity"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isDependentOn",
+        "tail": "phonon transport"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isDependentOn",
+        "tail": "electron transport"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "CF"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "PEEK"
+      },
+      {
+        "head": "UCF-M16/PEEK composite",
+        "relation": "isMadeOf",
+        "tail": "Na2MoO4⋅2H2O"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "CF",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "PEEK resin",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "SET",
+        "relation": "isPartOf",
+        "tail": "EMI shielding effectiveness"
+      },
+      {
+        "head": "SEA",
+        "relation": "isPartOf",
+        "tail": "EMI shielding effectiveness"
+      },
+      {
+        "head": "SER",
+        "relation": "isPartOf",
+        "tail": "EMI shielding effectiveness"
+      },
+      {
+        "head": "conductive network",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "interfacial polarization",
+        "relation": "isPartOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "entity": "CF/PEEK composites",
+        "attribute": "electricalConductivity",
+        "value": "increased"
+      }
+    ],
+    [
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "Unsized CF/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "Unsized CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "Unsized CF/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "UCF-M12/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "UCF-M12/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "UCF-M12/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "PEEK resin"
+      },
+      {
+        "head": "UCF-M12/PEEK composites",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "entity": "Unsized CF/PEEK composites",
+        "attribute": "thermalConductivity",
+        "value": "0.54 W/mK"
+      },
+      {
+        "entity": "UCF-M12/PEEK composites",
+        "attribute": "thermalConductivity",
+        "value": "0.91 W/mK"
+      }
+    ],
+    [
+      {
+        "entity": "MoS2 nanosheets",
+        "attribute": "shape",
+        "value": "well-ordered multilayer structure"
+      },
+      {
+        "head": "UCF-M10/PEEK composites",
+        "relation": "isAKindOf",
+        "tail": "CF/PEEK composites"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "UCF-M10/PEEK composites"
+      },
+      {
+        "head": "UCF-M10/PEEK composites",
+        "relation": "isAlternativeTo",
+        "tail": "Unsized CF/PEEK composites"
+      },
+      {
+        "entity": "UCF-M10/PEEK composites",
+        "attribute": "electricalConductivity",
+        "value": "reduces with increased Na2MoO4⋅2H2O concentration"
+      },
+      {
+        "head": "Na2MoO4⋅2H2O",
+        "relation": "isDependentOn",
+        "tail": "electrical conductivity of fabric"
+      },
+      {
+        "head": "UCF-M10/PEEK composites",
+        "relation": "isDependentOn",
+        "tail": "conductivity loss"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheet"
+      },
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isMadeOf",
+        "tail": "CF"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "UCF-M12",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "UCF-M14",
+        "relation": "isAKindOf",
+        "tail": "MoS2 nanosheet/CF network"
+      },
+      {
+        "head": "Unsized CF",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "head": "Unsized CF",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "head": "UCF-M12",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "head": "UCF-M14",
+        "relation": "isUsedFor",
+        "tail": "microwave absorption"
+      },
+      {
+        "entity": "MoS2 nanosheet",
+        "attribute": "shape",
+        "value": "sheet"
+      },
+      {
+        "entity": "CF",
+        "attribute": "shape",
+        "value": "fiber"
+      },
+      {
+        "entity": "Unsized CF",
+        "attribute": "shape",
+        "value": "fiber"
+      }
+    ],
+    [
+      {
+        "entity": "MoS2",
+        "attribute": "electricalConductivity",
+        "value": "poor"
+      },
+      {
+        "entity": "Unsized CF",
+        "attribute": "electricalConductivity",
+        "value": "lower than MoS2"
+      },
+      {
+        "head": "MoS2",
+        "relation": "isPartOf",
+        "tail": "CF surface"
+      },
+      {
+        "head": "impedance matching",
+        "relation": "isPartOf",
+        "tail": "EMW absorption performance"
+      },
+      {
+        "head": "attenuation constant",
+        "relation": "isPartOf",
+        "tail": "EMW absorption performance"
+      }
+    ],
+    [
+      {
+        "head": "UCF-M10",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isMadeOf",
+        "tail": "MoS2 nanosheets"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "UCF-M10"
+      },
+      {
+        "head": "MoS2 nanosheets",
+        "relation": "isPartOf",
+        "tail": "UCF-M16"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isTestedBy",
+        "tail": "thermogravimetric analysis (TGA)"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isTestedBy",
+        "tail": "thermogravimetric analysis (TGA)"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic wave absorption"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic wave absorption"
+      },
+      {
+        "head": "Unsized CF",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic wave absorption"
+      },
+      {
+        "head": "UCF-M10",
+        "relation": "isDerivedFrom",
+        "tail": "Unsized CF"
+      },
+      {
+        "head": "UCF-M16",
+        "relation": "isDerivedFrom",
+        "tail": "Unsized CF"
+      }
+    ],
+    [
+      {
+        "head": "MoS2 nanosheet/CF network",
+        "relation": "isPartOf",
+        "tail": "PEEK composites"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isAKindOf",
+        "tail": "PEEK composites"
+      },
+      {
+        "head": "UCF-M12/PEEK composite",
+        "relation": "isAKindOf",
+        "tail": "PEEK composites"
+      },
+      {
+        "head": "CF/PEEK composite",
+        "relation": "isAKindOf",
+        "tail": "PEEK composites"
+      },
+      {
+        "head": "structure-functional integrated composites",
+        "relation": "isAKindOf",
+        "tail": "composites"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isUsedFor",
+        "tail": "aerospace structural components"
+      },
+      {
+        "head": "UCF-M12/PEEK composite",
+        "relation": "isUsedFor",
+        "tail": "semiconductor devices"
+      },
+      {
+        "head": "UCF-M12/PEEK composite",
+        "relation": "isUsedFor",
+        "tail": "aircraft electronic equipment casings"
+      },
+      {
+        "head": "UCF-M14/PEEK composite",
+        "relation": "isAlternativeTo",
+        "tail": "Un-sized CF/PEEK composite"
+      },
+      {
+        "entity": "UCF-M14/PEEK composite",
+        "attribute": "tensileStrength",
+        "value": "91.16 MPa"
+      },
+      {
+        "entity": "CF/PEEK composite",
+        "attribute": "thermalConductivity",
+        "value": "increased by 68.52%"
+      },
+      {
+        "entity": "UCF-M12/PEEK composite",
+        "attribute": "thermalConductivity",
+        "value": "highest"
+      }
+    ]
+  ],
+  "1-s2.0-S1359835X26000242-main_chunks": [
+    [
+      {
+        "head": "RICFP",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isDerivedFrom",
+        "tail": "RICFP"
+      },
+      {
+        "head": "BADGE epoxy system",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      },
+      {
+        "head": "BFDGE epoxy system",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      },
+      {
+        "head": "filament winding",
+        "relation": "isUsedFor",
+        "tail": "manufacturing carbon fiber-reinforced composites"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isUsedFor",
+        "tail": "curing carbon fiber-reinforced composites"
+      },
+      {
+        "head": "carbon fiber-reinforced composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "carbon fiber-reinforced composites",
+        "relation": "isMadeOf",
+        "tail": "BADGE epoxy system"
+      },
+      {
+        "head": "carbon fiber-reinforced composites",
+        "relation": "isMadeOf",
+        "tail": "BFDGE epoxy system"
+      },
+      {
+        "head": "composite overwrapped pressure vessel",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber-reinforced composites"
+      },
+      {
+        "entity": "carbon fiber-reinforced composites",
+        "attribute": "fiber volume fraction",
+        "value": "exceeding 58%"
+      },
+      {
+        "entity": "carbon fiber-reinforced composites",
+        "attribute": "tensileStrength",
+        "value": "comparable to reference BADGE system"
+      },
+      {
+        "entity": "carbon fiber-reinforced composites",
+        "attribute": "interlaminar shear strength",
+        "value": "increased"
+      },
+      {
+        "entity": "composite overwrapped pressure vessel",
+        "attribute": "pressure resistance",
+        "value": "up to 400 bar"
+      }
+    ],
+    [
+      {
+        "head": "matrix",
+        "relation": "isPartOf",
+        "tail": "composites"
+      },
+      {
+        "head": "reinforcement phase",
+        "relation": "isPartOf",
+        "tail": "composites"
+      },
+      {
+        "head": "GFRP",
+        "relation": "isAKindOf",
+        "tail": "composites"
+      },
+      {
+        "head": "CFRP",
+        "relation": "isAKindOf",
+        "tail": "composites"
+      },
+      {
+        "head": "GFRP",
+        "relation": "isUsedFor",
+        "tail": "pressure tanks in aerospace"
+      },
+      {
+        "head": "CFRP",
+        "relation": "isUsedFor",
+        "tail": "pressure tanks in aerospace"
+      },
+      {
+        "head": "epoxy",
+        "relation": "isAKindOf",
+        "tail": "matrix material"
+      },
+      {
+        "head": "aliphatic amines",
+        "relation": "isUsedFor",
+        "tail": "epoxy resins"
+      },
+      {
+        "head": "aromatic amines",
+        "relation": "isUsedFor",
+        "tail": "epoxy resins"
+      },
+      {
+        "head": "anhydrides",
+        "relation": "isUsedFor",
+        "tail": "epoxy resins"
+      },
+      {
+        "entity": "composites",
+        "attribute": "tensileStrength",
+        "value": "high"
+      },
+      {
+        "entity": "composites",
+        "attribute": "elasticModulus",
+        "value": "high"
+      },
+      {
+        "entity": "epoxy",
+        "attribute": "corrosionResistance",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "RICFP",
+        "relation": "isAKindOf",
+        "tail": "curing process"
+      },
+      {
+        "head": "autoclave",
+        "relation": "isPartOf",
+        "tail": "conventional thermal curing system"
+      },
+      {
+        "head": "thermal chamber",
+        "relation": "isPartOf",
+        "tail": "conventional thermal curing system"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "energy savings"
+      },
+      {
+        "head": "conventional thermal curing",
+        "relation": "isDependentOn",
+        "tail": "autoclave"
+      },
+      {
+        "head": "conventional thermal curing",
+        "relation": "isDependentOn",
+        "tail": "thermal chamber"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isAlternativeTo",
+        "tail": "conventional thermal curing system"
+      },
+      {
+        "head": "BADGE epoxy resin formulations",
+        "relation": "isMadeOf",
+        "tail": "fillers"
+      },
+      {
+        "head": "autoclave",
+        "relation": "isUsedFor",
+        "tail": "reducing voids"
+      },
+      {
+        "head": "autoclave",
+        "relation": "isUsedFor",
+        "tail": "compaction"
+      },
+      {
+        "head": "epoxy polymerization",
+        "relation": "isAKindOf",
+        "tail": "exothermic reaction"
+      }
+    ],
+    [
+      {
+        "head": "RICFP",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization"
+      },
+      {
+        "head": "photo acid generators",
+        "relation": "isPartOf",
+        "tail": "RICFP"
+      },
+      {
+        "head": "radical thermal initiator",
+        "relation": "isPartOf",
+        "tail": "RICFP"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isAlternativeTo",
+        "tail": "simultaneous and continuous curing processes"
+      },
+      {
+        "head": "RICFP",
+        "relation": "isUsedFor",
+        "tail": "cycloaliphatic epoxy resins"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "fiber-reinforced composites"
+      }
+    ],
+    [
+      {
+        "head": "Carbon fibers of the type T800HB (12 K, produced by Toray)",
+        "relation": "isPartOf",
+        "tail": "composites"
+      },
+      {
+        "head": "Carbon fibers of the type T800HB (12 K, produced by Toray)",
+        "relation": "isUsedFor",
+        "tail": "filament winding experiments"
+      },
+      {
+        "head": "photoacid generator bis[4-(tert-butyl)phenyl]iodonium tetra (nonafluoro-tert-butoxy)aluminate (I-Al)",
+        "relation": "isUsedFor",
+        "tail": "initiating polymerization reaction"
+      },
+      {
+        "head": "4-isopropyl-4′-methyldiphenyliodonium tetrakis (pentafluorophenyl)borate (I-B)",
+        "relation": "isUsedFor",
+        "tail": "initiating polymerization reaction"
+      },
+      {
+        "head": "1,1,2,2-tetraphenyl-1,2-ethanediol (benzopinacol / TPED)",
+        "relation": "isUsedFor",
+        "tail": "initiating polymerization reaction"
+      },
+      {
+        "head": "1,1,2,2-tetraphenyl-1,2-ethanediol (benzopinacol / TPED)",
+        "relation": "isAKindOf",
+        "tail": "radical thermal initiator"
+      },
+      {
+        "entity": "tools",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "single spot initiation",
+        "relation": "isAlternativeTo",
+        "tail": "multi spot initiation"
+      },
+      {
+        "head": "multi spot initiation",
+        "relation": "isUsedFor",
+        "tail": "decreasing curing time"
+      },
+      {
+        "head": "through-thickness frontal polymerization",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "in-plane frontal polymerization",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "heat sinks",
+        "relation": "isUsedFor",
+        "tail": "avoiding localized overheating"
+      },
+      {
+        "head": "Anton Paar MCR 300 Rheometry device",
+        "relation": "isUsedFor",
+        "tail": "testing viscosities"
+      },
+      {
+        "head": "Anton Paar MCR 300 Rheometry device",
+        "relation": "isMadeOf",
+        "tail": "CP25 cone-plate geometry"
+      },
+      {
+        "head": "resin/diluent mixtures",
+        "relation": "isMadeOf",
+        "tail": "base resin"
+      },
+      {
+        "head": "resin/diluent mixtures",
+        "relation": "isMadeOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "resin/diluent mixtures",
+        "relation": "isTestedBy",
+        "tail": "Anton Paar MCR 300 Rheometry device"
+      },
+      {
+        "head": "through-thickness frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "cutting down on curing time"
+      },
+      {
+        "head": "in-plane frontal polymerization",
+        "relation": "isDependentOn",
+        "tail": "small initiation spot"
+      },
+      {
+        "head": "reaction fronts",
+        "relation": "isPartOf",
+        "tail": "frontal polymerization processes"
+      },
+      {
+        "head": "flat geometries",
+        "relation": "isAKindOf",
+        "tail": "part geometries"
+      },
+      {
+        "entity": "Anton Paar MCR 300 Rheometry device",
+        "attribute": "shape",
+        "value": "CP25 cone-plate geometry"
+      }
+    ],
+    [
+      {
+        "head": "RICFP resin systems",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isAKindOf",
+        "tail": "RICFP resin systems"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isMadeOf",
+        "tail": "BADGE"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isMadeOf",
+        "tail": "BFDGE"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isMadeOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isMadeOf",
+        "tail": "TPED"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isMadeOf",
+        "tail": "photoacid generator"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isComplementaryTo",
+        "tail": "DCPD-based resins"
+      },
+      {
+        "head": "carbon-fiber–reinforced composites",
+        "relation": "isMadeOf",
+        "tail": "carbon-fiber"
+      },
+      {
+        "head": "carbon-fiber–reinforced composites",
+        "relation": "isMadeOf",
+        "tail": "BADGE/BFDGE based epoxy formulations"
+      },
+      {
+        "head": "BADGE/BFDGE based epoxy formulations",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      }
+    ],
+    [
+      {
+        "head": "lab-scale formulations",
+        "relation": "isUsedFor",
+        "tail": "filament winding experiments"
+      },
+      {
+        "head": "Dispermill Discovery 100 system",
+        "relation": "isUsedFor",
+        "tail": "lab-scale formulations"
+      },
+      {
+        "head": "Dispermat AE04-11",
+        "relation": "isUsedFor",
+        "tail": "lab-scale formulations"
+      },
+      {
+        "head": "Heidolph RZR-2000",
+        "relation": "isUsedFor",
+        "tail": "industrial formulations"
+      },
+      {
+        "head": "BADGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy resin"
+      },
+      {
+        "head": "BFDGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy resin"
+      },
+      {
+        "head": "EOM",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "BEOM",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "TMPTGE",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "HDDGE",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "NPDGE",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "CHDGE",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "DiOx",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "TPED",
+        "relation": "isAKindOf",
+        "tail": "radical thermal initiator"
+      },
+      {
+        "head": "I-B",
+        "relation": "isAKindOf",
+        "tail": "photoacid generator"
+      },
+      {
+        "head": "I-Al",
+        "relation": "isAKindOf",
+        "tail": "photoacid generator"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "BADGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "BFDGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "TMPTGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "EOM"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "BEOM"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "HDDGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "NPDGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "CHDGE"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "DiOx"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "TPED"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "I-B"
+      },
+      {
+        "head": "lab-scale formulations",
+        "relation": "isMadeOf",
+        "tail": "I-Al"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "BADGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "BFDGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "TMPTGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "EOM"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "BEOM"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "HDDGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "NPDGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "CHDGE"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "DiOx"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "TPED"
+      },
+      {
+        "head": "industrial formulations",
+        "relation": "isMadeOf",
+        "tail": "I-B"
+      }
+    ],
+    [
+      {
+        "head": "filament winder",
+        "relation": "isMadeOf",
+        "tail": "standard hardware parts"
+      },
+      {
+        "head": "rollers",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "doctor blade",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "wipers",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "cardboard cylinder",
+        "relation": "isAKindOf",
+        "tail": "mandrel"
+      },
+      {
+        "head": "stainless-steel cylinder",
+        "relation": "isAKindOf",
+        "tail": "mandrel"
+      },
+      {
+        "head": "silicone bands",
+        "relation": "isPartOf",
+        "tail": "mandrel"
+      },
+      {
+        "head": "PTFE film",
+        "relation": "isPartOf",
+        "tail": "cardboard mandrel"
+      },
+      {
+        "head": "paper towels",
+        "relation": "isPartOf",
+        "tail": "cardboard mandrel"
+      },
+      {
+        "head": "filament",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "thermocouple",
+        "relation": "isPartOf",
+        "tail": "resin bath"
+      },
+      {
+        "entity": "cardboard cylinder",
+        "attribute": "shape",
+        "value": "hollow cylinder"
+      },
+      {
+        "entity": "stainless-steel cylinder",
+        "attribute": "shape",
+        "value": "hollow cylinder"
+      }
+    ],
+    [
+      {
+        "head": "PTFE mold",
+        "relation": "isMadeOf",
+        "tail": "PTFE"
+      },
+      {
+        "head": "PTFE mold",
+        "relation": "isUsedFor",
+        "tail": "analysis of frontal polymerization parameters"
+      },
+      {
+        "head": "formulation",
+        "relation": "isPartOf",
+        "tail": "PTFE mold"
+      },
+      {
+        "head": "hollow cardboard cylinder",
+        "relation": "isMadeOf",
+        "tail": "cardboard"
+      },
+      {
+        "head": "hollow cardboard cylinder",
+        "relation": "isUsedFor",
+        "tail": "self-sustaining frontal polymerization experiments"
+      },
+      {
+        "entity": "PTFE mold",
+        "attribute": "shape",
+        "value": "rectangular formulation cavity with dimensions of 70 × 10 × 5 mm³"
+      },
+      {
+        "entity": "hollow cardboard cylinder",
+        "attribute": "shape",
+        "value": "hollow cylinder (diameter 130 mm)"
+      }
+    ],
+    [
+      {
+        "head": "PTFE mold",
+        "relation": "isPartOf",
+        "tail": "lab-scale resin test setup"
+      },
+      {
+        "head": "thermal camera",
+        "relation": "isPartOf",
+        "tail": "lab-scale resin test setup"
+      },
+      {
+        "head": "computer",
+        "relation": "isPartOf",
+        "tail": "lab-scale resin test setup"
+      },
+      {
+        "head": "X-Winder device",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "carbon fiber roving",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "resin vat",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "mandrel",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "infrared heating elements",
+        "relation": "isPartOf",
+        "tail": "industrial large-scale prototyping filament winder"
+      },
+      {
+        "head": "multi filament strand winding 4 axis toolhead",
+        "relation": "isPartOf",
+        "tail": "industrial large-scale prototyping filament winder"
+      },
+      {
+        "head": "double resin vats",
+        "relation": "isPartOf",
+        "tail": "industrial large-scale prototyping filament winder"
+      },
+      {
+        "head": "removable mandrel",
+        "relation": "isPartOf",
+        "tail": "industrial large-scale prototyping filament winder"
+      },
+      {
+        "head": "thermal camera",
+        "relation": "isUsedFor",
+        "tail": "tracking front propagation"
+      },
+      {
+        "head": "video camera",
+        "relation": "isUsedFor",
+        "tail": "monitoring front propagation"
+      },
+      {
+        "head": "infrared heating spot",
+        "relation": "isUsedFor",
+        "tail": "initiating polymerization"
+      },
+      {
+        "head": "heat gun",
+        "relation": "isUsedFor",
+        "tail": "pre-warming the wound composite"
+      },
+      {
+        "head": "rubber lip",
+        "relation": "isUsedFor",
+        "tail": "removing excess resin"
+      },
+      {
+        "head": "mandrel rotation",
+        "relation": "isUsedFor",
+        "tail": "winding process"
+      },
+      {
+        "head": "thermal camera",
+        "relation": "isComplementaryTo",
+        "tail": "video camera"
+      },
+      {
+        "head": "polymerization",
+        "relation": "isDependentOn",
+        "tail": "infrared heating spot"
+      },
+      {
+        "head": "cured composite",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber roving"
+      },
+      {
+        "head": "cured composite",
+        "relation": "isMadeOf",
+        "tail": "resin"
+      },
+      {
+        "head": "lab-scale resin test setup",
+        "relation": "isAKindOf",
+        "tail": "test setup"
+      },
+      {
+        "head": "industrial large-scale prototyping filament winder",
+        "relation": "isAKindOf",
+        "tail": "filament winding setup"
+      },
+      {
+        "head": "frontally polymerizable resin",
+        "relation": "isPartOf",
+        "tail": "lab-scale resin test setup"
+      }
+    ],
+    [
+      {
+        "head": "TSFP",
+        "relation": "isAKindOf",
+        "tail": "in-plane frontal polymerization"
+      },
+      {
+        "head": "heat gun",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "steel mandrel",
+        "relation": "isPartOf",
+        "tail": "lab-scale filament winding setup"
+      },
+      {
+        "head": "CFRP",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "CFRP",
+        "relation": "isMadeOf",
+        "tail": "resin"
+      },
+      {
+        "head": "CFRP",
+        "relation": "isTestedBy",
+        "tail": "DMA analysis"
+      },
+      {
+        "head": "DMA 850",
+        "relation": "isPartOf",
+        "tail": "DMA analysis setup"
+      },
+      {
+        "head": "pyrometer",
+        "relation": "isPartOf",
+        "tail": "TSFP setup"
+      },
+      {
+        "entity": "bar specimens",
+        "attribute": "shape",
+        "value": "bar shape with width 6 mm and thickness 1.1 mm"
+      },
+      {
+        "entity": "flat bar specimens",
+        "attribute": "shape",
+        "value": "flat bar shape with width 3.5-4 mm and thickness 0.85 mm"
+      }
+    ],
+    [
+      {
+        "head": "filament wound composites",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isMadeOf",
+        "tail": "resin"
+      },
+      {
+        "head": "CFRP part",
+        "relation": "isAKindOf",
+        "tail": "filament wound composites"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isTestedBy",
+        "tail": "Interlaminar shear strength test"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isTestedBy",
+        "tail": "tensile test"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isTestedBy",
+        "tail": "compression test"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isTestedBy",
+        "tail": "torsion test"
+      },
+      {
+        "entity": "curved composite ring samples",
+        "attribute": "shape",
+        "value": "curved composite ring"
+      },
+      {
+        "entity": "ZDT tubes",
+        "attribute": "shape",
+        "value": "tube shape"
+      }
+    ],
+    [
+      {
+        "head": "filament winding process",
+        "relation": "isAKindOf",
+        "tail": "manufacturing process"
+      },
+      {
+        "head": "mandrel heater",
+        "relation": "isUsedFor",
+        "tail": "initiating frontal polymerization"
+      },
+      {
+        "head": "thermal IR camera",
+        "relation": "isUsedFor",
+        "tail": "monitoring TSFP curing"
+      },
+      {
+        "head": "TSFP duration",
+        "relation": "isDependentOn",
+        "tail": "CFRP thickness"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isUsedFor",
+        "tail": "thermal initiation"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isUsedFor",
+        "tail": "thermal support"
+      },
+      {
+        "head": "mandrel",
+        "relation": "isPartOf",
+        "tail": "filament winding process"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isAlternativeTo",
+        "tail": "internal mandrel heater"
+      }
+    ],
+    [
+      {
+        "head": "resin mixture",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      },
+      {
+        "head": "BADGE resin",
+        "relation": "isAKindOf",
+        "tail": "epoxy resin"
+      },
+      {
+        "head": "BFDGE resin",
+        "relation": "isAKindOf",
+        "tail": "epoxy resin"
+      },
+      {
+        "head": "resin mixture",
+        "relation": "isMadeOf",
+        "tail": "epoxy resin"
+      },
+      {
+        "head": "resin mixture",
+        "relation": "isMadeOf",
+        "tail": "liquid amine hardener"
+      },
+      {
+        "head": "dual initiator system",
+        "relation": "isAlternativeTo",
+        "tail": "liquid amine hardener"
+      },
+      {
+        "head": "dual initiator system",
+        "relation": "isPartOf",
+        "tail": "resin formulation"
+      },
+      {
+        "head": "reactive diluents",
+        "relation": "isPartOf",
+        "tail": "resin formulation"
+      },
+      {
+        "head": "reactive diluents",
+        "relation": "isUsedFor",
+        "tail": "RICFP process"
+      },
+      {
+        "head": "radical thermal initiator",
+        "relation": "isPartOf",
+        "tail": "dual initiator system"
+      },
+      {
+        "head": "photoacid generator",
+        "relation": "isPartOf",
+        "tail": "dual initiator system"
+      },
+      {
+        "head": "resin formulation",
+        "relation": "isUsedFor",
+        "tail": "composite systems"
+      },
+      {
+        "head": "BADGE resin",
+        "relation": "isPartOf",
+        "tail": "analyzed resin systems"
+      },
+      {
+        "head": "BFDGE resin",
+        "relation": "isPartOf",
+        "tail": "analyzed resin systems"
+      },
+      {
+        "head": "resin formulation",
+        "relation": "isMadeOf",
+        "tail": "BADGE resin"
+      },
+      {
+        "head": "resin formulation",
+        "relation": "isMadeOf",
+        "tail": "BFDGE resin"
+      },
+      {
+        "head": "resin formulation",
+        "relation": "isMadeOf",
+        "tail": "reactive diluents"
+      }
+    ],
+    [
+      {
+        "head": "BADGE Araldite LY556 resin",
+        "relation": "isAKindOf",
+        "tail": "resin"
+      },
+      {
+        "head": "EOM",
+        "relation": "isUsedFor",
+        "tail": "BADGE Araldite LY556 resin"
+      },
+      {
+        "head": "BEOM",
+        "relation": "isUsedFor",
+        "tail": "BADGE Araldite LY556 resin"
+      },
+      {
+        "head": "HDDGE",
+        "relation": "isUsedFor",
+        "tail": "BADGE Araldite LY556 resin"
+      },
+      {
+        "head": "NPDGE",
+        "relation": "isUsedFor",
+        "tail": "BADGE Araldite LY556 resin"
+      },
+      {
+        "head": "BADGE Araldite LY556 resin",
+        "relation": "isTestedBy",
+        "tail": "standardized curing tests"
+      },
+      {
+        "head": "PTFE mold",
+        "relation": "isPartOf",
+        "tail": "standardized curing tests"
+      },
+      {
+        "head": "formulation",
+        "relation": "isMadeOf",
+        "tail": "BADGE Araldite LY556 resin"
+      },
+      {
+        "head": "formulation",
+        "relation": "isMadeOf",
+        "tail": "EOM"
+      },
+      {
+        "head": "formulation",
+        "relation": "isMadeOf",
+        "tail": "BEOM"
+      },
+      {
+        "head": "formulation",
+        "relation": "isMadeOf",
+        "tail": "HDDGE"
+      },
+      {
+        "head": "formulation",
+        "relation": "isMadeOf",
+        "tail": "NPDGE"
+      }
+    ],
+    [
+      {
+        "head": "EOM",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "BEOM",
+        "relation": "isAKindOf",
+        "tail": "reactive diluent"
+      },
+      {
+        "head": "HDDGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy-functional diluent"
+      },
+      {
+        "head": "NPDGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy-functional diluent"
+      },
+      {
+        "head": "CHDGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy-functional diluent"
+      },
+      {
+        "head": "TMPTGE",
+        "relation": "isAKindOf",
+        "tail": "epoxy-functional diluent"
+      },
+      {
+        "head": "RICFP initiators",
+        "relation": "isPartOf",
+        "tail": "BADGE resin formulation"
+      },
+      {
+        "head": "Oxetanes",
+        "relation": "isMadeOf",
+        "tail": "BADGE resin formulation"
+      },
+      {
+        "head": "BADGE resin Araldite LY556",
+        "relation": "isMadeOf",
+        "tail": "EOM"
+      },
+      {
+        "head": "BFDGE resin",
+        "relation": "isMadeOf",
+        "tail": "TMPTGE"
+      },
+      {
+        "head": "EOM",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "BEOM",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "HDDGE",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "NPDGE",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "CHDGE",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "TMPTGE",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      },
+      {
+        "head": "Oxetanes",
+        "relation": "isTestedBy",
+        "tail": "DMA"
+      }
+    ],
+    [
+      {
+        "head": "three rollers",
+        "relation": "isPartOf",
+        "tail": "Setup A"
+      },
+      {
+        "head": "doctor blade",
+        "relation": "isPartOf",
+        "tail": "Setup B"
+      },
+      {
+        "head": "hollow cardboard mandrel",
+        "relation": "isPartOf",
+        "tail": "Setup A"
+      },
+      {
+        "head": "hollow cardboard mandrel",
+        "relation": "isPartOf",
+        "tail": "Setup B"
+      },
+      {
+        "head": "hollow cardboard mandrel",
+        "relation": "isMadeOf",
+        "tail": "cardboard"
+      },
+      {
+        "head": "reactive diluent combinations",
+        "relation": "isTestedBy",
+        "tail": "outgassing tests"
+      },
+      {
+        "head": "reactive diluent combinations",
+        "relation": "isUsedFor",
+        "tail": "pressure tanks in space"
+      },
+      {
+        "head": "BADGE resin",
+        "relation": "isPartOf",
+        "tail": "BADGE resin system"
+      },
+      {
+        "head": "BFDGE resin",
+        "relation": "isPartOf",
+        "tail": "BFDGE resin system"
+      },
+      {
+        "head": "BADGE resin",
+        "relation": "isAKindOf",
+        "tail": "resin"
+      },
+      {
+        "head": "BFDGE resin",
+        "relation": "isAKindOf",
+        "tail": "resin"
+      },
+      {
+        "head": "BADGE resin system",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "head": "BFDGE resin system",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "entity": "hollow cardboard mandrel",
+        "attribute": "shape",
+        "value": "cylindrical"
+      }
+    ],
+    [
+      {
+        "head": "BFDGE resin system",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "head": "carbon fibers",
+        "relation": "isPartOf",
+        "tail": "composite"
+      },
+      {
+        "head": "composite",
+        "relation": "isMadeOf",
+        "tail": "BFDGE resin system"
+      },
+      {
+        "head": "composite",
+        "relation": "isMadeOf",
+        "tail": "carbon fibers"
+      },
+      {
+        "head": "Setup A",
+        "relation": "isUsedFor",
+        "tail": "testing BFDGE resin system"
+      },
+      {
+        "head": "Epikote Resin 158",
+        "relation": "isPartOf",
+        "tail": "BFDGE resin system"
+      },
+      {
+        "head": "TMPTGE",
+        "relation": "isPartOf",
+        "tail": "BFDGE resin system"
+      },
+      {
+        "head": "Photoacid generator I-B",
+        "relation": "isPartOf",
+        "tail": "BFDGE resin system"
+      },
+      {
+        "head": "BFDGE resin system",
+        "relation": "isUsedFor",
+        "tail": "self-sustaining frontal polymerization"
+      },
+      {
+        "head": "composite",
+        "relation": "isTestedBy",
+        "tail": "thermal imaging via IR camera"
+      },
+      {
+        "head": "System 1",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "head": "System 2",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "head": "carbon fibers",
+        "relation": "isAKindOf",
+        "tail": "material"
+      },
+      {
+        "head": "IR camera",
+        "relation": "isUsedFor",
+        "tail": "thermal imaging during SSFP"
+      }
+    ],
+    [
+      {
+        "entity": "fibers",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      },
+      {
+        "head": "fibers",
+        "relation": "isPartOf",
+        "tail": "composites"
+      },
+      {
+        "head": "resin",
+        "relation": "isPartOf",
+        "tail": "composites"
+      },
+      {
+        "head": "filament winding",
+        "relation": "isUsedFor",
+        "tail": "composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isAKindOf",
+        "tail": "manufacturing process"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isPartOf",
+        "tail": "filament winding"
+      },
+      {
+        "head": "composites",
+        "relation": "isTestedBy",
+        "tail": "DMA test"
+      },
+      {
+        "head": "composites",
+        "relation": "isTestedBy",
+        "tail": "ILSS test"
+      },
+      {
+        "head": "top resin layer",
+        "relation": "isPartOf",
+        "tail": "composites"
+      }
+    ],
+    [
+      {
+        "entity": "20 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "137.5 °C (parallel)"
+      },
+      {
+        "entity": "20 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "151.1 °C (perpendicular)"
+      },
+      {
+        "entity": "15 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "139.9 °C (parallel)"
+      },
+      {
+        "entity": "15 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "146.3 °C (perpendicular)"
+      },
+      {
+        "entity": "10 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "134.4 °C (parallel)"
+      },
+      {
+        "entity": "10 layers composite",
+        "attribute": "glass transition temperature",
+        "value": "143.6 °C (perpendicular)"
+      },
+      {
+        "entity": "10 layers composite",
+        "attribute": "interlaminar shear strength",
+        "value": "33.7 ± 1.1 MPa"
+      },
+      {
+        "entity": "15 layers composite",
+        "attribute": "interlaminar shear strength",
+        "value": "26.7 ± 2.6 MPa"
+      },
+      {
+        "entity": "20 layers composite",
+        "attribute": "number_of_layers",
+        "value": "20"
+      },
+      {
+        "entity": "15 layers composite",
+        "attribute": "number_of_layers",
+        "value": "15"
+      },
+      {
+        "entity": "10 layers composite",
+        "attribute": "number_of_layers",
+        "value": "10"
+      },
+      {
+        "head": "matrix",
+        "relation": "isPartOf",
+        "tail": "20 layers composite"
+      },
+      {
+        "head": "matrix",
+        "relation": "isPartOf",
+        "tail": "15 layers composite"
+      },
+      {
+        "head": "matrix",
+        "relation": "isPartOf",
+        "tail": "10 layers composite"
+      },
+      {
+        "head": "fibers",
+        "relation": "isPartOf",
+        "tail": "20 layers composite"
+      },
+      {
+        "head": "fibers",
+        "relation": "isPartOf",
+        "tail": "15 layers composite"
+      },
+      {
+        "head": "fibers",
+        "relation": "isPartOf",
+        "tail": "10 layers composite"
+      },
+      {
+        "head": "10 layers composite",
+        "relation": "isTestedBy",
+        "tail": "ASTM D 2344 standard"
+      },
+      {
+        "head": "15 layers composite",
+        "relation": "isTestedBy",
+        "tail": "ASTM D 2344 standard"
+      },
+      {
+        "head": "10 layers composite",
+        "relation": "isSimilarTo",
+        "tail": "previous RICFP composites"
+      },
+      {
+        "head": "15 layers composite",
+        "relation": "isSimilarTo",
+        "tail": "previous RICFP composites"
+      },
+      {
+        "entity": "20 layers composite",
+        "attribute": "void formation",
+        "value": "stronger"
+      }
+    ],
+    [
+      {
+        "entity": "BADGE LY556 system",
+        "attribute": "elasticModulus",
+        "value": "6.53 ± 0.79 GPa"
+      },
+      {
+        "entity": "PTFE",
+        "attribute": "thermalConductivity",
+        "value": "low"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isAlternativeTo",
+        "tail": "self-sustaining frontal polymerization process"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isSimilarTo",
+        "tail": "self-sustaining frontal polymerization process"
+      },
+      {
+        "head": "BADGE LY556 system",
+        "relation": "isTestedBy",
+        "tail": "three-point bending setup"
+      },
+      {
+        "head": "composites",
+        "relation": "isMadeOf",
+        "tail": "BADGE LY556 system"
+      },
+      {
+        "head": "self-sustaining frontal polymerization process",
+        "relation": "isDependentOn",
+        "tail": "insulating molding materials"
+      }
+    ],
+    [
+      {
+        "entity": "BADGE LY556 system",
+        "attribute": "total mass loss",
+        "value": "0.38 wt%"
+      },
+      {
+        "entity": "BADGE LY556 system",
+        "attribute": "recovered mass loss",
+        "value": "0.14 wt%"
+      },
+      {
+        "entity": "BADGE LY556 system",
+        "attribute": "collected volatile condensable material",
+        "value": "0.00 wt%"
+      },
+      {
+        "entity": "BADGE system",
+        "attribute": "maximum fiber volume fraction",
+        "value": "54.8 v%"
+      },
+      {
+        "entity": "BFDGE system",
+        "attribute": "maximum fiber volume fraction",
+        "value": "55.4 v%"
+      },
+      {
+        "head": "BADGE system",
+        "relation": "isUsedFor",
+        "tail": "space applications"
+      },
+      {
+        "head": "industrial tools",
+        "relation": "isMadeOf",
+        "tail": "steel"
+      },
+      {
+        "head": "industrial tools",
+        "relation": "isMadeOf",
+        "tail": "aluminum"
+      },
+      {
+        "entity": "tool materials",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      },
+      {
+        "head": "SSFP processes",
+        "relation": "isDependentOn",
+        "tail": "tooling changes"
+      },
+      {
+        "entity": "lab-scale method",
+        "attribute": "temperature homogeneity",
+        "value": "subject to variation"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isSimilarTo",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isAlternativeTo",
+        "tail": "self-sustaining frontal polymerization"
+      }
+    ],
+    [
+      {
+        "head": "Setup C",
+        "relation": "isDerivedFrom",
+        "tail": "Setup B"
+      },
+      {
+        "head": "stainless-steel mandrel",
+        "relation": "isPartOf",
+        "tail": "Setup C"
+      },
+      {
+        "head": "industrial filament winder",
+        "relation": "isUsedFor",
+        "tail": "preparing mechanical test specimens"
+      },
+      {
+        "head": "IR heating elements",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "toolhead",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "automated fiber tensioning",
+        "relation": "isPartOf",
+        "tail": "toolhead"
+      },
+      {
+        "head": "circulating oil heater",
+        "relation": "isPartOf",
+        "tail": "mandrel heating system"
+      },
+      {
+        "head": "mandrel heating system",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "head": "reference system",
+        "relation": "isMadeOf",
+        "tail": "epoxy/amine"
+      },
+      {
+        "head": "cylindrical sample",
+        "relation": "isAKindOf",
+        "tail": "mechanical test specimen"
+      },
+      {
+        "head": "ZDT samples",
+        "relation": "isAKindOf",
+        "tail": "mechanical test specimen"
+      },
+      {
+        "head": "stainless-steel mandrel",
+        "relation": "isSimilarTo",
+        "tail": "industrial metallic tank liners"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isUsedFor",
+        "tail": "industrial setting"
+      },
+      {
+        "head": "resin impregnation baths",
+        "relation": "isPartOf",
+        "tail": "filament winder"
+      },
+      {
+        "entity": "cylindrical sample",
+        "attribute": "shape",
+        "value": "cylindrical"
+      },
+      {
+        "entity": "ZDT samples",
+        "attribute": "shape",
+        "value": "special tube with thickened ends"
+      }
+    ],
+    [
+      {
+        "entity": "ILSS sample",
+        "attribute": "shape",
+        "value": "cylinder"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isMadeOf",
+        "tail": "BFDGE"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isMadeOf",
+        "tail": "BADGE"
+      },
+      {
+        "head": "TSFP curing",
+        "relation": "isAlternativeTo",
+        "tail": "SSFP curing"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isTestedBy",
+        "tail": "TSFP curing"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isTestedBy",
+        "tail": "SSFP curing"
+      },
+      {
+        "head": "BFDGE system",
+        "relation": "isUsedFor",
+        "tail": "curing CFRP"
+      },
+      {
+        "head": "mandrel heating",
+        "relation": "isPartOf",
+        "tail": "TSFP curing"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isDerivedFrom",
+        "tail": "BFDGE"
+      },
+      {
+        "head": "resin systems",
+        "relation": "isDerivedFrom",
+        "tail": "BADGE"
+      }
+    ],
+    [
+      {
+        "head": "ILSS test specimens",
+        "relation": "isTestedBy",
+        "tail": "interlaminar shear strength (ILSS) test"
+      },
+      {
+        "head": "ILSS test specimens",
+        "relation": "isTestedBy",
+        "tail": "outgassing test"
+      },
+      {
+        "head": "ILSS test specimens",
+        "relation": "isTestedBy",
+        "tail": "XCT analysis"
+      },
+      {
+        "head": "ILSS test specimens",
+        "relation": "isMadeOf",
+        "tail": "System 1"
+      },
+      {
+        "head": "ILSS test specimens",
+        "relation": "isMadeOf",
+        "tail": "System 1_R"
+      },
+      {
+        "head": "ILSS test specimens",
+        "relation": "isMadeOf",
+        "tail": "System 2"
+      },
+      {
+        "head": "novel resin system",
+        "relation": "isAlternativeTo",
+        "tail": "state-of-the-art system"
+      },
+      {
+        "head": "ring specimens",
+        "relation": "isMadeOf",
+        "tail": "System 1"
+      },
+      {
+        "head": "ring specimens",
+        "relation": "isMadeOf",
+        "tail": "System 1_R"
+      },
+      {
+        "head": "ring specimens",
+        "relation": "isMadeOf",
+        "tail": "System 2"
+      },
+      {
+        "entity": "ring specimens",
+        "attribute": "shape",
+        "value": "ring shape"
+      }
+    ],
+    [
+      {
+        "head": "RICFP system",
+        "relation": "isAlternativeTo",
+        "tail": "conventional curing system"
+      },
+      {
+        "head": "RICFP system",
+        "relation": "isTestedBy",
+        "tail": "outgassing properties test"
+      },
+      {
+        "entity": "RICFP system",
+        "attribute": "tensileStrength",
+        "value": "48.4 ± 0.9 MPa"
+      },
+      {
+        "entity": "RICFP system",
+        "attribute": "tensileStrength",
+        "value": "50.7 ± 1.6 MPa"
+      },
+      {
+        "entity": "reference epoxy/amine system",
+        "attribute": "tensileStrength",
+        "value": "36.0 ± 2.1 MPa"
+      },
+      {
+        "entity": "reference epoxy/amine system",
+        "attribute": "tensileStrength",
+        "value": "34.2 ± 4.5 MPa"
+      },
+      {
+        "head": "novel resin system",
+        "relation": "isSimilarTo",
+        "tail": "thermally cured reference system"
+      },
+      {
+        "head": "novel resin system",
+        "relation": "isTestedBy",
+        "tail": "XCT analysis"
+      },
+      {
+        "head": "ZDT samples",
+        "relation": "isPartOf",
+        "tail": "initially wound long tube"
+      }
+    ],
+    [
+      {
+        "head": "industrial oven",
+        "relation": "isAlternativeTo",
+        "tail": "heat gun"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isAlternativeTo",
+        "tail": "heatable mandrel"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isUsedFor",
+        "tail": "thermal initiation and support of the rapid curing process"
+      },
+      {
+        "head": "mandrel",
+        "relation": "isPartOf",
+        "tail": "TSFP process"
+      },
+      {
+        "head": "through-thickness FP",
+        "relation": "isPartOf",
+        "tail": "TSFP process"
+      },
+      {
+        "head": "thermal camera",
+        "relation": "isUsedFor",
+        "tail": "monitoring the curing progression"
+      },
+      {
+        "head": "TSFP process",
+        "relation": "isUsedFor",
+        "tail": "CFRP curing"
+      }
+    ],
+    [
+      {
+        "head": "resin",
+        "relation": "isUsedFor",
+        "tail": "binding between filament wound layers"
+      },
+      {
+        "head": "glass fiber tape",
+        "relation": "isUsedFor",
+        "tail": "fixing loose end of filament"
+      },
+      {
+        "head": "industrial oven",
+        "relation": "isUsedFor",
+        "tail": "curing step"
+      },
+      {
+        "head": "RICFP method",
+        "relation": "isAlternativeTo",
+        "tail": "conventional thermal curing process"
+      },
+      {
+        "head": "RICFP resin system",
+        "relation": "isAKindOf",
+        "tail": "resin system"
+      },
+      {
+        "head": "mechanical testing",
+        "relation": "isUsedFor",
+        "tail": "evaluating tensile properties"
+      },
+      {
+        "head": "mechanical testing",
+        "relation": "isUsedFor",
+        "tail": "evaluating compression properties"
+      },
+      {
+        "head": "mechanical testing",
+        "relation": "isUsedFor",
+        "tail": "evaluating shear properties"
+      },
+      {
+        "head": "second winding step",
+        "relation": "isPartOf",
+        "tail": "manufacturing process"
+      },
+      {
+        "entity": "voids",
+        "attribute": "shape",
+        "value": "elongated"
+      },
+      {
+        "entity": "RICFP resin system",
+        "attribute": "tensileStrength",
+        "value": "below conventional system"
+      },
+      {
+        "entity": "RICFP resin system",
+        "attribute": "elasticModulus",
+        "value": "comparable to conventional system"
+      }
+    ],
+    [
+      {
+        "head": "RICFP system",
+        "relation": "isAlternativeTo",
+        "tail": "conventional system"
+      },
+      {
+        "head": "tank",
+        "relation": "isTestedBy",
+        "tail": "autofrettage process"
+      },
+      {
+        "head": "tank",
+        "relation": "isMadeOf",
+        "tail": "titanium liner"
+      },
+      {
+        "head": "tank",
+        "relation": "isMadeOf",
+        "tail": "carbon fiber/matrix composite"
+      },
+      {
+        "head": "filament winding process",
+        "relation": "isComplementaryTo",
+        "tail": "RICFP"
+      },
+      {
+        "head": "carbon fiber/matrix composite",
+        "relation": "isMadeOf",
+        "tail": "BADGE resin system"
+      },
+      {
+        "head": "RICFP formulation",
+        "relation": "isMadeOf",
+        "tail": "reactive diluents"
+      },
+      {
+        "head": "curing system",
+        "relation": "isMadeOf",
+        "tail": "solid initiators"
+      },
+      {
+        "head": "titanium liner",
+        "relation": "isUsedFor",
+        "tail": "mandrel"
+      },
+      {
+        "head": "titanium liner",
+        "relation": "isUsedFor",
+        "tail": "gas barrier"
+      }
+    ],
+    [
+      {
+        "head": "RICFP resins",
+        "relation": "isUsedFor",
+        "tail": "filament winding"
+      },
+      {
+        "head": "filament winding",
+        "relation": "isPartOf",
+        "tail": "composite manufacturing process"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isMadeOf",
+        "tail": "RICFP resins"
+      },
+      {
+        "head": "pressure vessels",
+        "relation": "isMadeOf",
+        "tail": "filament wound composites"
+      },
+      {
+        "head": "titanium liner",
+        "relation": "isPartOf",
+        "tail": "pressure vessels"
+      },
+      {
+        "head": "technology demonstrator",
+        "relation": "isAKindOf",
+        "tail": "pressure vessel"
+      },
+      {
+        "head": "mechanical test specimens",
+        "relation": "isAKindOf",
+        "tail": "composite"
+      },
+      {
+        "head": "epoxy-based CFRPs",
+        "relation": "isMadeOf",
+        "tail": "RICFP resins"
+      },
+      {
+        "head": "filament wound composites",
+        "relation": "isAKindOf",
+        "tail": "composite material"
+      }
+    ],
+    [
+      {
+        "head": "TSFP",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isAlternativeTo",
+        "tail": "conventional thermal curing methods"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isAlternativeTo",
+        "tail": "SSFP"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isDependentOn",
+        "tail": "polymerization heat"
+      },
+      {
+        "head": "thermal support",
+        "relation": "isPartOf",
+        "tail": "TSFP"
+      },
+      {
+        "head": "polymerization heat",
+        "relation": "isDerivedFrom",
+        "tail": "exothermic reaction"
+      },
+      {
+        "head": "polymerization heat",
+        "relation": "isUsedFor",
+        "tail": "curing reaction"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isUsedFor",
+        "tail": "CFRP production"
+      },
+      {
+        "head": "RICFP based composites",
+        "relation": "isUsedFor",
+        "tail": "space application"
+      },
+      {
+        "head": "RICFP",
+        "relation": "isAKindOf",
+        "tail": "frontal polymerization process"
+      },
+      {
+        "head": "TSFP",
+        "relation": "isAlternativeTo",
+        "tail": "RICFP"
+      }
+    ],
+    [
+      {
+        "head": "Polymers",
+        "relation": "isUsedFor",
+        "tail": "Aerospace Structural Components"
+      },
+      {
+        "head": "lay-up process",
+        "relation": "isPartOf",
+        "tail": "in situ cure process"
+      },
+      {
+        "head": "continuous cuing process",
+        "relation": "isUsedFor",
+        "tail": "thermoset polymer composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "epoxy–carbon fibre composites"
+      },
+      {
+        "head": "epoxy",
+        "relation": "isPartOf",
+        "tail": "epoxy–carbon fibre composites"
+      },
+      {
+        "head": "carbon fibre",
+        "relation": "isPartOf",
+        "tail": "epoxy–carbon fibre composites"
+      },
+      {
+        "head": "photothermal initiating system",
+        "relation": "isMadeOf",
+        "tail": "sulfonium salts"
+      },
+      {
+        "head": "photothermal initiating system",
+        "relation": "isUsedFor",
+        "tail": "frontal cationic polymerization of epoxides"
+      },
+      {
+        "head": "frontal cationic polymerization",
+        "relation": "isUsedFor",
+        "tail": "carbon-fiber reinforced polymers"
+      },
+      {
+        "head": "multiple-front polymerization",
+        "relation": "isUsedFor",
+        "tail": "fiber-reinforced polymer composites"
+      },
+      {
+        "head": "redox cationic frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "carbon fiber-reinforced composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "polymer composites"
+      },
+      {
+        "head": "radical induced cationic frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "epoxy composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "carbon/epoxy composites"
+      },
+      {
+        "head": "reactive extrusion",
+        "relation": "isUsedFor",
+        "tail": "carbon fiber reinforced polymer composites"
+      },
+      {
+        "head": "frontally polymerizing composites",
+        "relation": "isAKindOf",
+        "tail": "carbon fiber reinforced polymer composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "glass fiber epoxy composites"
+      },
+      {
+        "head": "visible light activated radical induced cationic frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "glass fiber-reinforced epoxy matrix composites"
+      },
+      {
+        "head": "frontal-photopolymerization",
+        "relation": "isUsedFor",
+        "tail": "biobased epoxy composites"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "polymers"
+      },
+      {
+        "head": "frontal polymerization",
+        "relation": "isUsedFor",
+        "tail": "composites"
+      },
+      {
+        "head": "carbon fiber",
+        "relation": "isPartOf",
+        "tail": "carbon-fiber reinforced polymers"
+      },
+      {
+        "head": "glass fiber",
+        "relation": "isPartOf",
+        "tail": "glass fiber epoxy composites"
+      },
+      {
+        "head": "epoxy",
+        "relation": "isPartOf",
+        "tail": "glass fiber epoxy composites"
+      }
+    ]
+  ],
+  "1-s2.0-S2452213926000690-main_chunks": [
+    [
+      {
+        "head": "PEDOT/Fe3O4",
+        "relation": "isPartOf",
+        "tail": "closed-cells"
+      },
+      {
+        "head": "closed-cells",
+        "relation": "isPartOf",
+        "tail": "epoxy foams"
+      },
+      {
+        "head": "in-situ generated PEDOT/Fe3O4 composites",
+        "relation": "isPartOf",
+        "tail": "closed-cells inner walls"
+      },
+      {
+        "head": "nanofiller/PEDOT conductive chains",
+        "relation": "isPartOf",
+        "tail": "cell walls"
+      },
+      {
+        "head": "island-chain segregated conductive nanostructure",
+        "relation": "isPartOf",
+        "tail": "composite foams"
+      },
+      {
+        "head": "microcellular polymer composites",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic interference (EMI) shielding applications"
+      },
+      {
+        "head": "FeCl3",
+        "relation": "isUsedFor",
+        "tail": "in-situ fabrication of PEDOT/Fe3O4"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isUsedFor",
+        "tail": "intelligent electromagnetic interference shielding"
+      },
+      {
+        "head": "conductive islands",
+        "relation": "isMadeOf",
+        "tail": "in-situ generated PEDOT/Fe3O4 composites"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isMadeOf",
+        "tail": "epoxy foams"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isMadeOf",
+        "tail": "PEDOT/Fe3O4"
+      },
+      {
+        "head": "nanofiller/PEDOT conductive chains",
+        "relation": "isUsedFor",
+        "tail": "island-chain segregated conductive nanostructure"
+      },
+      {
+        "entity": "microcellular polymer composites",
+        "attribute": "electricalConductivity",
+        "value": "excellent"
+      },
+      {
+        "entity": "composite foams",
+        "attribute": "electricalConductivity",
+        "value": "good"
+      },
+      {
+        "entity": "conductive islands",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "Microcellular polymer composites",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic interference (EMI) shielding applications"
+      },
+      {
+        "head": "conducting networks",
+        "relation": "isPartOf",
+        "tail": "polymer foams"
+      },
+      {
+        "head": "functional particles",
+        "relation": "isPartOf",
+        "tail": "polymer foam skeleton"
+      },
+      {
+        "head": "liquid metal",
+        "relation": "isPartOf",
+        "tail": "PDMS foam"
+      },
+      {
+        "head": "conductive fillers",
+        "relation": "isPartOf",
+        "tail": "polymer matrix"
+      },
+      {
+        "head": "polymer matrix",
+        "relation": "isPartOf",
+        "tail": "microcellular polymer composites"
+      },
+      {
+        "head": "3D conducting networks",
+        "relation": "isPartOf",
+        "tail": "porous composites"
+      },
+      {
+        "head": "silver-wrapped melamine foam",
+        "relation": "isUsedFor",
+        "tail": "EMI shielding applications"
+      },
+      {
+        "head": "segregated conductive networks",
+        "relation": "isPartOf",
+        "tail": "polymers"
+      },
+      {
+        "head": "PDMS foam",
+        "relation": "isAKindOf",
+        "tail": "polymer foam"
+      },
+      {
+        "head": "Microcellular polymer composites",
+        "relation": "isAKindOf",
+        "tail": "polymer composites"
+      },
+      {
+        "head": "polymer foam skeleton",
+        "relation": "isPartOf",
+        "tail": "polymer foam"
+      },
+      {
+        "entity": "Microcellular polymer composites",
+        "attribute": "electricalConductivity",
+        "value": "excellent"
+      },
+      {
+        "entity": "polymer foam skeleton",
+        "attribute": "shape",
+        "value": "open cell structure"
+      },
+      {
+        "entity": "PDMS foam",
+        "attribute": "shape",
+        "value": "open cell structure"
+      },
+      {
+        "entity": "silver-wrapped melamine foam",
+        "attribute": "electricalConductivity",
+        "value": "excellent"
+      }
+    ],
+    [
+      {
+        "head": "polyurethane",
+        "relation": "isAKindOf",
+        "tail": "porous polymer skeleton"
+      },
+      {
+        "head": "epoxy",
+        "relation": "isAKindOf",
+        "tail": "porous polymer skeleton"
+      },
+      {
+        "head": "polylactic acid",
+        "relation": "isAKindOf",
+        "tail": "porous polymer skeleton"
+      },
+      {
+        "head": "polysulfone",
+        "relation": "isAKindOf",
+        "tail": "porous polymer skeleton"
+      },
+      {
+        "head": "conductive composite foams",
+        "relation": "isMadeOf",
+        "tail": "porous polymer skeleton"
+      },
+      {
+        "head": "closed-cells",
+        "relation": "isPartOf",
+        "tail": "epoxy composite foams"
+      },
+      {
+        "head": "PEDOT/Fe3O4 composites",
+        "relation": "isPartOf",
+        "tail": "epoxy composite foams"
+      },
+      {
+        "head": "FeCl3 solution",
+        "relation": "isUsedFor",
+        "tail": "forming PEDOT/Fe3O4 composites"
+      },
+      {
+        "head": "EDOT monomer",
+        "relation": "isUsedFor",
+        "tail": "forming PEDOT/Fe3O4 composites"
+      },
+      {
+        "head": "NH4OH",
+        "relation": "isUsedFor",
+        "tail": "forming PEDOT/Fe3O4 composites"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "epoxy"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "PVP"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "MC"
+      },
+      {
+        "head": "EDOT-x",
+        "relation": "isAKindOf",
+        "tail": "epoxy composite foams"
+      },
+      {
+        "head": "NH3-x",
+        "relation": "isAKindOf",
+        "tail": "epoxy composite foams"
+      },
+      {
+        "head": "functional fillers",
+        "relation": "isPartOf",
+        "tail": "closed-cells"
+      },
+      {
+        "head": "porous polymer skeleton",
+        "relation": "isUsedFor",
+        "tail": "fabricating conductive composite foams"
+      },
+      {
+        "entity": "polymer foam skeleton",
+        "attribute": "shape",
+        "value": "closed-cells"
+      }
+    ],
+    [
+      {
+        "entity": "poly(3,4-ethylenedioxythiophene)",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isAKindOf",
+        "tail": "conductive polymer"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic shielding"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isUsedFor",
+        "tail": "flexible displays"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isUsedFor",
+        "tail": "super-capacitors"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isUsedFor",
+        "tail": "solar cells"
+      },
+      {
+        "head": "poly(3,4-ethylenedioxythiophene)",
+        "relation": "isUsedFor",
+        "tail": "light-emitting diodes"
+      },
+      {
+        "head": "Fe3O4",
+        "relation": "isDerivedFrom",
+        "tail": "iron(III) ions"
+      },
+      {
+        "head": "epoxy/polyvinyl pyrrolidone composite foams",
+        "relation": "isMadeOf",
+        "tail": "bisphenol-A epoxy resin"
+      },
+      {
+        "head": "epoxy/polyvinyl pyrrolidone composite foams",
+        "relation": "isMadeOf",
+        "tail": "MeTHPA"
+      },
+      {
+        "head": "epoxy/polyvinyl pyrrolidone composite foams",
+        "relation": "isMadeOf",
+        "tail": "DMP-30"
+      },
+      {
+        "head": "epoxy/polyvinyl pyrrolidone composite foams",
+        "relation": "isMadeOf",
+        "tail": "polyvinyl pyrrolidone"
+      },
+      {
+        "head": "polyvinyl pyrrolidone",
+        "relation": "isUsedFor",
+        "tail": "providing channels for iron(III) ions penetration into closed-cells"
+      },
+      {
+        "head": "iron (III) chloride",
+        "relation": "isUsedFor",
+        "tail": "vapor phase polymerization of EDOT"
+      },
+      {
+        "head": "hydrochloric acid",
+        "relation": "isUsedFor",
+        "tail": "cleaning composite foams"
+      },
+      {
+        "head": "chemical foaming agent",
+        "relation": "isUsedFor",
+        "tail": "chemical foaming process"
+      }
+    ],
+    [
+      {
+        "entity": "microcellular epoxy composite foams",
+        "attribute": "density",
+        "value": "0.6 g/cm3"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isMadeOf",
+        "tail": "epoxy powder"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isMadeOf",
+        "tail": "PVP"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isMadeOf",
+        "tail": "carbon nanofillers"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isMadeOf",
+        "tail": "CFA"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isTestedBy",
+        "tail": "SEM observation"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isTestedBy",
+        "tail": "TG analysis"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isTestedBy",
+        "tail": "FTIR analysis"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isTestedBy",
+        "tail": "XRD analysis"
+      },
+      {
+        "head": "microcellular epoxy composite foams",
+        "relation": "isTestedBy",
+        "tail": "XPS analysis"
+      }
+    ],
+    [
+      {
+        "head": "composite foams",
+        "relation": "isTestedBy",
+        "tail": "four-point-probe instrument"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isTestedBy",
+        "tail": "super megohm meter"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isTestedBy",
+        "tail": "Keysight N5225B vector network analyzer"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isMadeOf",
+        "tail": "nanofillers"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isMadeOf",
+        "tail": "PVP"
+      },
+      {
+        "entity": "specimens",
+        "attribute": "shape",
+        "value": "4 mm × 4 mm × 4 mm"
+      },
+      {
+        "entity": "composite foams",
+        "attribute": "shape",
+        "value": "closed-cell morphology"
+      },
+      {
+        "entity": "composite foams",
+        "attribute": "shape",
+        "value": "12 × 12 × 2.2 mm³"
+      }
+    ],
+    [
+      {
+        "head": "PEDOT/Fe3O4 composites",
+        "relation": "isPartOf",
+        "tail": "epoxy composite foams"
+      },
+      {
+        "head": "FeCl3 solution",
+        "relation": "isUsedFor",
+        "tail": "vapor phase polymerization of EDOT monomer"
+      },
+      {
+        "head": "PVP",
+        "relation": "isPartOf",
+        "tail": "EP/PVP composite foams"
+      },
+      {
+        "head": "conductive nanofillers",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30 foam"
+      },
+      {
+        "head": "Fe3O4",
+        "relation": "isDerivedFrom",
+        "tail": "FeCl3"
+      },
+      {
+        "head": "FeCl3",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC samples"
+      },
+      {
+        "head": "PEDOT",
+        "relation": "isPartOf",
+        "tail": "PEDOT/Fe3O4 composites"
+      },
+      {
+        "entity": "EP/PVP30 foam",
+        "attribute": "shape",
+        "value": "closed cell structure"
+      },
+      {
+        "entity": "EP/PVP30/MC samples",
+        "attribute": "shape",
+        "value": "porous"
+      }
+    ],
+    [
+      {
+        "head": "PEDOT",
+        "relation": "isTestedBy",
+        "tail": "infrared (IR) absorption spectra"
+      },
+      {
+        "head": "PEDOT",
+        "relation": "isTestedBy",
+        "tail": "X-ray photoelectron spectroscopy (XPS)"
+      },
+      {
+        "head": "EP matrix",
+        "relation": "isTestedBy",
+        "tail": "X-ray diffractometry (XRD)"
+      },
+      {
+        "head": "functional fillers",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams"
+      },
+      {
+        "head": "FeCl3",
+        "relation": "isUsedFor",
+        "tail": "initiating polymerization of EDOT"
+      },
+      {
+        "head": "functional fillers",
+        "relation": "isMadeOf",
+        "tail": "EDOT"
+      },
+      {
+        "head": "functional fillers",
+        "relation": "isMadeOf",
+        "tail": "FeCl3"
+      },
+      {
+        "head": "iron compound",
+        "relation": "isDerivedFrom",
+        "tail": "FeCl3"
+      },
+      {
+        "head": "PEDOT/iron compound",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams"
+      },
+      {
+        "entity": "EP matrix",
+        "attribute": "crystalsystem",
+        "value": "amorphous"
+      }
+    ],
+    [
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "EP"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "PVP30"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "MC"
+      },
+      {
+        "head": "PEDOT/MC networks",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isUsedFor",
+        "tail": "EMI shielding"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "electricalConductivity",
+        "value": "increases with higher FeCl3 concentration beyond 0.2 M"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "shape",
+        "value": "closed-cells"
+      },
+      {
+        "entity": "PEDOT/MC networks",
+        "attribute": "shape",
+        "value": "island-chain segregated conductive networks"
+      }
+    ],
+    [
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isDerivedFrom",
+        "tail": "treatment with EDOT"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isDerivedFrom",
+        "tail": "treatment with NH4OH"
+      },
+      {
+        "head": "electric dipoles",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams"
+      },
+      {
+        "head": "FeCl3",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams"
+      },
+      {
+        "head": "Fe3O4",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams after NH4OH treatment"
+      },
+      {
+        "head": "PEDOT",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams treated with EDOT"
+      },
+      {
+        "head": "dedoped PEDOT",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foams treated with NH4OH"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isUsedFor",
+        "tail": "EMI shielding"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isDependentOn",
+        "tail": "FeCl3 concentration"
+      },
+      {
+        "head": "electric dipole resonance",
+        "relation": "isAKindOf",
+        "tail": "dielectric resonance type"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "real permittivity",
+        "value": "positive over 18-26.5 GHz at low FeCl3 concentration"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "imaginary permittivity",
+        "value": "high leading to excellent EMW attenuation"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "resonance frequency",
+        "value": "shifts to lower frequencies with increasing FeCl3 concentration"
+      },
+      {
+        "entity": "EP/PVP30/MC foams after NH4OH treatment (NH3-0.3)",
+        "attribute": "absorption coefficient (A)",
+        "value": "0.54"
+      },
+      {
+        "entity": "EP/PVP30/MC foams after NH4OH treatment (NH3-0.9)",
+        "attribute": "absorption coefficient (A)",
+        "value": "0.41"
+      },
+      {
+        "entity": "EP/PVP30/MC foams treated with EDOT (EDOT-0.3)",
+        "attribute": "absorption coefficient (A)",
+        "value": "0.35"
+      },
+      {
+        "entity": "EP/PVP30/MC foams treated with EDOT (EDOT-0.9)",
+        "attribute": "absorption coefficient (A)",
+        "value": "0.13"
+      },
+      {
+        "entity": "EP/PVP30/MC foams after NH4OH treatment",
+        "attribute": "electricalConductivity",
+        "value": "low"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "thickness",
+        "value": "2 mm"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "EMI SE",
+        "value": "measured at K-band"
+      },
+      {
+        "entity": "EP/PVP30/MC foams",
+        "attribute": "imaginary permittivity",
+        "value": "gradually descends as frequency increases"
+      }
+    ],
+    [
+      {
+        "head": "EP/PVP30/MC foams (step III)",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4"
+      },
+      {
+        "head": "EP/PVP30/MC foams (step II)",
+        "relation": "isMadeOf",
+        "tail": "PEDOT"
+      },
+      {
+        "head": "EP/PVP40 foams",
+        "relation": "isMadeOf",
+        "tail": "PEDOT"
+      },
+      {
+        "head": "EP/PVP30/MC foams (step III)",
+        "relation": "isDerivedFrom",
+        "tail": "EP/PVP30/MC foams (step II)"
+      },
+      {
+        "head": "EP/PVP30/MC foams (step II)",
+        "relation": "isMadeOf",
+        "tail": "PVP"
+      },
+      {
+        "head": "EP/PVP40 foams",
+        "relation": "isMadeOf",
+        "tail": "PVP"
+      },
+      {
+        "entity": "EP/PVP30 foams",
+        "attribute": "electricalConductivity",
+        "value": "low"
+      },
+      {
+        "entity": "EP/PVP40 foams",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "carbon nanofillers",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/CB foams (EDOT-0.3)"
+      },
+      {
+        "head": "PVP",
+        "relation": "isPartOf",
+        "tail": "epoxy foams"
+      },
+      {
+        "head": "conductive nanofillers",
+        "relation": "isPartOf",
+        "tail": "epoxy foams"
+      },
+      {
+        "head": "open cells",
+        "relation": "isPartOf",
+        "tail": "EP/PVP40 foam skeleton"
+      },
+      {
+        "head": "EP/PVP30/CB foams (EDOT-0.3)",
+        "relation": "isAKindOf",
+        "tail": "EDOT-0.3 samples"
+      },
+      {
+        "head": "EDOT-0.3 samples",
+        "relation": "isAKindOf",
+        "tail": "epoxy foams"
+      },
+      {
+        "head": "EP/PVP30/CB foams (EDOT-0.3)",
+        "relation": "isUsedFor",
+        "tail": "EMI shielding"
+      },
+      {
+        "entity": "EP/PVP30/CB foams (EDOT-0.3)",
+        "attribute": "density",
+        "value": "0.217 g/cm3"
+      }
+    ],
+    [
+      {
+        "head": "dielectric layers",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foam skeleton"
+      },
+      {
+        "head": "conductive networks",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foam skeleton"
+      },
+      {
+        "head": "iron compounds",
+        "relation": "isPartOf",
+        "tail": "closed-cells"
+      },
+      {
+        "head": "closed-cells",
+        "relation": "isPartOf",
+        "tail": "EP/PVP30/MC foam skeleton"
+      },
+      {
+        "head": "composite foams",
+        "relation": "isAKindOf",
+        "tail": "foams"
+      },
+      {
+        "head": "EP/PVP30/CB foams",
+        "relation": "isUsedFor",
+        "tail": "aircraft"
+      },
+      {
+        "head": "EP/PVP30/CB foams",
+        "relation": "isUsedFor",
+        "tail": "watercraft"
+      },
+      {
+        "head": "EP/PVP30/CB foams",
+        "relation": "isUsedFor",
+        "tail": "automobiles"
+      },
+      {
+        "head": "EP/PVP30/CB foams",
+        "relation": "isMadeOf",
+        "tail": "conductive nanofillers"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isMadeOf",
+        "tail": "MC filler"
+      },
+      {
+        "head": "EP/PVP30 foams",
+        "relation": "isAKindOf",
+        "tail": "composite foams"
+      },
+      {
+        "head": "EP/PVP30/CB foams",
+        "relation": "isAKindOf",
+        "tail": "composite foams"
+      },
+      {
+        "head": "EP/PVP30/MC foams",
+        "relation": "isAKindOf",
+        "tail": "composite foams"
+      },
+      {
+        "entity": "iron compounds",
+        "attribute": "shape",
+        "value": "microspheres"
+      }
+    ],
+    [
+      {
+        "head": "EDOT-w-0.3 samples",
+        "relation": "isSimilarTo",
+        "tail": "pure EP/PVP30/CB foams"
+      },
+      {
+        "head": "Fe3O4 particles",
+        "relation": "isPartOf",
+        "tail": "EDOT-w-0.3 samples"
+      },
+      {
+        "head": "EDOT-w-0.3 samples",
+        "relation": "isTestedBy",
+        "tail": "NH4OH treatment"
+      },
+      {
+        "head": "EDOT-w-0.3 samples",
+        "relation": "isTestedBy",
+        "tail": "HCl treatment"
+      },
+      {
+        "head": "inner cell walls",
+        "relation": "isPartOf",
+        "tail": "EDOT-w-0.3 samples"
+      },
+      {
+        "head": "Fe3O4 particles",
+        "relation": "isPartOf",
+        "tail": "inner cell walls"
+      },
+      {
+        "head": "spherical micro-particles",
+        "relation": "isPartOf",
+        "tail": "EDOT-0.3 samples"
+      },
+      {
+        "entity": "EDOT-w-0.3 samples",
+        "attribute": "shape",
+        "value": "cellular structure"
+      },
+      {
+        "entity": "pure EP/PVP30/CB foams",
+        "attribute": "shape",
+        "value": "cellular structure"
+      }
+    ],
+    [
+      {
+        "head": "PEDOT/Fe3O4 composites",
+        "relation": "isPartOf",
+        "tail": "bulk epoxy foams"
+      },
+      {
+        "head": "PEDOT/Fe3O4 composites",
+        "relation": "isMadeOf",
+        "tail": "PEDOT"
+      },
+      {
+        "head": "PEDOT/Fe3O4 composites",
+        "relation": "isMadeOf",
+        "tail": "Fe3O4"
+      },
+      {
+        "head": "island-chain segregated conductive nanostructure",
+        "relation": "isPartOf",
+        "tail": "PEDOT/Fe3O4 composites"
+      },
+      {
+        "head": "island-chain segregated conductive nanostructure",
+        "relation": "isMadeOf",
+        "tail": "PEDOT polymer"
+      },
+      {
+        "head": "island-chain segregated conductive nanostructure",
+        "relation": "isMadeOf",
+        "tail": "nanofillers/PEDOT conductive chains"
+      },
+      {
+        "head": "FeCl3",
+        "relation": "isUsedFor",
+        "tail": "PEDOT/Fe3O4 composites"
+      },
+      {
+        "entity": "PEDOT/Fe3O4 composites",
+        "attribute": "electricalConductivity",
+        "value": "1.7 S/m"
+      },
+      {
+        "entity": "island-chain segregated conductive nanostructure",
+        "attribute": "shape",
+        "value": "island-chain segregated conductive nanostructure"
+      }
+    ]
+  ],
+  "processes-13-00994_chunks": [
+    [
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nanocomposites"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "materials"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "polymer matrix"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isPartOf",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "in situ polymerization",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "twin screw extrusion",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "sol–gel processes",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "nanoparticle surface modification",
+        "relation": "isUsedFor",
+        "tail": "improving compatibility between nanoparticles and polymers"
+      },
+      {
+        "head": "solution casting",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "additive manufacturing",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "self-healing composites",
+        "relation": "isUsedFor",
+        "tail": "improving nanoparticle dispersion"
+      },
+      {
+        "head": "nanoparticle dispersion",
+        "relation": "isPartOf",
+        "tail": "polymer matrix"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "industrial applications"
+      },
+      {
+        "head": "self-healing composites",
+        "relation": "isAKindOf",
+        "tail": "advanced compounding techniques"
+      },
+      {
+        "head": "additive manufacturing",
+        "relation": "isAKindOf",
+        "tail": "advanced compounding techniques"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "particles"
+      },
+      {
+        "entity": "polymer nanocomposites",
+        "attribute": "tensileStrength",
+        "value": "increased"
+      },
+      {
+        "entity": "polymer nanocomposites",
+        "attribute": "electricalConductivity",
+        "value": "enhanced"
+      }
+    ],
+    [
+      {
+        "head": "carbon nanoparticles",
+        "relation": "isAKindOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanocomposite",
+        "relation": "isMadeOf",
+        "tail": "inorganic nanoclusters"
+      },
+      {
+        "head": "nanocomposite",
+        "relation": "isMadeOf",
+        "tail": "organic polymers"
+      },
+      {
+        "head": "matrix",
+        "relation": "isPartOf",
+        "tail": "nanocomposite"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nanocomposite"
+      },
+      {
+        "head": "metal-based nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nonpolymer nanocomposites"
+      },
+      {
+        "head": "ceramic-based nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nonpolymer nanocomposites"
+      },
+      {
+        "head": "ceramic-ceramic nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nonpolymer nanocomposites"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "automotive industry"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aerospace industries"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "medical applications"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "energy production"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "energy storage"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "energy equipment"
+      },
+      {
+        "head": "nonpolymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "electronics"
+      },
+      {
+        "head": "nonpolymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "medical implants"
+      },
+      {
+        "head": "nonpolymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "structural materials"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "technology applications"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "medical applications"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "polymers"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "entity": "nanoparticles",
+        "attribute": "shape",
+        "value": "spheroids, fibers, or platelets"
+      },
+      {
+        "entity": "nanocomposite",
+        "attribute": "electricalConductivity",
+        "value": "enhanced"
+      }
+    ],
+    [
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aerospace"
+      },
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "automotive"
+      },
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "electronics"
+      },
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "biomedicine"
+      },
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "environmental"
+      },
+      {
+        "head": "Polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "energy fields"
+      },
+      {
+        "head": "phenolic-based nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "nanosilica"
+      },
+      {
+        "head": "phenolic-based nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "cerium oxide"
+      },
+      {
+        "head": "phenolic-based nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "yttrium oxide"
+      },
+      {
+        "head": "PLA nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "carbon nanotubes"
+      },
+      {
+        "head": "fuel cell polymer electrolyte membranes",
+        "relation": "isMadeOf",
+        "tail": "fillers"
+      },
+      {
+        "head": "fuel cell polymer electrolyte membranes",
+        "relation": "isMadeOf",
+        "tail": "cross-linkers"
+      },
+      {
+        "head": "nanosilica",
+        "relation": "isPartOf",
+        "tail": "phenolic-based nanocomposites"
+      },
+      {
+        "head": "carbon nanotubes",
+        "relation": "isPartOf",
+        "tail": "PLA nanocomposites"
+      },
+      {
+        "entity": "phenolic-based nanocomposites",
+        "attribute": "hardness",
+        "value": "enhanced"
+      },
+      {
+        "entity": "PLA nanocomposites",
+        "attribute": "electricalConductivity",
+        "value": "improved"
+      }
+    ],
+    [
+      {
+        "head": "Ultrasonication",
+        "relation": "isAKindOf",
+        "tail": "physical dispersion technique"
+      },
+      {
+        "head": "Bead milling",
+        "relation": "isAKindOf",
+        "tail": "physical dispersion technique"
+      },
+      {
+        "head": "Three-roll milling",
+        "relation": "isAKindOf",
+        "tail": "physical dispersion technique"
+      },
+      {
+        "head": "Ultrasonication",
+        "relation": "isUsedFor",
+        "tail": "polymer matrix composites"
+      },
+      {
+        "head": "Bead milling",
+        "relation": "isUsedFor",
+        "tail": "electronic nanocomposites"
+      },
+      {
+        "head": "Bead milling",
+        "relation": "isUsedFor",
+        "tail": "medical nanocomposites"
+      },
+      {
+        "head": "Three-roll milling",
+        "relation": "isUsedFor",
+        "tail": "thermoplastics"
+      },
+      {
+        "head": "Three-roll milling",
+        "relation": "isUsedFor",
+        "tail": "thermosetting polymers"
+      }
+    ],
+    [
+      {
+        "head": "three-roll milling",
+        "relation": "isUsedFor",
+        "tail": "dispersing nanoparticles"
+      },
+      {
+        "head": "three-roll milling",
+        "relation": "isUsedFor",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "twin-screw extrusion",
+        "relation": "isUsedFor",
+        "tail": "dispersing nanoparticles"
+      },
+      {
+        "head": "twin-screw extrusion",
+        "relation": "isUsedFor",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "solution casting",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites (PNCs)"
+      },
+      {
+        "head": "melt blending",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites (PNCs)"
+      },
+      {
+        "head": "electrospinning",
+        "relation": "isUsedFor",
+        "tail": "nanocomposite materials"
+      },
+      {
+        "head": "nano clays",
+        "relation": "isPartOf",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isPartOf",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "graphene and clay composites",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "graphene and clay composites",
+        "relation": "isMadeOf",
+        "tail": "clay"
+      },
+      {
+        "head": "polymer nanocomposites (PNCs)",
+        "relation": "isMadeOf",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "polymer nanocomposites (PNCs)",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanofibers",
+        "relation": "isPartOf",
+        "tail": "nanocomposite materials"
+      },
+      {
+        "entity": "nanofibers",
+        "attribute": "shape",
+        "value": "high surface-area-to-volume ratio"
+      }
+    ],
+    [
+      {
+        "head": "sol–gel process",
+        "relation": "isUsedFor",
+        "tail": "dispersing nanoparticles in polymer nanocomposites"
+      },
+      {
+        "head": "hydrolysis and condensation reactions",
+        "relation": "isPartOf",
+        "tail": "sol–gel process"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isPartOf",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "silane coupling agents",
+        "relation": "isUsedFor",
+        "tail": "polyethylene-based nanocomposites"
+      },
+      {
+        "head": "silane coupling agents",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "polymeric surfactants",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "surface functionalization",
+        "relation": "isPartOf",
+        "tail": "sol–gel process"
+      }
+    ],
+    [
+      {
+        "head": "chemical methods",
+        "relation": "isUsedFor",
+        "tail": "polymer-based electronics"
+      },
+      {
+        "head": "chemical methods",
+        "relation": "isUsedFor",
+        "tail": "insulation materials"
+      },
+      {
+        "head": "hybrid techniques",
+        "relation": "isUsedFor",
+        "tail": "high-quality, long-lasting dispersions"
+      },
+      {
+        "head": "hybrid techniques",
+        "relation": "isMadeOf",
+        "tail": "surface treatment"
+      },
+      {
+        "head": "hybrid techniques",
+        "relation": "isMadeOf",
+        "tail": "physical dispersion techniques"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isUsedFor",
+        "tail": "physically dispersed distribution"
+      },
+      {
+        "head": "hybrid techniques",
+        "relation": "isUsedFor",
+        "tail": "structural applications"
+      },
+      {
+        "head": "hybrid techniques",
+        "relation": "isUsedFor",
+        "tail": "electrical applications"
+      },
+      {
+        "head": "reactive diluents",
+        "relation": "isUsedFor",
+        "tail": "reducing the viscosity of resins"
+      },
+      {
+        "head": "reactive diluents",
+        "relation": "isUsedFor",
+        "tail": "homogeneous distribution of nanoparticles"
+      },
+      {
+        "head": "mechanical mixing techniques",
+        "relation": "isUsedFor",
+        "tail": "dispersing nanoparticles"
+      },
+      {
+        "head": "dispersion technique",
+        "relation": "isDependentOn",
+        "tail": "type of nanoparticles"
+      },
+      {
+        "head": "dispersion technique",
+        "relation": "isDependentOn",
+        "tail": "properties of the polymer matrix"
+      },
+      {
+        "head": "dispersion technique",
+        "relation": "isDependentOn",
+        "tail": "specific requirements of the applications"
+      }
+    ],
+    [
+      {
+        "head": "covalent bonding",
+        "relation": "isAKindOf",
+        "tail": "interaction"
+      },
+      {
+        "head": "electrostatic interactions",
+        "relation": "isAKindOf",
+        "tail": "interaction"
+      },
+      {
+        "head": "anisotropic interactions",
+        "relation": "isAKindOf",
+        "tail": "interaction"
+      },
+      {
+        "head": "polymer-grafted nanoparticles",
+        "relation": "isAlternativeTo",
+        "tail": "physically adsorbed nanoparticles"
+      },
+      {
+        "head": "electrostatic interactions",
+        "relation": "isUsedFor",
+        "tail": "stabilizing nanoparticles within the polymer matrix"
+      },
+      {
+        "head": "covalent bonding",
+        "relation": "isUsedFor",
+        "tail": "modifying segmental mobility"
+      },
+      {
+        "head": "covalent bonding",
+        "relation": "isUsedFor",
+        "tail": "modifying glass transition properties"
+      },
+      {
+        "head": "anisotropic interactions",
+        "relation": "isUsedFor",
+        "tail": "forming assembly patterns such as sheets and threads"
+      },
+      {
+        "head": "polymer nanocomposite",
+        "relation": "isDependentOn",
+        "tail": "polymer matrix–nanoparticle interactions"
+      },
+      {
+        "head": "physical adsorption",
+        "relation": "isAKindOf",
+        "tail": "interaction"
+      }
+    ],
+    [
+      {
+        "head": "sonication",
+        "relation": "isAKindOf",
+        "tail": "nanoparticle dispersion techniques"
+      },
+      {
+        "head": "ultrasonic-assisted methods",
+        "relation": "isAKindOf",
+        "tail": "sonication"
+      },
+      {
+        "head": "sonication",
+        "relation": "isUsedFor",
+        "tail": "polymer composites"
+      },
+      {
+        "head": "sonication",
+        "relation": "isUsedFor",
+        "tail": "automotive applications"
+      },
+      {
+        "head": "sonication",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "polymer matrices",
+        "relation": "isPartOf",
+        "tail": "polymer composites"
+      },
+      {
+        "head": "graphene oxide (GO)",
+        "relation": "isAKindOf",
+        "tail": "nanoparticle"
+      },
+      {
+        "head": "polymer matrices",
+        "relation": "isMadeOf",
+        "tail": "polymers"
+      },
+      {
+        "head": "polymer composites",
+        "relation": "isMadeOf",
+        "tail": "polymer matrices"
+      },
+      {
+        "head": "polymer composites",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanoparticle dispersion techniques",
+        "relation": "isUsedFor",
+        "tail": "polymer composites"
+      },
+      {
+        "entity": "polymer composites",
+        "attribute": "thermalConductivity",
+        "value": "enhanced"
+      },
+      {
+        "entity": "polymer composites",
+        "attribute": "tensileStrength",
+        "value": "enhanced"
+      },
+      {
+        "entity": "polymer composites",
+        "attribute": "elasticModulus",
+        "value": "enhanced"
+      }
+    ],
+    [
+      {
+        "head": "surface functionalization",
+        "relation": "isAKindOf",
+        "tail": "chemical modifications"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isAKindOf",
+        "tail": "mechanical dispersion techniques"
+      },
+      {
+        "head": "functionalized nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "hydroxyl groups"
+      },
+      {
+        "head": "functionalized nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "carboxyl groups"
+      },
+      {
+        "head": "functionalized nanoparticles",
+        "relation": "isMadeOf",
+        "tail": "amine groups"
+      },
+      {
+        "head": "surface functionalization",
+        "relation": "isUsedFor",
+        "tail": "dispersion"
+      },
+      {
+        "head": "surface functionalization",
+        "relation": "isUsedFor",
+        "tail": "compatibility with the polymer matrices"
+      },
+      {
+        "head": "stabilizers and surfactants",
+        "relation": "isUsedFor",
+        "tail": "dispersion"
+      },
+      {
+        "head": "stabilizers and surfactants",
+        "relation": "isUsedFor",
+        "tail": "preventing agglomeration"
+      },
+      {
+        "head": "surfactants",
+        "relation": "isUsedFor",
+        "tail": "forming a thin layer around nanoparticles"
+      },
+      {
+        "head": "stabilizers and surfactants",
+        "relation": "isUsedFor",
+        "tail": "electronic sensors"
+      },
+      {
+        "head": "stabilizers and surfactants",
+        "relation": "isUsedFor",
+        "tail": "coatings"
+      },
+      {
+        "head": "stabilizers and surfactants",
+        "relation": "isUsedFor",
+        "tail": "high-conductivity materials"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isUsedFor",
+        "tail": "homogeneous dispersion"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isUsedFor",
+        "tail": "composites requiring structural integrity"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isUsedFor",
+        "tail": "self-healing materials"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isUsedFor",
+        "tail": "shape-memory polymers"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isComplementaryTo",
+        "tail": "stabilizers"
+      },
+      {
+        "head": "high-shear mixing",
+        "relation": "isAlternativeTo",
+        "tail": "traditional mechanical mixing"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "functionalized nanoparticles"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "stabilizers"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "surfactants"
+      },
+      {
+        "entity": "functionalized nanoparticles",
+        "attribute": "electricalConductivity",
+        "value": "improved"
+      },
+      {
+        "entity": "functionalized nanoparticles",
+        "attribute": "tensileStrength",
+        "value": "improved"
+      },
+      {
+        "entity": "high-conductivity materials",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "construction"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "electronics"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "entity": "polymer nanocomposites",
+        "attribute": "tensileStrength",
+        "value": "high"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "3D printing applications"
+      },
+      {
+        "head": "SLA photopolymer resins",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "entity": "3D-printed materials",
+        "attribute": "tensileStrength",
+        "value": "better"
+      },
+      {
+        "entity": "nanocomposites produced by in situ polymerization",
+        "attribute": "tensileStrength",
+        "value": "superior"
+      },
+      {
+        "entity": "nanocomposites produced by in situ polymerization",
+        "attribute": "thermalConductivity",
+        "value": "superior"
+      },
+      {
+        "head": "self-healing polymers",
+        "relation": "isMadeOf",
+        "tail": "silica"
+      },
+      {
+        "head": "self-healing polymers",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "self-healing polymers",
+        "relation": "isUsedFor",
+        "tail": "aerospace"
+      },
+      {
+        "head": "self-healing polymers",
+        "relation": "isUsedFor",
+        "tail": "medical devices"
+      },
+      {
+        "entity": "self-healing polymers",
+        "attribute": "elasticModulus",
+        "value": "high"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "environmental applications"
+      },
+      {
+        "head": "shape-memory polymers",
+        "relation": "isAKindOf",
+        "tail": "intelligent materials"
+      },
+      {
+        "head": "self-healing polymers",
+        "relation": "isAKindOf",
+        "tail": "intelligent materials"
+      },
+      {
+        "head": "shape-memory polymers",
+        "relation": "isMadeOf",
+        "tail": "silica"
+      },
+      {
+        "head": "shape-memory polymers",
+        "relation": "isMadeOf",
+        "tail": "graphene"
+      },
+      {
+        "head": "shape-memory polymers",
+        "relation": "isUsedFor",
+        "tail": "aerospace"
+      },
+      {
+        "head": "shape-memory polymers",
+        "relation": "isUsedFor",
+        "tail": "medical devices"
+      },
+      {
+        "entity": "shape-memory polymers",
+        "attribute": "elasticModulus",
+        "value": "high"
+      }
+    ],
+    [
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aerospace industry"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "automotive industry"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "electronics industry"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "biomedical applications"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "environmental applications"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aircraft parts"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aircraft wings"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "fuselages"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "cockpit interiors"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "seat covers"
+      },
+      {
+        "head": "CNTs",
+        "relation": "isUsedFor",
+        "tail": "bumpers"
+      },
+      {
+        "head": "graphene",
+        "relation": "isUsedFor",
+        "tail": "panels"
+      },
+      {
+        "head": "metal oxides",
+        "relation": "isUsedFor",
+        "tail": "fuel tanks"
+      },
+      {
+        "head": "graphene-enhanced nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "touch screens"
+      },
+      {
+        "head": "boron nitride",
+        "relation": "isUsedFor",
+        "tail": "heat dissipation"
+      },
+      {
+        "head": "magnetic nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "electromagnetic shielding"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "drug delivery systems"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "tissue engineering"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "diagnostic tools"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "water purification"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "air filtration"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "sustainable packaging solutions"
+      },
+      {
+        "head": "silica nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "corrosion resistance"
+      },
+      {
+        "head": "silica nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "desalination efficiency"
+      },
+      {
+        "head": "titanium dioxide nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "corrosion resistance"
+      },
+      {
+        "head": "titanium dioxide nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "desalination efficiency"
+      },
+      {
+        "head": "nano sensors",
+        "relation": "isUsedFor",
+        "tail": "detecting pathogens"
+      },
+      {
+        "head": "nano coatings",
+        "relation": "isUsedFor",
+        "tail": "extending farm tool life"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "enhancing crop health"
+      },
+      {
+        "head": "nanotechnology-based spoilage indicators",
+        "relation": "isUsedFor",
+        "tail": "food spoilage detection"
+      },
+      {
+        "head": "MgB2",
+        "relation": "isPartOf",
+        "tail": "nanocomposite coatings"
+      },
+      {
+        "head": "carbon nanotubes",
+        "relation": "isPartOf",
+        "tail": "nanocomposite coatings"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "graphene-enhanced nanocomposites"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isAKindOf",
+        "tail": "nanocomposites"
+      },
+      {
+        "head": "nanocomposite coatings",
+        "relation": "isAKindOf",
+        "tail": "coatings"
+      },
+      {
+        "head": "edible films",
+        "relation": "isAKindOf",
+        "tail": "packaging materials"
+      },
+      {
+        "entity": "nanocomposite coatings",
+        "attribute": "corrosionResistance",
+        "value": "enhanced"
+      }
+    ],
+    [
+      {
+        "head": "nanofillers",
+        "relation": "isUsedFor",
+        "tail": "efficient wastewater treatment for clean drinking water"
+      },
+      {
+        "head": "nanosized medicines",
+        "relation": "isUsedFor",
+        "tail": "improving drug solubility"
+      },
+      {
+        "head": "nanosized medicines",
+        "relation": "isUsedFor",
+        "tail": "improving bioavailability"
+      },
+      {
+        "head": "biocompatible scaffolds",
+        "relation": "isUsedFor",
+        "tail": "improving drug solubility"
+      },
+      {
+        "head": "biocompatible scaffolds",
+        "relation": "isUsedFor",
+        "tail": "improving bioavailability"
+      },
+      {
+        "head": "microfluidics",
+        "relation": "isUsedFor",
+        "tail": "site-targeted, controlled drug delivery"
+      },
+      {
+        "head": "microneedles",
+        "relation": "isUsedFor",
+        "tail": "site-targeted, controlled drug delivery"
+      },
+      {
+        "head": "nanoscale sensors",
+        "relation": "isUsedFor",
+        "tail": "diagnostics"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "infection treatment"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "management of metabolic disorders"
+      },
+      {
+        "head": "metal-based nano catalysts",
+        "relation": "isUsedFor",
+        "tail": "improving efficiency"
+      },
+      {
+        "head": "metal-based nano catalysts",
+        "relation": "isUsedFor",
+        "tail": "improving selectivity"
+      },
+      {
+        "head": "metal-based nano catalysts",
+        "relation": "isUsedFor",
+        "tail": "preparing highly selective and active catalysts for faster reaction speeds"
+      },
+      {
+        "head": "advanced materials",
+        "relation": "isUsedFor",
+        "tail": "optimizing efficiency"
+      },
+      {
+        "head": "advanced materials",
+        "relation": "isUsedFor",
+        "tail": "reducing costs"
+      },
+      {
+        "head": "silver nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "inhibiting bacterial growth"
+      },
+      {
+        "head": "titanium dioxide nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "inhibiting bacterial growth"
+      },
+      {
+        "head": "zinc oxide nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "inhibiting bacterial growth"
+      },
+      {
+        "head": "silicon dioxide coatings",
+        "relation": "isUsedFor",
+        "tail": "protecting fabric"
+      },
+      {
+        "head": "fluorinated silane coatings",
+        "relation": "isUsedFor",
+        "tail": "protecting fabric"
+      },
+      {
+        "head": "antimony-doped tin oxide nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "static dissipation"
+      },
+      {
+        "head": "silver nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "static dissipation"
+      },
+      {
+        "head": "Ti2Nb2O9 nanosheets",
+        "relation": "isUsedFor",
+        "tail": "enhancing storage capacity and stability"
+      },
+      {
+        "head": "manganese/nickel oxides",
+        "relation": "isUsedFor",
+        "tail": "enhancing storage capacity and stability"
+      },
+      {
+        "head": "nanowires",
+        "relation": "isUsedFor",
+        "tail": "boosting photovoltaic efficiency"
+      },
+      {
+        "head": "nanowires",
+        "relation": "isUsedFor",
+        "tail": "boosting catalytic performance"
+      },
+      {
+        "head": "core–shell structures",
+        "relation": "isUsedFor",
+        "tail": "boosting photovoltaic efficiency"
+      },
+      {
+        "head": "core–shell structures",
+        "relation": "isUsedFor",
+        "tail": "boosting catalytic performance"
+      },
+      {
+        "head": "quantum dots",
+        "relation": "isUsedFor",
+        "tail": "imaging"
+      },
+      {
+        "head": "biomarker-detecting nanosensors",
+        "relation": "isUsedFor",
+        "tail": "detecting biomarkers"
+      },
+      {
+        "head": "silver nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "wound healing"
+      },
+      {
+        "head": "green synthesis methods",
+        "relation": "isUsedFor",
+        "tail": "sustainable medical applications"
+      },
+      {
+        "head": "nanophotonic devices",
+        "relation": "isUsedFor",
+        "tail": "signal integrity"
+      },
+      {
+        "head": "nanoscale transistors",
+        "relation": "isUsedFor",
+        "tail": "signal integrity"
+      },
+      {
+        "head": "graphene-based coatings",
+        "relation": "isUsedFor",
+        "tail": "signal integrity"
+      },
+      {
+        "head": "nanosilica",
+        "relation": "isUsedFor",
+        "tail": "improving strength"
+      },
+      {
+        "head": "nanosilica",
+        "relation": "isUsedFor",
+        "tail": "improving moisture resistance"
+      },
+      {
+        "head": "nanosilica",
+        "relation": "isUsedFor",
+        "tail": "improving energy efficiency"
+      },
+      {
+        "head": "CNTs",
+        "relation": "isUsedFor",
+        "tail": "improving strength"
+      },
+      {
+        "head": "CNTs",
+        "relation": "isUsedFor",
+        "tail": "improving moisture resistance"
+      },
+      {
+        "head": "CNTs",
+        "relation": "isUsedFor",
+        "tail": "improving energy efficiency"
+      },
+      {
+        "head": "self-healing materials",
+        "relation": "isUsedFor",
+        "tail": "improving strength"
+      },
+      {
+        "head": "self-healing materials",
+        "relation": "isUsedFor",
+        "tail": "improving moisture resistance"
+      },
+      {
+        "head": "self-healing materials",
+        "relation": "isUsedFor",
+        "tail": "improving energy efficiency"
+      },
+      {
+        "entity": "MoS2 doped with rare earth elements",
+        "attribute": "electricalConductivity",
+        "value": "improved electrical performance"
+      }
+    ],
+    [
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "aerospace sectors"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "automotive sectors"
+      },
+      {
+        "head": "nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "marine corrosion resistance"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "powerful catalysts"
+      },
+      {
+        "head": "zinc oxide nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "sunscreen"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "carbon nanotubes",
+        "relation": "isPartOf",
+        "tail": "transistors"
+      },
+      {
+        "head": "graphene",
+        "relation": "isPartOf",
+        "tail": "transistors"
+      },
+      {
+        "head": "nanostructured electrodes",
+        "relation": "isPartOf",
+        "tail": "lithium-ion batteries"
+      },
+      {
+        "head": "nanofilters",
+        "relation": "isUsedFor",
+        "tail": "water purification"
+      },
+      {
+        "head": "sensors",
+        "relation": "isUsedFor",
+        "tail": "pollution monitoring"
+      },
+      {
+        "head": "nanoremediation",
+        "relation": "isUsedFor",
+        "tail": "contaminated site cleanup"
+      },
+      {
+        "head": "UV protective fabrics",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "antimicrobial coatings",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanomedicine",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "cancer treatment"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "cosmetics"
+      },
+      {
+        "entity": "nanocomposites",
+        "attribute": "corrosionResistance",
+        "value": "improved"
+      },
+      {
+        "entity": "nanocomposites",
+        "attribute": "tensileStrength",
+        "value": "enhanced"
+      }
+    ],
+    [
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isMadeOf",
+        "tail": "polymer matrix"
+      },
+      {
+        "head": "melt blending",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "solution mixing",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "in situ polymerization",
+        "relation": "isUsedFor",
+        "tail": "polymer nanocomposites"
+      },
+      {
+        "head": "nanobots",
+        "relation": "isUsedFor",
+        "tail": "targeted drug delivery"
+      },
+      {
+        "head": "nanobots",
+        "relation": "isUsedFor",
+        "tail": "personalized medicine"
+      },
+      {
+        "head": "nanobots",
+        "relation": "isUsedFor",
+        "tail": "complex disease treatment"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "quantum computing"
+      },
+      {
+        "head": "quantum dots",
+        "relation": "isUsedFor",
+        "tail": "quantum computing"
+      },
+      {
+        "head": "nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "advanced energy storage systems"
+      },
+      {
+        "head": "nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "renewable energy technologies"
+      },
+      {
+        "head": "nanopesticides",
+        "relation": "isUsedFor",
+        "tail": "smart farming practices"
+      },
+      {
+        "head": "nanofertilizers",
+        "relation": "isUsedFor",
+        "tail": "smart farming practices"
+      },
+      {
+        "head": "monitoring systems",
+        "relation": "isPartOf",
+        "tail": "smart farming practices"
+      },
+      {
+        "head": "3D printing techniques",
+        "relation": "isUsedFor",
+        "tail": "customized structures"
+      },
+      {
+        "head": "lightweight materials",
+        "relation": "isUsedFor",
+        "tail": "aerospace applications"
+      },
+      {
+        "head": "lightweight materials",
+        "relation": "isUsedFor",
+        "tail": "automotive applications"
+      },
+      {
+        "head": "nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "cleaner environments"
+      },
+      {
+        "head": "nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "eco-friendly products"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "water purification"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "waste management"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "biodegradable materials"
+      },
+      {
+        "head": "rapid diagnostic tools",
+        "relation": "isUsedFor",
+        "tail": "remote healthcare"
+      },
+      {
+        "head": "wearable devices",
+        "relation": "isUsedFor",
+        "tail": "remote healthcare"
+      },
+      {
+        "head": "nanoscale biosensors",
+        "relation": "isUsedFor",
+        "tail": "early disease detection"
+      },
+      {
+        "head": "nanoscale biosensors",
+        "relation": "isUsedFor",
+        "tail": "personalized medicine"
+      },
+      {
+        "head": "lightweight materials",
+        "relation": "isUsedFor",
+        "tail": "spacecraft"
+      },
+      {
+        "head": "sensors",
+        "relation": "isPartOf",
+        "tail": "space missions"
+      },
+      {
+        "entity": "polymer nanocomposites",
+        "attribute": "thermalConductivity",
+        "value": "compromised"
+      },
+      {
+        "entity": "polymer nanocomposites",
+        "attribute": "tensileStrength",
+        "value": "compromised"
+      }
+    ],
+    [
+      {
+        "head": "pressing-and-folding method",
+        "relation": "isUsedFor",
+        "tail": "dispersion"
+      },
+      {
+        "head": "pressing-and-folding method",
+        "relation": "isUsedFor",
+        "tail": "industrial applications"
+      },
+      {
+        "head": "bead milling techniques",
+        "relation": "isUsedFor",
+        "tail": "optimizing nanoparticle dispersion"
+      },
+      {
+        "head": "surface modification strategies",
+        "relation": "isUsedFor",
+        "tail": "enhancing nanoparticle dispersibility"
+      },
+      {
+        "head": "poly 2-vinylpyridine (P2VP)",
+        "relation": "isUsedFor",
+        "tail": "adsorbing onto silica nanoparticles"
+      },
+      {
+        "head": "small beads (15-30 µm)",
+        "relation": "isUsedFor",
+        "tail": "achieving complete nanoparticle dispersion"
+      },
+      {
+        "head": "polymer films",
+        "relation": "isPartOf",
+        "tail": "pressing-and-folding method"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isPartOf",
+        "tail": "pressing-and-folding method"
+      },
+      {
+        "entity": "silica nanoparticles",
+        "attribute": "shape",
+        "value": "hairy particles"
+      }
+    ],
+    [
+      {
+        "entity": "nanocomposite packaging material",
+        "attribute": "tensileStrength",
+        "value": "strong"
+      },
+      {
+        "entity": "nanocomposite packaging material",
+        "attribute": "ductility",
+        "value": "flexible"
+      },
+      {
+        "entity": "nanoparticles",
+        "attribute": "electricalConductivity",
+        "value": "high"
+      },
+      {
+        "entity": "nanoparticles",
+        "attribute": "thermalConductivity",
+        "value": "high"
+      },
+      {
+        "head": "in situ polymerization",
+        "relation": "isAKindOf",
+        "tail": "production method"
+      },
+      {
+        "head": "sol-gel processes",
+        "relation": "isAKindOf",
+        "tail": "production method"
+      },
+      {
+        "head": "melt compounding",
+        "relation": "isAKindOf",
+        "tail": "manufacturing technique"
+      },
+      {
+        "head": "solution casting",
+        "relation": "isAKindOf",
+        "tail": "manufacturing technique"
+      },
+      {
+        "head": "electrospinning",
+        "relation": "isAKindOf",
+        "tail": "manufacturing technique"
+      },
+      {
+        "head": "nanoparticles",
+        "relation": "isPartOf",
+        "tail": "nanocomposite packaging material"
+      },
+      {
+        "head": "nanoglues",
+        "relation": "isMadeOf",
+        "tail": "nanoparticles"
+      },
+      {
+        "head": "nanoglues",
+        "relation": "isAKindOf",
+        "tail": "optoelectronics component"
+      },
+      {
+        "head": "titanium nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "UV protection"
+      },
+      {
+        "head": "titanium nanoparticles",
+        "relation": "isUsedFor",
+        "tail": "heart monitoring"
+      },
+      {
+        "head": "sonication",
+        "relation": "isUsedFor",
+        "tail": "nanoparticle dispersion"
+      },
+      {
+        "head": "surface functionalization",
+        "relation": "isUsedFor",
+        "tail": "nanoparticle dispersion"
+      },
+      {
+        "head": "stabilizers",
+        "relation": "isUsedFor",
+        "tail": "nanoparticle dispersion"
+      }
+    ],
+    [
+      {
+        "head": "carbon fiber composites",
+        "relation": "isAKindOf",
+        "tail": "composite materials"
+      },
+      {
+        "entity": "carbon fiber composites",
+        "attribute": "tensileStrength",
+        "value": "interlaminar"
+      },
+      {
+        "head": "antimony",
+        "relation": "isPartOf",
+        "tail": "macroporous carbon"
+      },
+      {
+        "head": "macroporous carbon",
+        "relation": "isPartOf",
+        "tail": "sodium-ion batteries"
+      },
+      {
+        "entity": "macroporous carbon",
+        "attribute": "shape",
+        "value": "macroporous"
+      },
+      {
+        "head": "hollow carbon nanowires",
+        "relation": "isUsedFor",
+        "tail": "battery applications"
+      }
+    ],
+    [
+      {
+        "head": "manganese oxide/iron oxide/polyaniline composite catalyst",
+        "relation": "isUsedFor",
+        "tail": "oxygen evolution reaction"
+      },
+      {
+        "head": "alumina- and scandia-doped zirconia electrolyte",
+        "relation": "isUsedFor",
+        "tail": "solid oxide fuel cell applications"
+      },
+      {
+        "head": "super-capacitors",
+        "relation": "isUsedFor",
+        "tail": "flexible electronic devices"
+      },
+      {
+        "head": "fiber-shaped batteries",
+        "relation": "isUsedFor",
+        "tail": "flexible electronic devices"
+      },
+      {
+        "head": "Super-Hydrophobic PAN Nanofibers",
+        "relation": "isUsedFor",
+        "tail": "Cathodic Water Management"
+      },
+      {
+        "head": "sports clothing and flooring",
+        "relation": "isUsedFor",
+        "tail": "enhanced sports activities, performance, efficiency, and comfort"
+      },
+      {
+        "head": "nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "biomedical soft robots"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "structure and construction applications"
+      },
+      {
+        "head": "conducting polymer nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "multifunctional applications"
+      },
+      {
+        "head": "Ionic Liquid-Based Polymer Nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "Sensors"
+      },
+      {
+        "head": "Ionic Liquid-Based Polymer Nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "Energy"
+      },
+      {
+        "head": "Ionic Liquid-Based Polymer Nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "Biomedicine"
+      },
+      {
+        "head": "Ionic Liquid-Based Polymer Nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "Environmental Applications"
+      },
+      {
+        "head": "nanocomposites from biorenewable resources",
+        "relation": "isUsedFor",
+        "tail": "advanced applications"
+      },
+      {
+        "head": "polymer-based nanocomposites",
+        "relation": "isUsedFor",
+        "tail": "advanced engineering applications"
+      },
+      {
+        "head": "manufactured nanomaterials",
+        "relation": "isUsedFor",
+        "tail": "biomedicine applications"
+      },
+      {
+        "head": "polymer nanocomposite films",
+        "relation": "isDependentOn",
+        "tail": "adsorbed polymers"
+      },
+      {
+        "head": "polymer nanocomposites",
+        "relation": "isDependentOn",
+        "tail": "casting solvent"
+      },
+      {
+        "entity": "Monolayer MoS2 with Sm Doping",
+        "attribute": "electricalConductivity",
+        "value": "enhanced"
+      }
+    ],
+    null
+  ]
+}
