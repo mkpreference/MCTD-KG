@@ -81,7 +81,16 @@ MCTD-KG/
 
 ---
 
-## MCTD-QA Benchmark
+## IE Dataset
+
+The Information Extraction dataset (`IE_dataset/`) provides 100 and 200 annotated material science paragraphs for evaluating LLM-based triple extraction:
+
+- **Relations**: Entity-relation-entity triples (`head`, `relation`, `tail`)
+- **Attributes**: Entity-attribute-value triples (`entity`, `attribute`, `value`)
+- **Evaluation**: Multiple prompting strategies benchmarked with batch processing
+
+---
+## QA Dataset
 
 The QA dataset (`QA-dataset/qa_dataset.json`) contains ternary questions across 12 material domains. Each question is annotated with:
 
@@ -104,17 +113,6 @@ The QA dataset (`QA-dataset/qa_dataset.json`) contains ternary questions across 
 - **3-hop**: Complex multi-step reasoning across domains
 
 ---
-
-## IE Dataset
-
-The Information Extraction dataset (`IE_dataset/`) provides 100 and 200 annotated material science paragraphs for evaluating LLM-based triple extraction:
-
-- **Relations**: Entity-relation-entity triples (`head`, `relation`, `tail`)
-- **Attributes**: Entity-attribute-value triples (`entity`, `attribute`, `value`)
-- **Evaluation**: Multiple prompting strategies benchmarked with batch processing
-
----
-
 ## Installation
 
 ### 1. Clone and install dependencies
@@ -156,29 +154,6 @@ bash download_bge_m3.sh
 
 ## Usage
 
-### Knowledge Graph Construction
-
-```bash
-# Step 1: Parse PDFs to markdown and chunk
-cd Knowledge_Extraction/literature
-python pdf_parse.py
-
-# Step 2: Extract triples from literature chunks
-cd extract
-python extract_lit.py
-
-# Step 3: Extract triples from toolbook
-cd ../../toolbook
-python batch_manage.py
-
-# Step 4: Merge KGs with entity linking
-cd ../kg_merge
-python entity_linking.py
-
-# Step 5: Import to Neo4j
-python add_neo4j.py
-```
-
 ### QA Evaluation
 
 ```bash
@@ -212,11 +187,6 @@ Combines three retrieval strategies:
 Two-stage entity alignment:
 - **Stage 1**: `rapidfuzz` fuzzy matching to identify candidate synonym pairs
 - **Stage 2**: LLM-based semantic verification to confirm or reject merges, with detailed reasoning logs
-
-### PDF Parsing (`pdf_parse.py`)
-
-Extracts text blocks from PDFs via PyMuPDF, cleans artifacts (page numbers, headers), and chunks by word count for LLM ingestion.
-
 ---
 
 ## Results Summary
@@ -251,20 +221,6 @@ isSimilarTo •  isComplementaryTo •  isDependOn •  isAlternativeTo
 
 ## Citation
 
-If you use MCTD-KG in your research, please cite the corresponding paper:
-
-```bibtex
-@article{mctd-kg,
-  title   = {Towards Building a Multi-source Heterogeneous Knowledge Graph
-             for Complex Material Question Answering},
-  author  = {Peize Li and others},
-  journal = {},
-  year    = {2025}
-}
-```
-
+If you use MCTD-KG in your research, please cite the corresponding paper
 ---
 
-## License
-
-This project is licensed under the MIT License.
